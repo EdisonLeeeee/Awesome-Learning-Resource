@@ -1,10 +1,33 @@
-[toc]
-# 前言
-这篇博客主要是用于汇总自己平时收集的一些学习网站、资源以及学习资料等，便于查看整理，并会不断更新 :P 
+
+# Table of Content
+
+- [前言](#1)
+- [学习网站 💻](#2)
+- [Python 学习 🐍](#3)
+- [Python 爬虫 🕷](#4)
+- [算法 💡](#5)
+- [机器学习 深度学习 数据挖掘 🤖](#6)
+- [Graph Neural Network 🗺](#7)
+- [Generative Adversarial Networks (GANs) 🤜 🤛](#8)
+- [TensorFlow 学习 🇹🇫](#9)
+- [PyTorch 学习 🇵🇹](#10)
+- [课程学习资源👨‍🎓](#11)
+- [Git 👬](#12)
+- [英语学习 🗣](#13)
+- [GitHub 👬](#14)
+- [论文辅助工具 📄](#15)
+- [下载资源 📥](#16)
+- [其他 ❓](#17)
+- [更新时间 🕰 ：2019/7/18](#18)
+
+
+<h1 id ="1">前言</h1>
+主要是用于汇总自己平时收集的一些学习网站、资源以及学习资料等，便于查看整理，并会不断更新 :P 
 
 
 
-# 学习网站 💻
+<h1 id="2">学习网站 💻</h1>
+
 + [网易云课堂](https://study.163.com/)：上面有许多不错的网课，并且经常有一些直播，不过一些精品课程需要收费
 + [中国大学慕课](https://www.icourse163.org/)：类似网易云课堂，收看网课
 + [菜鸟教程](https://www.runoob.com/)：上面有许多教程，涵盖各类编程语言、开发工具等
@@ -25,7 +48,8 @@
 
 
 
-# Python 学习 🐍
+<h1 id ="3">Python 学习 🐍</h1>
+
 + [The Python Tutorial](https://docs.python.org/3/tutorial/index.html)：Python官方文档（英文），官方文档无疑是最好学习Python的参考书
 + [Python 教程](https://docs.python.org/zh-cn/3/tutorial/index.html)：Python官方文档（中文），适用于英文不好的人
 + [The Hitchhiker’s Guide to Python](https://docs.python-guide.org/)：Python漫游指南（英文版），讲解了如何正确使用Python，是一本极佳的讲解Python实践的教程书。[GitHub](https://github.com/realpython/python-guide)上收获了十分多的:star:
@@ -56,7 +80,8 @@
 
 
 
-# Python 爬虫 🕷
+<h1 id ="4">Python 爬虫 🕷</h1>
+
 + [Python爬虫](https://47.107.129.107/%E7%88%AC%E8%99%AB/)：一份十五天学会Python爬虫的教程
 + [Python2爬虫学习系列教程](https://cuiqingcai.com/1052.html)：一份详尽的爬虫教程博客，涵盖入门、实战、进阶
 + [Awesome Spider](https://github.com/facert/awesome-spider)：GitHub上:star:八千多的项目，收集了各种爬虫的Python实现代码
@@ -67,7 +92,8 @@
 
 
 
-# 算法 💡
+<h1 id ="5">算法 💡</h1>
+
 + [Algorithm Python](https://github.com/TheAlgorithms/Python)：GitHub上:star:五万的项目，使用Python实现了所有算法
 + [Leet Code Animation](https://github.com/MisterBooo/LeetCodeAnimation)：GitHub上:star:三万多的中文项目，用动画的形式呈现解LeetCode题目的思路
 + [Leet Code 题解](https://github.com/azl397985856/leetcode)：GitHub上:star:一万多的中文项目，记录了LeetCode上大多数题目的题解
@@ -87,7 +113,8 @@
 
 
 
-# 机器学习 深度学习 数据挖掘 🤖
+<h1 id ="6">机器学习 深度学习 数据挖掘 🤖</h1>
+
 + [Numpy Machine Learning](https://github.com/ddbourgin/numpy-ml)：普林斯顿博士后 David Bourgin 最近在GitHub上开源的一个非常剽悍的项目，用 NumPy 手写所有主流 ML 模型，超过 3 万行代码、30 多个模型
 + [机器学习原理](https://github.com/shunliz/Machine-Learning)：GitHbu上:star:五百多的小项目，内容都是网上扒来的，前半部分关注数学基础，机器学习和深度学习的理论部分，详尽的公式推导。后半部分关注工程实践和理论应用部分
 + [机器学习原理笔记整理](https://shunliz.gitbooks.io/machine-learning/content/)：机器学习原理项目笔记
@@ -127,7 +154,8 @@
 
 
 
-# Graph Neural Network 🗺
+<h1 id ="7">Graph Neural Network 🗺</h1>
+
 + [A Gentle Introduction to Graph Neural Networks (Basics, DeepWalk, and GraphSage)](https://towardsdatascience.com/a-gentle-introduction-to-graph-neural-network-basics-deepwalk-and-graphsage-db5d540d50b3)：介绍了图神经网络的概念及其最新进展的博客
 + [Innovations in Graph Representation Learning ](https://ai.googleblog.com/2019/06/innovations-in-graph-representation.html)：Google图挖掘团队的两位高级科学家Alessandro Epasto和Bryan Perozzi在Google AI Blog上发表的《Innovations in Graph Representation Learning》，介绍了最新的一些图表示学习成果。
 ![在这里插入图片描述](https://img-blog.csdnimg.cn/20190710153455356.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L0VkaXNvbmxlZWVl,size_16,color_FFFFFF,t_70)
@@ -144,7 +172,8 @@
 
 
 
-# Generative Adversarial Networks (GANs) 🤜 🤛
+<h1 id ="8">Generative Adversarial Networks (GANs) 🤜 🤛</h1>
+
 + [Generative Adversarial Networks](https://channel9.msdn.com/Events/Neural-Information-Processing-Systems-Conference/Neural-Information-Processing-Systems-Conference-NIPS-2016/Generative-Adversarial-Networks)：Ian Goodfellow2016年的GAN演讲视频
 + [Adversarial Nets Papers](https://github.com/zhangqianhui/AdversarialNetsPapers)：GitHub上一个:star:四千多的项目，收录了生成对抗网络(GAN)诞生至今的论文和代码
 + [The GAN Zoo](https://github.com/hindupuravinash/the-gan-zoo)：GitHub上一个:star:五千多的项目，收录了GAN诞生至今所有GAN变体论文
@@ -157,7 +186,8 @@
 
 
 
-# TensorFlow 学习 🇹🇫
+<h1 id ="9">TensorFlow 学习 🇹🇫</h1>
+
 + [TensorFlow 官方文档](https://github.com/jikexueyuanwiki/tensorflow-zh)：TensorFlow 官方文档中文版
 + [TensorFlow Tutorials](https://www.tensorflow.org/tutorials)：TensorFlow官方英文教程文档
 + [TensorFlow Course](https://github.com/machinelearningmindset/TensorFlow-Course#why-use-tensorflow)：GitHub上:star:一万多的TensorFlow教程，教程、代码、笔记应有尽有
@@ -173,7 +203,8 @@
 
 
 
-# PyTorch 学习 🇵🇹
+<h1 id ="10">PyTorch 学习 🇵🇹</h1>
+
 + [PyTorch 中文文档](https://pytorch-cn.readthedocs.io/zh/latest/)：PyTorch是使用GPU和CPU优化的深度学习张量库，查看中文文档有助于学习这个火爆的机器学习框架
 + [PyTorch Tutorials](https://pytorch.org/tutorials/)：PyTorch 官方英文文档
 + [Awesome Pytorch list](https://github.com/bharathgs/Awesome-pytorch-list)：GitHub上一个:star:七千多的项目，收集了GitHub上PyTorch相关内容以及不同的模型实现、帮助文档、教程，使用PyTorch的学习
@@ -188,7 +219,8 @@
 
 
 
-# 课程学习资源👨‍🎓
+<h1 id ="11">课程学习资源👨‍🎓</h1>
+
 + [CS231n: Convolutional Neural Networks for Visual Recognition](http://cs231n.github.io/)：斯坦福CS课程CS231：卷积网络视觉识别笔记
 + [计算机科学速成课](https://github.com/1c7/crash-course-computer-science-chinese)：翻译自[Youtube](https://www.youtube.com/playlist?list=PL8dPuuaLjXtNlUrzyH5r6jN9ulIgZBpdo)上的计算机科学速成课，可在B站上观看中文版（带中英字幕）
 ![在这里插入图片描述](https://img-blog.csdnimg.cn/20190704161140917.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L0VkaXNvbmxlZWVl,size_16,color_FFFFFF,t_70)
@@ -210,7 +242,8 @@
 
 
 
-# Git 👬
+<h1 id ="12">Git 👬</h1>
+
 + [Learn Git Branching](https://learngitbranching.js.org/)：一个用于学习 Git 的交互式学习网站，[GitHub](https://github.com/pcottle/learnGitBranching)上收获了:star:一万多
 + ![在这里插入图片描述](https://img-blog.csdnimg.cn/20190703162830305.gif)
 + [Git](https://git-scm.com/)：Git官方教程
@@ -222,7 +255,8 @@
 
 
 
-# 英语学习 🗣
+<h1 id ="13">英语学习 🗣</h1>
+
 + [Everyone Can Use English](https://github.com/xiaolai/everyone-can-use-english)：Github上一个:star:三千多的英语学习项目，力图使得人人都能用英语
 ![在这里插入图片描述](https://img-blog.csdnimg.cn/20190705144100566.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L0VkaXNvbmxlZWVl,size_16,color_FFFFFF,t_70)
 + [A Programmers Guide to English](https://github.com/yujiangshui/A-Programmers-Guide-to-English)：GitHub上一个:star:七千多的英语学习项目，专为程序员编写的英语学习指南。[在线版本](https://a-programmers-guide-to-english.harryyu.me/)
@@ -236,7 +270,8 @@
 
 
 
-# GitHub 👬
+<h1 id ="14">GitHub 👬</h1>
+
 + [HelloHithub](https://www.hellogithub.com/)：分享GitHub上有趣，入门级的开源项目
 ![在这里插入图片描述](https://img-blog.csdnimg.cn/201907031713231.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L0VkaXNvbmxlZWVl,size_16,color_FFFFFF,t_70)
 + [GitHubDaily ](https://github.com/GitHubDaily/GitHubDaily)：每日不定时推送一批 GitHub 上优秀的开源项目给开发者, 帮助开发者们发现当下最火的开源项目
@@ -247,7 +282,8 @@
 
 
 
-# 论文辅助工具 📄
+<h1 id ="15">论文辅助工具 📄</h1>
+
 + [易搜搭](http://www.esoda.org/)：专业英文论文写作助手，只需要输入你想表达的中文句子，该网站会检索各种论文找出相似英文表达，使你的英文论文写作不再生硬
 + [Conference List](http://www.conferencelist.info/upcoming.html)：计算机各领域会议的时间表
 ![在这里插入图片描述](https://img-blog.csdnimg.cn/20190704142318644.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L0VkaXNvbmxlZWVl,size_16,color_FFFFFF,t_70)
@@ -262,7 +298,8 @@
 
 
 
-# 下载资源 📥
+<h1 id ="16">下载资源 📥</h1>
+
 + [MSDN](https://msdn.itellyou.cn/)：十分齐全、靠谱的Windows系统、软件资源下载网站
 ![在这里插入图片描述](https://img-blog.csdnimg.cn/20190703183010921.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L0VkaXNvbmxlZWVl,size_16,color_FFFFFF,t_70)
 + [N软网](https://www.nruan.com/)：提供互联网前沿资讯及软件下载
@@ -274,7 +311,8 @@
 
 
 
-# 其他 ❓
+<h1 id ="17">其他 ❓</h1>
+
 + [Web学习笔记](https://github.com/qianguyihao/Web)：GitHub上:star:五千多的项目，超详细的Web前端学习图文教程
 + [Let's Build A Simple Interpreter](https://ruslanspivak.com/lsbasi-part1/)：加拿大工程师[Ruslan Spivak](https://ruslanspivak.com/pages/about/)写的如何利用Python自己写一个编译器文章的博客，适合用于学习编译原理。[GitHub代码](https://github.com/rspivak/lsbasi)
 >“如果你不知道编译器是如何工作的，那么你就不知道计算机是如何工作的。 如果你不是100％确定你是否知道编译器是如何工作的，那么你就不知道它们是如何工作的。“ - Steve Yegge 
@@ -290,4 +328,4 @@
 
 
 
-# 更新时间 🕰 ：2019/7/18
+<h1 id ="18">更新时间 🕰 ：2019/7/18</h1>
