@@ -152,7 +152,7 @@
     + 光谱和统计指纹
     + 深度学习
     + 图形内核
-
++ [Graph-based deep learning literature](https://github.com/naganandy/graph-based-deep-learning-literature)： GitHub上的一个项目，作者整理了包含近期基于图的深度学习会议论文
 
 
 
@@ -279,6 +279,14 @@
 ![在这里插入图片描述](https://img-blog.csdnimg.cn/20190721104809993.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L0VkaXNvbmxlZWVl,size_16,color_FFFFFF,t_70)
 + [Matplotlib Gallery](https://matplotlib.org/gallery.html#lines_bars_and_markers)：一个Matplotlib图表库网站，里面有各式各样好看的图表及Python实现代码，可以帮你画出更好的图表以及快速上手学习Python中的Matplotlib库
 ![在这里插入图片描述](https://img-blog.csdnimg.cn/20190704135920893.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L0VkaXNvbmxlZWVl,size_16,color_FFFFFF,t_70)
++ [ECharts Gallery](https://gallery.echartsjs.com/explore.html#sort=rank~timeframe=all~author=all)：由百度开源的数据可视化工具，基于JavaScript编写，一个强大的，交互式的图表和浏览器可视化库，凭借着良好的交互性，精巧的图表设计，得到了众多开发者的认可。
+![在这里插入图片描述](https://img-blog.csdnimg.cn/20190721152010812.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L0VkaXNvbmxlZWVl,size_16,color_FFFFFF,t_70)
++ [PyCharts](https://pyecharts.org/#/)：Echarts 是一个由百度开源的数据可视化，凭借着良好的交互性，精巧的图表设计，得到了众多开发者的认可。而 Python 是一门富有表达力的语言，很适合用于数据处理。当数据分析遇上数据可视化时，pyecharts 诞生了。简而言之，这是一个类似Matplotlib，可以利用Python画图的工具库
+![在这里插入图片描述](https://img-blog.csdnimg.cn/20190721152351310.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L0VkaXNvbmxlZWVl,size_16,color_FFFFFF,t_70)
++ [Draw Convnet](https://github.com/gwding/draw_convnet)：画卷积神经网络(ConvNet)结构图的Python脚本
+![在这里插入图片描述](https://img-blog.csdnimg.cn/20190721153437160.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L0VkaXNvbmxlZWVl,size_16,color_FFFFFF,t_70)
++ [ConvNet Drawer](https://github.com/yu4u/convnet-drawer)：描述卷积神经网络(CNN)结构的Python脚本。灵感来自上述的Draw Convne项目。
+![在这里插入图片描述](https://img-blog.csdnimg.cn/20190721153623322.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L0VkaXNvbmxlZWVl,size_16,color_FFFFFF,t_70)
 
 
 # 论文辅助工具 📄
@@ -306,6 +314,9 @@
 
 # 其他 ❓
 
++ [Design patterns for humans](https://github.com/guanguans/design-patterns-for-humans-cn)：一份超全的设计模式讲解（共 23 种），每一种设计模式解释都通俗易懂（中文版）
+英文原版:https://github.com/kamranahmedse/design-patterns-for-humans，GitHub上获:star:两万五
+![在这里插入图片描述](https://img-blog.csdnimg.cn/20190721152918674.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L0VkaXNvbmxlZWVl,size_16,color_FFFFFF,t_70)
 + [Web学习笔记](https://github.com/qianguyihao/Web)：GitHub上:star:五千多的项目，超详细的Web前端学习图文教程
 + [Let's Build A Simple Interpreter](https://ruslanspivak.com/lsbasi-part1/)：加拿大工程师[Ruslan Spivak](https://ruslanspivak.com/pages/about/)写的如何利用Python自己写一个编译器文章的博客，适合用于学习编译原理。[GitHub代码](https://github.com/rspivak/lsbasi)
 >“如果你不知道编译器是如何工作的，那么你就不知道计算机是如何工作的。 如果你不是100％确定你是否知道编译器是如何工作的，那么你就不知道它们是如何工作的。“ - Steve Yegge 
@@ -318,7 +329,8 @@
 ![在这里插入图片描述](https://img-blog.csdnimg.cn/2019070414073572.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L0VkaXNvbmxlZWVl,size_16,color_FFFFFF,t_70)
 + [Greasy Fork](https://greasyfork.org/zh-CN): 一个提供用户脚本的网站，浏览器安装好 TemperMonkey 后，使用这些脚本上网简直不要爽到飞起
 ![在这里插入图片描述](https://img-blog.csdnimg.cn/20190705123730528.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L0VkaXNvbmxlZWVl,size_16,color_FFFFFF,t_70)
-
++ [remove.bg](https://www.remove.bg/)：一个可以在线免费消除图片背景的网站，并且提供API供批量处理图片使用（收费），简单方便（只需几秒钟，但效果强大
+![在这里插入图片描述](https://img-blog.csdnimg.cn/20190721152738295.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L0VkaXNvbmxlZWVl,size_16,color_FFFFFF,t_70)
 
 
 # 更新时间 🕰 ：2019/7/21
