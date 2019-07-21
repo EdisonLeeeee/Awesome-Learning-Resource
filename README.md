@@ -60,7 +60,8 @@
 + [知乎：哪些Python库让你相见恨晚？](https://www.zhihu.com/question/24590883)：知乎上的一个问题，下面许多大佬介绍了各种各样的Python库，一方面方便Python的使用，另一方面通过这些库可以更好地学习Python
 + [Practical Business Python](https://pbpython.com/)：该网站旨在收集和传播关于如何在业务环境中更有效地使用python的想法，包括不少文章教程和代码。GitHub：https://github.com/chris1610/pbpython
 ![在这里插入图片描述](https://img-blog.csdnimg.cn/20190721105249761.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L0VkaXNvbmxlZWVl,size_16,color_FFFFFF,t_70)
-
++ [Python Cheatsheet](https://github.com/gto76/python-cheatsheet): 全面的Python备忘单，内含超全代码示例。基于Python 3.6打造，未来将会进一步丰富，添加Asyncio等内容。GitHub上获:star:4600。文本下载链接：https://raw.githubusercontent.com/gto76/python-cheatsheet/master/README.md
+![在这里插入图片描述](https://img-blog.csdnimg.cn/2019070809594736.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L0VkaXNvbmxlZWVl,size_16,color_FFFFFF,t_70)
 
 
 
@@ -122,8 +123,8 @@
 + [Baidu AI Studio](https://aistudio.baidu.com/aistudio/index)：百度的 AI 工作室，里面有各种机器学习数据集、文章、项目，可用作机器学习实践教程
 ![在这里插入图片描述](https://img-blog.csdnimg.cn/20190704140532637.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L0VkaXNvbmxlZWVl,size_16,color_FFFFFF,t_70)
 + [DS Cheatsheets](https://github.com/FavioVazquez/ds-cheatsheets)：GitHub上:star:五千多的项目，一份数据科学备忘单
-+ [Python Cheatsheet](https://github.com/gto76/python-cheatsheet): 全面的Python备忘单，内含超全代码示例。基于Python 3.6打造，未来将会进一步丰富，添加Asyncio等内容。GitHub上获:star:4600。文本下载链接：https://raw.githubusercontent.com/gto76/python-cheatsheet/master/README.md
-![在这里插入图片描述](https://img-blog.csdnimg.cn/2019070809594736.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L0VkaXNvbmxlZWVl,size_16,color_FFFFFF,t_70)
++ [Data Science Cheat Sheet](https://github.com/abhat222/Data-Science--Cheat-Sheet)：数据科学速查表，GitHub:star:八千多。内容几乎涵盖数据科学相关的所有领域，在理论应用方面包括大数据分析、数据挖掘、数据可视化、深度学习，机器学习等等；在编程语言与工具方面，包括Excel、SQL、Python、MATLAB、Linux；基础的学科知识包含统计学、数学、概率论。另外，就连面试问题都没放过。
+![在这里插入图片描述](https://img-blog.csdnimg.cn/20190721161329255.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L0VkaXNvbmxlZWVl,size_16,color_FFFFFF,t_70)
 + [StackSoft](http://www.statsoft.com/Textbook)：国外一个机器学习相关的博客网站，里面有各种常见的机器学习算法介绍
 ![在这里插入图片描述](https://img-blog.csdnimg.cn/20190704142019672.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L0VkaXNvbmxlZWVl,size_16,color_FFFFFF,t_70)
 + [NLP Tutorial](https://github.com/graykode/nlp-tutorial)：一个很赞NLP入门代码练习库（含Pytorch和Tensorflow版本） 
@@ -166,7 +167,7 @@
 + [Generative Adversarial Networks - The Story So Far](https://blog.floydhub.com/gans-story-so-far/)：Reddit 出现的一个归纳 GAN 发展脉络的博客，作者在博客中详细梳理了过去几年的 GAN 发展历程，包含众多 SOTA 论文及其代码和对应的学习资源。
 + [CycleGAN Tutorial](https://www.tensorflow.org/beta/tutorials/generative/cyclegan)：官方资源帖，手把手教你在TensorFlow 2.0中实现CycleGAN，这份教程全面详细，想学CycleGAN不能错过这个
 [GitHub地址](https://github.com/tensorflow/docs/blob/master/site/en/r2/tutorials/generative/cyclegan.ipynb)
-
++ [GAN-Overview-Chinese](https://github.com/Morde-kaiser/LearningNotes/blob/master/GAN-Overview-Chinese.pdf)：万字综述之生成对抗网络（GAN）PDF
 
 
 
@@ -185,7 +186,7 @@
 + [CS20SI - Tensorflow for Deep Learning Research](https://www.bilibili.com/video/av15898988/)：B站上搬运的斯坦福新开的TensorFlow课程
 + [TF Girls 修炼指南](https://space.bilibili.com/16696495/channel/detail?cid=1588)：B站上一个UP主的TensorFlow入门教程视频
 + [Awesome Tensorflow](https://github.com/jtoy/awesome-tensorflow)：TensorFlow中的教程和 ML 项目的集合，GitHub:star:一万四
-
++ [Tensorflow Cookbook](https://github.com/taki0112/Tensorflow-Cookbook)：这是一个易用的TensorFlow代码集，作者是来自韩国的AI研究科学家Junho Kim，内容涵盖了谱归一化卷积、部分卷积、pixel shuffle、几种归一化函数、tf-datasetAPI，等等
 
 
 
