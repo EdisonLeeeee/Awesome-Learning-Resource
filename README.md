@@ -137,8 +137,8 @@
 + [AI-神经网络基本原理简明教程](https://github.com/microsoft/ai-edu/tree/master/)：GitHub上微软人工智能教育与学习共建社区，微软Xiaowuhu根据自己亲身经历的学习轨迹，归纳出了以下教程，可以帮助小白做到真正的从入门到精通。通过以下循序渐进地学习与动手实践，一方面可以帮助读者深刻理解“深度学习”的基础知识，更好地理解并使用现有框架，另一方面可以助力读者快速学习最新出现的各种神经网络的扩展或者变型，跟上快速发展的AI浪潮。
 ![在这里插入图片描述](https://img-blog.csdnimg.cn/20190721102800741.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L0VkaXNvbmxlZWVl,size_16,color_FFFFFF,t_70)
 + [Awesome Knowledge Distillation](https://github.com/dkozlov/awesome-knowledge-distillation)：作为模型压缩的一种方法，知识蒸馏能够利用已经训练的一个较复杂的模型，来指导一个较轻量的模型训练，从而在减小模型大小和计算资源的同时，尽量保持原始大模型的准确率的方法。Github上的dkozlov同学，整理了Knowledge Distilling的paper、教程、代码，看完这些资料，你一定有所收获。
-
-
++ [统计学习方法](https://github.com/SmirkCao/Lihang)：李航的《统计学习方法》的详细笔记，以及各章节机器学习算法详细的 Python 代码。
+![在这里插入图片描述](https://img-blog.csdnimg.cn/20190721163217773.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L0VkaXNvbmxlZWVl,size_16,color_FFFFFF,t_70)
 
 
 # Graph Neural Network 🗺
