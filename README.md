@@ -1,32 +1,12 @@
-
-# Table of Content
-
-- [前言](#1)
-- [学习网站 💻](#2)
-- [Python 学习 🐍](#3)
-- [Python 爬虫 🕷](#4)
-- [算法 💡](#5)
-- [机器学习 深度学习 数据挖掘 🤖](#6)
-- [Graph Neural Network 🗺](#7)
-- [Generative Adversarial Networks (GANs) 🤜 🤛](#8)
-- [TensorFlow 学习 🇹🇫](#9)
-- [PyTorch 学习 🇵🇹](#10)
-- [课程学习资源👨‍🎓](#11)
-- [Git 👬](#12)
-- [英语学习 🗣](#13)
-- [GitHub 👬](#14)
-- [论文辅助工具 📄](#15)
-- [下载资源 📥](#16)
-- [其他 ❓](#17)
-- [更新时间 🕰 ：2019/7/18](#18)
+[toc]
 
 
-<h1 id ="1">前言</h1>
-主要是用于汇总自己平时收集的一些学习网站、资源以及学习资料等，便于查看整理，并会不断更新 :P 
+# 前言
+主要是用于汇总自己平时收集的一些学习网站、资源以及学习资料等，便于查看整理，并会不断更新 😋
 
 
 
-<h1 id="2">学习网站 💻</h1>
+# 学习网站 💻
 
 + [网易云课堂](https://study.163.com/)：上面有许多不错的网课，并且经常有一些直播，不过一些精品课程需要收费
 + [中国大学慕课](https://www.icourse163.org/)：类似网易云课堂，收看网课
@@ -45,10 +25,14 @@
 ![在这里插入图片描述](https://img-blog.csdnimg.cn/20190705124313211.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L0VkaXNvbmxlZWVl,size_16,color_FFFFFF,t_70)
 + [Regex101](https://regex101.com/)：一个在线正则表达式学习（转换）网站，还可以将你的正则表达式转换为各种语言的代码
 ![在这里插入图片描述](https://img-blog.csdnimg.cn/20190704135554222.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L0VkaXNvbmxlZWVl,size_16,color_FFFFFF,t_70)
++ [Brilliant | Math and science done right](https://brilliant.org)：可以边打游戏边学习，包含数学、物理、逻辑、计算机。
+![在这里插入图片描述](https://img-blog.csdnimg.cn/20190721104457950.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L0VkaXNvbmxlZWVl,size_16,color_FFFFFF,t_70)
++ [3Blue1Brown](https://space.bilibili.com/88461692)：深入浅出、直观明了地分享了数学之美。3Blue1Brown中国官方B站账号，用动画的形式生动讲解了微积分的本质，线性代数等数学原理。
+![在这里插入图片描述](https://img-blog.csdnimg.cn/20190721104602357.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L0VkaXNvbmxlZWVl,size_16,color_FFFFFF,t_70)
 
 
 
-<h1 id ="3">Python 学习 🐍</h1>
+# Python 学习 🐍
 
 + [The Python Tutorial](https://docs.python.org/3/tutorial/index.html)：Python官方文档（英文），官方文档无疑是最好学习Python的参考书
 + [Python 教程](https://docs.python.org/zh-cn/3/tutorial/index.html)：Python官方文档（中文），适用于英文不好的人
@@ -74,13 +58,13 @@
 ![在这里插入图片描述](https://img-blog.csdnimg.cn/20190703185004607.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L0VkaXNvbmxlZWVl,size_16,color_FFFFFF,t_70)
 + [Pandas 教程](https://github.com/hangsz/pandas-tutorial)：GitHub上一个:star:七百多的Pandas私人中文教程，适合初级到中级晋升者
 + [知乎：哪些Python库让你相见恨晚？](https://www.zhihu.com/question/24590883)：知乎上的一个问题，下面许多大佬介绍了各种各样的Python库，一方面方便Python的使用，另一方面通过这些库可以更好地学习Python
-+ [Matplotlib Gallery](https://matplotlib.org/gallery.html#lines_bars_and_markers)：一个Matplotlib图表库网站，里面有各式各样好看的图表及Python实现代码，可以帮你画出更好的图表以及快速上手学习Python中的Matplotlib库
-![在这里插入图片描述](https://img-blog.csdnimg.cn/20190704135920893.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L0VkaXNvbmxlZWVl,size_16,color_FFFFFF,t_70)
++ [Practical Business Python](https://pbpython.com/)：该网站旨在收集和传播关于如何在业务环境中更有效地使用python的想法，包括不少文章教程和代码。GitHub：https://github.com/chris1610/pbpython
+![在这里插入图片描述](https://img-blog.csdnimg.cn/20190721105249761.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L0VkaXNvbmxlZWVl,size_16,color_FFFFFF,t_70)
 
 
 
 
-<h1 id ="4">Python 爬虫 🕷</h1>
+# Python 爬虫 🕷
 
 + [Python爬虫](https://47.107.129.107/%E7%88%AC%E8%99%AB/)：一份十五天学会Python爬虫的教程
 + [Python2爬虫学习系列教程](https://cuiqingcai.com/1052.html)：一份详尽的爬虫教程博客，涵盖入门、实战、进阶
@@ -92,7 +76,7 @@
 
 
 
-<h1 id ="5">算法 💡</h1>
+# 算法 💡
 
 + [Algorithm Python](https://github.com/TheAlgorithms/Python)：GitHub上:star:五万的项目，使用Python实现了所有算法
 + [Leet Code Animation](https://github.com/MisterBooo/LeetCodeAnimation)：GitHub上:star:三万多的中文项目，用动画的形式呈现解LeetCode题目的思路
@@ -113,7 +97,7 @@
 
 
 
-<h1 id ="6">机器学习 深度学习 数据挖掘 🤖</h1>
+# 机器学习 深度学习 数据挖掘 🤖
 
 + [Numpy Machine Learning](https://github.com/ddbourgin/numpy-ml)：普林斯顿博士后 David Bourgin 最近在GitHub上开源的一个非常剽悍的项目，用 NumPy 手写所有主流 ML 模型，超过 3 万行代码、30 多个模型
 + [机器学习原理](https://github.com/shunliz/Machine-Learning)：GitHbu上:star:五百多的小项目，内容都是网上扒来的，前半部分关注数学基础，机器学习和深度学习的理论部分，详尽的公式推导。后半部分关注工程实践和理论应用部分
@@ -149,12 +133,14 @@
 + [Emotion-recognition ](https://github.com/omar178/Emotion-recognition)：使用 Keras 实现的实时表情识别项目
 + [ICME2019 Bytedance Grand Challenge](https://github.com/JiDong-CS/icme2019-bytedance-grand-challenge)：抖音短视频推荐大赛小规模赛道Top8模型代码
 + [Transformer Chatbot](https://medium.com/tensorflow/a-transformer-chatbot-tutorial-with-tensorflow-2-0-88bf59e66fe2)：【TensorFlow2.0】Transformer聊天机器人教程。GitHub地址：https://github.com/tensorflow/examples/blob/master/community/en/transformer_chatbot.ipynb
++ [AI-神经网络基本原理简明教程](https://github.com/microsoft/ai-edu/tree/master/)：GitHub上微软人工智能教育与学习共建社区，微软Xiaowuhu根据自己亲身经历的学习轨迹，归纳出了以下教程，可以帮助小白做到真正的从入门到精通。通过以下循序渐进地学习与动手实践，一方面可以帮助读者深刻理解“深度学习”的基础知识，更好地理解并使用现有框架，另一方面可以助力读者快速学习最新出现的各种神经网络的扩展或者变型，跟上快速发展的AI浪潮。
+![在这里插入图片描述](https://img-blog.csdnimg.cn/20190721102800741.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L0VkaXNvbmxlZWVl,size_16,color_FFFFFF,t_70)
++ [Awesome Knowledge Distillation](https://github.com/dkozlov/awesome-knowledge-distillation)：作为模型压缩的一种方法，知识蒸馏能够利用已经训练的一个较复杂的模型，来指导一个较轻量的模型训练，从而在减小模型大小和计算资源的同时，尽量保持原始大模型的准确率的方法。Github上的dkozlov同学，整理了Knowledge Distilling的paper、教程、代码，看完这些资料，你一定有所收获。
 
 
 
 
-
-<h1 id ="7">Graph Neural Network 🗺</h1>
+# Graph Neural Network 🗺
 
 + [A Gentle Introduction to Graph Neural Networks (Basics, DeepWalk, and GraphSage)](https://towardsdatascience.com/a-gentle-introduction-to-graph-neural-network-basics-deepwalk-and-graphsage-db5d540d50b3)：介绍了图神经网络的概念及其最新进展的博客
 + [Innovations in Graph Representation Learning ](https://ai.googleblog.com/2019/06/innovations-in-graph-representation.html)：Google图挖掘团队的两位高级科学家Alessandro Epasto和Bryan Perozzi在Google AI Blog上发表的《Innovations in Graph Representation Learning》，介绍了最新的一些图表示学习成果。
@@ -172,7 +158,7 @@
 
 
 
-<h1 id ="8">Generative Adversarial Networks (GANs) 🤜 🤛</h1>
+# Generative Adversarial Networks (GANs) 🤜 🤛
 
 + [Generative Adversarial Networks](https://channel9.msdn.com/Events/Neural-Information-Processing-Systems-Conference/Neural-Information-Processing-Systems-Conference-NIPS-2016/Generative-Adversarial-Networks)：Ian Goodfellow2016年的GAN演讲视频
 + [Adversarial Nets Papers](https://github.com/zhangqianhui/AdversarialNetsPapers)：GitHub上一个:star:四千多的项目，收录了生成对抗网络(GAN)诞生至今的论文和代码
@@ -186,7 +172,7 @@
 
 
 
-<h1 id ="9">TensorFlow 学习 🇹🇫</h1>
+# TensorFlow 学习 🇹🇫
 
 + [TensorFlow 官方文档](https://github.com/jikexueyuanwiki/tensorflow-zh)：TensorFlow 官方文档中文版
 + [TensorFlow Tutorials](https://www.tensorflow.org/tutorials)：TensorFlow官方英文教程文档
@@ -203,7 +189,7 @@
 
 
 
-<h1 id ="10">PyTorch 学习 🇵🇹</h1>
+# PyTorch 学习 🇵🇹
 
 + [PyTorch 中文文档](https://pytorch-cn.readthedocs.io/zh/latest/)：PyTorch是使用GPU和CPU优化的深度学习张量库，查看中文文档有助于学习这个火爆的机器学习框架
 + [PyTorch Tutorials](https://pytorch.org/tutorials/)：PyTorch 官方英文文档
@@ -219,7 +205,7 @@
 
 
 
-<h1 id ="11">课程学习资源👨‍🎓</h1>
+# 课程学习资源👨‍🎓
 
 + [CS231n: Convolutional Neural Networks for Visual Recognition](http://cs231n.github.io/)：斯坦福CS课程CS231：卷积网络视觉识别笔记
 + [计算机科学速成课](https://github.com/1c7/crash-course-computer-science-chinese)：翻译自[Youtube](https://www.youtube.com/playlist?list=PL8dPuuaLjXtNlUrzyH5r6jN9ulIgZBpdo)上的计算机科学速成课，可在B站上观看中文版（带中英字幕）
@@ -242,7 +228,7 @@
 
 
 
-<h1 id ="12">Git 👬</h1>
+# Git 👬
 
 + [Learn Git Branching](https://learngitbranching.js.org/)：一个用于学习 Git 的交互式学习网站，[GitHub](https://github.com/pcottle/learnGitBranching)上收获了:star:一万多
 + ![在这里插入图片描述](https://img-blog.csdnimg.cn/20190703162830305.gif)
@@ -255,7 +241,7 @@
 
 
 
-<h1 id ="13">英语学习 🗣</h1>
+# 英语学习 🗣
 
 + [Everyone Can Use English](https://github.com/xiaolai/everyone-can-use-english)：Github上一个:star:三千多的英语学习项目，力图使得人人都能用英语
 ![在这里插入图片描述](https://img-blog.csdnimg.cn/20190705144100566.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L0VkaXNvbmxlZWVl,size_16,color_FFFFFF,t_70)
@@ -270,7 +256,7 @@
 
 
 
-<h1 id ="14">GitHub 👬</h1>
+# GitHub 👬
 
 + [HelloHithub](https://www.hellogithub.com/)：分享GitHub上有趣，入门级的开源项目
 ![在这里插入图片描述](https://img-blog.csdnimg.cn/201907031713231.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L0VkaXNvbmxlZWVl,size_16,color_FFFFFF,t_70)
@@ -281,24 +267,30 @@
 + [GitHub Help](https://help.github.com/en)：GitHub官方英文帮助文档，由于中文文档是从英文文档翻译而来，可能有些内容不是最新，英语好的人应该看英文文档，才能实时获取最新内容
 
 
+# 可视化 👀
 
-<h1 id ="15">论文辅助工具 📄</h1>
-
-+ [易搜搭](http://www.esoda.org/)：专业英文论文写作助手，只需要输入你想表达的中文句子，该网站会检索各种论文找出相似英文表达，使你的英文论文写作不再生硬
-+ [Conference List](http://www.conferencelist.info/upcoming.html)：计算机各领域会议的时间表
-![在这里插入图片描述](https://img-blog.csdnimg.cn/20190704142318644.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L0VkaXNvbmxlZWVl,size_16,color_FFFFFF,t_70)
-+ [latex 代码转换器 - Mathpix](https://mathpix.com/)：如果你经常用 latex 编写文档，那你一定得安装下 Mathpix。这款工具能将带数学公式的截图一键转成 latex 代码，帮你省下很多时间，堪称神器！
-![在这里插入图片描述](https://img-blog.csdnimg.cn/20190705123134378.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L0VkaXNvbmxlZWVl,size_16,color_FFFFFF,t_70)
 + [Bokeh](https://github.com/bokeh/bokeh)：一份用 Python 做交互式图形的资源，官方介绍称，它能读取大型数据集或者流数据，以简单快速的方式为网页提供优美、高交互性能的图形。
 ![在这里插入图片描述](https://img-blog.csdnimg.cn/20190706163337779.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L0VkaXNvbmxlZWVl,size_16,color_FFFFFF,t_70)
 官方提供了一个通过Jupyter使用Bokeh的教程：[Bokeh Tutorial](https://gke.mybinder.org/v2/gh/bokeh/bokeh-notebooks/master?filepath=tutorial%2F00%20-%20Introduction%20and%20Setup.ipynb)以及[Quickstart](https://bokeh.pydata.org/en/latest/docs/user_guide/quickstart.html)
 官网地址如下：[Bokeh](https://bokeh.pydata.org/en/latest/)
 + [Scikit Plot](https://github.com/reiinakano/scikit-plot)：这是另一个机器学习的画图神器，几行代码就能画出高大上的机器学习图，作者当年的博士论文也是靠这个画图的
 ![在这里插入图片描述](https://img-blog.csdnimg.cn/20190710153835264.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L0VkaXNvbmxlZWVl,size_16,color_FFFFFF,t_70)
++ [Effectively Using Matplotlib](https://pbpython.com/effective-matplotlib.html)：如何高效使用 Python 可视化工具 Matplotlib。GitHub：https://github.com/chris1610/pbpython/blob/master/notebooks/Effectively-Using-Matplotlib.ipynb
+![在这里插入图片描述](https://img-blog.csdnimg.cn/20190721104809993.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L0VkaXNvbmxlZWVl,size_16,color_FFFFFF,t_70)
++ [Matplotlib Gallery](https://matplotlib.org/gallery.html#lines_bars_and_markers)：一个Matplotlib图表库网站，里面有各式各样好看的图表及Python实现代码，可以帮你画出更好的图表以及快速上手学习Python中的Matplotlib库
+![在这里插入图片描述](https://img-blog.csdnimg.cn/20190704135920893.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L0VkaXNvbmxlZWVl,size_16,color_FFFFFF,t_70)
 
 
+# 论文辅助工具 📄
 
-<h1 id ="16">下载资源 📥</h1>
++ [易搜搭](http://www.esoda.org/)：专业英文论文写作助手，只需要输入你想表达的中文句子，该网站会检索各种论文找出相似英文表达，使你的英文论文写作不再生硬
++ [Conference List](http://www.conferencelist.info/upcoming.html)：计算机各领域会议的时间表
+![在这里插入图片描述](https://img-blog.csdnimg.cn/20190704142318644.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L0VkaXNvbmxlZWVl,size_16,color_FFFFFF,t_70)
++ [latex 代码转换器 - Mathpix](https://mathpix.com/)：如果你经常用 latex 编写文档，那你一定得安装下 Mathpix。这款工具能将带数学公式的截图一键转成 latex 代码，帮你省下很多时间，堪称神器！
+![在这里插入图片描述](https://img-blog.csdnimg.cn/20190705123134378.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L0VkaXNvbmxlZWVl,size_16,color_FFFFFF,t_70)
+
+
+# 下载资源 📥
 
 + [MSDN](https://msdn.itellyou.cn/)：十分齐全、靠谱的Windows系统、软件资源下载网站
 ![在这里插入图片描述](https://img-blog.csdnimg.cn/20190703183010921.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L0VkaXNvbmxlZWVl,size_16,color_FFFFFF,t_70)
@@ -311,7 +303,8 @@
 
 
 
-<h1 id ="17">其他 ❓</h1>
+
+# 其他 ❓
 
 + [Web学习笔记](https://github.com/qianguyihao/Web)：GitHub上:star:五千多的项目，超详细的Web前端学习图文教程
 + [Let's Build A Simple Interpreter](https://ruslanspivak.com/lsbasi-part1/)：加拿大工程师[Ruslan Spivak](https://ruslanspivak.com/pages/about/)写的如何利用Python自己写一个编译器文章的博客，适合用于学习编译原理。[GitHub代码](https://github.com/rspivak/lsbasi)
@@ -328,4 +321,4 @@
 
 
 
-<h1 id ="18">更新时间 🕰 ：2019/7/18</h1>
+# 更新时间 🕰 ：2019/7/21
