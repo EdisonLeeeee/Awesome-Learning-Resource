@@ -1,12 +1,39 @@
-[toc]
+<a class="toc" id="table-of-contents"></a>
+# Table of Contents
++ [前言](#1)
++ [学习网站 💻](#2)
++ [Python 学习 🐍](#3)
++ [Python 爬虫 🕷](#4)
++ [算法 💡](#5)
++ [机器学习 深度学习 数据挖掘 🤖](#6)
++ [Graph Neural Network 🗺](#7)
++ [Generative Adversarial Networks (GANs) 🤜 🤛](#8)
++ [TensorFlow 学习 🇹🇫](#9)
++ [PyTorch 学习 🇵🇹](#10)
++ [课程学习资源👨‍🎓](#11)
++ [Git 👬](#12)
++ [英语学习 🗣](#13)
++ [GitHub 👬](#14)
++ [可视化 👀](#15)
++ [论文辅助工具 📄](#16)
++ [下载资源 📥](#17)
++ [工作面试 💼](#18)
++ [其他 ❓](#19)
++ [更新时间 🕰 ：2019/7/22](#20)
 
 
+
+
+<a class="toc" id ="1"></a>
 # 前言
+[Back to Top](#table-of-contents)
 主要是用于汇总自己平时收集的一些学习网站、资源以及资料等，便于查看整理，并会不断更新 😋
 
 
 
+<a class="toc" id ="2"></a>
 # 学习网站 💻
+[Back to Top](#table-of-contents)
 
 + [网易云课堂](https://study.163.com/)：上面有许多不错的网课，并且经常有一些直播，不过一些精品课程需要收费
 + [中国大学慕课](https://www.icourse163.org/)：类似网易云课堂，收看网课
@@ -32,7 +59,9 @@
 
 
 
+<a class="toc" id ="3"></a>
 # Python 学习 🐍
+[Back to Top](#table-of-contents)
 
 + [The Python Tutorial](https://docs.python.org/3/tutorial/index.html)：Python官方文档（英文），官方文档无疑是最好学习Python的参考书
 + [Python 教程](https://docs.python.org/zh-cn/3/tutorial/index.html)：Python官方文档（中文），适用于英文不好的人
@@ -64,7 +93,9 @@
 ![在这里插入图片描述](https://img-blog.csdnimg.cn/20190722145020742.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L0VkaXNvbmxlZWVl,size_16,color_FFFFFF,t_70)
 + [Awesome Python cn](https://github.com/jobbole/awesome-python-cn)：Python资源大全中文版，包括：Web框架、网络爬虫、模板引擎、数据库、数据可视化、图片处理等，由伯乐在线持续更新。GitHub:star:一万五
 
+<a class="toc" id ="4"></a>
 # Python 爬虫 🕷
+[Back to Top](#table-of-contents)
 
 + [Python爬虫](https://47.107.129.107/%E7%88%AC%E8%99%AB/)：一份十五天学会Python爬虫的教程
 + [Python2爬虫学习系列教程](https://cuiqingcai.com/1052.html)：一份详尽的爬虫教程博客，涵盖入门、实战、进阶
@@ -76,7 +107,9 @@
 
 
 
+<a class="toc" id ="5"></a>
 # 算法 💡
+[Back to Top](#table-of-contents)
 
 + [Algorithm Python](https://github.com/TheAlgorithms/Python)：GitHub上:star:五万的项目，使用Python实现了所有算法
 + [Leet Code Animation](https://github.com/MisterBooo/LeetCodeAnimation)：GitHub上:star:三万多的中文项目，用动画的形式呈现解LeetCode题目的思路
@@ -97,7 +130,9 @@
 
 
 
+<a class="toc" id ="6"></a>
 # 机器学习 深度学习 数据挖掘 🤖
+[Back to Top](#table-of-contents)
 
 + [Numpy Machine Learning](https://github.com/ddbourgin/numpy-ml)：普林斯顿博士后 David Bourgin 最近在GitHub上开源的一个非常剽悍的项目，用 NumPy 手写所有主流 ML 模型，超过 3 万行代码、30 多个模型
 + [机器学习原理](https://github.com/shunliz/Machine-Learning)：GitHbu上:star:五百多的小项目，内容都是网上扒来的，前半部分关注数学基础，机器学习和深度学习的理论部分，详尽的公式推导。后半部分关注工程实践和理论应用部分
@@ -141,7 +176,9 @@
 + [Awesome Machine Learning cn](https://github.com/jobbole/awesome-machine-learning-cn)：机器学习资源大全中文版，包括机器学习领域的框架、库以及软件。GitHub:star:三千
 
 
+<a class="toc" id ="7"></a>
 # Graph Neural Network 🗺
+[Back to Top](#table-of-contents)
 
 + [A Gentle Introduction to Graph Neural Networks (Basics, DeepWalk, and GraphSage)](https://towardsdatascience.com/a-gentle-introduction-to-graph-neural-network-basics-deepwalk-and-graphsage-db5d540d50b3)：介绍了图神经网络的概念及其最新进展的博客
 + [Innovations in Graph Representation Learning ](https://ai.googleblog.com/2019/06/innovations-in-graph-representation.html)：Google图挖掘团队的两位高级科学家Alessandro Epasto和Bryan Perozzi在Google AI Blog上发表的《Innovations in Graph Representation Learning》，介绍了最新的一些图表示学习成果。
@@ -159,7 +196,9 @@
 
 
 
+<a class="toc" id ="8"></a>
 # Generative Adversarial Networks (GANs) 🤜 🤛
+[Back to Top](#table-of-contents)
 
 + [Generative Adversarial Networks](https://channel9.msdn.com/Events/Neural-Information-Processing-Systems-Conference/Neural-Information-Processing-Systems-Conference-NIPS-2016/Generative-Adversarial-Networks)：Ian Goodfellow2016年的GAN演讲视频
 + [Adversarial Nets Papers](https://github.com/zhangqianhui/AdversarialNetsPapers)：GitHub上一个:star:四千多的项目，收录了生成对抗网络(GAN)诞生至今的论文和代码
@@ -173,7 +212,9 @@
 
 
 
+<a class="toc" id ="9"></a>
 # TensorFlow 学习 🇹🇫
+[Back to Top](#table-of-contents)
 
 + [TensorFlow 官方文档](https://github.com/jikexueyuanwiki/tensorflow-zh)：TensorFlow 官方文档中文版
 + [TensorFlow Tutorials](https://www.tensorflow.org/tutorials)：TensorFlow官方英文教程文档
@@ -190,7 +231,9 @@
 
 
 
+<a class="toc" id ="10"></a>
 # PyTorch 学习 🇵🇹
+[Back to Top](#table-of-contents)
 
 + [PyTorch 中文文档](https://pytorch-cn.readthedocs.io/zh/latest/)：PyTorch是使用GPU和CPU优化的深度学习张量库，查看中文文档有助于学习这个火爆的机器学习框架
 + [PyTorch Tutorials](https://pytorch.org/tutorials/)：PyTorch 官方英文文档
@@ -206,7 +249,9 @@
 
 
 
+<a class="toc" id ="11"></a>
 # 课程学习资源👨‍🎓
+[Back to Top](#table-of-contents)
 
 + [CS231n: Convolutional Neural Networks for Visual Recognition](http://cs231n.github.io/)：斯坦福CS课程CS231：卷积网络视觉识别笔记
 + [计算机科学速成课](https://github.com/1c7/crash-course-computer-science-chinese)：翻译自[Youtube](https://www.youtube.com/playlist?list=PL8dPuuaLjXtNlUrzyH5r6jN9ulIgZBpdo)上的计算机科学速成课，可在B站上观看中文版（带中英字幕）
@@ -229,7 +274,9 @@
 
 
 
+<a class="toc" id ="12"></a>
 # Git 👬
+[Back to Top](#table-of-contents)
 
 + [Learn Git Branching](https://learngitbranching.js.org/)：一个用于学习 Git 的交互式学习网站，[GitHub](https://github.com/pcottle/learnGitBranching)上收获了:star:一万多
 + ![在这里插入图片描述](https://img-blog.csdnimg.cn/20190703162830305.gif)
@@ -242,7 +289,9 @@
 
 
 
+<a class="toc" id ="13"></a>
 # 英语学习 🗣
+[Back to Top](#table-of-contents)
 
 + [Everyone Can Use English](https://github.com/xiaolai/everyone-can-use-english)：Github上一个:star:三千多的英语学习项目，力图使得人人都能用英语
 ![在这里插入图片描述](https://img-blog.csdnimg.cn/20190705144100566.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L0VkaXNvbmxlZWVl,size_16,color_FFFFFF,t_70)
@@ -257,7 +306,9 @@
 
 
 
+<a class="toc" id ="14"></a>
 # GitHub 👬
+[Back to Top](#table-of-contents)
 
 + [HelloHithub](https://www.hellogithub.com/)：分享GitHub上有趣，入门级的开源项目
 ![在这里插入图片描述](https://img-blog.csdnimg.cn/201907031713231.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L0VkaXNvbmxlZWVl,size_16,color_FFFFFF,t_70)
@@ -268,7 +319,9 @@
 + [GitHub Help](https://help.github.com/en)：GitHub官方英文帮助文档，由于中文文档是从英文文档翻译而来，可能有些内容不是最新，英语好的人应该看英文文档，才能实时获取最新内容
 
 
+<a class="toc" id ="15"></a>
 # 可视化 👀
+[Back to Top](#table-of-contents)
 
 + [Bokeh](https://github.com/bokeh/bokeh)：一份用 Python 做交互式图形的资源，官方介绍称，它能读取大型数据集或者流数据，以简单快速的方式为网页提供优美、高交互性能的图形。
 ![在这里插入图片描述](https://img-blog.csdnimg.cn/20190706163337779.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L0VkaXNvbmxlZWVl,size_16,color_FFFFFF,t_70)
@@ -290,7 +343,9 @@
 ![在这里插入图片描述](https://img-blog.csdnimg.cn/20190721153623322.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L0VkaXNvbmxlZWVl,size_16,color_FFFFFF,t_70)
 
 
+<a class="toc" id ="16"></a>
 # 论文辅助工具 📄
+[Back to Top](#table-of-contents)
 
 + [易搜搭](http://www.esoda.org/)：专业英文论文写作助手，只需要输入你想表达的中文句子，该网站会检索各种论文找出相似英文表达，使你的英文论文写作不再生硬
 + [Conference List](http://www.conferencelist.info/upcoming.html)：计算机各领域会议的时间表
@@ -299,7 +354,9 @@
 ![在这里插入图片描述](https://img-blog.csdnimg.cn/20190705123134378.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L0VkaXNvbmxlZWVl,size_16,color_FFFFFF,t_70)
 
 
+<a class="toc" id ="17"></a>
 # 下载资源 📥
+[Back to Top](#table-of-contents)
 
 + [MSDN](https://msdn.itellyou.cn/)：十分齐全、靠谱的Windows系统、软件资源下载网站
 ![在这里插入图片描述](https://img-blog.csdnimg.cn/20190703183010921.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L0VkaXNvbmxlZWVl,size_16,color_FFFFFF,t_70)
@@ -313,7 +370,9 @@
 + [Awesome Macos](https://github.com/iCHAIT/awesome-macOS)：GitHub上:star:九千多的项目，为macOS整理了一份很棒的应用程序、软件、工具和亮点的列表。
 
 
+<a class="toc" id ="18"></a>
 # 工作面试 💼
+[Back to Top](#table-of-contents)
 + [interview_internal_reference](https://github.com/0voice/interview_internal_reference)：2019年最新总结，阿里、腾讯、百度、美团、今日头条等国内互联网大厂的面试题，还配备有答案和出题人分析等信息。这个项目或许对大家找工作面试有所帮助。 
 ![在这里插入图片描述](https://img-blog.csdnimg.cn/20190722150051353.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L0VkaXNvbmxlZWVl,size_16,color_FFFFFF,t_70)
 + [Python Interview Question](https://github.com/kenwoodjw/python_interview_question)：GitHub上一个:star:三千左右的中文项目，介绍了各种Python相关面试题，可以作为一个Python学习教程
@@ -322,7 +381,9 @@
 ![在这里插入图片描述](https://img-blog.csdnimg.cn/20190710155438164.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L0VkaXNvbmxlZWVl,size_16,color_FFFFFF,t_70)
 + [Data Science Cheat Sheet](https://github.com/abhat222/Data-Science--Cheat-Sheet)：数据科学速查表，GitHub:star:八千多。内容几乎涵盖数据科学相关的所有领域，在理论应用方面包括大数据分析、数据挖掘、数据可视化、深度学习，机器学习等等；在编程语言与工具方面，包括Excel、SQL、Python、MATLAB、Linux；基础的学科知识包含统计学、数学、概率论。另外，就连面试问题都没放过。
 
+<a class="toc" id ="19"></a>
 # 其他 ❓
+[Back to Top](#table-of-contents)
 
 + [Design patterns for humans](https://github.com/guanguans/design-patterns-for-humans-cn)：一份超全的设计模式讲解（共 23 种），每一种设计模式解释都通俗易懂（中文版）
 英文原版:https://github.com/kamranahmedse/design-patterns-for-humans，GitHub上获:star:两万五
@@ -345,4 +406,6 @@
 ![在这里插入图片描述](https://img-blog.csdnimg.cn/20190722145835989.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L0VkaXNvbmxlZWVl,size_16,color_FFFFFF,t_70)
 
 
+<a class="toc" id ="20"></a>
 # 更新时间 🕰 ：2019/7/22
+[Back to Top](#table-of-contents)
