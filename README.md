@@ -430,11 +430,13 @@
 
 ![在这里插入图片描述](https://img-blog.csdnimg.cn/20190722150305441.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L0VkaXNvbmxlZWVl,size_16,color_FFFFFF,t_70)
 + [Awesome Macos](https://github.com/iCHAIT/awesome-macOS)：GitHub上:star:九千多的项目，为macOS整理了一份很棒的应用程序、软件、工具和亮点的列表。
++ [Awesome Linux Software](https://github.com/luong-komorebi/Awesome-Linux-Software)：GitHub上:star:一万多的项目与上面两个项目一样，这个清单中也提供了非常多 Linux 软件供参考软性。基于 Linux 本身强大的生态，该清单同时提供了巴西葡萄牙文、中文、西班牙文、泰文等多种语言版本供选择阅读。此外，该项目还提供了一些 Linux 操作系统学习资料，方便开发者进一步探索与 Linux 相关知识，可以说是非常贴心了。
 
-
+![在这里插入图片描述](https://img-blog.csdnimg.cn/20190723145818738.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L0VkaXNvbmxlZWVl,size_16,color_FFFFFF,t_70)
 <a class="toc" id ="18"></a>
 # 工作面试 💼
 [Back to Top](#table-of-contents)
+
 + [interview_internal_reference](https://github.com/0voice/interview_internal_reference)：2019年最新总结，阿里、腾讯、百度、美团、今日头条等国内互联网大厂的面试题，还配备有答案和出题人分析等信息。这个项目或许对大家找工作面试有所帮助。 
 
 ![在这里插入图片描述](https://img-blog.csdnimg.cn/20190722150051353.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L0VkaXNvbmxlZWVl,size_16,color_FFFFFF,t_70)
@@ -444,6 +446,10 @@
 
 ![在这里插入图片描述](https://img-blog.csdnimg.cn/20190710155438164.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L0VkaXNvbmxlZWVl,size_16,color_FFFFFF,t_70)
 + [Data Science Cheat Sheet](https://github.com/abhat222/Data-Science--Cheat-Sheet)：数据科学速查表，GitHub:star:八千多。内容几乎涵盖数据科学相关的所有领域，在理论应用方面包括大数据分析、数据挖掘、数据可视化、深度学习，机器学习等等；在编程语言与工具方面，包括Excel、SQL、Python、MATLAB、Linux；基础的学科知识包含统计学、数学、概率论。另外，就连面试问题都没放过。
++ [Coding Interview University](https://github.com/jwasham/coding-interview-university)：GitHub:star:八万的项目，原名「Google 面试大学」。这份指南里面包含 Google 相关的介绍视频、面试过程、教学资源，同时也有数据结构、算法、密码学等计算机专业的知识讲解。中文版指南链接：https://github.com/jwasham/coding-interview-university/blob/master/translations/README-cn.md
+
+![在这里插入图片描述](https://img-blog.csdnimg.cn/20190723150317469.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L0VkaXNvbmxlZWVl,size_16,color_FFFFFF,t_70)
+
 
 <a class="toc" id ="19"></a>
 # 其他 ❓
