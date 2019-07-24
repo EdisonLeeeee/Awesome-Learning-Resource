@@ -105,6 +105,7 @@
 + [Beyond the Void](https://www.byvoid.com/blog/tag/計算機科學)：BYVoid 的计算机科学博客，详细介绍了不少算法
 + [知乎：有哪些学习算法的网站推荐？](https://www.zhihu.com/question/20368410)：知乎上的一个问题，介绍了不少学习算法的网站、题库、OJ等
 + [Interpretable Ml Book](https://github.com/christophM/interpretable-ml-book)：Christoph Molnar年初公开的《可解释的机器学习（Interpretable Machine Learning）》，带你打开机器学习的黑盒子。
+在线阅读：https://christophm.github.io/interpretable-ml-book/index.html
 核心章节为：
     + 1.机器学习简介
     + 2.可解释性
@@ -114,8 +115,6 @@
     + 6.基于实例的解释
     + 7.神经网络解释
     + 8.机器学习与可解释性研究的未来
-
-在线阅读：https://christophm.github.io/interpretable-ml-book/index.html
 
 
 
