@@ -150,7 +150,20 @@
 
 ![在这里插入图片描述](https://img-blog.csdnimg.cn/20190705124124181.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L0VkaXNvbmxlZWVl,size_16,color_FFFFFF,t_70)
 + [知乎：有哪些学习算法的网站推荐？](https://www.zhihu.com/question/20368410)：知乎上的一个问题，介绍了不少学习算法的网站、题库、OJ等
++ [Interpretable Ml Book](https://github.com/christophM/interpretable-ml-book)：Christoph Molnar年初公开的《可解释的机器学习（Interpretable Machine Learning）》，带你打开机器学习的黑盒子。
+核心章节为：
+    + 1.机器学习简介
+    + 2.可解释性
+    + 3.数据集
+    + 4.可解释的模型
+    + 5.模型不可知方法
+    + 6.基于实例的解释
+    + 7.神经网络解释
+    + 8.机器学习与可解释性研究的未来
 
+在线阅读：https://christophm.github.io/interpretable-ml-book/index.html
+
+![在这里插入图片描述](https://img-blog.csdnimg.cn/20190724115634421.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L0VkaXNvbmxlZWVl,size_16,color_FFFFFF,t_70)
 
 
 
@@ -507,20 +520,7 @@
 
 + [Advanced Java](https://github.com/doocs/advanced-java)：GitHub:star:两万五，互联网 Java 工程师进阶知识完全扫盲：涵盖高并发、分布式、高可用、微服务等领域知识，后端同学必看，前端同学也可学习
 
-+ [Interpretable Ml Book](https://github.com/christophM/interpretable-ml-book)：Christoph Molnar年初公开的《可解释的机器学习（Interpretable Machine Learning）》，带你打开机器学习的黑盒子。
-核心章节为：
-    + 1.机器学习简介
-    + 2.可解释性
-    + 3.数据集
-    + 4.可解释的模型
-    + 5.模型不可知方法
-    + 6.基于实例的解释
-    + 7.神经网络解释
-    + 8.机器学习与可解释性研究的未来
 
-在线阅读：https://christophm.github.io/interpretable-ml-book/index.html
-
-![在这里插入图片描述](https://img-blog.csdnimg.cn/20190724115634421.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L0VkaXNvbmxlZWVl,size_16,color_FFFFFF,t_70)
 
 
 <a class="toc" id ="20"></a>
