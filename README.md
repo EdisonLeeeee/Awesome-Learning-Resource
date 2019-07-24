@@ -19,7 +19,7 @@
 + [下载资源 📥](#17)
 + [工作面试 💼](#18)
 + [其他 ❓](#19)
-+ [更新时间 🕰 ：2019/7/22](#20)
++ [更新时间 🕰 ：2019/7/24](#20)
 
 
 
@@ -449,6 +449,29 @@
 + [Coding Interview University](https://github.com/jwasham/coding-interview-university)：GitHub:star:八万的项目，原名「Google 面试大学」。这份指南里面包含 Google 相关的介绍视频、面试过程、教学资源，同时也有数据结构、算法、密码学等计算机专业的知识讲解。中文版指南链接：https://github.com/jwasham/coding-interview-university/blob/master/translations/README-cn.md
 
 ![在这里插入图片描述](https://img-blog.csdnimg.cn/20190723150317469.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L0VkaXNvbmxlZWVl,size_16,color_FFFFFF,t_70)
++ [CS-Notes](https://github.com/CyC2018/CS-Notes)：GitHub上:star:七万多，Tech Interview Guide 技术面试必备基础知识、Leetcode 题解、Java、C++、Python、后端面试、操作系统、计算机网络、系统设计。在线阅读：https://cyc2018.github.io/CS-Notes
+
+![在这里插入图片描述](https://img-blog.csdnimg.cn/20190724114610991.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L0VkaXNvbmxlZWVl,size_16,color_FFFFFF,t_70)
+
+![在这里插入图片描述](https://img-blog.csdnimg.cn/20190724114639397.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L0VkaXNvbmxlZWVl,size_16,color_FFFFFF,t_70)
+
++ [A-to-Z-Resources-for-Students](https://github.com/dipakkr/A-to-Z-Resources-for-Students)：GitHub:star:七千，一位国外小哥整理的一份超级全面的计算机学习资源，主要面向人群是学生，但其实上面的内容也可以适用于普通程序员。
+该资料主要包含以下内容：
+    + 编程学习资源
+    + 黑客马拉松与其它活动
+    + 学生福利计划
+    + 开源项目
+    + 创业项目与孵化器
+    + 实习生资源
+    + 开发者线下聚会
+    + 技术大会
+    + 值得关注的技术人
+    + 值得关注的网站
+    + 附加链接
+    + 编码训练营
+    + 其它资源
+
+![在这里插入图片描述](https://img-blog.csdnimg.cn/20190724115031959.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L0VkaXNvbmxlZWVl,size_16,color_FFFFFF,t_70)
 
 
 <a class="toc" id ="19"></a>
@@ -478,11 +501,28 @@
 + [remove.bg](https://www.remove.bg/)：一个可以在线免费消除图片背景的网站，并且提供API供批量处理图片使用（收费），简单方便（只需几秒钟，但效果强大
 
 ![在这里插入图片描述](https://img-blog.csdnimg.cn/20190721152738295.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L0VkaXNvbmxlZWVl,size_16,color_FFFFFF,t_70)
-+ [伯乐在线](https://github.com/jobbole/)：伯乐在线翻译组，GitHub上翻译了多个学习资源仓库。
++ [伯乐在线](https://github.com/jobbole/)：伯乐在线翻译组，GitHub上翻译了多个学习资源仓库，内含大量学习资源。
 
 ![在这里插入图片描述](https://img-blog.csdnimg.cn/20190722145835989.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L0VkaXNvbmxlZWVl,size_16,color_FFFFFF,t_70)
 
++ [Advanced Java](https://github.com/doocs/advanced-java)：GitHub:star:两万五，互联网 Java 工程师进阶知识完全扫盲：涵盖高并发、分布式、高可用、微服务等领域知识，后端同学必看，前端同学也可学习
+
++ [Interpretable Ml Book](https://github.com/christophM/interpretable-ml-book)：Christoph Molnar年初公开的《可解释的机器学习（Interpretable Machine Learning）》，带你打开机器学习的黑盒子。
+核心章节为：
+    + 1.机器学习简介
+    + 2.可解释性
+    + 3.数据集
+    + 4.可解释的模型
+    + 5.模型不可知方法
+    + 6.基于实例的解释
+    + 7.神经网络解释
+    + 8.机器学习与可解释性研究的未来
+
+在线阅读：https://christophm.github.io/interpretable-ml-book/index.html
+
+![在这里插入图片描述](https://img-blog.csdnimg.cn/20190724115634421.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L0VkaXNvbmxlZWVl,size_16,color_FFFFFF,t_70)
+
 
 <a class="toc" id ="20"></a>
-# 更新时间 🕰 ：2019/7/22
+# 更新时间 🕰 ：2019/7/24
 [Back to Top](#table-of-contents)
