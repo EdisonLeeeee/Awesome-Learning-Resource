@@ -22,15 +22,15 @@
 + [其他 ❓](#20)
 + [更新时间 🕰 ：2019/7/24](#21)
 
-
+<a class="toc" id ="1"></a>
 # 前言
-[Back to TOC](#table-of-contents)
+[🔙](#table-of-contents)
 
 主要是用于汇总自己平时收集的一些学习网站、资源以及资料等，便于查看整理，并会不断更新 😋
 
 <a class="toc" id ="2"></a>
 # 学习网站 💻
-[Back to TOC](#table-of-contents)
+[🔙](#table-of-contents)
 
 + [网易云课堂](https://study.163.com/)：上面有许多不错的网课，并且经常有一些直播，不过一些精品课程需要收费
 + [中国大学慕课](https://www.icourse163.org/)：类似网易云课堂，收看网课
@@ -47,7 +47,7 @@
 
 <a class="toc" id ="3"></a>
 # Python 学习 🐍
-[Back to TOC](#table-of-contents)
+[🔙](#table-of-contents)
 
 + [The Python Tutorial](https://docs.python.org/3/tutorial/index.html)：Python官方文档（英文），官方文档无疑是最好学习Python的参考书
 + [Python 教程](https://docs.python.org/zh-cn/3/tutorial/index.html)：Python官方文档（中文），适用于英文不好的人
@@ -70,7 +70,7 @@
 
 <a class="toc" id ="4"></a>
 # Python 爬虫 🕷
-[Back to TOC](#table-of-contents)
+[🔙](#table-of-contents)
 
 + [Python爬虫](https://47.107.129.107/%E7%88%AC%E8%99%AB/)：一份十五天学会Python爬虫的教程
 + [Python2爬虫学习系列教程](https://cuiqingcai.com/1052.html)：一份详尽的爬虫教程博客，涵盖入门、实战、进阶
@@ -80,7 +80,7 @@
 
 <a class="toc" id ="5"></a>
 # 算法 💡
-[Back to TOC](#table-of-contents)
+[🔙](#table-of-contents)
 
 + [Algorithm Python](https://github.com/TheAlgorithms/Python)：GitHub上:star:五万的项目，使用Python实现了所有算法
 + [Leet Code Animation](https://github.com/MisterBooo/LeetCodeAnimation)：GitHub上:star:三万多的中文项目，用动画的形式呈现解LeetCode题目的思路
@@ -105,7 +105,7 @@
 
 <a class="toc" id ="6"></a>
 # 机器学习 深度学习 数据挖掘 🤖
-[Back to TOC](#table-of-contents)
+[🔙](#table-of-contents)
 
 + [Numpy Machine Learning](https://github.com/ddbourgin/numpy-ml)：普林斯顿博士后 David Bourgin 最近在GitHub上开源的一个非常剽悍的项目，用 NumPy 手写所有主流 ML 模型，超过 3 万行代码、30 多个模型
 + [机器学习原理](https://github.com/shunliz/Machine-Learning)：GitHbu上:star:五百多的小项目，内容都是网上扒来的，前半部分关注数学基础，机器学习和深度学习的理论部分，详尽的公式推导。后半部分关注工程实践和理论应用部分
@@ -140,7 +140,7 @@
 
 <a class="toc" id ="7"></a>
 # Graph Neural Network 🗺
-[Back to TOC](#table-of-contents)
+[🔙](#table-of-contents)
 
 + [A Gentle Introduction to Graph Neural Networks (Basics, DeepWalk, and GraphSage)](https://towardsdatascience.com/a-gentle-introduction-to-graph-neural-network-basics-deepwalk-and-graphsage-db5d540d50b3)：介绍了图神经网络的概念及其最新进展的博客
 + [Innovations in Graph Representation Learning ](https://ai.googleblog.com/2019/06/innovations-in-graph-representation.html)：Google图挖掘团队的两位高级科学家Alessandro Epasto和Bryan Perozzi在Google AI Blog上发表的《Innovations in Graph Representation Learning》，介绍了最新的一些图表示学习成果
@@ -155,7 +155,7 @@
 
 <a class="toc" id ="8"></a>
 # Generative Adversarial Networks (GANs) 🤜 🤛
-[Back to TOC](#table-of-contents)
+[🔙](#table-of-contents)
 
 + [Generative Adversarial Networks](https://channel9.msdn.com/Events/Neural-Information-Processing-Systems-Conference/Neural-Information-Processing-Systems-Conference-NIPS-2016/Generative-Adversarial-Networks)：Ian Goodfellow2016年的GAN演讲视频
 + [Adversarial Nets Papers](https://github.com/zhangqianhui/AdversarialNetsPapers)：GitHub上一个:star:四千多的项目，收录了生成对抗网络(GAN)诞生至今的论文和代码
@@ -166,7 +166,7 @@
 
 <a class="toc" id ="9"></a>
 # TensorFlow 学习 🇹🇫
-[Back to TOC](#table-of-contents)
+[🔙](#table-of-contents)
 
 + [TensorFlow 官方文档](https://github.com/jikexueyuanwiki/tensorflow-zh)：TensorFlow 官方文档中文版
 + [TensorFlow Tutorials](https://www.tensorflow.org/tutorials)：TensorFlow官方英文教程文档
@@ -183,7 +183,7 @@
 
 <a class="toc" id ="10"></a>
 # PyTorch 学习 🇵🇹
-[Back to TOC](#table-of-contents)
+[🔙](#table-of-contents)
 
 + [PyTorch 中文文档](https://pytorch-cn.readthedocs.io/zh/latest/)：PyTorch是使用GPU和CPU优化的深度学习张量库，查看中文文档有助于学习这个火爆的机器学习框架
 + [PyTorch Tutorials](https://pytorch.org/tutorials/)：PyTorch 官方英文文档
@@ -195,7 +195,7 @@
 
 <a class="toc" id ="11"></a>
 # 课程学习资源👨‍🎓
-[Back to TOC](#table-of-contents)
+[🔙](#table-of-contents)
 
 + [CS231n: Convolutional Neural Networks for Visual Recognition](http://cs231n.github.io/)：斯坦福CS课程CS231：卷积网络视觉识别笔记
 + [计算机科学速成课](https://github.com/1c7/crash-course-computer-science-chinese)：翻译自[Youtube](https://www.youtube.com/playlist?list=PL8dPuuaLjXtNlUrzyH5r6jN9ulIgZBpdo)上的计算机科学速成课，可在B站上观看中文版（带中英字幕）
@@ -212,7 +212,7 @@
 
 <a class="toc" id ="12"></a>
 # Git 👬
-[Back to TOC](#table-of-contents)
+[🔙](#table-of-contents)
 
 + [Learn Git Branching](https://learngitbranching.js.org/)：一个用于学习 Git 的交互式学习网站，[GitHub](https://github.com/pcottle/learnGitBranching)上收获了:star:一万多
 + [Git](https://git-scm.com/)：Git官方教程
@@ -222,7 +222,7 @@
 
 <a class="toc" id ="13"></a>
 # 英语学习 🗣
-[Back to TOC](#table-of-contents)
+[🔙](#table-of-contents)
 
 + [Everyone Can Use English](https://github.com/xiaolai/everyone-can-use-english)：Github上一个:star:三千多的英语学习项目，力图使得人人都能用英语
 + [A Programmers Guide to English](https://github.com/yujiangshui/A-Programmers-Guide-to-English)：GitHub上一个:star:七千多的英语学习项目，专为程序员编写的英语学习指南。[在线阅读链接](https://a-programmers-guide-to-english.harryyu.me/)
@@ -231,7 +231,7 @@
 
 <a class="toc" id ="14"></a>
 # GitHub 👬
-[Back to TOC](#table-of-contents)
+[🔙](#table-of-contents)
 
 + [HelloHithub](https://www.hellogithub.com/)：分享GitHub上有趣，入门级的开源项目
 + [GitHubDaily ](https://github.com/GitHubDaily/GitHubDaily)：每日不定时推送一批 GitHub 上优秀的开源项目给开发者, 帮助开发者们发现当下最火的开源项目
@@ -240,7 +240,7 @@
 
 <a class="toc" id ="15"></a>
 # 可视化 👀
-[Back to TOC](#table-of-contents)
+[🔙](#table-of-contents)
 
 + [Bokeh](https://github.com/bokeh/bokeh)：一份用 Python 做交互式图形的资源，官方介绍称，它能读取大型数据集或者流数据，以简单快速的方式为网页提供优美、高交互性能的图形
 官方提供了一个通过Jupyter使用Bokeh的教程：[Bokeh Tutorial](https://gke.mybinder.org/v2/gh/bokeh/bokeh-notebooks/master?filepath=tutorial%2F00%20-%20Introduction%20and%20Setup.ipynb) 以及 [Quickstart](https://bokeh.pydata.org/en/latest/docs/user_guide/quickstart.html)
@@ -255,7 +255,7 @@
 
 <a class="toc" id ="16"></a>
 # 论文辅助工具 📄
-[Back to TOC](#table-of-contents)
+[🔙](#table-of-contents)
 
 + [易搜搭](http://www.esoda.org/)：专业英文论文写作助手，只需要输入你想表达的中文句子，该网站会检索各种论文找出相似英文表达，使你的英文论文写作不再生硬
 + [Conference List](http://www.conferencelist.info/upcoming.html)：计算机各领域会议的时间表
@@ -263,7 +263,7 @@
 
 <a class="toc" id ="17"></a>
 # 下载资源 📥
-[Back to TOC](#table-of-contents)
+[🔙](#table-of-contents)
 
 + [MSDN](https://msdn.itellyou.cn/)：十分齐全、靠谱的Windows系统、软件资源下载网站
 + [N软网](https://www.nruan.com/)：提供互联网前沿资讯及软件下载
@@ -275,7 +275,7 @@
 
 <a class="toc" id ="18"></a>
 # 工作面试 💼
-[Back to TOC](#table-of-contents)
+[🔙](#table-of-contents)
 
 + [Interview Internal Reference](https://github.com/0voice/interview_internal_reference)：2019年最新总结，阿里、腾讯、百度、美团、今日头条等国内互联网大厂的面试题，还配备有答案和出题人分析等信息。这个项目或许对大家找工作面试有所帮助。 
 + [Python Interview Question](https://github.com/kenwoodjw/python_interview_question)：GitHub上一个:star:三千左右的中文项目，介绍了各种Python相关面试题，可以作为一个Python学习教程
@@ -302,7 +302,7 @@
 
 <a class="toc" id ="19"></a>
 # Learn by Game 👾
-[Back to TOC](#table-of-contents)
+[🔙](#table-of-contents)
 
 + [Learn Git Branching](https://learngitbranching.js.org/)：一个用于学习 Git 的交互式学习网站，[GitHub](https://github.com/pcottle/learnGitBranching)上收获了:star:一万多
 + [Coding Games](http://www.codingame.com/)：Coding games支持包括PHP、C、JavaScript在内的20多种编程语言。用户界面功能强大，可以定制。例如，你可以选择你的代码编辑器的风格：Emacs、Vim、Classic。如果你想提升编程技能，玩Coding games是一种有趣的途径
@@ -348,7 +348,7 @@
 
 <a class="toc" id ="20"></a>
 # 其他 ❓
-[Back to TOC](#table-of-contents)
+[🔙](#table-of-contents)
 
 + [Design patterns for humans](https://github.com/guanguans/design-patterns-for-humans-cn)：GitHub上获:star:两万五，一份超全的设计模式讲解（共 23 种），每一种设计模式解释都通俗易懂（中文版）。[英文原版链接](https://github.com/kamranahmedse/design-patterns-for-humans)
 + [Web学习笔记](https://github.com/qianguyihao/Web)：GitHub上:star:五千多的项目，超详细的Web前端学习图文教程
@@ -365,6 +365,6 @@
 
 <a class="toc" id ="21"></a>
 # 更新时间 🕰 ：2019/7/24
-[Back to TOC](#table-of-contents)
+[🔙](#table-of-contents)
 
 
