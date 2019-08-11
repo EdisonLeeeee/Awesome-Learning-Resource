@@ -20,7 +20,7 @@
 + [工作面试 💼](#18)
 + [Learn by Game 👾](#19)
 + [其他 ❓](#20)
-+ [更新时间 🕰 ：2019/7/24](#21)
++ [更新时间 🕰 ：2019/8/11](#21)
 
 <a class="toc" id ="1"></a>
 # 前言
@@ -137,6 +137,11 @@
 + [Awesome Knowledge Distillation](https://github.com/dkozlov/awesome-knowledge-distillation)：作为模型压缩的一种方法，知识蒸馏能够利用已经训练的一个较复杂的模型，来指导一个较轻量的模型训练，从而在减小模型大小和计算资源的同时，尽量保持原始大模型的准确率的方法。Github上的dkozlov同学，整理了Knowledge Distilling的paper、教程、代码，看完这些资料，你一定有所收获
 + [统计学习方法](https://github.com/SmirkCao/Lihang)：李航的《统计学习方法》的详细笔记，以及各章节机器学习算法详细的 Python 代码
 + [Awesome Machine Learning cn](https://github.com/jobbole/awesome-machine-learning-cn)：机器学习资源大全中文版，包括机器学习领域的框架、库以及软件。GitHub:star:三千
++ [Machine Learning Learning Notes](https://github.com/Vay-keen/Machine-learning-learning-notes)：周志华《机器学习》的学习笔记，记录了作者在学习这本书的过程中的理解思路以及一些有助于消化书内容的拓展知识，笔记中参考了许多网上的大牛经典博客以及李航《统计学习》的内容
++ [Scratch Mlp](https://github.com/omar-florez/scratch_mlp)：GitHub的教程——神经网络的数学图解，详细介绍了浅层神经网络的定义、初始化、前向传播、反向传播的细节以及代码实现，和实验结果，手把手介绍其数学原理。
++ [UCL Course on RL](http://www0.cs.ucl.ac.uk/staff/d.silver/web/Teaching.html)：David Silver 的强化学习课程
++ [Reinforcement Learning: An introduction](http://incompleteideas.net/book/RLbook2018.pdf)：Richard Sutton 和 Andrew Barto的《强化学习：简介（第二版）》
++ [Reinforcement Learning](https://github.com/dennybritz/reinforcement-learning)：Denny Britz 亲自 用 Python，OpenAI Gym 和 Tensorflow 实现了上述两份教材资源的大多数标准强化算法，并把它们都共享了出来，方便大家配合教材食用。在这份万星资源里，每个文件夹都对应着教材的一个或多个章节。除了练习和解决方案之外，每个文件夹下还包含了一系列学习目标，基础概念摘要，以及相关链接。GitHub已收获一万多的:star:
 
 <a class="toc" id ="7"></a>
 # Graph Neural Network 🗺
@@ -180,6 +185,7 @@
 + [TF Girls 修炼指南](https://space.bilibili.com/16696495/channel/detail?cid=1588)：B站上一个UP主的TensorFlow入门教程视频
 + [Awesome Tensorflow](https://github.com/jtoy/awesome-tensorflow)：TensorFlow中的教程和 ML 项目的集合，GitHub:star:一万四
 + [Tensorflow Cookbook](https://github.com/taki0112/Tensorflow-Cookbook)：这是一个易用的TensorFlow代码集，作者是来自韩国的AI研究科学家Junho Kim，内容涵盖了谱归一化卷积、部分卷积、pixel shuffle、几种归一化函数、tf-datasetAPI，等等
++ [Deep Learning With Keras Notebooks](https://github.com/erhwenkuo/deep-learning-with-keras-notebooks)：Jupyter notebooks for using & learning Keras 
 
 <a class="toc" id ="10"></a>
 # PyTorch 学习 🇵🇹
@@ -187,6 +193,7 @@
 
 + [PyTorch 中文文档](https://pytorch-cn.readthedocs.io/zh/latest/)：PyTorch是使用GPU和CPU优化的深度学习张量库，查看中文文档有助于学习这个火爆的机器学习框架
 + [PyTorch Tutorials](https://pytorch.org/tutorials/)：PyTorch 官方英文文档
++ [](https://github.com/yunjey/pytorch-tutorial)：PyTorch Tutorial for Deep Learning Researchers。GitHub上已收获一万多:star:
 + [Awesome Pytorch list](https://github.com/bharathgs/Awesome-pytorch-list)：GitHub上一个:star:七千多的项目，收集了GitHub上PyTorch相关内容以及不同的模型实现、帮助文档、教程，使用PyTorch的学习
 + [Hands-on tour to deep learning with PyTorch](https://mlelarge.github.io/dataflowr-web/cea_edf_inria.html)：dataflowr 最近推出的一门五天初步掌握深度学习的实战教程（实战使用 PyTorch 框架），有知识点有实例有代码。[GitHub地址](https://github.com/mlelarge/dataflowr)
 + [Existential Pontification and Generalized Abstract Digressions ](http://blog.ezyang.com/2019/05/pytorch-internals/)：万字综述，核心开发者全面解读 PyTorch 内部机制 
@@ -209,6 +216,12 @@
 + [机器学习（Machine Learning）- 吴恩达（Andrew Ng）](https://www.bilibili.com/video/av9912938)：B站上吴恩达老师的机器学习教程，播放量已达到百万。吴恩达的教学视频虽然备受推崇，但其实并不适合作为入门视频，教授内容还是有一定深度的
 + [A Self-Learning, Modern Computer Science Curriculum](https://functionalcs.github.io/curriculum/)：国外一位工程师写的计算机自学指南，中文译名应为《现代化计算机科学自学指南》，内容包含着许多来自许多世界知名高校、顶尖的教授与技术专家所编著的计算机课程
 + [Virgilio](https://github.com/virgili0/Virgilio)：这个项目是 GitHub 上一位名为“维吉尔（Vigilio）”的开发者整理的一个:star:破万的项目，项目包括职业进阶路径、专业知识讲解、工具介绍等，着重强调，不走弯路，简明扼要。[GitHub中文版链接](https://github.com/virgili0/Virgilio/tree/master/zh-CN)
++ [Leeml Notes](https://github.com/datawhalechina/leeml-notes)：李宏毅老师的机器学习视频是机器学习领域经典的中文视频之一，也被称为中文世界中最好的机器学习视频。这个笔记是根据李宏毅老师机器学习视频的一个辅助资料，本笔记基本上完全复刻李老师课堂上讲的所有内容，并加入了一些和相关的学习补充资料和参考资料，结合这些资料一起学习，相信你会对机器学习有更加深刻的理解。[在线阅读地址](https://datawhalechina.github.io/leeml-notes)和[配套视频](https://www.bilibili.com/video/av59538266)
++ [Spring 2019 Full Stack Deep Learning Bootcamp](https://fullstackdeeplearning.com/march2019)：深度学习全栈课程，这份课程主要可以学习到计算机视觉目标检测，机器学习项目通用流程，文本OCR识别， 深度学习工具全栈，数据管理，深度学习调试等等知识。
++ [《语雀 IT 百科精品知识库》](https://www.yuque.com/yuque/blog/yuque-info-tech-encyclopedia)：这是由国内语雀团队出品的《语雀 IT 百科精品知识库》，这些精品知识库涵盖了互联网技术的主要领域，包含了实实在在的内容，都经过作者认真的整理和编辑，具有一定的学习和参考价值。对于想要投身互联网开发的朋友，这些都是很好的资料，值得收藏。
++ [《Algebra, Topology, Differential Calculus, and Optimization Theory For Computer Science and Engineering》](http://www.cis.upenn.edu/~jean/math-basics.pdf)：宾夕法尼亚大学计算机和信息科学系教授 Jean Gallier 的开源书籍《Algebra, Topology, Differential Calculus, and Optimization Theory For Computer Science and Engineering》用一本书的容量涵盖了学习计算机科学所需要的数学基础
++ [OKAI](https://okai.brown.edu/zh/index.html)：通过交互动画的形式来科普人工智能的历史，应用和主要算法（深度学习算法）的基础原理。OKAI摒弃了那些复杂的数学公式，采用轻松有趣的动画形式来讲解人工智能的相关概念。
++ [Seeing Theory](https://seeing-theory.brown.edu/cn.html#firstPage)：来自斯坦福大学的一位研究生和他的伙伴们开发了一本颇有新意的统计概率入门教材，与传统教材不同的是，这本书充分利用了数据可视化技术，交互性和趣味性都非常强，可以边读边玩。[书籍下载地址](https://seeing-theory.brown.edu/doc/seeing-theory.pdf)
 
 <a class="toc" id ="12"></a>
 # Git 👬
@@ -237,6 +250,19 @@
 + [GitHubDaily ](https://github.com/GitHubDaily/GitHubDaily)：每日不定时推送一批 GitHub 上优秀的开源项目给开发者, 帮助开发者们发现当下最火的开源项目
 + [GitHub 帮助](https://help.github.com/cn#dotcom)：GitHub官方中文帮助文档，全球最大的开源网站GitHub是每个程序员必须接触的，学习它的使用百利而无一害，同时也适合学习Git
 + [GitHub Help](https://help.github.com/en)：GitHub官方英文帮助文档，由于中文文档是从英文文档翻译而来，可能有些内容不是最新，英语好的人应该看英文文档，才能实时获取最新内容
++ [Style2Paints](https://github.com/lllyasviel/style2paints)：GitHub上:star:近万，为动漫线稿上色的一个工程！[Demo](https://style2paints.github.io/)
++ [Predictionio by Apache](http://predictionio.apache.org/appintegration/)：GitHub上:star:近万，Apache PredictionIO是面向开发人员，数据科学家和最终用户的开源机器学习框架。 用户可以使用此框架构建真实的ML应用程序，部署和测试它们。它甚至支持事件收集，评估和查询预测结果。 它基于可扩展的开源服务，如Hadoop，HBase等。
++ [FastText by FacebookResearch](https://github.com/facebookresearch/fastText)：GitHub上:star:两万，fastText是Facebook团队的一个开源和免费库，用于有效学习单词表示。它是轻量级的，允许用户学习文本表示和句子分类器。它适用于标准的通用硬件。模型可以减小尺寸，甚至适合移动设备。
++ [Face Recognition](https://github.com/ageitgey/face_recognition)：GitHub上:star:两万多，世界上最简单的面部识别工具。它为Python和命令行提供了一个应用程序编程接口（API）。它对于识别和操纵图像中的面很有用。它使用dlib最先进的人脸识别算法构建。深度学习模型在Wild数据集中的Labeled Faces上具有99.38％的准确度。它还提供了一个简单的face_recognition命令行工具，可以让你用命令行本身图像文件夹进行人脸识别！
++ [Sherlock](https://github.com/sherlock-project/sherlock)：神探夏洛特，全网查名！国外有个小哥在 GitHub 上开源了一个 Python 工具，借助这个工具，你便可以在各大社交网站上检索自己的用户名，看看自己的名称在哪几个网站上被占用了。[在线体验地址](https://elody.com/scenario/plan/16/?tab=enduser)
++ [Logoly](https://github.com/bestony/logoly)：不正经 Logo 生成器。这是一个在线的 PornHub 风格 Logo 生成工具，可以帮助你快速生成类似 PornHub 风格的 Logo。[在线体验地址](https://logoly.pro/)
++ [Moji, Moji, Emoji](https://github.com/ericandrewlewis/emoji-mosaic)：这是一个可根据图片配色，将图片转为用 emoji 填充的工具。[在线体验地址](http://ericandrewlewis.github.io/emoji-mosaic/)
++ [PyRoyale](https://github.com/Igoorx/PyRoyale)：吃鸡版超级玛丽被复活 + 开源，用 Python 实现[在线体验地址](http://77.68.80.27/royale/index.html)
++ [坦克大战](https://battle-city.js.org/)：GitHub 上实现的这个开源版本，可在 Web 上直接玩，还原度非常之高，并支持单台电脑，双人组队。
++ [俄罗斯方块](https://chvin.github.io/react-tetris/?lan=cn)：这个项目不仅好玩，技术实现原理也讲解非常到位。它通过响应式与数据持久化，使得游戏体验的效果更佳，也让你可以直接在手机端上进行操作。
++ [Gameboy 模拟器](https://github.com/HFO4/gameboy.live)：如果我说你能在终端上用 Gameboy 来玩游戏，你可能会大吃一惊。但，生命不息，折腾不止，这玩意确实被重庆大学的一位大二学生给整出来了。
++ [扫雷](http://muan.github.io/emoji-minesweeper/)：作为一款在当年霸屏 Windows 机器的小游戏，相信不少人都不会感到陌生。这款结合了当下比较新颖的 emoji 表情元素，重现了当年的经典。
++ [在线玩中文 DOS](https://dos.zczc.cz/)：国内一位老玩家，出于对 DOS 游戏的怀念，在 GitHub 上开源了这个项目。
 
 <a class="toc" id ="15"></a>
 # 可视化 👀
@@ -364,7 +390,7 @@
 + [Advanced Java](https://github.com/doocs/advanced-java)：GitHub:star:两万五，互联网 Java 工程师进阶知识完全扫盲：涵盖高并发、分布式、高可用、微服务等领域知识，后端同学必看，前端同学也可学习
 
 <a class="toc" id ="21"></a>
-# 更新时间 🕰 ：2019/7/24
+# 更新时间 🕰 ：2019/8/11
 [🔙](#table-of-contents)
 
 
