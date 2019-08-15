@@ -20,7 +20,7 @@
 + [工作面试 💼](#18)
 + [Learn by Game 👾](#19)
 + [其他 ❓](#20)
-+ [更新时间 🕰 ：2019/8/11](#21)
++ [更新时间 🕰 ：2019/8/15](#21)
 
 <a class="toc" id ="1"></a>
 # 前言
@@ -157,6 +157,9 @@
     + 深度学习
     + 图形内核
 + [Graph-based deep learning literature](https://github.com/naganandy/graph-based-deep-learning-literature)： GitHub上的一个项目，作者整理了包含近期基于图的深度学习会议论文
++ [Literature of Deep Learning for Graphs](https://github.com/DeepGraphLearning/LiteratureDL4Graph)：GitHub上:star:两千的图神经网络的学习资源，里面整理了大量图深度学习论文，大多数都被顶会收录，数量有上百篇。这份资源最闪亮的地方，就是将这些不同方向已经发表的论文进行了整理，分门别类得放上了论文的标题、作者、关键词和地址链接。
++ [Must-read papers and continuous tracking on Graph Neural Network(GNN) progress](https://github.com/jdlc105/Must-read-papers-and-continuous-tracking-on-Graph-Neural-Network-GNN-progress/blob/master/README.md)：Github上的图神经网络必读论文和最新进展列表 
++ [Pytorch Geometric](https://github.com/rusty1s/pytorch_geometric)：近几年来，图神经网络（GNN）在推荐系统、搜索引擎、计算机视觉等领域中都引起了较大的关注。Github有大量开源GNN实现，其中pytorch_geometric是最优秀的实现之一，曾被Yann LeCun推荐，GitHub上获:star:近五千
 
 <a class="toc" id ="8"></a>
 # Generative Adversarial Networks (GANs) 🤜 🤛
@@ -186,6 +189,7 @@
 + [Awesome Tensorflow](https://github.com/jtoy/awesome-tensorflow)：TensorFlow中的教程和 ML 项目的集合，GitHub:star:一万四
 + [Tensorflow Cookbook](https://github.com/taki0112/Tensorflow-Cookbook)：这是一个易用的TensorFlow代码集，作者是来自韩国的AI研究科学家Junho Kim，内容涵盖了谱归一化卷积、部分卷积、pixel shuffle、几种归一化函数、tf-datasetAPI，等等
 + [Deep Learning With Keras Notebooks](https://github.com/erhwenkuo/deep-learning-with-keras-notebooks)：Jupyter notebooks for using & learning Keras 
++ [TfPyth](https://github.com/BlackHC/TfPyTh)：一行代码切换TensorFlow与PyTorch，模型训练也能用俩框架
 
 <a class="toc" id ="10"></a>
 # PyTorch 学习 🇵🇹
@@ -199,6 +203,8 @@
 + [Existential Pontification and Generalized Abstract Digressions ](http://blog.ezyang.com/2019/05/pytorch-internals/)：万字综述，核心开发者全面解读 PyTorch 内部机制 
 + [Rainbow is All You Need](https://nbviewer.jupyter.org/github/Curt-Park/rainbow-is-all-you-need/tree/master/)：一份用 Jypyter Notebook 写的深度强化学习（Deep Reiforcement Learning）笔记，背景理论、代码实现全都有，手把手教你从 DQN 到Rainbow 。 [GitHub地址](https://github.com/Curt-Park/rainbow-is-all-you-need)
 + [Python Autocomplete](https://github.com/vpj/python_autocomplete/blob/master/extract_code.py)：一个利用 PyTorch 写的自动补全代码的小项目
++ [Pytorch Geometric](https://github.com/rusty1s/pytorch_geometric)：近几年来，图神经网络（GNN）在推荐系统、搜索引擎、计算机视觉等领域中都引起了较大的关注。Github有大量开源GNN实现，其中pytorch_geometric是最优秀的实现之一，曾被Yann LeCun推荐，GitHub上获:star:近五千
++ [TfPyth](https://github.com/BlackHC/TfPyTh)：一行代码切换TensorFlow与PyTorch，模型训练也能用俩框架
 
 <a class="toc" id ="11"></a>
 # 课程学习资源👨‍🎓
@@ -232,6 +238,11 @@
 + [Git Book](https://git-scm.com/book/en/v2)：Git 官方教程电子书。[中文版Git Book链接](https://git-scm.com/book/zh/v2)
 + [猴子老师Git教程](https://backlog.com/git-tutorial/cn/intro/intro1_1.html)：号称猴子都能懂的Git入门教程
 + [廖雪峰Git教程](https://www.liaoxuefeng.com/wiki/896043488029600)：廖雪峰Git教程，号称史上最浅显易懂的Git教程
++ [Pro Git 第二版](http://bit.ly/2H7A7Lg)：这本书被誉为 Git 学习的圣经，作者是 Scott Chacon 和 Ben Straub。Scott Chacon 在 GitHub 工作，自称 Git 的布道者。你可以在网站上免费阅读这本书，也可以下载他们提供的电子版本
++ [git-recipes](http://bit.ly/2Z4jw0M)：童仲毅 (geeeeeeeeek@github) 对很多英文资料进行翻译、整理的集合教程。包含入门基础、进阶知识和应用范例。这些英文资料主要包括 GitHub 竞争者 Bitbucket 的 Git 教程
++ [Udacity Git 课程](http://bit.ly/2H5PZhi)：谷歌无人车之父 Sebastian Thrun 创办的 优达学城（Udacity）上面的 免费 Git 课程。这门课程由优达学城与 GitHub 共同制作，介绍进行版本控制的基础知识，重点讲解 Git 版本控制系统以及 GitHub 协作平台
++ [happypeter1983 的 Git 视频教程](http://bit.ly/2Z6rS87)：这份教程就更进阶了一些。讲到了一些高级命令的用法。当然还有其他学习资源。
++ [Oh shit, git!](http://ohshitgit.com/)：这个网站整理了一些 Git 新手在使用 Git 时常会遇到的各种突发状况，并贴心的给出了应对方案。
 
 <a class="toc" id ="13"></a>
 # 英语学习 🗣
@@ -263,7 +274,9 @@
 + [Gameboy 模拟器](https://github.com/HFO4/gameboy.live)：如果我说你能在终端上用 Gameboy 来玩游戏，你可能会大吃一惊。但，生命不息，折腾不止，这玩意确实被重庆大学的一位大二学生给整出来了。
 + [扫雷](http://muan.github.io/emoji-minesweeper/)：作为一款在当年霸屏 Windows 机器的小游戏，相信不少人都不会感到陌生。这款结合了当下比较新颖的 emoji 表情元素，重现了当年的经典。
 + [在线玩中文 DOS](https://dos.zczc.cz/)：国内一位老玩家，出于对 DOS 游戏的怀念，在 GitHub 上开源了这个项目。
-
++ [Deep Flow-Guided Video Inpainting](https://github.com/nbei/Deep-Flow-Guided-Video-Inpainting)：CVPR2019 一篇论文的开源代码，名叫光流引导 (Flow-Guided) 的视频修复算法，可以将视频中的人物抹去，而且毫无违和感，让人物消失的无影无踪
++ [TfPyth](https://github.com/BlackHC/TfPyTh)：一行代码切换TensorFlow与PyTorch，模型训练也能用俩框架
++ [Speech Driven Animation](https://github.com/DinoMan/speech-driven-animation)：进化版的造价AI，只要一张照片，说话唱歌视频自动生成，降维打击Deepfakes
 <a class="toc" id ="15"></a>
 # 可视化 👀
 [🔙](#table-of-contents)
@@ -331,6 +344,8 @@
 [🔙](#table-of-contents)
 
 + [Learn Git Branching](https://learngitbranching.js.org/)：一个用于学习 Git 的交互式学习网站，[GitHub](https://github.com/pcottle/learnGitBranching)上收获了:star:一万多
++ [Nazo Game](http://nazo.one-story.cn/)：这是一个在线解谜游戏，画风简洁，部分关卡需要具备一定的web知识。url地址直接访问，打开浏览器调试等操作都是解谜必要的。对于web开发人员来说非常值得一玩
++ [Robocode](https://sourceforge.net/projects/robocode/)：Robocode是一款编程游戏，你可以通过开发代码来创造你自己的机器人坦克，用于消灭其他坦克。它主要使用Java语言来创建属于你自己的机器人。
 + [Coding Games](http://www.codingame.com/)：Coding games支持包括PHP、C、JavaScript在内的20多种编程语言。用户界面功能强大，可以定制。例如，你可以选择你的代码编辑器的风格：Emacs、Vim、Classic。如果你想提升编程技能，玩Coding games是一种有趣的途径
 + [CodeCombat（极客战记）](https://codecombat.163.com/)：CodeCombat 是一款网页编程游戏。这款编程游戏借鉴了游戏的很多设计元素，游戏剧情十分丰富。当你打开CodeCombat网站，你不会觉得这是一个让你看不懂的代码学习网站，因为他的网站外观看起来就像是一个魔兽争霸风格的线上游戏，而且当你实际玩玩看，你会发现过程真的就是英雄要去打怪、寻宝与解谜，只是搭配了程序语言的学习。CodeCombat能够学习 Python、JavaScript、Lua、CoffeeScript、Clojure 等不同程序语言，这些语言能够运用到游戏设计、网页应用、App 的开发上。[极客战记（中国版CodeCombat）网址](http://codecombat.163.com/)
 + [Screeps](https://screeps.com/)：如果你想学习JavaScript，那Screeps是一个很好的选择，Screeps 是一个为 JavaScript 程序员准备的大型多人在线游戏(MMO)。这个游戏是一个开放的策略游戏，游戏中你控制的单位被称为“creeps”，它可以帮你获得资源、建立自己的领地等等。作为一个多人在线游戏，游戏中你的creeps会被其他玩家的creeps包围
@@ -369,8 +384,9 @@
 + [LeetCode](https://leetcode.com/)：这个网站是为了帮助程序员准备面试而创建的。在这里你可以找到不同领域的典型问题
 + [Career Cup](https://www.careercup.com/)：程序员面试时最容易被问到的真实问题
 + [Kodable](https://www.kodable.com/)：Kodable是一款适用于 5 岁及以上儿童的教育型 iPad 游戏，适合为儿童进行编程启蒙
-+ [Lightbot](https://lightbot.com/)：Lightbot是一款移动端游戏，玩家通过控制机器人的移动在固定位置点亮灯泡
++ [Lightbot](https://lightbot.com/)：Lightbot是一款移动端游戏，玩家通过控制机器人的移动在固定位置点亮灯泡。[在线地址](http://lightbot.com/flash.html)
 + [Box Island](https://boxisland.io/)：Box Island 是一款经典且屡获殊荣的移动端编程冒险游戏，这款游戏在为孩子们带来令人兴奋的冒险体验的同时， 向他们介绍编程的基础知识。 
+
 
 <a class="toc" id ="20"></a>
 # 其他 ❓
@@ -390,7 +406,7 @@
 + [Advanced Java](https://github.com/doocs/advanced-java)：GitHub:star:两万五，互联网 Java 工程师进阶知识完全扫盲：涵盖高并发、分布式、高可用、微服务等领域知识，后端同学必看，前端同学也可学习
 
 <a class="toc" id ="21"></a>
-# 更新时间 🕰 ：2019/8/11
+# 更新时间 🕰 ：2019/8/15
 [🔙](#table-of-contents)
 
 
