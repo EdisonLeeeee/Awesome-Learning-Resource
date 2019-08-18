@@ -20,7 +20,7 @@
 + [工作面试 💼](#18)
 + [Learn by Game 👾](#19)
 + [其他 ❓](#20)
-+ [更新时间 🕰 ：2019/8/15](#21)
++ [更新时间 🕰 ：2019/8/18](#21)
 
 <a class="toc" id ="1"></a>
 # 前言
@@ -42,6 +42,7 @@
 + [PowerShell教程](https://www.pstips.net/powershell-online-tutorials)：PowerShell在线中文教程
 + [SQL Bolt](https://sqlbolt.com/)：国外的一个网站，通过简单的交互式练习学习SQL
 + [Regex101](https://regex101.com/)：一个在线正则表达式学习（转换）网站，还可以将你的正则表达式转换为各种语言的代码
++ [Learn Regex](https://github.com/ziishaned/learn-regex)：无论你使用的是 Python、Java、Perl 还是 Shell，正则表达式是学习主流编程语言几乎绕不开的话题。有了它，就能帮你快速定位到符合筛选条件的文本内容。现在 GitHub 上的有个 2.4 万:star:的项目 learn-regex 解决了初学者的困难。最近这个教程刚完成了汉化工作，还附有在线练习，帮助初学者快速入门正则表达式
 + [Brilliant | Math and science done right](https://brilliant.org)：可以边打游戏边学习，包含数学、物理、逻辑、计算机
 + [3Blue1Brown](https://space.bilibili.com/88461692)：深入浅出、直观明了地分享了数学之美。3Blue1Brown中国官方B站账号，用动画的形式生动讲解了微积分的本质，线性代数等数学原理
 
@@ -190,6 +191,7 @@
 + [Tensorflow Cookbook](https://github.com/taki0112/Tensorflow-Cookbook)：这是一个易用的TensorFlow代码集，作者是来自韩国的AI研究科学家Junho Kim，内容涵盖了谱归一化卷积、部分卷积、pixel shuffle、几种归一化函数、tf-datasetAPI，等等
 + [Deep Learning With Keras Notebooks](https://github.com/erhwenkuo/deep-learning-with-keras-notebooks)：Jupyter notebooks for using & learning Keras 
 + [TfPyth](https://github.com/BlackHC/TfPyTh)：一行代码切换TensorFlow与PyTorch，模型训练也能用俩框架
++ [Float16 Quantization](https://www.tensorflow.org/lite/performance/post_training_quantization)：TensorFlow模型优化工具包又一员新添大将，训练后的半精度浮点量化（float16 quantization）工具，有了它，就能在几乎不损失模型精度的情况下，将模型压缩至一半大小，还能改善CPU和硬件加速器延迟。[Colab链接](https://colab.research.google.com/github/tensorflow/tensorflow/blob/master/tensorflow/lite/g3doc/performance/post_training_float16_quant.ipynb)
 
 <a class="toc" id ="10"></a>
 # PyTorch 学习 🇵🇹
@@ -239,10 +241,13 @@
 + [猴子老师Git教程](https://backlog.com/git-tutorial/cn/intro/intro1_1.html)：号称猴子都能懂的Git入门教程
 + [廖雪峰Git教程](https://www.liaoxuefeng.com/wiki/896043488029600)：廖雪峰Git教程，号称史上最浅显易懂的Git教程
 + [Pro Git 第二版](http://bit.ly/2H7A7Lg)：这本书被誉为 Git 学习的圣经，作者是 Scott Chacon 和 Ben Straub。Scott Chacon 在 GitHub 工作，自称 Git 的布道者。你可以在网站上免费阅读这本书，也可以下载他们提供的电子版本
-+ [git-recipes](http://bit.ly/2Z4jw0M)：童仲毅 (geeeeeeeeek@github) 对很多英文资料进行翻译、整理的集合教程。包含入门基础、进阶知识和应用范例。这些英文资料主要包括 GitHub 竞争者 Bitbucket 的 Git 教程
++ [git-recipes](http://bit.ly/2Z4jw0M)：童仲毅 (`geeeeeeeeek@github`) 对很多英文资料进行翻译、整理的集合教程。包含入门基础、进阶知识和应用范例。这些英文资料主要包括 GitHub 竞争者 Bitbucket 的 Git 教程
 + [Udacity Git 课程](http://bit.ly/2H5PZhi)：谷歌无人车之父 Sebastian Thrun 创办的 优达学城（Udacity）上面的 免费 Git 课程。这门课程由优达学城与 GitHub 共同制作，介绍进行版本控制的基础知识，重点讲解 Git 版本控制系统以及 GitHub 协作平台
 + [happypeter1983 的 Git 视频教程](http://bit.ly/2Z6rS87)：这份教程就更进阶了一些。讲到了一些高级命令的用法。当然还有其他学习资源。
 + [Oh shit, git!](http://ohshitgit.com/)：这个网站整理了一些 Git 新手在使用 Git 时常会遇到的各种突发状况，并贴心的给出了应对方案。
++ [gitignore](https://github.com/github/gitignore)：GitHub 官方开源的一个项目，这个项目为开发者编写好特定的 `.gitignore` 规则，做成了模板。开发者只需选择好自己的项目类别，将文件内容复制粘贴放到自己项目里面就可以用了,在上面，你可以找到目前所有主流语言的 .gitignore 模板。[在线生成网站](http://gitignore.io/)
++ [Readme Md Generator](https://github.com/kefranabg/readme-md-generator)：一名来自法国的小哥因为饱受重复编写 README 文档的折磨，在 GitHub 上开源了 readme-md-generator 这个工具。从项目名字便可以知道，它一个 README 文档生成器。其主要作用是通过命令行抓取项目的 package.json 和 git 配置信息，自动完成 README 文档的编写操作，Github上已获:star:五千多
++ [Repository Templates](https://github.blog/2019-06-06-generate-new-repositories-with-repository-templates/)：为了避免开发者做一些无用的重复性工作，GitHub 发布的一个新功能 - 模板仓库（repository templates）。这个功能可以将以往创建过的仓库标记成模板（template），这样在你下一次创建仓库的时候，就可以使用这个模板功能，快速生成具有和原仓库一样的目录与文件内容，每个模板仓库在 URL 末端带上 /generate 后，还可以将模板仓库通过链接分享给其他人，其它人在打开链接之后，便可以快速通过这个模板来创建新仓库
 
 <a class="toc" id ="13"></a>
 # 英语学习 🗣
@@ -277,6 +282,11 @@
 + [Deep Flow-Guided Video Inpainting](https://github.com/nbei/Deep-Flow-Guided-Video-Inpainting)：CVPR2019 一篇论文的开源代码，名叫光流引导 (Flow-Guided) 的视频修复算法，可以将视频中的人物抹去，而且毫无违和感，让人物消失的无影无踪
 + [TfPyth](https://github.com/BlackHC/TfPyTh)：一行代码切换TensorFlow与PyTorch，模型训练也能用俩框架
 + [Speech Driven Animation](https://github.com/DinoMan/speech-driven-animation)：进化版的造价AI，只要一张照片，说话唱歌视频自动生成，降维打击Deepfakes
++ [heartrate](https://github.com/alexmojaki/heartrate)：一个由国外大神制作的 Python 神工具，可以实时动态地监控 Python 程序的运行情况，逐行追踪代码的运行时间，整个过程是可视化的
++ [Grid studio](https://github.com/ricklamers/gridstudio)：GitHub上获:star:五千，一个基于网页的表格应用，完全结合了 Python 和 Excel 的优势，在一个界面上同时展示可视化表格与代码，而且同时通过表格与代码修改数据
++ [Dab And Tpose Controlled Lights](https://github.com/burningion/dab-and-tpose-controlled-lights)：国外一个沙雕小哥写的Python项目，手把手教大家训练一个神经网络模型，用来识别摄像头拍下的“舞步”，从而控制灯的开关。上面还包括了作者已经搜集到的原始数据样例
++ [Python Handout](https://github.com/danijar/handout)：谷歌大脑出品的一款工具，只要敲代码，就能在任何文本编辑器里方便的转换成标题、代码、文本等各种样式，还能直接运行处Python代码的结果，相当于一个没有hidden state的Jupyter笔记本
+
 <a class="toc" id ="15"></a>
 # 可视化 👀
 [🔙](#table-of-contents)
@@ -323,6 +333,7 @@
 + [Data Science Cheat Sheet](https://github.com/abhat222/Data-Science--Cheat-Sheet)：数据科学速查表，GitHub:star:八千多。内容几乎涵盖数据科学相关的所有领域，在理论应用方面包括大数据分析、数据挖掘、数据可视化、深度学习，机器学习等等；在编程语言与工具方面，包括Excel、SQL、Python、MATLAB、Linux；基础的学科知识包含统计学、数学、概率论。另外，就连面试问题都没放过
 + [Coding Interview University](https://github.com/jwasham/coding-interview-university)：GitHub:star:八万的项目，原名「Google 面试大学」。这份指南里面包含 Google 相关的介绍视频、面试过程、教学资源，同时也有数据结构、算法、密码学等计算机专业的知识讲解。[中文版指南链接](https://github.com/jwasham/coding-interview-university/blob/master/translations/README-cn.md)
 + [CS-Notes](https://github.com/CyC2018/CS-Notes)：GitHub上:star:七万多，Tech Interview Guide 技术面试必备基础知识、Leetcode 题解、Java、C++、Python、后端面试、操作系统、计算机网络、系统设计。[在线阅读链接](https://cyc2018.github.io/CS-Notes)
++ [Hacking a Google Interview](http://courses.csail.mit.edu/iap/interview/index.php)：谷歌面试编程题及解题技巧（MIT版），重点介绍科技公司在面试时经常出现的计算机科学问题，其中包括时间复杂度、哈希表、二进制树搜索，以及 MIT「算法设计与分析」（MIT 6.046）课程中会出现的内容。但是，大部分时间都会专注于你不会在课堂上学到的内容，例如刁钻的按位逻辑和解决问题的技巧。
 + [A-to-Z-Resources-for-Students](https://github.com/dipakkr/A-to-Z-Resources-for-Students)：GitHub:star:七千，一位国外小哥整理的一份超级全面的计算机学习资源，主要面向人群是学生，但其实上面的内容也可以适用于普通程序员
 该资料主要包含以下内容：
     + 编程学习资源
@@ -406,7 +417,7 @@
 + [Advanced Java](https://github.com/doocs/advanced-java)：GitHub:star:两万五，互联网 Java 工程师进阶知识完全扫盲：涵盖高并发、分布式、高可用、微服务等领域知识，后端同学必看，前端同学也可学习
 
 <a class="toc" id ="21"></a>
-# 更新时间 🕰 ：2019/8/15
+# 更新时间 🕰 ：2019/8/18
 [🔙](#table-of-contents)
 
 
