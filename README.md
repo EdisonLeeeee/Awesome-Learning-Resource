@@ -20,7 +20,7 @@
 + [工作面试 💼](#18)
 + [Learn by Game 👾](#19)
 + [其他 ❓](#20)
-+ [更新时间 🕰 ：2019/8/18](#21)
++ [更新时间 🕰 ：2019/8/25](#21)
 
 <a class="toc" id ="1"></a>
 # 前言
@@ -143,6 +143,7 @@
 + [UCL Course on RL](http://www0.cs.ucl.ac.uk/staff/d.silver/web/Teaching.html)：David Silver 的强化学习课程
 + [Reinforcement Learning: An introduction](http://incompleteideas.net/book/RLbook2018.pdf)：Richard Sutton 和 Andrew Barto的《强化学习：简介（第二版）》
 + [Reinforcement Learning](https://github.com/dennybritz/reinforcement-learning)：Denny Britz 亲自 用 Python，OpenAI Gym 和 Tensorflow 实现了上述两份教材资源的大多数标准强化算法，并把它们都共享了出来，方便大家配合教材食用。在这份万星资源里，每个文件夹都对应着教材的一个或多个章节。除了练习和解决方案之外，每个文件夹下还包含了一系列学习目标，基础概念摘要，以及相关链接。GitHub已收获一万多的:star:
++ [Models – IBM Developer](https://developer.ibm.com/exchanges/models/all/)：IBM开放的预训练深度模型库，目前一共有32个模型，分为可部署和可训练模型两类，涉及18个领域
 
 <a class="toc" id ="7"></a>
 # Graph Neural Network 🗺
@@ -192,6 +193,9 @@
 + [Deep Learning With Keras Notebooks](https://github.com/erhwenkuo/deep-learning-with-keras-notebooks)：Jupyter notebooks for using & learning Keras 
 + [TfPyth](https://github.com/BlackHC/TfPyTh)：一行代码切换TensorFlow与PyTorch，模型训练也能用俩框架
 + [Float16 Quantization](https://www.tensorflow.org/lite/performance/post_training_quantization)：TensorFlow模型优化工具包又一员新添大将，训练后的半精度浮点量化（float16 quantization）工具，有了它，就能在几乎不损失模型精度的情况下，将模型压缩至一半大小，还能改善CPU和硬件加速器延迟。[Colab链接](https://colab.research.google.com/github/tensorflow/tensorflow/blob/master/tensorflow/lite/g3doc/performance/post_training_float16_quant.ipynb)
++ [TensorFlow Hub](https://www.tensorflow.org/hub)：TensorFlow Hub是一个库，用于发布、发现和使用机器学习模型中可重复利用的部分。[GitHub地址](https://github.com/tensorflow/hub)
++ [TensorFlow Models](https://github.com/tensorflow/models/)：一个GitHub上的存储库，包含了许多在TensorFlow中实现的模型，一共分为两类：官方模型和研究模型。官方模型，是使用TensorFlow的高级API的示例模型的集合。研究模型，是研究人员在TensorFlow中实现的大量模型集合
++ [Model Zoo](https://modelzoo.co/)：这个平台，由新加坡名为Jing Yu Koh本科生牵头搭建。与上述的几个平台不同，这个平台上提供预训练模型，不仅仅只是完全针对于Pytorch或者TensorFlow
 
 <a class="toc" id ="10"></a>
 # PyTorch 学习 🇵🇹
@@ -207,6 +211,8 @@
 + [Python Autocomplete](https://github.com/vpj/python_autocomplete/blob/master/extract_code.py)：一个利用 PyTorch 写的自动补全代码的小项目
 + [Pytorch Geometric](https://github.com/rusty1s/pytorch_geometric)：近几年来，图神经网络（GNN）在推荐系统、搜索引擎、计算机视觉等领域中都引起了较大的关注。Github有大量开源GNN实现，其中pytorch_geometric是最优秀的实现之一，曾被Yann LeCun推荐，GitHub上获:star:近五千
 + [TfPyth](https://github.com/BlackHC/TfPyTh)：一行代码切换TensorFlow与PyTorch，模型训练也能用俩框架
++ [PyTorch Hub](https://pytorch.org/hub)：PyTorch Hub是一个简易API和工作流程，为复现研究提供了基本构建模块，包含预训练模型库。PyTorch Hub支持Colab，能与论文代码结合网站Papers With Code集成，用于更广泛的研究。[GitHub地址](https://github.com/pytorch/hub)
++ [Model Zoo](https://modelzoo.co/)：这个平台，由新加坡名为Jing Yu Koh本科生牵头搭建。与上述的几个平台不同，这个平台上提供预训练模型，不仅仅只是完全针对于Pytorch或者TensorFlow
 
 <a class="toc" id ="11"></a>
 # 课程学习资源👨‍🎓
@@ -286,6 +292,8 @@
 + [Grid studio](https://github.com/ricklamers/gridstudio)：GitHub上获:star:五千，一个基于网页的表格应用，完全结合了 Python 和 Excel 的优势，在一个界面上同时展示可视化表格与代码，而且同时通过表格与代码修改数据
 + [Dab And Tpose Controlled Lights](https://github.com/burningion/dab-and-tpose-controlled-lights)：国外一个沙雕小哥写的Python项目，手把手教大家训练一个神经网络模型，用来识别摄像头拍下的“舞步”，从而控制灯的开关。上面还包括了作者已经搜集到的原始数据样例
 + [Python Handout](https://github.com/danijar/handout)：谷歌大脑出品的一款工具，只要敲代码，就能在任何文本编辑器里方便的转换成标题、代码、文本等各种样式，还能直接运行处Python代码的结果，相当于一个没有hidden state的Jupyter笔记本
++ [SickZil Machine](https://github.com/KUR-creative/SickZil-Machine)：一群韩国小伙伴开发的一个完全自动消除漫画文字的 AI；但如果人类需要，也可以手动指定消除某一部分文字。
++ [rps_tfjs_demo](https://github.com/GantMan/rps_tfjs_demo)：10 分钟内在浏览器中训练一个剪刀石头布识别模型教程，该项目使用了 TensorFlow.js，所有繁重的工作都发生在浏览器和 JavaScript 中。[数据集地址](http://www.laurencemoroney.com/rock-paper-scissors-dataset/)
 
 <a class="toc" id ="15"></a>
 # 可视化 👀
@@ -301,6 +309,15 @@
 + [PyCharts](https://pyecharts.org/#/)：Echarts 是一个由百度开源的数据可视化，凭借着良好的交互性，精巧的图表设计，得到了众多开发者的认可。而 Python 是一门富有表达力的语言，很适合用于数据处理。当数据分析遇上数据可视化时，pyecharts 诞生了。简而言之，这是一个类似Matplotlib，可以利用Python画图的工具库
 + [Draw Convnet](https://github.com/gwding/draw_convnet)：画卷积神经网络(ConvNet)结构图的Python脚本
 + [ConvNet Drawer](https://github.com/yu4u/convnet-drawer)：描述卷积神经网络(CNN)结构的Python脚本。灵感来自上述的Draw Convne项目
++ [NN-SVG](http://alexlenail.me/NN-SVG/)：这个工具可以非常方便的画出各种类型的图，开发者来自于麻省理工学院弗兰克尔生物工程实验室, 该实验室开发可视化和机器学习工具用于分析生物数据。可以绘制的图包括以节点形式展示的FCNN style，这个特别适合传统的全连接神经网络的绘制。[github地址](https://github.com/zfrenchee)
++ [PlotNeuralNet](https://github.com/HarisIqbal88/PlotNeuralNet)：这个工具是萨尔大学计算机科学专业的一个学生开发的，使用的门槛相对来说就高一些了，用LaTex语言编辑，所以可以发挥的空间就大了。[类似工具：tikz_cnn](https://github.com/jettan/tikz_cnn)
++ [ConvNetDraw](https://cbovar.github.io/ConvNetDraw/)：ConvNetDraw是一个使用配置命令的CNN神经网络画图工具，开发者是香港的一位程序员
++ [Draw_Convnet](https://github.com/gwding/draw_convnet)：这一个工具名叫draw_convnet，由Borealis公司的员工Gavin Weiguang Ding提供。简单直接，是纯用python代码画图的，核心工具是matplotlib，图不酷炫，但是好在规规矩矩，可以严格控制，论文用挺合适的。[类似工具：convnet-drawer](https://github.com/yu4u/convnet-drawer)
++ [Netscope](https://github.com/ethereon/netscope)：caffe的网络结构可视化工具，大名鼎鼎的netscope，由斯坦福AILab的Saumitro Dasgupta开发
++ [Vis Conv](http://scs.ryerson.ca/~aharley/vis/conv/)：一个有意思的画图工具，不是画什么正经图，但是把权重都画出来了
+
+
+
 
 <a class="toc" id ="16"></a>
 # 论文辅助工具 📄
@@ -415,9 +432,19 @@
 + [remove.bg](https://www.remove.bg/)：一个可以在线免费消除图片背景的网站，并且提供API供批量处理图片使用（收费），简单方便（只需几秒钟，但效果强大
 + [伯乐在线](https://github.com/jobbole/)：伯乐在线翻译组，GitHub上翻译了多个学习资源仓库，内含大量学习资源
 + [Advanced Java](https://github.com/doocs/advanced-java)：GitHub:star:两万五，互联网 Java 工程师进阶知识完全扫盲：涵盖高并发、分布式、高可用、微服务等领域知识，后端同学必看，前端同学也可学习
++ [Machine learning datasets](https://www.datasetlist.com/)：这个网站上共收集到了100多个业界最大型的数据集。根据任务类别，这些数据集中又分为三大类：计算机视觉（CV）、自然语言处理（NLP）和音频数据集
++ [Networkrepository](http://networkrepository.com/index.php)：第一个具有实时可视化分析功能的交互式数据和网络数据存储库。里面有许多Graph相关的数据集
++ [Free Books](https://github.com/ruanyf/free-books)：阮一峰老师在 GitHub 上整理了他平时所发现的一些免费技术书籍。书籍列表包括 Web 开发、人工智能、系统管理等内容，覆盖面颇广
++ [Ultimate Go](https://github.com/hoanhan101/ultimate-go)：网友hoanhan101分享的一份完整Go语言学习笔记，里面记录了他从零开始学习Go语言时所用的方法，以及对应全部学习资料。Hackernews热度1天升至400，好评如潮
++ [Learn Go with Tests](https://github.com/quii/learn-go-with-tests)：Hackernews 上用户@olah_1推荐的一个Go语言课程，表示：Learn Go with Tests是我经历过的最好的编程语言课程
++ [Introducing Go](http://shop.oreilly.com/product/0636920046516.do)：如果搞不明白Go是什么，可以去OReilly上资料
++ [Gotraining](https://github.com/ardanlabs/gotraining)：一个GitHub上5000+star的课程培训，Ardan Labs机构
++ [Roadmap](https://github.com/dzyanis/roadmap)：网友贡献自制Go学习思维导图
++ [Web Dev Golang Anti Textbook](https://github.com/thewhitetulip/web-dev-golang-anti-textbook)：学习如何在没有框架的情况下用Go语言编写web app
++ [hackernews讨论区](https://news.ycombinator.com/item?id=20701671)：hackernews 上的 Go 讨论区
 
 <a class="toc" id ="21"></a>
-# 更新时间 🕰 ：2019/8/18
+# 更新时间 🕰 ：2019/8/25
 [🔙](#table-of-contents)
 
 
