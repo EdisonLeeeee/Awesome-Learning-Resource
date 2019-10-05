@@ -6,21 +6,23 @@
 + [Python 爬虫 🕷](#4)
 + [算法 💡](#5)
 + [机器学习 深度学习 数据挖掘 🤖](#6)
-+ [Graph Neural Network 🗺](#7)
-+ [Generative Adversarial Networks (GANs) 🤜 🤛](#8)
-+ [TensorFlow 学习 🇹🇫](#9)
-+ [PyTorch 学习 🇵🇹](#10)
-+ [课程学习资源👨‍🎓](#11)
-+ [Git 👬](#12)
-+ [英语学习 🗣](#13)
-+ [GitHub 👬](#14)
-+ [可视化 👀](#15)
-+ [论文辅助工具 📄](#16)
-+ [下载资源 📥](#17)
-+ [工作面试 💼](#18)
-+ [Learn by Game 👾](#19)
-+ [其他 ❓](#20)
-+ [更新时间 🕰 ：2019/8/25](#21)
++ [强化学习 💪](#7)
++ [Graph Neural Network 🗺](#8)
++ [Generative Adversarial Networks (GANs) 🤜 🤛](#9)
++ [TensorFlow 学习 🇹🇫](#10)
++ [PyTorch 学习 🇵🇹](#11)
++ [课程学习资源👨‍🎓](#12)
++ [Git 👬](#13)
++ [英语学习 🗣](#14)
++ [GitHub 👬](#15)
++ [可视化 👀](#16)
++ [论文辅助工具 📄](#17)
++ [下载资源 📥](#18)
++ [工作面试 💼](#19)
++ [Learn by Game 👾](#20)
++ [数据集 📊](#21)
++ [其他 ❓](#22)
++ [更新时间 🕰 ：2019/10/05](#23)
 
 <a class="toc" id ="1"></a>
 # 前言
@@ -68,6 +70,10 @@
 + [Python Cheatsheet](https://github.com/gto76/python-cheatsheet): 全面的Python备忘单，内含超全代码示例。基于Python 3.6打造，未来将会进一步丰富，添加Asyncio等内容。GitHub上获:star:4600。[文本下载链接](https://raw.githubusercontent.com/gto76/python-cheatsheet/master/README.md)
 + [Develop with Python on Windows](https://docs.microsoft.com/zh-cn/windows/python/)：在 Windows 上做 Python 开发太痛苦？微软最近发布了一系列官方教程，这些教程将指导使用者如何设置开发环境、是否在原生 Windows 或 Windows Subsystem for Linux (WSL) 系统上安装自己的工具，以及如何集成 VS Code、Git 等工具
 + [Awesome Python cn](https://github.com/jobbole/awesome-python-cn)：Python资源大全中文版，包括：Web框架、网络爬虫、模板引擎、数据库、数据可视化、图片处理等，由伯乐在线持续更新。GitHub:star:一万五
++ [30-seconds-of-python](https://github.com/30-seconds/30-seconds-of-python)：一组有用的Python代码片段，可以在30秒或更少的时间内理解它们。
++ [Intro to Python Development](https://channel9.msdn.com/Series/Intro-to-Python-Development)：微软出品，文科生也能学得懂的Python免费入门视频。[代码地址](https://github.com/microsoft/c9-python-getting-started)
++ [Python Tutorials Home](https://data-flair.training/blogs/python-tutorials-home/)：data-flair上推出的一个240多个的Python编程入门课程
+
 
 <a class="toc" id ="4"></a>
 # Python 爬虫 🕷
@@ -140,12 +146,24 @@
 + [Awesome Machine Learning cn](https://github.com/jobbole/awesome-machine-learning-cn)：机器学习资源大全中文版，包括机器学习领域的框架、库以及软件。GitHub:star:三千
 + [Machine Learning Learning Notes](https://github.com/Vay-keen/Machine-learning-learning-notes)：周志华《机器学习》的学习笔记，记录了作者在学习这本书的过程中的理解思路以及一些有助于消化书内容的拓展知识，笔记中参考了许多网上的大牛经典博客以及李航《统计学习》的内容
 + [Scratch Mlp](https://github.com/omar-florez/scratch_mlp)：GitHub的教程——神经网络的数学图解，详细介绍了浅层神经网络的定义、初始化、前向传播、反向传播的细节以及代码实现，和实验结果，手把手介绍其数学原理。
+
++ [Models – IBM Developer](https://developer.ibm.com/exchanges/models/all/)：IBM开放的预训练深度模型库，目前一共有32个模型，分为可部署和可训练模型两类，涉及18个领域
++ [SOTA](https://www.jiqizhixin.com/sota)：机器之心出品的机器学习中state-of-the-art论文和模型搜索工具
+
+
+
+<a class="toc" id ="7"></a>
+# 强化学习 💪
+[🔙](#table-of-contents)
 + [UCL Course on RL](http://www0.cs.ucl.ac.uk/staff/d.silver/web/Teaching.html)：David Silver 的强化学习课程
 + [Reinforcement Learning: An introduction](http://incompleteideas.net/book/RLbook2018.pdf)：Richard Sutton 和 Andrew Barto的《强化学习：简介（第二版）》
 + [Reinforcement Learning](https://github.com/dennybritz/reinforcement-learning)：Denny Britz 亲自 用 Python，OpenAI Gym 和 Tensorflow 实现了上述两份教材资源的大多数标准强化算法，并把它们都共享了出来，方便大家配合教材食用。在这份万星资源里，每个文件夹都对应着教材的一个或多个章节。除了练习和解决方案之外，每个文件夹下还包含了一系列学习目标，基础概念摘要，以及相关链接。GitHub已收获一万多的:star:
-+ [Models – IBM Developer](https://developer.ibm.com/exchanges/models/all/)：IBM开放的预训练深度模型库，目前一共有32个模型，分为可部署和可训练模型两类，涉及18个领域
++ [Rainbow is All You Need](https://nbviewer.jupyter.org/github/Curt-Park/rainbow-is-all-you-need/tree/master/)：一份用 Jypyter Notebook 写的深度强化学习（Deep Reiforcement Learning）笔记，背景理论、代码实现全都有，手把手教你从 DQN 到Rainbow 。 [GitHub地址](https://github.com/Curt-Park/rainbow-is-all-you-need)
++ [Practical_RL](https://github.com/yandexdataschool/Practical_RL)：Github上一份强化学习教程
 
-<a class="toc" id ="7"></a>
+
+
+<a class="toc" id ="8"></a>
 # Graph Neural Network 🗺
 [🔙](#table-of-contents)
 
@@ -163,7 +181,7 @@
 + [Must-read papers and continuous tracking on Graph Neural Network(GNN) progress](https://github.com/jdlc105/Must-read-papers-and-continuous-tracking-on-Graph-Neural-Network-GNN-progress/blob/master/README.md)：Github上的图神经网络必读论文和最新进展列表 
 + [Pytorch Geometric](https://github.com/rusty1s/pytorch_geometric)：近几年来，图神经网络（GNN）在推荐系统、搜索引擎、计算机视觉等领域中都引起了较大的关注。Github有大量开源GNN实现，其中pytorch_geometric是最优秀的实现之一，曾被Yann LeCun推荐，GitHub上获:star:近五千
 
-<a class="toc" id ="8"></a>
+<a class="toc" id ="9"></a>
 # Generative Adversarial Networks (GANs) 🤜 🤛
 [🔙](#table-of-contents)
 
@@ -174,7 +192,7 @@
 + [CycleGAN Tutorial](https://www.tensorflow.org/beta/tutorials/generative/cyclegan)：官方资源帖，手把手教你在TensorFlow 2.0中实现CycleGAN，这份教程全面详细，想学CycleGAN不能错过这个。[GitHub地址](https://github.com/tensorflow/docs/blob/master/site/en/r2/tutorials/generative/cyclegan.ipynb)
 + [GAN Overview Chinese (pdf)](https://github.com/Morde-kaiser/LearningNotes/blob/master/GAN-Overview-Chinese.pdf)：万字综述之生成对抗网络（GAN）
 
-<a class="toc" id ="9"></a>
+<a class="toc" id ="10"></a>
 # TensorFlow 学习 🇹🇫
 [🔙](#table-of-contents)
 
@@ -196,8 +214,17 @@
 + [TensorFlow Hub](https://www.tensorflow.org/hub)：TensorFlow Hub是一个库，用于发布、发现和使用机器学习模型中可重复利用的部分。[GitHub地址](https://github.com/tensorflow/hub)
 + [TensorFlow Models](https://github.com/tensorflow/models/)：一个GitHub上的存储库，包含了许多在TensorFlow中实现的模型，一共分为两类：官方模型和研究模型。官方模型，是使用TensorFlow的高级API的示例模型的集合。研究模型，是研究人员在TensorFlow中实现的大量模型集合
 + [Model Zoo](https://modelzoo.co/)：这个平台，由新加坡名为Jing Yu Koh本科生牵头搭建。与上述的几个平台不同，这个平台上提供预训练模型，不仅仅只是完全针对于Pytorch或者TensorFlow
++ [Tensorflow 2.0 迁移指南](https://www.tensorflow.org/guide/migrate)：近期 Tensorflow 2.0正式版已经推出，如果你使用过tensorflow 1.x，这是一个迁移到2.0的官方指南
++ [effective_tf2](https://www.tensorflow.org/guide/effective_tf2)：一个方便的指南，了解如何有效使用TensorFlow 2.0中的所有新功能
++ [models-datasets](https://www.tensorflow.org/resources/models-datasets)：为了简化TensorFlow 2.0的入门工作，官方发布了几个使用2.0 API的常用ML模型的参考实现
++ [introduction-tensorflow](https://www.coursera.org/learn/introduction-tensorflow)：免费 Tensorflow 课程
++ [intro-to-tensorflow-for-deep-learning--ud187](https://www.udacity.com/course/intro-to-tensorflow-for-deep-learning--ud187)：另一个免费 Tensorflow 课程
++ [Tensorflow 2.0 is now available](https://medium.com/tensorflow/tensorflow-2-0-is-now-available-57d706c2a9ab)：官方博客，介绍Tensorflow 2.0
++ [Tensorflow 2.0](https://github.com/tensorflow/tensorflow/releases/tag/v2.0.0)：GitHub上Tensorflow 2.0 源码
++ [Hands-on TensorFlow 2.0](https://storage.googleapis.com/applied-dl/SciPy_Tokyo.pdf)：TensorFlow 2.0 实操教程
++ [Chollet推特](https://twitter.com/fchollet/status/1105139360226140160)：谷歌深度学习研究员、“Keras之父”François Chollet发表推特，总结了一份TensorFlow 2.0 + Keras做深度学习研究的速成指南。[Google Colab Notebook地址](https://colab.research.google.com/drive/17u-pRZJnKN0gO5XZmq8n5A2bKGrfKEUg#scrollTo=rwREGJ7Wiyl9)
 
-<a class="toc" id ="10"></a>
+<a class="toc" id ="11"></a>
 # PyTorch 学习 🇵🇹
 [🔙](#table-of-contents)
 
@@ -213,8 +240,11 @@
 + [TfPyth](https://github.com/BlackHC/TfPyTh)：一行代码切换TensorFlow与PyTorch，模型训练也能用俩框架
 + [PyTorch Hub](https://pytorch.org/hub)：PyTorch Hub是一个简易API和工作流程，为复现研究提供了基本构建模块，包含预训练模型库。PyTorch Hub支持Colab，能与论文代码结合网站Papers With Code集成，用于更广泛的研究。[GitHub地址](https://github.com/pytorch/hub)
 + [Model Zoo](https://modelzoo.co/)：这个平台，由新加坡名为Jing Yu Koh本科生牵头搭建。与上述的几个平台不同，这个平台上提供预训练模型，不仅仅只是完全针对于Pytorch或者TensorFlow
++ [PyTorchDocs](https://github.com/fendouai/PyTorchDocs)：PyTorch 官方中文教程包含 60 分钟快速入门教程，强化教程，计算机视觉，自然语言处理，生成对抗网络，强化学习。
 
-<a class="toc" id ="11"></a>
+
+
+<a class="toc" id ="12"></a>
 # 课程学习资源👨‍🎓
 [🔙](#table-of-contents)
 
@@ -237,7 +267,7 @@
 + [OKAI](https://okai.brown.edu/zh/index.html)：通过交互动画的形式来科普人工智能的历史，应用和主要算法（深度学习算法）的基础原理。OKAI摒弃了那些复杂的数学公式，采用轻松有趣的动画形式来讲解人工智能的相关概念。
 + [Seeing Theory](https://seeing-theory.brown.edu/cn.html#firstPage)：来自斯坦福大学的一位研究生和他的伙伴们开发了一本颇有新意的统计概率入门教材，与传统教材不同的是，这本书充分利用了数据可视化技术，交互性和趣味性都非常强，可以边读边玩。[书籍下载地址](https://seeing-theory.brown.edu/doc/seeing-theory.pdf)
 
-<a class="toc" id ="12"></a>
+<a class="toc" id ="13"></a>
 # Git 👬
 [🔙](#table-of-contents)
 
@@ -254,8 +284,9 @@
 + [gitignore](https://github.com/github/gitignore)：GitHub 官方开源的一个项目，这个项目为开发者编写好特定的 `.gitignore` 规则，做成了模板。开发者只需选择好自己的项目类别，将文件内容复制粘贴放到自己项目里面就可以用了,在上面，你可以找到目前所有主流语言的 .gitignore 模板。[在线生成网站](http://gitignore.io/)
 + [Readme Md Generator](https://github.com/kefranabg/readme-md-generator)：一名来自法国的小哥因为饱受重复编写 README 文档的折磨，在 GitHub 上开源了 readme-md-generator 这个工具。从项目名字便可以知道，它一个 README 文档生成器。其主要作用是通过命令行抓取项目的 package.json 和 git 配置信息，自动完成 README 文档的编写操作，Github上已获:star:五千多
 + [Repository Templates](https://github.blog/2019-06-06-generate-new-repositories-with-repository-templates/)：为了避免开发者做一些无用的重复性工作，GitHub 发布的一个新功能 - 模板仓库（repository templates）。这个功能可以将以往创建过的仓库标记成模板（template），这样在你下一次创建仓库的时候，就可以使用这个模板功能，快速生成具有和原仓库一样的目录与文件内容，每个模板仓库在 URL 末端带上 /generate 后，还可以将模板仓库通过链接分享给其他人，其它人在打开链接之后，便可以快速通过这个模板来创建新仓库
++ [Git 基本操作](https://www.processon.com/view/5d43d213e4b0e42f2a2ba9b9?fromnew=1#map)：一张 Git 基本操作的速查表（脑图）
 
-<a class="toc" id ="13"></a>
+<a class="toc" id ="14"></a>
 # 英语学习 🗣
 [🔙](#table-of-contents)
 
@@ -264,7 +295,7 @@
 + [English level up tips for Chinese](https://github.com/byoungd/English-level-up-tips-for-Chinese)：Github上一个:star:一万七的英语学习项目，可能是让你受益匪浅的英语进阶指南。[GitBook地址](https://byoungd.gitbook.io/english-level-up-tips/)
 + [Chinese Programmer Wrong Pronunciation](https://github.com/shimohq/chinese-programmer-wrong-pronunciation)：GitHub上一个:star:近万的英语学习项目，收集了中国程序员容易发音错误的单词
 
-<a class="toc" id ="14"></a>
+<a class="toc" id ="15"></a>
 # GitHub 👬
 [🔙](#table-of-contents)
 
@@ -295,7 +326,7 @@
 + [SickZil Machine](https://github.com/KUR-creative/SickZil-Machine)：一群韩国小伙伴开发的一个完全自动消除漫画文字的 AI；但如果人类需要，也可以手动指定消除某一部分文字。
 + [rps_tfjs_demo](https://github.com/GantMan/rps_tfjs_demo)：10 分钟内在浏览器中训练一个剪刀石头布识别模型教程，该项目使用了 TensorFlow.js，所有繁重的工作都发生在浏览器和 JavaScript 中。[数据集地址](http://www.laurencemoroney.com/rock-paper-scissors-dataset/)
 
-<a class="toc" id ="15"></a>
+<a class="toc" id ="16"></a>
 # 可视化 👀
 [🔙](#table-of-contents)
 
@@ -315,19 +346,30 @@
 + [Draw_Convnet](https://github.com/gwding/draw_convnet)：这一个工具名叫draw_convnet，由Borealis公司的员工Gavin Weiguang Ding提供。简单直接，是纯用python代码画图的，核心工具是matplotlib，图不酷炫，但是好在规规矩矩，可以严格控制，论文用挺合适的。[类似工具：convnet-drawer](https://github.com/yu4u/convnet-drawer)
 + [Netscope](https://github.com/ethereon/netscope)：caffe的网络结构可视化工具，大名鼎鼎的netscope，由斯坦福AILab的Saumitro Dasgupta开发
 + [Vis Conv](http://scs.ryerson.ca/~aharley/vis/conv/)：一个有意思的画图工具，不是画什么正经图，但是把权重都画出来了
++ [Matplotlib 入门教程](https://wizardforcel.gitbooks.io/matplotlib-intro-tut/content/)：一个私人Matplotlib 入门教程项目
++ [kepler.gl](https://github.com/keplergl/kepler.gl)：一款强大的开源地理空间分析工具，用于大规模数据集
++ [Graphviz](http://www.graphviz.org/)：程序员的绘图利器，一个由AT&T实验室启动的开源工具包。Graphviz就是用来处理Dot（一种非常简单的图形描述语言）的工具
++ [GraphvizOnline](https://dreampuf.github.io/GraphvizOnline/)：一个可以使用 Graphviz 在线画图的网页工具
++ [pdfresizer](https://pdfresizer.com/)：PDF剪裁工具，当你的图片出现白边的时候可以使用这个工具进行剪裁
 
-
-
-
-<a class="toc" id ="16"></a>
-# 论文辅助工具 📄
-[🔙](#table-of-contents)
-
-+ [易搜搭](http://www.esoda.org/)：专业英文论文写作助手，只需要输入你想表达的中文句子，该网站会检索各种论文找出相似英文表达，使你的英文论文写作不再生硬
-+ [Conference List](http://www.conferencelist.info/upcoming.html)：计算机各领域会议的时间表
-+ [latex 代码转换器 - Mathpix](https://mathpix.com/)：如果你经常用 latex 编写文档，那你一定得安装下 Mathpix。这款工具能将带数学公式的截图一键转成 latex 代码，帮你省下很多时间，堪称神器！
 
 <a class="toc" id ="17"></a>
+# 论文辅助工具 📄
+[🔙](#table-of-contents)
++ [Google Scholar](https://scholar.google.com/)：谷歌学术
++ [易搜搭](http://www.esoda.org/)：专业英文论文写作助手，只需要输入你想表达的中文句子，该网站会检索各种论文找出相似英文表达，使你的英文论文写作不再生硬
++ [Conference List](http://www.conferencelist.info/upcoming.html)：计算机各领域会议的时间表
++ [latex 代码转换器 - Mathpix](https://mathpix.com/)：如果你经常用 latex 编写文档，那你一定得安装下 Mathpix。这款工具能将带数学公式的截图一键转成 latex 代码，帮你省下很多时间，堪称神器！（可惜现在收费了）
++ [Grammarly](https://www.grammarly.com)：Grammarly 是一款非常强大的语法改错软件，帮助润色英文表达。
++ [Ginger](http://www.gingersoftware.com)：Ginger 号称是世界上最好用的英文写作润色工具，除了提供单词拼写、语法检查功能外，还提供句子改写、翻译、词典和朗读功能。
++ [1Checker](http://www.1checker.com)：1Checker 是一款中文本土用于进行英语文本的纠错（包括拼写、语法、样式和句子不完整）和润色的软件，界面是中文的，简单易懂，操作方便。
++ [谷歌学术镜像](https://c.glgoo.top/scholar?hl=zh-CN&as_sdt=0,5)：一个谷歌学术的镜像网站，如果上不如谷歌学术的话可以用它作为替代
++ [Mathtex Tutorial](http://www.forkosh.com/mathtextutorial.html)：LaTex 数学公式在线转换，包括一些常用数学公式教程
++ [http://www.tablesgenerator.com/](http://www.tablesgenerator.com/)：：LaTex 表格在线生成器
+
+
+
+<a class="toc" id ="18"></a>
 # 下载资源 📥
 [🔙](#table-of-contents)
 
@@ -339,7 +381,10 @@
 + [Awesome Macos](https://github.com/iCHAIT/awesome-macOS)：GitHub上:star:九千多的项目，为macOS整理了一份很棒的应用程序、软件、工具和亮点的列表
 + [Awesome Linux Software](https://github.com/luong-komorebi/Awesome-Linux-Software)：GitHub上:star:一万多的项目与上面两个项目一样，这个清单中也提供了非常多 Linux 软件供参考软性。基于 Linux 本身强大的生态，该清单同时提供了巴西葡萄牙文、中文、西班牙文、泰文等多种语言版本供选择阅读。此外，该项目还提供了一些 Linux 操作系统学习资料，方便开发者进一步探索与 Linux 相关知识，可以说是非常贴心了
 
-<a class="toc" id ="18"></a>
+
+
+
+<a class="toc" id ="19"></a>
 # 工作面试 💼
 [🔙](#table-of-contents)
 
@@ -367,7 +412,7 @@
     + 编码训练营
     + 其它资源
 
-<a class="toc" id ="19"></a>
+<a class="toc" id ="20"></a>
 # Learn by Game 👾
 [🔙](#table-of-contents)
 
@@ -415,8 +460,20 @@
 + [Lightbot](https://lightbot.com/)：Lightbot是一款移动端游戏，玩家通过控制机器人的移动在固定位置点亮灯泡。[在线地址](http://lightbot.com/flash.html)
 + [Box Island](https://boxisland.io/)：Box Island 是一款经典且屡获殊荣的移动端编程冒险游戏，这款游戏在为孩子们带来令人兴奋的冒险体验的同时， 向他们介绍编程的基础知识。 
 
+<a class="toc" id ="21"></a>
+# 数据集 📊
+[🔙](#table-of-contents)
++ [Google Dataset Search](https://toolbox.google.com/datasetsearch): 谷歌提供的数据集搜索工具，可以搜到绝大多数的公开数据集
++ [LINQS](https://linqs.soe.ucsc.edu/data)：提供了一些Graph结构的数据集
++ [Network Repository](http://networkrepository.com/index.php)：一个交互式科学网络数据仓库，里面含有大量的图结构数据集
++ [Awesome Public Datasets](https://github.com/awesomedata/awesome-public-datasets)：GitHub上一个列举了大量公开数据集的仓库，已获:star:三万多
++ [KONECT](http://konect.uni-koblenz.de/)：一个收集所有类型的大型网络数据集以进行网络科学和相关领域的研究的项目
 
-<a class="toc" id ="20"></a>
+
+
+
+
+<a class="toc" id ="22"></a>
 # 其他 ❓
 [🔙](#table-of-contents)
 
@@ -442,9 +499,14 @@
 + [Roadmap](https://github.com/dzyanis/roadmap)：网友贡献自制Go学习思维导图
 + [Web Dev Golang Anti Textbook](https://github.com/thewhitetulip/web-dev-golang-anti-textbook)：学习如何在没有框架的情况下用Go语言编写web app
 + [hackernews讨论区](https://news.ycombinator.com/item?id=20701671)：hackernews 上的 Go 讨论区
++ [Windows Keyboard Shortcuts](https://support.microsoft.com/zh-cn/help/12445/windows-keyboard-shortcuts)：微软官方：Windows 中的键盘快捷方式
++ [Navi](https://github.com/denisidoro/navi)：一个神奇的命令行备忘录，GitHub上已获:star:三千多
++ [Naptha](https://projectnaptha.com/)：一位来自MIT的学生Kevin Kwok用计算机视觉算法写了个Chrome插件Naptha，可以直接识别网页图片中的文字，并直接对它们进行高亮、复制粘贴、翻译、修改等操作。[Chrome插件下载地址](https://chrome.google.com/webstore/detail/project-naptha/molncoemjfmpgdkbdlbjmhlcgniigdnf)
 
-<a class="toc" id ="21"></a>
-# 更新时间 🕰 ：2019/8/25
+
+
+<a class="toc" id ="23"></a>
+# 更新时间 🕰 ：2019/10/05
 [🔙](#table-of-contents)
 
 
