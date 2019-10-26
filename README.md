@@ -24,7 +24,7 @@
 + [数据集 📊](#22)
 + [GO 学习 🇬🇱](#23)
 + [其他 ❓](#24)
-+ [更新时间 🕰 ：2019/10/23](#25)
++ [更新时间 🕰 ：2019/10/26](#25)
 
 <a class="toc" id ="1"></a>
 # 前言
@@ -76,7 +76,9 @@
 + [Intro to Python Development](https://channel9.msdn.com/Series/Intro-to-Python-Development)：微软出品，文科生也能学得懂的Python免费入门视频。[代码地址](https://github.com/microsoft/c9-python-getting-started)
 + [Python Tutorials Home](https://data-flair.training/blogs/python-tutorials-home/)：data-flair上推出的一个240多个的Python编程入门课程
 + [Intermediate Python](http://book.pythontips.com/en/latest/)：《Intermediate Python》，中文译名为《Python进阶》，该书对Python中的装饰器与推导式等高级用法做了详细说明，适合于掌握Python基础后的进一步提高。 [中文译本](http://interpy.eastlakeside.com/)
-
++ [Learn-python](https://www.codecademy.com/learn/learn-python)：Codeacademy 的教程，允许在浏览器内进行动手编程实践。这个 Python 入门课程涵盖 Python 基础语法、函数、控制流、循环、模块和类。
++ [Python Like You Mean It](https://www.pythonlikeyoumeanit.com/intro.html)：掌握软件工程技能和最佳实践是明智的做法，这会使代码更具可读性和可扩展性。此外，当你开始将模型投入生产过程时，你需要写出高质量、测试良好的代码，并熟练使用版本控制等工具。「Python Like You Mean It」涵盖 PEP8 风格指南、文档，以及面向对象的编程。[中文版](https://cn.pythonlikeyoumeanit.com/)。
++ [Python Is Cool](https://github.com/chiphuyen/python-is-cool)：常常发资源的英伟达工程师小姐姐Chip Huyen，又发射了一套Python隐藏功能合集。里面都是她“从前没发现，或者从前不太敢用”的机器学习技巧，有notebook可以直接跑。合集名叫python-is-cool，推特宣布之后不到半天，已经收获了2400+赞。[Notebook传送门](https://github.com/chiphuyen/python-is-cool/blob/master/cool-python-tips.ipynb)。
 
 <a class="toc" id ="4"></a>
 # Python 项目 👨‍💻
@@ -197,6 +199,9 @@
 + [NLP Tutorial](https://github.com/graykode/nlp-tutorial)：一个很赞NLP入门代码练习库（含Pytorch和Tensorflow版本） 
 + [10 Minutes to pandas](https://pandas.pydata.org/pandas-docs/stable/getting_started/10min.html)：官方文档，十分钟上手 pandas 教程
 + [Numpy developer guide](https://docs.scipy.org/doc/numpy/dev/)：官方学习文档，Numpy 上手指南
++ [Pandas 中文文档](https://github.com/teadocs/pandas-cn)：Pandas 官方中文文档的仓库。 [域名访问](https://www.pypandas.cn)。
++ [Numpy 中文文档](https://github.com/teadocs/numpy-cn)：Numpy 官方中文文档的仓库。 [域名访问](https://www.numpy.org.cn/)。
++ [Matplotlib 中文文档](https://github.com/teadocs/matplotlib-cn)：Matplotlib 官方中文文档的仓库。 [域名访问](https://www.matplotlib.org.cn/)。
 + [Scipy developer guide](http://scipy.github.io/devdocs/hacking.html)：官方学习文档，Scipy 上手指南
 + [Emotion-recognition ](https://github.com/omar178/Emotion-recognition)：使用 Keras 实现的实时表情识别项目
 + [ICME2019 Bytedance Grand Challenge](https://github.com/JiDong-CS/icme2019-bytedance-grand-challenge)：抖音短视频推荐大赛小规模赛道Top8模型代码
@@ -216,6 +221,16 @@
 + [Mathematics for Machine Learning（机器学习数学基础）](https://mml-book.github.io/)：作者表示撰写这本书旨在激励人们学习数学概念。这本书并不打算涵盖前沿的机器学习技术，因为已经有很多书这样做了。相反，作者的目标是通过该书提供阅读其他书籍所需的数学基础。这本书分为两部分：数学基础知识和使用数学基础知识进行机器学习算法示例。[Github地址](https://github.com/mml-book/mml-book.github.io)
 + [Analytics Vidnya](https://www.analyticsvidhya.com/blog/category/deep-learning/)：一个国外的网站，有各类深度学习相关的教程，强推:heart::heart::heart:！
 + [OpenCV-Python Tutorial](https://www.youtube.com/playlist?list=PLS1QulWo1RIa7D1O6skqDQ-JZ1GGHKK-K)：一份YouTube上最火的 OpenCV-Python 入门视频教程，该教程由CodeBind网站博主录制，从今年2月份到现在已经录制了38个主题。目前已有26万+人次观看，是目前 YouTube 上最受欢迎的OpenCV视频教程。
++ [神经网络与深度学习](https://nndl.github.io/)：这本《神经网络与深度学习》全中文版，大大降低了深度学习的语言门槛，让大家有更多的精力放在核心知识内容的学习上。内容上，它面向深度学习小白，从人工智能的基本概念开始讲起，可以说很友好了。此外，各种附加资料一站式配齐：从教材、讲解PPT、示例代码到课后练习，全方位无死角学习。这本书的作者邱锡鹏老师，目前是复旦大学计算机科学技术学院的博士生导师、自然语言处理与深度学习组的副教授。 [PDF 讲义](https://nndl.github.io/nndl-book.pdf)，[课件 PDF](https://nndl.github.io/ppt/%E7%A5%9E%E7%BB%8F%E7%BD%91%E7%BB%9C%E4%B8%8E%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0-3%E5%B0%8F%E6%97%B6.pdf)，[课程练习](https://github.com/nndl/exercise)，强推:heart::heart:。
++ [MIT线性代数课程精细笔记](https://github.com/yizhen20133868/MIT-Linear-Algebra-Notes)：该笔记总结了我们在学习MIT线性代数课程的学习经验和过程。课程顺序是按照麻省理工公开课的 Linear Algebra. 记录的学习笔记。[知乎专栏](https://zhuanlan.zhihu.com/p/87873464)。
++ [Machine Learning: a Probabilistic Perspective](http://people.cs.ubc.ca/~murphyk/MLbook/)：谷歌研究员Kevin Patrick Murphy撰写的经典机器学习图书，由MIT出版社出版，自2012年发行以来就奉为经典机器学习书目。本书内容完整，讲解详细，便于阅读，方便工程使用。最近作者在Github上发布了关于本书的Python代码，更加方便使用！[配套Python代码](https://github.com/probml/pyprobml)。
++ [Dataquest.io](https://www.dataquest.io/subscribe/)：Dataquest 提供完整的数据分析师、数据科学家和数据工程师学习路径。其中大量内容，尤其是数据分析师学习路径的内容可以免费获取。如果你资金充足，我强烈建议你付费订阅并学习这些内容。我学了这个课程，从中了解到数据科学的基础知识。数据科学家路径课程花费了我 6 个月时间。每个月的价格从 24.5 美元到 49 美元不等，这取决于你是否购买年费会员。资金充足的话，购买年费会员更划算
++ [Amueller](https://github.com/amueller)：如果你已经学完了 Dataquest 上的数据科学课程，那么你应该对使用 Python 执行机器学习的基础知识有了充分了解。如果还没有，这方面也有很多免费资源。我推荐首先从 scikit-learn 开始学起，因为 scikit-learn 是目前最常用的机器学习 Python 库。很幸运，scikit-learn 核心开发者之一 Andreas Mueller 举办了为期两天的 workshop，同时发布了该课程的所有材料，包含幻灯片、课程笔记和 notebook。推荐大家先学习这份资料。
++ [Scikit-learn](https://scikit-learn.org/stable/tutorial/basic/tutorial.html)：接下来，我推荐大家学习 scikit-learn 官方文档中的一些教程。之后，大家就可以构建一些实际机器学习应用，学习模型运行背后的理论了。
++ [Scikit-learn 贡献指南](https://scikit-learn.org/stable/developers/contributing.html)：scikit-learn 贡献指南旨在促进开发者对 scikit-learn 库的贡献，但它实际上也涉及最佳实践。它包括 GitHub、单元测试、debug 等话题，而且其写作背景是数据科学应用。
++ [Fast.Ai](https://www.fast.ai/)：要想对深度学习有一个全面的了解，我觉得 fast.ai 是最好的选择，它完全免费且没有广告。该课程包含机器学习导论、深度学习实践、计算线性代数和自然语言处理导论（代码优先）。所有课程都以实践为先，强烈推荐大家学习这些课。
++ [可汗学院](https://scikit-learn.org/stable/modules/clustering.html)：可汗学院几乎涵盖以下列举的所有概念，且可免费学习。你可以在注册可汗学院时选择想要学习的主题，这样就可以得到量身定做的理论学习路径了。
++ [数据科学推荐阅读清单](https://medium.com/vickdata/10-free-data-science-books-you-must-read-in-2019-2d4f32793a51)：一份数据科学推荐阅读清单，包含 10 本在线免费书籍
 
 
 <a class="toc" id ="8"></a>
@@ -352,7 +367,16 @@
 + [Seeing Theory](https://seeing-theory.brown.edu/cn.html#firstPage)：来自斯坦福大学的一位研究生和他的伙伴们开发了一本颇有新意的统计概率入门教材，与传统教材不同的是，这本书充分利用了数据可视化技术，交互性和趣味性都非常强，可以边读边玩。[书籍下载地址](https://seeing-theory.brown.edu/doc/seeing-theory.pdf)
 + [Deep Learning Drizzle](https://github.com/kmario23/deep-learning-drizzle)：Deep Learning Drizzle 是一个深度学习相关课程/讲座视频的大合集，其中不乏学界知名大牛的亲授课程。目前该项目已经在Github收获了6000+星，Fork数也超过1.4K。仓库维护者整理了14个类目共计232门视频课程，并且这个数字还在不断增加。强推:heart::heart::heart:！
 + [Computer Science](https://github.com/ossu/computer-science)：Github近五万:star:的计算机专业课程，总结了从零开始成为计算机大牛的学习之路。课程主要分为两部分，即 CS 核心知识与 CS 进阶知识。CS 核心知识需要我们具备高中水平的理科知识，包括几何、代数、简要微积分等等。当然，如果我们还记得大学学过的高数，那么背景知识就已经非常充足了。对于 CS 进阶知识，我们应该首先掌握整个 CS 的核心知识体系，从而进一步选择想要进修的子领域，强推:heart::heart::heart:！
-
++ [斯坦福概率和统计](https://t.co/yTkE8pykgk)：斯坦福概率和统计
++ [MIT线性代数](https://t.co/vj5euiYnGa)：MIT线性代数
++ [斯坦福卷积网络视觉识别](https://t.co/kCpDeV7IQI)：[B站链接](https://www.bilibili.com/video/av13260183/)。
++ [程序员深度学习实战](https://t.co/UEYvPxOup0)：[B站链接](https://www.bilibili.com/video/av41718196/)。
++ [斯坦福深度学习自然语言处理](https://t.co/3gMG0ZqMb1)：[B站链接](https://www.bilibili.com/video/av46216519/)。
++ [吴恩达机器学习课程](https://t.co/ixBEItBroY)：[中文版](https://study.163.com/course/introduction/1004570029.htm)。
++ [斯坦福概率图模型专项课程](https://t.co/dKdHxAzQ7e)：斯坦福概率图模型专项课程
++ [DeepMind强化学习导论](https://t.co/q2DXfDjBDP)：[B站链接](https://www.bilibili.com/video/av24060851/)。
++ [全栈深度学习训练营](https://t.co/grkcBbL76U)：[B站链接](https://www.bilibili.com/video/av49643298)。
++ [如何赢取数据科学竞赛：跟顶级Kagglers学习](https://t.co/t0Syh3c06r)：如何赢取数据科学竞赛：跟顶级Kagglers学习
 
 <a class="toc" id ="14"></a>
 # Git 👬
@@ -410,7 +434,8 @@
     + [Filenames and Pathnames in Shell](http://www.dwheeler.com/essays/filenames-in-shell.html)：有关如何在 shell 脚本里正确处理文件名的细枝末节。
     + [Data Science at the Command Line](http://datascienceatthecommandline.com/#tools)：用于数据科学的一些命令和工具，摘自同名书籍。
 + [Checkm8](https://github.com/axi0mX/ipwndfu)：一位名为Axi0mx的开发人员发布的一个名为Checkm8的iPhone破解程序，而且是开源的。Github 上已经获:star:五千多。
-
++ [Lazynlp](https://github.com/chiphuyen/lazynlp)：英伟达工程师小姐姐Chip Huyen，在GitHub上开源了一个名为“lazynlp”的工具库。爬网页、清洗数据、创建数据集都可以搞定。她说，使用这个库，你应该能创建一个比大于40G的文本数据集，比OpenAI训练GPT-2时使用的还要大。开源仅一天，项目在GitHub上就获得了300多星，Twitter上获得上千次点赞。fast.ai创始人Jeremy Howard等人也转发推荐。而且，用这个工具库创建数据集的过程，也并不麻烦。
++ [Leon Sans](https://leon-kim.com)：GitHub:star:六千多，一种字体，变成千姿百态艺术字，可尖可圆可开花，隔壁设计师馋哭了。[GitHub传送门](https://github.com/cmiscm/leonsans)。
 
 
 
@@ -696,14 +721,15 @@
 + [Naptha](https://projectnaptha.com/)：一位来自MIT的学生Kevin Kwok用计算机视觉算法写了个Chrome插件Naptha，可以直接识别网页图片中的文字，并直接对它们进行高亮、复制粘贴、翻译、修改等操作。[Chrome插件下载地址](https://chrome.google.com/webstore/detail/project-naptha/molncoemjfmpgdkbdlbjmhlcgniigdnf)
 + [PDFresizer](https://pdfresizer.com/)：只需几下点击，允许对PDF文件分割和合并，优化，裁剪，调整大小，进行在线转换。
 + [xg2xg](https://github.com/jhuangtw-dev/xg2xg)：前 Google 工程师出品，最佳开发工具大全，这份清单中列出的开源软件，不仅解决了硅谷大厂前员工的难处，也能为其他所有码农解除困惑。在这套大全的指导下，任何一个工程师，都能获得类似在谷歌内部写代码的体验。目前Github上获:star:七千多。
-
++ [Learn-Sql](https://www.codecademy.com/learn/learn-sql)：想成为数据科学家，SQL 是必不可少的一项技能，因为抽取数据是数据建模的基础流程之一。这通常需要对数据库运行 SQL query。如果你没有学完上述 [Dataquest.io](https://www.dataquest.io/subscribe/) 数据科学课程，那么这里有一些免费资源可供选择。Codeacamdemy 有一门 SQL 入门课程，这门课实践性很强，学习过程中你可以在浏览器内进行编程。如果你还想了解基于云的数据库查询，那么 Google Cloud BigQuery 是不错的选择。它有免费试用方案，你可以免费尝试 query、大量公共数据集，以及阅读[官方文档](https://cloud.google.com/bigquery/docs/tutorials)。
++ [Learn-R](https://www.codecademy.com/learn/learn-r)：要想成为全面的数据科学家，只学 Python 还不够。我推荐大家学习一门 R 语言入门课程。Codeacademy 就有一门免费入门课程。
 
 
 
 
 
 <a class="toc" id ="25"></a>
-# 更新时间 🕰 ：2019/10/23
+# 更新时间 🕰 ：2019/10/26
 [🔙](#table-of-contents)
 
 
