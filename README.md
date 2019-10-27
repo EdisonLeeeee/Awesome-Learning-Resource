@@ -24,7 +24,7 @@
 + [数据集 📊](#22)
 + [GO 学习 🇬🇱](#23)
 + [其他 ❓](#24)
-+ [更新时间 🕰 ：2019/10/26](#25)
++ [更新时间 🕰 ：2019/10/27](#25)
 
 <a class="toc" id ="1"></a>
 # 前言
@@ -131,7 +131,7 @@
 + [SickZil Machine](https://github.com/KUR-creative/SickZil-Machine)：一群韩国小伙伴开发的一个完全自动消除漫画文字的 AI；但如果人类需要，也可以手动指定消除某一部分文字。
 + [rps_tfjs_demo](https://github.com/GantMan/rps_tfjs_demo)：10 分钟内在浏览器中训练一个剪刀石头布识别模型教程，该项目使用了 TensorFlow.js，所有繁重的工作都发生在浏览器和 JavaScript 中。[数据集地址](http://www.laurencemoroney.com/rock-paper-scissors-dataset/)
 + [Pedestrian Detection](https://github.com/xingkongliang/Pedestrian-Detection)：本资源整理了一些目标检测的开放代码、论文列表、行人检测开源代码以及行人检测相关数据集。非常适合初学者与科研工作者。
-
++ [Celebrity-detection](https://github.com/Giphy/celeb-detection-oss)：GIPHY 开源了一个表情包识别器，可以分清楚超过 2300 个名人，而且它识别的还是动图，准确率超过 98%。良心的是，GIPHY 不仅把这个工具开源了，而且还直接用在了自己的网站上，不是 Demo，已经是成品。[在线使用](https://celebrity-detection.giphy.com/)。
 
 <a class="toc" id ="5"></a>
 # Python 爬虫 🕷
@@ -501,6 +501,7 @@
 + [Awesome Windows](https://github.com/Awesome-Windows/Awesome/blob/master/README-cn.md)：GitHub上:star:九千多的项目，收列了Windows上优质&精选的最佳应用程序及工具
 + [Awesome Macos](https://github.com/iCHAIT/awesome-macOS)：GitHub上:star:九千多的项目，为macOS整理了一份很棒的应用程序、软件、工具和亮点的列表
 + [Awesome Linux Software](https://github.com/luong-komorebi/Awesome-Linux-Software)：GitHub上:star:一万多的项目与上面两个项目一样，这个清单中也提供了非常多 Linux 软件供参考软性。基于 Linux 本身强大的生态，该清单同时提供了巴西葡萄牙文、中文、西班牙文、泰文等多种语言版本供选择阅读。此外，该项目还提供了一些 Linux 操作系统学习资料，方便开发者进一步探索与 Linux 相关知识，可以说是非常贴心了
++ [Library Genesis](http://libgen.is/)：一个电子书网站，可以免费下载外文电子书。
 
 
 
@@ -722,14 +723,13 @@
 + [PDFresizer](https://pdfresizer.com/)：只需几下点击，允许对PDF文件分割和合并，优化，裁剪，调整大小，进行在线转换。
 + [xg2xg](https://github.com/jhuangtw-dev/xg2xg)：前 Google 工程师出品，最佳开发工具大全，这份清单中列出的开源软件，不仅解决了硅谷大厂前员工的难处，也能为其他所有码农解除困惑。在这套大全的指导下，任何一个工程师，都能获得类似在谷歌内部写代码的体验。目前Github上获:star:七千多。
 + [Learn-Sql](https://www.codecademy.com/learn/learn-sql)：想成为数据科学家，SQL 是必不可少的一项技能，因为抽取数据是数据建模的基础流程之一。这通常需要对数据库运行 SQL query。如果你没有学完上述 [Dataquest.io](https://www.dataquest.io/subscribe/) 数据科学课程，那么这里有一些免费资源可供选择。Codeacamdemy 有一门 SQL 入门课程，这门课实践性很强，学习过程中你可以在浏览器内进行编程。如果你还想了解基于云的数据库查询，那么 Google Cloud BigQuery 是不错的选择。它有免费试用方案，你可以免费尝试 query、大量公共数据集，以及阅读[官方文档](https://cloud.google.com/bigquery/docs/tutorials)。
-+ [Learn-R](https://www.codecademy.com/learn/learn-r)：要想成为全面的数据科学家，只学 Python 还不够。我推荐大家学习一门 R 语言入门课程。Codeacademy 就有一门免费入门课程。
-
++ [Learn-R](https://www.codecademy.com/learn/learn-r)：要想成为全面的数据科学家，只学 Python 还不够。推荐大家学习一门 R 语言入门课程。Codeacademy 就有一门免费入门课程。
 
 
 
 
 <a class="toc" id ="25"></a>
-# 更新时间 🕰 ：2019/10/26
+# 更新时间 🕰 ：2019/10/27
 [🔙](#table-of-contents)
 
 
