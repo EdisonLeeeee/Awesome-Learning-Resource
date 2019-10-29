@@ -17,14 +17,14 @@
 + [英语学习 🗣](#15)
 + [GitHub 👬](#16)
 + [可视化 👀](#17)
-+ [论文辅助工具 📄](#18)
++ [Paper 📄](#18)
 + [下载资源 📥](#19)
 + [工作面试 💼](#20)
 + [Learn by Game 👾](#21)
 + [数据集 📊](#22)
 + [GO 学习 🇬🇱](#23)
 + [其他 ❓](#24)
-+ [更新时间 🕰 ：2019/10/27](#25)
++ [更新时间 🕰 ：2019/10/29](#25)
 
 <a class="toc" id ="1"></a>
 # 前言
@@ -132,6 +132,10 @@
 + [rps_tfjs_demo](https://github.com/GantMan/rps_tfjs_demo)：10 分钟内在浏览器中训练一个剪刀石头布识别模型教程，该项目使用了 TensorFlow.js，所有繁重的工作都发生在浏览器和 JavaScript 中。[数据集地址](http://www.laurencemoroney.com/rock-paper-scissors-dataset/)
 + [Pedestrian Detection](https://github.com/xingkongliang/Pedestrian-Detection)：本资源整理了一些目标检测的开放代码、论文列表、行人检测开源代码以及行人检测相关数据集。非常适合初学者与科研工作者。
 + [Celebrity-detection](https://github.com/Giphy/celeb-detection-oss)：GIPHY 开源了一个表情包识别器，可以分清楚超过 2300 个名人，而且它识别的还是动图，准确率超过 98%。良心的是，GIPHY 不仅把这个工具开源了，而且还直接用在了自己的网站上，不是 Demo，已经是成品。[在线使用](https://celebrity-detection.giphy.com/)。
++ [ThunderNet](https://github.com/mohhao/TF-Keras-ThunderNet)：作者提出来一种名为ThunderNet的轻量级two-stage检测器，整体结构分成名为SNet的轻型Backbone（主干）和Detection（检测）部分，其中SNet是基于ShuffleNetV2网络，用于对象检测，Detection部分是基于Light-Head R-CNN，并进一步压缩RPN和R-CNN子网，并设计了两个模块：Context Enhancement Module （CEM） 和 SpatialAttention Module （SAM），CEM将多尺度的局部特征和全局特征进行整合，SAM引入RPN信息来再调整RoIwarping层的特征分布。ThunderNet在推理速度、精度均显著优于同类网络，可部署在ARM平台上实现实时检测。[论文地址](https://arxiv.org/pdf/1903.11752.pdf)。
++ [Gaussian YOLOv3](https://github.com/jwchoi384/Gaussian_YOLOv3)：在目标检测的落地项目中，实时性和精确性的trade-off至关重要，而YOLOv3是目前为止在这方面做得最好的算法。本文通过高斯分布的特性，改进YOLOv3使得网络能够输出每个检测框的不确定性，从而提升了网络的精度。[论文地址](https://arxiv.org/abs/1904.04620)。
+
+
 
 <a class="toc" id ="5"></a>
 # Python 爬虫 🕷
@@ -221,6 +225,7 @@
 + [Mathematics for Machine Learning（机器学习数学基础）](https://mml-book.github.io/)：作者表示撰写这本书旨在激励人们学习数学概念。这本书并不打算涵盖前沿的机器学习技术，因为已经有很多书这样做了。相反，作者的目标是通过该书提供阅读其他书籍所需的数学基础。这本书分为两部分：数学基础知识和使用数学基础知识进行机器学习算法示例。[Github地址](https://github.com/mml-book/mml-book.github.io)
 + [Analytics Vidnya](https://www.analyticsvidhya.com/blog/category/deep-learning/)：一个国外的网站，有各类深度学习相关的教程，强推:heart::heart::heart:！
 + [OpenCV-Python Tutorial](https://www.youtube.com/playlist?list=PLS1QulWo1RIa7D1O6skqDQ-JZ1GGHKK-K)：一份YouTube上最火的 OpenCV-Python 入门视频教程，该教程由CodeBind网站博主录制，从今年2月份到现在已经录制了38个主题。目前已有26万+人次观看，是目前 YouTube 上最受欢迎的OpenCV视频教程。
++ [ImageProcessing100Wen](https://github.com/gzr2017/ImageProcessing100Wen)：图像处理入门 100 题，主要针对图像处理的一些基本操作，非常适合入门！该项目最大的特色就是 100 题循序渐进，基本涵盖了 OpenCV 的关键知识点。如果你正在入门 CV，正在学习 OpenCV，那么这个项目将会是一个不错的从入门到进阶的教程。
 + [神经网络与深度学习](https://nndl.github.io/)：这本《神经网络与深度学习》全中文版，大大降低了深度学习的语言门槛，让大家有更多的精力放在核心知识内容的学习上。内容上，它面向深度学习小白，从人工智能的基本概念开始讲起，可以说很友好了。此外，各种附加资料一站式配齐：从教材、讲解PPT、示例代码到课后练习，全方位无死角学习。这本书的作者邱锡鹏老师，目前是复旦大学计算机科学技术学院的博士生导师、自然语言处理与深度学习组的副教授。 [PDF 讲义](https://nndl.github.io/nndl-book.pdf)，[课件 PDF](https://nndl.github.io/ppt/%E7%A5%9E%E7%BB%8F%E7%BD%91%E7%BB%9C%E4%B8%8E%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0-3%E5%B0%8F%E6%97%B6.pdf)，[课程练习](https://github.com/nndl/exercise)，强推:heart::heart:。
 + [MIT线性代数课程精细笔记](https://github.com/yizhen20133868/MIT-Linear-Algebra-Notes)：该笔记总结了我们在学习MIT线性代数课程的学习经验和过程。课程顺序是按照麻省理工公开课的 Linear Algebra. 记录的学习笔记。[知乎专栏](https://zhuanlan.zhihu.com/p/87873464)。
 + [Machine Learning: a Probabilistic Perspective](http://people.cs.ubc.ca/~murphyk/MLbook/)：谷歌研究员Kevin Patrick Murphy撰写的经典机器学习图书，由MIT出版社出版，自2012年发行以来就奉为经典机器学习书目。本书内容完整，讲解详细，便于阅读，方便工程使用。最近作者在Github上发布了关于本书的Python代码，更加方便使用！[配套Python代码](https://github.com/probml/pyprobml)。
@@ -229,9 +234,8 @@
 + [Scikit-learn](https://scikit-learn.org/stable/tutorial/basic/tutorial.html)：接下来，我推荐大家学习 scikit-learn 官方文档中的一些教程。之后，大家就可以构建一些实际机器学习应用，学习模型运行背后的理论了。
 + [Scikit-learn 贡献指南](https://scikit-learn.org/stable/developers/contributing.html)：scikit-learn 贡献指南旨在促进开发者对 scikit-learn 库的贡献，但它实际上也涉及最佳实践。它包括 GitHub、单元测试、debug 等话题，而且其写作背景是数据科学应用。
 + [Fast.Ai](https://www.fast.ai/)：要想对深度学习有一个全面的了解，我觉得 fast.ai 是最好的选择，它完全免费且没有广告。该课程包含机器学习导论、深度学习实践、计算线性代数和自然语言处理导论（代码优先）。所有课程都以实践为先，强烈推荐大家学习这些课。
-+ [可汗学院](https://scikit-learn.org/stable/modules/clustering.html)：可汗学院几乎涵盖以下列举的所有概念，且可免费学习。你可以在注册可汗学院时选择想要学习的主题，这样就可以得到量身定做的理论学习路径了。
 + [数据科学推荐阅读清单](https://medium.com/vickdata/10-free-data-science-books-you-must-read-in-2019-2d4f32793a51)：一份数据科学推荐阅读清单，包含 10 本在线免费书籍
-
++ [Super Machine Learning Revision Notes](https://createmomo.github.io/2018/01/23/Super-Machine-Learning-Revision-Notes/#tableofcontents)：一份长约 80 页的学习笔记，旨在总结机器学习的一系列基本概念（如梯度下降、反向传播等），不同的机器学习算法和流行模型，以及一些作者在实践中学到的技巧和经验。强推:heart::heart:！
 
 <a class="toc" id ="8"></a>
 # 强化学习 💪
@@ -377,6 +381,8 @@
 + [DeepMind强化学习导论](https://t.co/q2DXfDjBDP)：[B站链接](https://www.bilibili.com/video/av24060851/)。
 + [全栈深度学习训练营](https://t.co/grkcBbL76U)：[B站链接](https://www.bilibili.com/video/av49643298)。
 + [如何赢取数据科学竞赛：跟顶级Kagglers学习](https://t.co/t0Syh3c06r)：如何赢取数据科学竞赛：跟顶级Kagglers学习
++ [可汗学院](https://scikit-learn.org/stable/modules/clustering.html)：可汗学院几乎涵盖所有机器学习相关概念，且可免费学习。你可以在注册可汗学院时选择想要学习的主题，这样就可以得到量身定做的理论学习路径了。
++ [Berkeley-cs294-158-sp19](https://sites.google.com/view/berkeley-cs294-158-sp19/home)：这份课程涵盖了两个无需标签数据的深度学习领域：深度生成模型（Deep Generative Models）和自监督学习（Self-supervised Learning）。生成模型的最新进展使得可以对高维原始数据进行逼真的建模，例如自然图像，音频波形和文本语料库；自我监督学习的进步已经开始缩小监督表征学习与无监督表征学习之间的差距，以微调未见任务。本课程将涵盖这些主题的理论基础及其新启用的应用程序，你可以观看 YouTube 讲座视频，还可以下载课件的 PDF 版。
 
 <a class="toc" id ="14"></a>
 # Git 👬
@@ -465,15 +471,27 @@
 + [pixelhouse](https://github.com/thoppe/pixelhouse)：一个极简的绘图库，用于在 python 中制作精美的动画。
 + [render-py](https://github.com/tvytlx/render-py)：一个用 Python 编写的软件 3D 渲染器，旨在让每个人都能轻松理解。
 + [pyray](https://github.com/ryu577/pyray)：Python 中使用 POV ray 渲染复杂的 3D 对象和场景，动画以及更多普通的香草 Python。
++ [SandDance](https://github.com/microsoft/SandDance)：SandDance 是 Microsoft Research 最受欢迎的数据可视化工具，由微软研究院的可视化和交互式数据分析（VIDA）小组创建，通过提供了触控式的界面，实现使用者和 3D 信息图表进行互动，已经作为 GitHub 上的开源项目重新发布。[在线体验](https://sanddance.js.org/)。
++ [Coblis Color Blindness Simulator](https://www.color-blindness.com/coblis-color-blindness-simulator/)：色盲模拟器，来看看你的配色能否被色盲人群分辨出来，以防颜色设置不妥。
++ [ColorBrewer](http://colorbrewer2.org)：这个工具的配色非常经典，几乎就是office里的默认配色。
++ [Data Color Picker](https://learnui.design/tools/data-color-picker.html)：用于生成两种颜色的渐变，可以自由选择需要多少种颜色过渡。
++ [Chroma.js Color Palette Helper](https://vis4.net/palettes)：可以制作顺序调色板或者发散调色板，根据不同需要调整调色板的渐变过程。
++ [Color Thief](https)：我们知道许多自然情景中的颜色都是让人感到舒服的配色，这款工具就可以帮你把照片中的颜色提取出来。
++ [Viz Palette](对色盲非常友好的调色工具。)：Viz Palette
+
+
+
 
 <a class="toc" id ="18"></a>
-# 论文辅助工具 📄
+# Paper 📄
 [🔙](#table-of-contents)
 
 + [Google Scholar](https://scholar.google.com/)：谷歌学术
++ [Paperswithcode](https://paperswithcode.com/)：如其名，收录了大量带有源代码的论文，[Github同名项目](https://github.com/zziz/pwc)，强推:heart::heart::heart:！
 + [易搜搭](http://www.esoda.org/)：专业英文论文写作助手，只需要输入你想表达的中文句子，该网站会检索各种论文找出相似英文表达，使你的英文论文写作不再生硬
 + [Conference List](http://www.conferencelist.info/upcoming.html)：计算机各领域会议的时间表
-+ [latex 代码转换器 - Mathpix](https://mathpix.com/)：如果你经常用 latex 编写文档，那你一定得安装下 Mathpix。这款工具能将带数学公式的截图一键转成 latex 代码，帮你省下很多时间，堪称神器！（可惜现在收费了）
++ [AI Conference Deadlines ](https://aideadlin.es/?sub=ML,CV,NLP,RO,SP,DM)：查看各个ai顶会的 Deadline
++ [Latex 代码转换器 - Mathpix](https://mathpix.com/)：如果你经常用 latex 编写文档，那你一定得安装下 Mathpix。这款工具能将带数学公式的截图一键转成 latex 代码，帮你省下很多时间，堪称神器！（可惜现在收费了）
 + [Grammarly](https://www.grammarly.com)：Grammarly 是一款非常强大的语法改错软件，帮助润色英文表达。
 + [Ginger](http://www.gingersoftware.com)：Ginger 号称是世界上最好用的英文写作润色工具，除了提供单词拼写、语法检查功能外，还提供句子改写、翻译、词典和朗读功能。
 + [1Checker](http://www.1checker.com)：1Checker 是一款中文本土用于进行英语文本的纠错（包括拼写、语法、样式和句子不完整）和润色的软件，界面是中文的，简单易懂，操作方便。
@@ -481,10 +499,13 @@
 + [Mathtex Tutorial](http://www.forkosh.com/mathtextutorial.html)：LaTex 数学公式在线转换，包括一些常用数学公式教程
 + [Tablesgenerator](http://www.tablesgenerator.com/)：：LaTex 表格在线生成器
 + [Codecogs](https://www.codecogs.com/eqnedit.php)：在线Latex公式编辑器
-+ [AOE时间](https://time.is/Anywhere_on_Earth)：“地球上的任何地方”(AoE)是一个日历名称，表示当日期在地球上的任何地方经过时，一段时间就结束了。许多会议（期刊）截稿时间都采用AOE时间
-+ [pdfresizer](https://pdfresizer.com/)：PDF剪裁工具，当你的图片出现白边的时候可以使用这个工具进行剪裁
-
-
++ [AOE TIME](https://time.is/Anywhere_on_Earth)：“地球上的任何地方”(AoE)是一个日历名称，表示当日期在地球上的任何地方经过时，一段时间就结束了。许多会议（期刊）截稿时间都采用AOE时间
++ [PDFresizer](https://pdfresizer.com/)：PDF剪裁工具，当你的图片出现白边的时候可以使用这个工具进行剪裁
++ [Arxiv国内镜像](xxx.itp.ac.cn/)：Arxiv国内镜像。如 `https://arxiv.org/pdf/1512.03385.pdf` 下载很慢，换成 `http://xxx.itp.ac.cn/pdf/1512.03385.pdf`, 即可体验光速下载，注意 https 要换成 http。
++ [Semantic Scholar](https://www.semanticscholar.org/)：查论文神器
++ [Overleaf](https://www.overleaf.com/)：在线Latex编辑器，可以多人协作，堪称写论文利器
++ [Mendeley](https://www.mendeley.com/?interaction_required=true)：论文管理工具，全平台，还有网页版，很方便，高度安利
++ [Sci-Hub](https://sci-hub.tw/)：对于科研民工们，肯定很多人接触过sci-hub这个网站，一个很神奇的免费下载文献的网站。
 
 
 
@@ -724,12 +745,16 @@
 + [xg2xg](https://github.com/jhuangtw-dev/xg2xg)：前 Google 工程师出品，最佳开发工具大全，这份清单中列出的开源软件，不仅解决了硅谷大厂前员工的难处，也能为其他所有码农解除困惑。在这套大全的指导下，任何一个工程师，都能获得类似在谷歌内部写代码的体验。目前Github上获:star:七千多。
 + [Learn-Sql](https://www.codecademy.com/learn/learn-sql)：想成为数据科学家，SQL 是必不可少的一项技能，因为抽取数据是数据建模的基础流程之一。这通常需要对数据库运行 SQL query。如果你没有学完上述 [Dataquest.io](https://www.dataquest.io/subscribe/) 数据科学课程，那么这里有一些免费资源可供选择。Codeacamdemy 有一门 SQL 入门课程，这门课实践性很强，学习过程中你可以在浏览器内进行编程。如果你还想了解基于云的数据库查询，那么 Google Cloud BigQuery 是不错的选择。它有免费试用方案，你可以免费尝试 query、大量公共数据集，以及阅读[官方文档](https://cloud.google.com/bigquery/docs/tutorials)。
 + [Learn-R](https://www.codecademy.com/learn/learn-r)：要想成为全面的数据科学家，只学 Python 还不够。推荐大家学习一门 R 语言入门课程。Codeacademy 就有一门免费入门课程。
-
++ [Dism++](https://www.chuyu.me/zh-Hans/)：Dism++ 是一款 Windows 系统管理优化工具，它解决了我们安装、维护系统的一大痛点问题——自定义设置和优化。相当于一个 “一站式” 管理优化工具集。
++ [HackMD](https://hackmd.io/)：為工程師文件而生的協作平台，HackMD 主打即時文件協作（real-time collaboration）
++ [Google Drive](https://www.google.com/drive/)：谷歌云盘，随时随地使用所有文件
++ [Notion](https://www.notion.so/)：付费过印象笔记，用过其他一些笔记软件，应该说没有一个满意的，直到最近发现了这个，notion，你值得拥有，已经付费使用了，喜欢这种 All in one 的理念，而且排版和功能性都一级棒
++ [Wolfram Alpha](https://www.wolframalpha.com/)：Wolfram Alpha，是由 Wolfram Research 公司推出的一款在线自动问答系统。其特色是可以直接向用户返回答案，而不是像传统搜索引擎一样提供一系列可能含有用户所需答案的相关网页
 
 
 
 <a class="toc" id ="25"></a>
-# 更新时间 🕰 ：2019/10/27
+# 更新时间 🕰 ：2019/10/29
 [🔙](#table-of-contents)
 
 
