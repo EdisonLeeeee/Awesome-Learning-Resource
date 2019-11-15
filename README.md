@@ -8,7 +8,7 @@
 + [算法 💡](#6)
 + [机器学习 深度学习 数据挖掘 🤖](#7)
 + [强化学习 💪](#8)
-+ [Graph Neural Network 🗺](#9)
++ [Graph Learning 🗺](#9)
 + [Generative Adversarial Networks (GANs) 🤜 🤛](#10)
 + [TensorFlow 学习 🇹🇫](#11)
 + [PyTorch 学习 🇵🇹](#12)
@@ -24,7 +24,7 @@
 + [数据集 📊](#22)
 + [GO 学习 🇬🇱](#23)
 + [其他 ❓](#24)
-+ [更新时间 🕰 ：2019/10/29](#25)
++ [更新时间 🕰 ：2019/11/15](#25)
 
 <a class="toc" id ="1"></a>
 # 前言
@@ -79,6 +79,9 @@
 + [Learn-python](https://www.codecademy.com/learn/learn-python)：Codeacademy 的教程，允许在浏览器内进行动手编程实践。这个 Python 入门课程涵盖 Python 基础语法、函数、控制流、循环、模块和类。
 + [Python Like You Mean It](https://www.pythonlikeyoumeanit.com/intro.html)：掌握软件工程技能和最佳实践是明智的做法，这会使代码更具可读性和可扩展性。此外，当你开始将模型投入生产过程时，你需要写出高质量、测试良好的代码，并熟练使用版本控制等工具。「Python Like You Mean It」涵盖 PEP8 风格指南、文档，以及面向对象的编程。[中文版](https://cn.pythonlikeyoumeanit.com/)。
 + [Python Is Cool](https://github.com/chiphuyen/python-is-cool)：常常发资源的英伟达工程师小姐姐Chip Huyen，又发射了一套Python隐藏功能合集。里面都是她“从前没发现，或者从前不太敢用”的机器学习技巧，有notebook可以直接跑。合集名叫python-is-cool，推特宣布之后不到半天，已经收获了2400+赞。[Notebook传送门](https://github.com/chiphuyen/python-is-cool/blob/master/cool-python-tips.ipynb)。
++ [利用 Python 进行数据分析 · 第 2 版](https://www.jianshu.com/p/04d180d90a3f)：一本非常不错的 Python 数据分析入门系统教程。本书由 Python pandas 项目创始人Wes McKinney 亲笔撰写，详细介绍利用 Python 进行操作、处理、清洗和规整数据等方面的具体细节和基本要点。第 2 版针对 Python 3.6 进行全面修订和更新，涵盖新版的 pandas、NumPy、IPython 和 Jupyter，并增加大量实际案例，可以帮助你高效解决一系列数据分析问题。[翻译的 GitHub 地址](https://github.com/iamseancheney/python_for_data_analysis_2nd_chinese_version)，
+[GitBook（有锚点功能）](https://seancheney.gitbook.io/python-for-data-analysis-2nd/)，[书籍下载地址](http://www.jianshu.com/p/fad9e41c1a42)，[书籍代码的 GitHub 开源地址](https://github.com/wesm/pydata-book)
+
 
 <a class="toc" id ="4"></a>
 # Python 项目 👨‍💻
@@ -236,6 +239,13 @@
 + [Fast.Ai](https://www.fast.ai/)：要想对深度学习有一个全面的了解，我觉得 fast.ai 是最好的选择，它完全免费且没有广告。该课程包含机器学习导论、深度学习实践、计算线性代数和自然语言处理导论（代码优先）。所有课程都以实践为先，强烈推荐大家学习这些课。
 + [数据科学推荐阅读清单](https://medium.com/vickdata/10-free-data-science-books-you-must-read-in-2019-2d4f32793a51)：一份数据科学推荐阅读清单，包含 10 本在线免费书籍
 + [Super Machine Learning Revision Notes](https://createmomo.github.io/2018/01/23/Super-Machine-Learning-Revision-Notes/#tableofcontents)：一份长约 80 页的学习笔记，旨在总结机器学习的一系列基本概念（如梯度下降、反向传播等），不同的机器学习算法和流行模型，以及一些作者在实践中学到的技巧和经验。强推:heart::heart:！
++ [Machine Learning Course](https://github.com/machinelearningmindset/machine-learning-course)：Python 机器学习在线指南，本项目的目的是通过使用 Python 提供一系列简单而全面的教程来梳理机器学习的最重要方面。Github上:star:六千多。[在线阅读](https://machine-learning-course.readthedocs.io/en/latest/index.html#)，强推:heart::heart:！
++ [《An Introduction to Statistical Learning》](http://faculty.marshall.usc.edu/gareth-james/ISL/)：《统计学习导论》，它的内容会有点数学，但是也很容易阅读。对于机器学习这样一个广泛的领域，这本书能将篇幅控制在400页左右很不容易。唯一的缺点是代码是用 R语言而不是Python编写的。
++ [Lihang Code](https://github.com/fengdu78/lihang-code)：李航《统计学习方法》的代码实现，GitHub:star:八千多。强推:heart::heart:！
++ [Machine Learning Notes](https://wei2624.github.io/machine%20learning/Machine-Learning-Notes/)：一份机器学习的笔记，由哥伦比亚大学研究生张威整理。张威同学本科毕业于加拿大滑铁卢大学电子工程系，曾经联合带队参加 2016 年 IEEE 数字信号处理大赛获得前 10 的名次，也曾在微软亚洲研究院副院长郭百宁老师研究组和首席研究员曾文军老师研究组实习。在哥伦比亚大学，张威同学也担任过《Bayesian Model Machine Learning》这门机器学习进阶课程的助教。[课程地址](http://www.cs.columbia.edu/~blei/fogm/2018F/index.html)。强推:heart::heart:！
++ [CV成长指南](https://www.pyimagesearch.com/start-here/)：一本长达81页的CV成长指南，能给你无微不至的关怀：从装Python、装OpenCV、入门深度学习，到人脸识别、目标检测、语义分割等等各种应用，都有进阶路线，里面包含了教程、案例、注意事项。甚至怎样把算法部署到树莓派之类的硬件上，也能找到经验。
+
+
 
 <a class="toc" id ="8"></a>
 # 强化学习 💪
@@ -262,7 +272,7 @@
 
 
 <a class="toc" id ="9"></a>
-# Graph Neural Network 🗺
+# Graph Learning 🗺
 [🔙](#table-of-contents)
 
 + [A Gentle Introduction to Graph Neural Networks (Basics, DeepWalk, and GraphSage)](https://towardsdatascience.com/a-gentle-introduction-to-graph-neural-network-basics-deepwalk-and-graphsage-db5d540d50b3)：介绍了图神经网络的概念及其最新进展的博客
@@ -278,6 +288,8 @@
 + [Literature of Deep Learning for Graphs](https://github.com/DeepGraphLearning/LiteratureDL4Graph)：GitHub上:star:两千的图神经网络的学习资源，里面整理了大量图深度学习论文，大多数都被顶会收录，数量有上百篇。这份资源最闪亮的地方，就是将这些不同方向已经发表的论文进行了整理，分门别类得放上了论文的标题、作者、关键词和地址链接。
 + [Must-read papers and continuous tracking on Graph Neural Network(GNN) progress](https://github.com/jdlc105/Must-read-papers-and-continuous-tracking-on-Graph-Neural-Network-GNN-progress/blob/master/README.md)：Github上的图神经网络必读论文和最新进展列表 
 + [Pytorch Geometric](https://github.com/rusty1s/pytorch_geometric)：近几年来，图神经网络（GNN）在推荐系统、搜索引擎、计算机视觉等领域中都引起了较大的关注。Github有大量开源GNN实现，其中pytorch_geometric是最优秀的实现之一，曾被Yann LeCun推荐，GitHub上获:star:近五千
++ [Plato](https://github.com/tencent/plato)：腾讯开源的高性能图计算框架 Plato，据介绍，Plato 可满足十亿级节点的超大规模图计算需求，将算法计算时间从「天」级缩短到「分钟」级，性能全面领先于其它主流分布式图计算框架，并且打破了原本动辄需要数百台服务器的资源瓶颈。
+
 
 <a class="toc" id ="10"></a>
 # Generative Adversarial Networks (GANs) 🤜 🤛
@@ -289,6 +301,8 @@
 + [Generative Adversarial Networks - The Story So Far](https://blog.floydhub.com/gans-story-so-far/)：Reddit 出现的一个归纳 GAN 发展脉络的博客，作者在博客中详细梳理了过去几年的 GAN 发展历程，包含众多 SOTA 论文及其代码和对应的学习资源
 + [CycleGAN Tutorial](https://www.tensorflow.org/beta/tutorials/generative/cyclegan)：官方资源帖，手把手教你在TensorFlow 2.0中实现CycleGAN，这份教程全面详细，想学CycleGAN不能错过这个。[GitHub地址](https://github.com/tensorflow/docs/blob/master/site/en/r2/tutorials/generative/cyclegan.ipynb)
 + [GAN Overview Chinese (pdf)](https://github.com/Morde-kaiser/LearningNotes/blob/master/GAN-Overview-Chinese.pdf)：万字综述之生成对抗网络（GAN）
++ [Seeing What a GAN Cannot Generate](https://www.zhuanzhi.ai/paper/1a6ada6940f38d05a5dcdea60e663ec5)：GAN这个模型，不能生成哪些东西呢？来自MIT的David Bau等人，在ICCV 2019 上的文章《Seeing What a GAN Cannot Generate》，进行了一系列实验，尝试找到问题的答案。[文章主页](http://ganseeing.csail.mit.edu/)，[文章代码地址](https://github.com/davidbau/ganseeing)。
+
 
 <a class="toc" id ="11"></a>
 # TensorFlow 学习 🇹🇫
@@ -312,17 +326,21 @@
 + [TensorFlow Hub](https://www.tensorflow.org/hub)：TensorFlow Hub是一个库，用于发布、发现和使用机器学习模型中可重复利用的部分。[GitHub地址](https://github.com/tensorflow/hub)
 + [TensorFlow Models](https://github.com/tensorflow/models/)：一个GitHub上的存储库，包含了许多在TensorFlow中实现的模型，一共分为两类：官方模型和研究模型。官方模型，是使用TensorFlow的高级API的示例模型的集合。研究模型，是研究人员在TensorFlow中实现的大量模型集合
 + [Model Zoo](https://modelzoo.co/)：这个平台，由新加坡名为Jing Yu Koh本科生牵头搭建。与上述的几个平台不同，这个平台上提供预训练模型，不仅仅只是完全针对于Pytorch或者TensorFlow，强推:heart::heart:！
+---
 + [Tensorflow 2.0 迁移指南](https://www.tensorflow.org/guide/migrate)：近期 Tensorflow 2.0正式版已经推出，如果你使用过tensorflow 1.x，这是一个迁移到2.0的官方指南
-+ [effective_tf2](https://www.tensorflow.org/guide/effective_tf2)：一个方便的指南，了解如何有效使用TensorFlow 2.0中的所有新功能
-+ [models-datasets](https://www.tensorflow.org/resources/models-datasets)：为了简化TensorFlow 2.0的入门工作，官方发布了几个使用2.0 API的常用ML模型的参考实现
-+ [introduction-tensorflow](https://www.coursera.org/learn/introduction-tensorflow)：免费 Tensorflow 课程
-+ [intro-to-tensorflow-for-deep-learning--ud187](https://www.udacity.com/course/intro-to-tensorflow-for-deep-learning--ud187)：另一个免费 Tensorflow 课程
++ [Effective_tf2](https://www.tensorflow.org/guide/effective_tf2)：一个方便的指南，了解如何有效使用TensorFlow 2.0中的所有新功能
++ [Models Datasets](https://www.tensorflow.org/resources/models-datasets)：为了简化TensorFlow 2.0的入门工作，官方发布了几个使用2.0 API的常用ML模型的参考实现
++ [Introduction Tensorflow](https://www.coursera.org/learn/introduction-tensorflow)：免费 Tensorflow 课程
++ [Intro To Tensorflow For Deep Learning Ud187](https://www.udacity.com/course/intro-to-tensorflow-for-deep-learning--ud187)：另一个免费 Tensorflow 课程
 + [Tensorflow 2.0 is now available](https://medium.com/tensorflow/tensorflow-2-0-is-now-available-57d706c2a9ab)：官方博客，介绍Tensorflow 2.0
 + [Tensorflow 2.0](https://github.com/tensorflow/tensorflow/releases/tag/v2.0.0)：GitHub上Tensorflow 2.0 源码
 + [Hands-on TensorFlow 2.0](https://storage.googleapis.com/applied-dl/SciPy_Tokyo.pdf)：TensorFlow 2.0 实操教程
-+ [Chollet推特](https://twitter.com/fchollet/status/1105139360226140160)：谷歌深度学习研究员、“Keras之父”François Chollet发表推特，总结了一份TensorFlow 2.0 + Keras做深度学习研究的速成指南。[Google Colab Notebook地址](https://colab.research.google.com/drive/17u-pRZJnKN0gO5XZmq8n5A2bKGrfKEUg#scrollTo=rwREGJ7Wiyl9)
++ [Chollet 推特](https://twitter.com/fchollet/status/1105139360226140160)：谷歌深度学习研究员、“Keras之父”François Chollet发表推特，总结了一份TensorFlow 2.0 + Keras做深度学习研究的速成指南。[Google Colab Notebook地址](https://colab.research.google.com/drive/17u-pRZJnKN0gO5XZmq8n5A2bKGrfKEUg#scrollTo=rwREGJ7Wiyl9)
 + [TensorFlow 2.0 + Keras Overview for Deep Learning Researchers](https://colab.research.google.com/drive/1UCJt8EYjlzCs1H1d1X0iDGYJsHKwu-NO#scrollTo=88ExjKfCo7aP)：Keras之父出品：Twitter超千赞的TF 2.0 + Keras速成课程。需要翻墙查看。
 + [Transformer Chatbot](https://medium.com/tensorflow/a-transformer-chatbot-tutorial-with-tensorflow-2-0-88bf59e66fe2)：【TensorFlow2.0】Transformer聊天机器人教程。[GitHub地址](https://github.com/tensorflow/examples/blob/master/community/en/transformer_chatbot.ipynb)
++ [Deep Learning with TensorFlow book](https://github.com/dragen1860/Deep-Learning-with-TensorFlow-book)：最新出炉的《TensorFlow 2.0 深度学习算法实战》中文版教材。
++ [TensorFlow 2.x Tutorials](https://github.com/dragen1860/TensorFlow-2.x-Tutorials)：TensorFlow 2.0 实战案例。
++ [TensorFlow Examples v2.0](https://github.com/aymericdamien/TensorFlow-Examples/tree/master/tensorflow_v2)：GitHub 中三万多:star:项目`Tensorflow examples`的一个子项目，更新了一些2.0的样例
 
 <a class="toc" id ="12"></a>
 # PyTorch 学习 🇵🇹
@@ -383,6 +401,8 @@
 + [如何赢取数据科学竞赛：跟顶级Kagglers学习](https://t.co/t0Syh3c06r)：如何赢取数据科学竞赛：跟顶级Kagglers学习
 + [可汗学院](https://scikit-learn.org/stable/modules/clustering.html)：可汗学院几乎涵盖所有机器学习相关概念，且可免费学习。你可以在注册可汗学院时选择想要学习的主题，这样就可以得到量身定做的理论学习路径了。
 + [Berkeley-cs294-158-sp19](https://sites.google.com/view/berkeley-cs294-158-sp19/home)：这份课程涵盖了两个无需标签数据的深度学习领域：深度生成模型（Deep Generative Models）和自监督学习（Self-supervised Learning）。生成模型的最新进展使得可以对高维原始数据进行逼真的建模，例如自然图像，音频波形和文本语料库；自我监督学习的进步已经开始缩小监督表征学习与无监督表征学习之间的差距，以微调未见任务。本课程将涵盖这些主题的理论基础及其新启用的应用程序，你可以观看 YouTube 讲座视频，还可以下载课件的 PDF 版。
++ [线性代数（Linear Algebra）中文笔记](https://github.com/yizhen20133868/MIT-Linear-Algebra-Notes)：该笔记总结了我们在学习MIT线性代数课程的学习经验和过程。课程顺序是按照麻省理工公开课的 [Linear Algebra. ](http://open.163.com/special/opencourse/daishu.html) 记录的学习笔记。
++ [伯乐在线](https://github.com/jobbole/)：伯乐在线翻译组，GitHub上翻译了多个学习资源仓库，内含大量学习资源
 
 <a class="toc" id ="14"></a>
 # Git 👬
@@ -442,8 +462,8 @@
 + [Checkm8](https://github.com/axi0mX/ipwndfu)：一位名为Axi0mx的开发人员发布的一个名为Checkm8的iPhone破解程序，而且是开源的。Github 上已经获:star:五千多。
 + [Lazynlp](https://github.com/chiphuyen/lazynlp)：英伟达工程师小姐姐Chip Huyen，在GitHub上开源了一个名为“lazynlp”的工具库。爬网页、清洗数据、创建数据集都可以搞定。她说，使用这个库，你应该能创建一个比大于40G的文本数据集，比OpenAI训练GPT-2时使用的还要大。开源仅一天，项目在GitHub上就获得了300多星，Twitter上获得上千次点赞。fast.ai创始人Jeremy Howard等人也转发推荐。而且，用这个工具库创建数据集的过程，也并不麻烦。
 + [Leon Sans](https://leon-kim.com)：GitHub:star:六千多，一种字体，变成千姿百态艺术字，可尖可圆可开花，隔壁设计师馋哭了。[GitHub传送门](https://github.com/cmiscm/leonsans)。
-
-
++ [BullshitGenerator](https://github.com/menzi11/BullshitGenerator)：狗屁不通文章生成器，GitHub上，这个富有灵魂的项目名吸引了众人的目光。项目诞生一周，便冲上了趋势榜榜首。并且，不止名字被注入灵魂，生成的文字也有一股不可抗拒的力量。只要输入一句话，系统就会给你一篇狗屁不通的万字长文，[网页版](https://suulnnka.github.io/BullshitGenerator/index.html)。
++ [Spleeter](https://github.com/deezer/spleeter)：来自法国的音乐流媒体公司 Deezer 开源了一个音轨分离软件 spleeter，只需输入一段命令就可以将音乐的人声和各种乐器声分离，支持 mp3、wav、ogg 等常见音频格式。GitHub:star:七千多。
 
 <a class="toc" id ="17"></a>
 # 可视化 👀
@@ -478,7 +498,7 @@
 + [Chroma.js Color Palette Helper](https://vis4.net/palettes)：可以制作顺序调色板或者发散调色板，根据不同需要调整调色板的渐变过程。
 + [Color Thief](https)：我们知道许多自然情景中的颜色都是让人感到舒服的配色，这款工具就可以帮你把照片中的颜色提取出来。
 + [Viz Palette](对色盲非常友好的调色工具。)：Viz Palette
-
++ [Draw.io](https://www.draw.io/)：一免费制图神器来袭！名为draw.io，打开网页就能使用，支持中文版，也不会给你上水印。不只是能让你创建空白图，官方还提供了133个模板，覆盖了商务、工程图、流程图等13个类别。如此神器，好评自然如潮。有人说，这是一个开发人员可以使用的、最有用的100%免费软件工具。强推:heart::heart::heart:！ [GitHub地址](https://github.com/jgraph/drawio) 以及 [桌面版下载地址](https://github.com/jgraph/drawio-desktop)。
 
 
 
@@ -556,6 +576,7 @@
     + 其它资源
 
 + [Awesome-algorithm-interview](https://github.com/lcylmhlcy/Awesome-algorithm-interview)：算法工程师(人工智能cv方向)面试问题及相关资料的网站收集
++ [Awesome Interview Questions](https://github.com/MaximAbramchuck/awesome-interview-questions)：这个精选的面试题库不仅全，而且对提交的面试题会进行审核，并且会不定期对链接进行审核，提剔除失效链接，GitHub:star:三万多。强推:heart::heart::heart:！
 
 <a class="toc" id ="21"></a>
 # Learn by Game 👾
@@ -711,7 +732,7 @@
 + [Web Dev Golang Anti Textbook](https://github.com/thewhitetulip/web-dev-golang-anti-textbook)：学习如何在没有框架的情况下用Go语言编写web app
 + [hackernews讨论区](https://news.ycombinator.com/item?id=20701671)：hackernews 上的 Go 讨论区
 + [The Go programming language](https://github.com/golang/go)：Go语言源码仓库
-+ [Go 入门指南](https://github.com/unknwon/the-way-to-go_ZH_CN)：《The Way to Go》中文译本，中文正式名《Go 入门指南》，Github上:star:近两万。
++ [Go 入门指南](https://github.com/unknwon/the-way-to-go_ZH_CN)：《The Way to Go》中文译本，中文正式名《Go 入门指南》，Github上:star:近两万。[在线电子书](https://github.com/Unknwon/the-way-to-go_ZH_CN/blob/master/eBook/directory.md)。
 + [Go指南](https://go-tour-zh.appspot.com/welcome/1)： 该指南可以进行交互。点击 “运行”按钮（或按 Shift + Enter）可以在 远程服务器上 编译并执行程序。 结果展示在代码的下面。这些例子程序展示了 Go 的各个方面。在指南中的程序可以成为你积累经验的开始。 
 + [Advanced Go Programming](https://chai2010.cn/advanced-go-programming-book/)：Go语言高级编程，涵盖CGO、Go汇编语言、RPC实现、Web框架实现、分布式系统等高阶主题，针对Go语言有一定经验想深入了解Go语言各种高级用法的开发人员。
 + [Gopl-zh](https://github.com/golang-china/gopl-zh)：Go语言圣经中文版，建议初学者先从该项目学起。
@@ -734,7 +755,6 @@
 + [Emoji Homepage](http://emojihomepage.com/)：一个Emoji大全的网站，里面有各式各样的Emoji大全，点击想要的Emoji即可复制，用于写文章加入 Emoji 十分方便
 + [Greasy Fork](https://greasyfork.org/zh-CN): 一个提供用户脚本的网站，浏览器安装好 TemperMonkey 后，使用这些脚本上网简直不要爽到飞起
 + [remove.bg](https://www.remove.bg/)：一个可以在线免费消除图片背景的网站，并且提供API供批量处理图片使用（收费），简单方便（只需几秒钟，但效果强大
-+ [伯乐在线](https://github.com/jobbole/)：伯乐在线翻译组，GitHub上翻译了多个学习资源仓库，内含大量学习资源
 + [Advanced Java](https://github.com/doocs/advanced-java)：GitHub:star:两万五，互联网 Java 工程师进阶知识完全扫盲：涵盖高并发、分布式、高可用、微服务等领域知识，后端同学必看，前端同学也可学习，强推:heart::heart::heart:！
 + [Machine learning datasets](https://www.datasetlist.com/)：这个网站上共收集到了100多个业界最大型的数据集。根据任务类别，这些数据集中又分为三大类：计算机视觉（CV）、自然语言处理（NLP）和音频数据集
 + [Networkrepository](http://networkrepository.com/index.php)：第一个具有实时可视化分析功能的交互式数据和网络数据存储库。里面有许多Graph相关的数据集
@@ -742,7 +762,7 @@
 + [Windows Keyboard Shortcuts](https://support.microsoft.com/zh-cn/help/12445/windows-keyboard-shortcuts)：微软官方：Windows 中的键盘快捷方式
 + [Naptha](https://projectnaptha.com/)：一位来自MIT的学生Kevin Kwok用计算机视觉算法写了个Chrome插件Naptha，可以直接识别网页图片中的文字，并直接对它们进行高亮、复制粘贴、翻译、修改等操作。[Chrome插件下载地址](https://chrome.google.com/webstore/detail/project-naptha/molncoemjfmpgdkbdlbjmhlcgniigdnf)
 + [PDFresizer](https://pdfresizer.com/)：只需几下点击，允许对PDF文件分割和合并，优化，裁剪，调整大小，进行在线转换。
-+ [xg2xg](https://github.com/jhuangtw-dev/xg2xg)：前 Google 工程师出品，最佳开发工具大全，这份清单中列出的开源软件，不仅解决了硅谷大厂前员工的难处，也能为其他所有码农解除困惑。在这套大全的指导下，任何一个工程师，都能获得类似在谷歌内部写代码的体验。目前Github上获:star:七千多。
++ [Xg2xg](https://github.com/jhuangtw-dev/xg2xg)：前 Google 工程师出品，最佳开发工具大全，这份清单中列出的开源软件，不仅解决了硅谷大厂前员工的难处，也能为其他所有码农解除困惑。在这套大全的指导下，任何一个工程师，都能获得类似在谷歌内部写代码的体验。目前Github上获:star:七千多。
 + [Learn-Sql](https://www.codecademy.com/learn/learn-sql)：想成为数据科学家，SQL 是必不可少的一项技能，因为抽取数据是数据建模的基础流程之一。这通常需要对数据库运行 SQL query。如果你没有学完上述 [Dataquest.io](https://www.dataquest.io/subscribe/) 数据科学课程，那么这里有一些免费资源可供选择。Codeacamdemy 有一门 SQL 入门课程，这门课实践性很强，学习过程中你可以在浏览器内进行编程。如果你还想了解基于云的数据库查询，那么 Google Cloud BigQuery 是不错的选择。它有免费试用方案，你可以免费尝试 query、大量公共数据集，以及阅读[官方文档](https://cloud.google.com/bigquery/docs/tutorials)。
 + [Learn-R](https://www.codecademy.com/learn/learn-r)：要想成为全面的数据科学家，只学 Python 还不够。推荐大家学习一门 R 语言入门课程。Codeacademy 就有一门免费入门课程。
 + [Dism++](https://www.chuyu.me/zh-Hans/)：Dism++ 是一款 Windows 系统管理优化工具，它解决了我们安装、维护系统的一大痛点问题——自定义设置和优化。相当于一个 “一站式” 管理优化工具集。
@@ -750,11 +770,11 @@
 + [Google Drive](https://www.google.com/drive/)：谷歌云盘，随时随地使用所有文件
 + [Notion](https://www.notion.so/)：付费过印象笔记，用过其他一些笔记软件，应该说没有一个满意的，直到最近发现了这个，notion，你值得拥有，已经付费使用了，喜欢这种 All in one 的理念，而且排版和功能性都一级棒
 + [Wolfram Alpha](https://www.wolframalpha.com/)：Wolfram Alpha，是由 Wolfram Research 公司推出的一款在线自动问答系统。其特色是可以直接向用户返回答案，而不是像传统搜索引擎一样提供一系列可能含有用户所需答案的相关网页
-
++ [ChromeAppHeroes](https://github.com/zhaoolee/ChromeAppHeroes)：这个项目中总结的”Chrome 插件英雄榜” 详细地为大家整理、介绍了一些实用性的插件。Github:star:一万多。
 
 
 <a class="toc" id ="25"></a>
-# 更新时间 🕰 ：2019/10/29
+# 更新时间 🕰 ：2019/11/15
 [🔙](#table-of-contents)
 
 
