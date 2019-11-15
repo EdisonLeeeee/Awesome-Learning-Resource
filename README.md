@@ -771,8 +771,8 @@
 + [Notion](https://www.notion.so/)：付费过印象笔记，用过其他一些笔记软件，应该说没有一个满意的，直到最近发现了这个，notion，你值得拥有，已经付费使用了，喜欢这种 All in one 的理念，而且排版和功能性都一级棒
 + [Wolfram Alpha](https://www.wolframalpha.com/)：Wolfram Alpha，是由 Wolfram Research 公司推出的一款在线自动问答系统。其特色是可以直接向用户返回答案，而不是像传统搜索引擎一样提供一系列可能含有用户所需答案的相关网页
 + [ChromeAppHeroes](https://github.com/zhaoolee/ChromeAppHeroes)：这个项目中总结的”Chrome 插件英雄榜” 详细地为大家整理、介绍了一些实用性的插件。Github:star:一万多。
-
-
++ [超赞的 Linux 软件](https://github.com/luong-komorebi/Awesome-Linux-Software/blob/master/README_zh-CN.md#%E6%8E%A7%E5%88%B6%E5%8F%B0)：这个仓库收集了对任何用户/开发者都超赞的 Linux 应用软件，同时还有Linux学习的相关资料。[英文版Gitbook](https://luongvo209.gitlab.io/Awesome-Linux-Software)，以及[中文版阅读地址](https://alim0x.gitbooks.io/awesome-linux-software-zh_cn/content/)。GitHub:star:一万多。强推:heart::heart::heart:！
++ [awesome-linux](https://github.com/aleksandar-todorovic/awesome-linux)：一份让Linux变得更棒的项目和资源列表。
 <a class="toc" id ="25"></a>
 # 更新时间 🕰 ：2019/11/15
 [🔙](#table-of-contents)
