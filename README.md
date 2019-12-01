@@ -20,7 +20,7 @@
 + [English Learning (英语学习) 🗣](#18)
 + [GitHub 👬](#19)
 + [Visualization (可视化) 👀](#20)
-+ [Paper 📄](#21)
++ [Paper (论文相关) 📄](#21)
 + [Download Resources (下载资源) 📥](#22)
 + [Interview (工作面试) 💼](#23)
 + [Learn by Game 👾](#24)
@@ -50,8 +50,20 @@
 + [SQL Bolt](https://sqlbolt.com/)：国外的一个网站，通过简单的交互式练习学习SQL
 + [Regex101](https://regex101.com/)：一个在线正则表达式学习（转换）网站，还可以将你的正则表达式转换为各种语言的代码
 + [Learn Regex](https://github.com/ziishaned/learn-regex)：无论你使用的是 Python、Java、Perl 还是 Shell，正则表达式是学习主流编程语言几乎绕不开的话题。有了它，就能帮你快速定位到符合筛选条件的文本内容。现在 GitHub 上的有个 2.4 万:star:的项目 learn-regex 解决了初学者的困难。最近这个教程刚完成了汉化工作，还附有在线练习，帮助初学者快速入门正则表达式
-+ [Brilliant | Math and science done right](https://brilliant.org)：可以边打游戏边学习，包含数学、物理、逻辑、计算机
++ [Brilliant | Math and Science Done Right](https://brilliant.org)：可以边打游戏边学习，包含数学、物理、逻辑、计算机
 + [3Blue1Brown](https://space.bilibili.com/88461692)：深入浅出、直观明了地分享了数学之美。3Blue1Brown中国官方B站账号，用动画的形式生动讲解了微积分的本质，线性代数等数学原理，推荐等级：:heart::heart::heart:！
++ [斯坦福概率和统计](https://t.co/yTkE8pykgk)：斯坦福概率和统计
++ [MIT线性代数](https://t.co/vj5euiYnGa)：MIT线性代数
++ [斯坦福卷积网络视觉识别](https://t.co/kCpDeV7IQI)：[B站链接](https://www.bilibili.com/video/av13260183/)。
++ [程序员深度学习实战](https://t.co/UEYvPxOup0)：[B站链接](https://www.bilibili.com/video/av41718196/)。
++ [斯坦福深度学习自然语言处理](https://t.co/3gMG0ZqMb1)：[B站链接](https://www.bilibili.com/video/av46216519/)。
++ [吴恩达机器学习课程](https://t.co/ixBEItBroY)：[中文版](https://study.163.com/course/introduction/1004570029.htm)。
++ [斯坦福概率图模型专项课程](https://t.co/dKdHxAzQ7e)：斯坦福概率图模型专项课程
++ [DeepMind强化学习导论](https://t.co/q2DXfDjBDP)：[B站链接](https://www.bilibili.com/video/av24060851/)。
++ [全栈深度学习训练营](https://t.co/grkcBbL76U)：[B站链接](https://www.bilibili.com/video/av49643298)。
++ [可汗学院](https://scikit-learn.org/stable/modules/clustering.html)：可汗学院几乎涵盖所有机器学习相关概念，且可免费学习。你可以在注册可汗学院时选择想要学习的主题，这样就可以得到量身定做的理论学习路径了。
++ [伯乐在线](https://github.com/jobbole/)：伯乐在线翻译组，GitHub上翻译了多个学习资源仓库，内含大量学习资源
+
 
 <a class="toc" id ="3"></a>
 # Python Learning (Python 学习) 🐍
@@ -457,19 +469,8 @@
 + [OKAI](https://okai.brown.edu/zh/index.html)：通过交互动画的形式来科普人工智能的历史，应用和主要算法（深度学习算法）的基础原理。OKAI摒弃了那些复杂的数学公式，采用轻松有趣的动画形式来讲解人工智能的相关概念。
 + [Deep Learning Drizzle](https://github.com/kmario23/deep-learning-drizzle)：Deep Learning Drizzle 是一个深度学习相关课程/讲座视频的大合集，其中不乏学界知名大牛的亲授课程。目前该项目已经在Github收获了6000+星，Fork数也超过1.4K。仓库维护者整理了14个类目共计232门视频课程，并且这个数字还在不断增加。推荐等级：:heart::heart::heart:！
 + [Computer Science](https://github.com/ossu/computer-science)：Github近五万:star:的计算机专业课程，总结了从零开始成为计算机大牛的学习之路。课程主要分为两部分，即 CS 核心知识与 CS 进阶知识。CS 核心知识需要我们具备高中水平的理科知识，包括几何、代数、简要微积分等等。当然，如果我们还记得大学学过的高数，那么背景知识就已经非常充足了。对于 CS 进阶知识，我们应该首先掌握整个 CS 的核心知识体系，从而进一步选择想要进修的子领域，推荐等级：:heart::heart::heart:！
-+ [斯坦福概率和统计](https://t.co/yTkE8pykgk)：斯坦福概率和统计
-+ [MIT线性代数](https://t.co/vj5euiYnGa)：MIT线性代数
-+ [斯坦福卷积网络视觉识别](https://t.co/kCpDeV7IQI)：[B站链接](https://www.bilibili.com/video/av13260183/)。
-+ [程序员深度学习实战](https://t.co/UEYvPxOup0)：[B站链接](https://www.bilibili.com/video/av41718196/)。
-+ [斯坦福深度学习自然语言处理](https://t.co/3gMG0ZqMb1)：[B站链接](https://www.bilibili.com/video/av46216519/)。
-+ [吴恩达机器学习课程](https://t.co/ixBEItBroY)：[中文版](https://study.163.com/course/introduction/1004570029.htm)。
-+ [斯坦福概率图模型专项课程](https://t.co/dKdHxAzQ7e)：斯坦福概率图模型专项课程
-+ [DeepMind强化学习导论](https://t.co/q2DXfDjBDP)：[B站链接](https://www.bilibili.com/video/av24060851/)。
-+ [全栈深度学习训练营](https://t.co/grkcBbL76U)：[B站链接](https://www.bilibili.com/video/av49643298)。
 + [如何赢取数据科学竞赛：跟顶级Kagglers学习](https://t.co/t0Syh3c06r)：如何赢取数据科学竞赛：跟顶级Kagglers学习
-+ [可汗学院](https://scikit-learn.org/stable/modules/clustering.html)：可汗学院几乎涵盖所有机器学习相关概念，且可免费学习。你可以在注册可汗学院时选择想要学习的主题，这样就可以得到量身定做的理论学习路径了。
 + [Berkeley-cs294-158-sp19](https://sites.google.com/view/berkeley-cs294-158-sp19/home)：这份课程涵盖了两个无需标签数据的深度学习领域：深度生成模型（Deep Generative Models）和自监督学习（Self-supervised Learning）。生成模型的最新进展使得可以对高维原始数据进行逼真的建模，例如自然图像，音频波形和文本语料库；自我监督学习的进步已经开始缩小监督表征学习与无监督表征学习之间的差距，以微调未见任务。本课程将涵盖这些主题的理论基础及其新启用的应用程序，你可以观看 YouTube 讲座视频，还可以下载课件的 PDF 版。
-+ [伯乐在线](https://github.com/jobbole/)：伯乐在线翻译组，GitHub上翻译了多个学习资源仓库，内含大量学习资源
 + [Machine Learning Study Path](https://github.com/linxid/Machine_Learning_Study_Path)：从入门到进阶，所用到机器学习资料，包括书、视频、源码。
 + [The Craft of Selfteaching](https://github.com/selfteaching/the-craft-of-selfteaching)：自学的技巧，GitHub上一万:star:的项目，作者是李笑来
 + [AppliedML](https://www.youtube.com/channel/UCMEXgDffQy6nS2a74Gby8ZA/videos)：一个深入scikit-learn和机器学习的内容，免费。这套课程名叫AppliedML。
@@ -591,7 +592,7 @@
 
 
 <a class="toc" id ="21"></a>
-# Paper 📄
+# Paper (论文相关) 📄
 [🔙](#table-of-contents)
 
 + [Google Scholar](https://scholar.google.com/)：谷歌学术
