@@ -14,7 +14,7 @@
 + [Generative Adversarial Networks (GANs) 🤜 🤛](#12)
 + [TensorFlow Learning (TensorFlow 学习) 🇹🇫](#13)
 + [Keras Learning (Keras 学习) 🇰🇷](#14)
-+ [PyTorch Learning (Pytorch 学习) 🇵🇹](#15)
++ [PyTorch Learning (PyTorch 学习) 🇵🇹](#15)
 + [Courses and Learning Resources (课程与学习资源 )‍ 🎓](#16)
 + [Git 👬](#17)
 + [English Learning (英语学习) 🗣](#18)
@@ -27,7 +27,7 @@
 + [Dataset (数据集) 📊](#25)
 + [Go Learning (Go 学习) 🇬🇱](#26)
 + [Others (其它) ❓](#27)
-+ [Update Time (更新时间) 🕰 ：2019/12/01](#28)
++ [Update Time (更新时间) 🕰 ：2019/12/04](#28)
 
 <a class="toc" id ="1"></a>
 # Preface (前言)
@@ -63,6 +63,7 @@
 + [全栈深度学习训练营](https://t.co/grkcBbL76U)：[B站链接](https://www.bilibili.com/video/av49643298)。
 + [可汗学院](https://scikit-learn.org/stable/modules/clustering.html)：可汗学院几乎涵盖所有机器学习相关概念，且可免费学习。你可以在注册可汗学院时选择想要学习的主题，这样就可以得到量身定做的理论学习路径了。
 + [伯乐在线](https://github.com/jobbole/)：伯乐在线翻译组，GitHub上翻译了多个学习资源仓库，内含大量学习资源
++ [Machine Learning](https://www.coursera.org/learn/machine-learning)： Coursera 上开设的另一门机器学习课程，相比于吴恩达的课程更加简单易懂。
 
 
 <a class="toc" id ="3"></a>
@@ -255,6 +256,7 @@
 <a class="toc" id ="8"></a>
 # Math (数学) 📐
 [🔙](#table-of-contents)
+
 + [Lihang Code](https://github.com/fengdu78/lihang-code)：李航《统计学习方法》的代码实现，GitHub:star:八千多。推荐等级：:heart::heart:！
 + [统计学习方法](https://github.com/SmirkCao/Lihang)：李航的《统计学习方法》的详细笔记，以及各章节机器学习算法详细的 Python 代码
 + [MIT线性代数课程精细笔记](https://github.com/yizhen20133868/MIT-Linear-Algebra-Notes)：该笔记总结了我们在学习MIT线性代数课程的学习经验和过程。课程顺序是按照麻省理工公开课的 Linear Algebra. 记录的学习笔记。[知乎专栏](https://zhuanlan.zhihu.com/p/87873464)。
@@ -264,10 +266,12 @@
 + [The Elements of Statistical Learning](https://esl.hohoweiya.xyz/)：斯坦福《统计学习要素》一直是机器学习领域公认经典的教材，是一本在机器学习、统计推理和模式识别领域有影响力和被广泛研究的书。而这本书一直没有得到中文翻译。近期由szcf-weiya博士整理翻译的The Elements of Statistical Learning (ESL)的中文翻译、代码实现及其习题解答公开，非常值得学习！[GitHub仓库](https://github.com/szcf-weiya/ESL-CN)
 + [线性代数（Linear Algebra）中文笔记](https://github.com/yizhen20133868/MIT-Linear-Algebra-Notes)：该笔记总结了我们在学习MIT线性代数课程的学习经验和过程。课程顺序是按照麻省理工公开课的 [Linear Algebra. ](http://open.163.com/special/opencourse/daishu.html) 记录的学习笔记。
 + [Seeing Theory](https://seeing-theory.brown.edu/cn.html#firstPage)：来自斯坦福大学的一位研究生和他的伙伴们开发了一本颇有新意的统计概率入门教材，与传统教材不同的是，这本书充分利用了数据可视化技术，交互性和趣味性都非常强，可以边读边玩。[书籍下载地址](https://seeing-theory.brown.edu/doc/seeing-theory.pdf)
++ [Interactive Linear Algebra](http://textbooks.math.gatech.edu/ila/index.html)：《交互式线性代数》，它的最大特点就是“交互式”，总共包含了 6 章内容，涵盖了线性代数的核心知识。[离线 PDF 电子版下载地址](http://textbooks.math.gatech.edu/ila/ila.pdf)。这份《交互式线性代数》在线网页，作者开源了所有代码，并发布在 GitHub 上。你可以修改程序中的源代码，实现更加个性化的体验。[GitHub源码地址](https://github.com/QBobWatson/gt-linalg)。
 
 <a class="toc" id ="9"></a>
 # Computer Vision (计算机视觉) 👁
 [🔙](#table-of-contents)
+
 + [CV成长指南](https://www.pyimagesearch.com/start-here/)：一本长达81页的CV成长指南，能给你无微不至的关怀：从装Python、装OpenCV、入门深度学习，到人脸识别、目标检测、语义分割等等各种应用，都有进阶路线，里面包含了教程、案例、注意事项。甚至怎样把算法部署到树莓派之类的硬件上，也能找到经验。
 + [Mastering OpenCV 4](https://github.com/PacktPublishing/Mastering-OpenCV-4-Third-Edition)：一本关于 OpenCV 4 的教材，就是《Mastering OpenCV 4 - Third Edition》，中文译为《精通 OpenCV 4》，对应的代码仓库。
 + [OpenCV-Python Tutorial](https://www.youtube.com/playlist?list=PLS1QulWo1RIa7D1O6skqDQ-JZ1GGHKK-K)：一份YouTube上最火的 OpenCV-Python 入门视频教程，该教程由CodeBind网站博主录制，从今年2月份到现在已经录制了38个主题。目前已有26万+人次观看，是目前 YouTube 上最受欢迎的OpenCV视频教程。
@@ -296,7 +300,7 @@
 + [21 Deep Learning Videos](https://www.analyticsvidhya.com/blog/2016/12/21-deep-learning-videos-tutorials-courses-on-youtube-from-2016/)：21个强化学习教程视频(YouTube2016)。
 + [RL Courser](https://www.youtube.com/playlist?list=PLV_1KI9mrSpGFoaxoL9BCZeen_s987Yxb)：YouTube上的强化学习公开课。
 + [Reinforcement Learning:Theory and Algorithms](https://rltheorybook.github.io/)：微软首席研究经理Alekh Agarwal、UIUC助理教授姜楠、华盛顿研究基金会数据科学主席Sham M. Kakade合编的新书《强化学习：理论与算法》，83页pdf，讲述了强化学习最新进展，包括MDP、样本复杂度、策略探索、PG、值函数等关键议题，是了解强化学习的材料。
-
++ [Playing Games](https://paperswithcode.com/area/playing-games)：深度强化学习的快速发展最直接的应用和体现就在“游戏”领域，目前DRL技术主要在视频帧游戏(Atari)、棋牌游戏(Go)、实时策略游戏、Board 游戏、球类(Football)等游戏中有广泛的研究，然而很多人看了领域大牛、顶级研究机构发的论文，一头雾水，主要原因是一方面自身coding能力不是足够高，另外一方面已发表的论文省略了众多细节，导致无法复现进行研究。该开源项目就是一些强化学习复现的论文及相关代码进行了汇总，从Paper到Coding, 一览深度强化学习挑战34类游戏。
 
 
 
@@ -368,7 +372,7 @@
 + [TensorFlow 2.0](https://github.com/tensorflow/tensorflow/releases/tag/v2.0.0)：GitHub上TensorFlow 2.0 源码
 + [Hands-on TensorFlow 2.0](https://storage.googleapis.com/applied-dl/SciPy_Tokyo.pdf)：TensorFlow 2.0 实操教程
 + [Chollet 推特](https://twitter.com/fchollet/status/1105139360226140160)：谷歌深度学习研究员、“Keras之父”François Chollet发表推特，总结了一份TensorFlow 2.0 + Keras做深度学习研究的速成指南。[Google Colab Notebook地址](https://colab.research.google.com/drive/17u-pRZJnKN0gO5XZmq8n5A2bKGrfKEUg#scrollTo=rwREGJ7Wiyl9)
-+ [TensorFlow 2.0 + Keras Overview for Deep Learning Researchers](https://colab.research.google.com/drive/1UCJt8EYjlzCs1H1d1X0iDGYJsHKwu-NO#scrollTo=88ExjKfCo7aP)：Keras之父出品：Twitter超千赞的TF 2.0 + Keras速成课程。需要翻墙查看。
++ [TensorFlow 2.0 + Keras Overview for Deep Learning Researchers](https://colab.research.google.com/drive/1UCJt8EYjlzCs1H1d1X0iDGYJsHKwu-NO#scrollTo=88ExjKfCo7aP)：Keras之父出品：Twitter超千赞的TF 2.0 + Keras速成课程。需要翻墙查看。推荐等级：:heart::heart:！
 + [Transformer Chatbot](https://medium.com/tensorflow/a-transformer-chatbot-tutorial-with-tensorflow-2-0-88bf59e66fe2)：【TensorFlow2.0】Transformer聊天机器人教程。[GitHub地址](https://github.com/tensorflow/examples/blob/master/community/en/transformer_chatbot.ipynb)
 + [TensorFlow Examples v2.0](https://github.com/aymericdamien/TensorFlow-Examples/tree/master/tensorflow_v2)：GitHub 中三万多:star:项目`TensorFlow examples`的一个子项目，更新了一些2.0的样例
 + [Deep Learning with TensorFlow book](https://github.com/dragen1860/Deep-Learning-with-TensorFlow-book)：一本基于TensorFlow 2.0 正式版的中文深度学习开源书，GitHub趋势日榜排名全球第一，已斩获:star:三千多，并且还在不断增长。从目录章节构成来看，理论与编程并不是独立分开，而是随着难度的递增，循序渐进、穿插编排的，除此之外，每个章节里的内容编排也是理论与实战相结合。配套代码，[TensorFlow 2.0 实战案例](https://github.com/dragen1860/TensorFlow-2.x-Tutorials)。推荐等级：:heart::heart::heart:！
@@ -421,13 +425,14 @@
 
 
 <a class="toc" id ="15"></a>
-# PyTorch Learning (Pytorch 学习) 🇵🇹
+# PyTorch Learning (PyTorch 学习) 🇵🇹
 [🔙](#table-of-contents)
 
 + [PyTorch 中文文档](https://pytorch-cn.readthedocs.io/zh/latest/)：PyTorch是使用GPU和CPU优化的深度学习张量库，查看中文文档有助于学习这个火爆的机器学习框架
++ [PyTorch Discuss](https://discuss.pytorch.org)：PyTorch 论坛，关于该框架的大部分问题都可以在上面找到答案，会有热心的开发者答疑解惑！
 + [PyTorch 123](http://pytorch123.com/)：PyTorch 是近年来较为火爆的深度学习框架，然而其中文版官方教程久久不来。近日，一款完整的 PyTorch 中文版官方教程出炉，作者来自 pytorchchina.com。教程根据 PyTorch 官方版本目录，完整地还原了所有的内容。包括简单的环境搭建、快速入门相关 API、高级操作、图像处理实战、文本处理实战、GAN 和强化学习等，基本涵盖了目前所有深度学习相关的知识点。推荐等级：:heart::heart::heart:！
 + [PyTorch Tutorials](https://pytorch.org/tutorials/)：PyTorch 官方英文文档
-+ [](https://github.com/yunjey/pytorch-tutorial)：PyTorch Tutorial for Deep Learning Researchers。GitHub上已收获一万多:star:
++ [PyTorch Tutorial](https://github.com/yunjey/pytorch-tutorial)：PyTorch Tutorial for Deep Learning Researchers。GitHub上已收获一万多:star:
 + [Awesome Pytorch list](https://github.com/bharathgs/Awesome-pytorch-list)：GitHub上一个:star:七千多的项目，收集了GitHub上PyTorch相关内容以及不同的模型实现、帮助文档、教程，使用PyTorch的学习
 + [Hands-on tour to deep learning with PyTorch](https://mlelarge.github.io/dataflowr-web/cea_edf_inria.html)：dataflowr 最近推出的一门五天初步掌握深度学习的实战教程（实战使用 PyTorch 框架），有知识点有实例有代码。[GitHub地址](https://github.com/mlelarge/dataflowr)
 + [Existential Pontification and Generalized Abstract Digressions ](http://blog.ezyang.com/2019/05/pytorch-internals/)：万字综述，核心开发者全面解读 PyTorch 内部机制 
@@ -443,7 +448,7 @@
 + [动手深度学习](https://github.com/d2l-ai/d2l-zh)：动手深度学习一书仓库，Github :star:一万多。面向中文读者、能运行、可讨论。英文版即伯克利“深度学习导论”教材。[原书地址](https://zh.d2l.ai/)，[课程B站视频](https://space.bilibili.com/209599371/channel/detail?cid=23541)。推荐等级：:heart::heart::heart:！
 + [动手学深度学习(PyTorch)](https://github.com/ShusenTang/Dive-into-DL-PyTorch)：该项目将《动手学深度学习》(Dive into Deep Learning)原书中的MXNet实现改为PyTorch实现，[在线版本](http://tangshusen.me/Dive-into-DL-PyTorch/#/)。然而，源项目由于写的是 Markdown ,公式和代码显示不太方便阅读。一位中国海洋大学大三学生将上面 PyTorch 版本的《动手深度学习》编译成完整的 PDF 文件。方便大家阅读以及解决 GitHub 上公式显示不全的问题。GitHub 地址 [Dive-into-DL-PyTorch.pdf](https://github.com/OUCMachineLearning/OUCML/blob/master/BOOK/Dive-into-DL-PyTorch.pdf)。推荐等级：:heart::heart::heart:！
 + [Deep Learning With Pytorch](https://pytorch.org/deep-learning-with-pytorch-thank-you)：Pytorch官网Pytorch.org最近发布了一本开源书深度学习《Deep Learning with PyTorch》，共141页pdf，限时开放，涵盖了深度学习和Pytorch库的介绍，预训练网络，张量，学习机制，数据神经网络学习。书里面有详实的代码，是入门学习Pytorch深度学习必备器物，不得不看！[GitHub仓库代码](https://github.com/deep-learning-with-pytorch/dlwpt-code)。推荐等级：:heart::heart:！
-
++ [PyTorch: An Imperative Style, High-PerformanceDeep Learning Library](https://papers.nips.cc/paper/9015-pytorch-an-imperative-style-high-performance-deep-learning-library.pdf)：NIPS 2019接收为poster的论文，由PyTorch 开发项目组发表，完整且系统地介绍了 PyTorch 本身。推荐等级：:heart::heart::heart:！
 
 <a class="toc" id ="16"></a>
 # Courses and Learning Resources (课程与学习资源 )‍ 🎓
@@ -459,6 +464,8 @@
 + [李宏毅机器学习(2017)](https://www.bilibili.com/video/av10590361?from=search&seid=9788122699737658334)：B站上李宏毅机器学习的教程视频，已有几十万的播放量，李宏毅的教授水平真心觉得很高，对于机器学习的讲解十分有趣吸引人，思路清晰，适合初学者观看。[课程讲义](http://speech.ee.ntu.edu.tw/~tlkagk/courses_ML17.html)。
 + [Hung-yi Lee](http://speech.ee.ntu.edu.tw/~tlkagk/talk.html)：李宏毅老师的个人主页，内附有他的所有机器学习相关演讲课程
 + [斯坦福 吴恩达《CS229机器学习》）](https://www.bilibili.com/video/av9912938)：B站上吴恩达老师的机器学习教程，播放量已达到百万。吴恩达的教学视频虽然备受推崇，但其实并不适合作为入门视频，教授内容还是有一定深度的
++ [Coursera ML Py](https://github.com/nsoojin/coursera-ml-py)：吴恩达机器学习课程笔记，Python代码
++ [CourseraML](https://github.com/kaleko/CourseraML)：吴恩达机器学习课程笔记，Jupyter笔记本格式
 + [C++ 匠心之作 从0到1入门资料](https://github.com/AnkerLeng/Cpp-0-1-Resource)：C++ 匠心之作 从0到1入门资料，[视频教程](https://www.bilibili.com/video/av41559729/)。
 + [A Self-Learning, Modern Computer Science Curriculum](https://functionalcs.github.io/curriculum/)：国外一位工程师写的计算机自学指南，中文译名应为《现代化计算机科学自学指南》，内容包含着许多来自许多世界知名高校、顶尖的教授与技术专家所编著的计算机课程
 + [Virgilio](https://github.com/virgili0/Virgilio)：这个项目是 GitHub 上一位名为“维吉尔（Vigilio）”的开发者整理的一个:star:破万的项目，项目包括职业进阶路径、专业知识讲解、工具介绍等，着重强调，不走弯路，简明扼要。[GitHub中文版链接](https://github.com/virgili0/Virgilio/tree/master/zh-CN)。推荐等级：:heart::heart::heart:！
@@ -487,6 +494,11 @@
 + [Web 学习笔记](https://github.com/qianguyihao/Web)：GitHub上:star:五千多的项目，超详细的Web前端学习图文教程
 + [Javascript](https://github.com/javascript-tutorial/en.javascript.info)：[课程地址](https://zh.javascript.info/),这本教程由国外一个叫 iliakan 的小哥所著，并提供了英文、俄文、日文、中文等多个版本供读者免费在线查阅。如果你需要进行离线查阅，可付费购买该教程的 EPUB/PDF 版本。完整教程的购买只需要 60 元，可以说是非常良心了。如果你读完觉得这本教程不错，不妨也花钱支持一下作者。
 + [LaTeX-cn](https://github.com/wklchris/Note-by-LaTeX)：目前最好的 LaTex 中文教程
++ [Google Machine Learning Crash Course](https://github.com/yuanxiaosc/Google-Machine-learning-crash-course)：谷歌机器学习速成课程（招式）+机器学习术语表（口诀）+机器学习规则（心得）+机器学习中的常识性问题 （内功）。该资源适用于机器学习、深度学习以及TensorFlow研究人员参考！
++ [Halfrost-Field 冰霜之地](https://github.com/halfrost/Halfrost-Field)：GitHub上的一个笔记仓库，包含了作者阅读开源框架源代码的心得记录。例如其中的机器学习模块，包含了吴恩达机器学习课程 11 周完整内容，每一周单独对应一个 Jupyter Botebook 文件。GitHub 获:star:四千五。[作者主页](https://halfrost.com/)。
++ [ML Paper Notes](https://github.com/yassouali/ML_paper_notes)：机器学习/计算机视觉/ NLP论文的笔记和总结，推荐等级：:heart::heart::heart:！
+
+
 
 <a class="toc" id ="17"></a>
 # Git 👬
@@ -553,6 +565,10 @@
 + [Autograd](https://github.com/HIPS/autograd)：自动微分的实现，有效地计算numpy代码的导数。
 + [AutodiffEngine](https://github.com/mrcat2018/AutodiffEngine)：自动微分引擎，来源于华盛顿大学陈天奇的课程项目 
 + [996.ICU](https://github.com/996icu/996.ICU)：996.ICU 是指 “工作 996， 生病 ICU” 。这是中国程序员之间的一种自嘲说法，意思是如果按照 996 的模式工作，那以后就得进 ICU 了。这个项目最早是某个中国程序员发起的，然后就火遍全网，甚至火到了全世界很多其他国家，其网站被翻译成了多种语言，GitHub获:star:二十五万。[网站地址](https://996.icu)。
++ [You-Get](https://github.com/soimort/you-get)：可以通过一个命令下载网上的在线视频，GitHub获:star:两万八。
++ [Postwoman](https://github.com/liyasthomas/postwoman)：和 postman 一样，它能提供一些 API 的请求测试功能，HTTP 的请求方式和自定义 Header 都可以使用，而且它可以直接在线上就能运行，坊间有称它是 postman 的老婆。GitHub 获:star:一万多，[体验地址](https://postwoman.io)。
++ [FastAPI](https://github.com/tiangolo/fastapi)：FastAPI 是一个基于 Python3.6+ 构建的高性能 web 框架，使用它可以很快的简单写一些 API 接口，GitHub 获:star:六千多。
+
 
 <a class="toc" id ="20"></a>
 # Visualization (可视化) 👀
@@ -601,6 +617,7 @@
 + [Conference List](http://www.conferencelist.info/upcoming.html)：计算机各领域会议的时间表
 + [AI Conference Deadlines ](https://aideadlin.es/?sub=ML,CV,NLP,RO,SP,DM)：查看各个ai顶会的 Deadline
 + [Latex 代码转换器 - Mathpix](https://mathpix.com/)：如果你经常用 latex 编写文档，那你一定得安装下 Mathpix。这款工具能将带数学公式的截图一键转成 latex 代码，帮你省下很多时间，堪称神器！（可惜现在收费了）
++ [Image2LaTeX](https://github.com/blaisewang/img2latex-mathpix)：这一工具的名称是「Image2LaTeX」。顾名思义，这是利用 OCR 技术从图像中提取文字，并转换为 LaTex 代码的工具。无论是 OCR 还是自动转码，速度都是非常快的，准确性也很高。重点是，一个月可以免费使用1000次！(Mathpix 一个月只能免费使用50次)
 + [Grammarly](https://www.grammarly.com)：Grammarly 是一款非常强大的语法改错软件，帮助润色英文表达。
 + [Ginger](http://www.gingersoftware.com)：Ginger 号称是世界上最好用的英文写作润色工具，除了提供单词拼写、语法检查功能外，还提供句子改写、翻译、词典和朗读功能。
 + [1Checker](http://www.1checker.com)：1Checker 是一款中文本土用于进行英语文本的纠错（包括拼写、语法、样式和句子不完整）和润色的软件，界面是中文的，简单易懂，操作方便。
@@ -615,7 +632,6 @@
 + [Overleaf](https://www.overleaf.com/)：在线Latex编辑器，可以多人协作，堪称写论文利器
 + [Mendeley](https://www.mendeley.com/?interaction_required=true)：论文管理工具，全平台，还有网页版，很方便，高度安利
 + [Sci-Hub](https://sci-hub.tw/)：对于科研民工们，肯定很多人接触过sci-hub这个网站，一个很神奇的免费下载文献的网站。
-
 
 
 
@@ -868,7 +884,7 @@
 
 
 <a class="toc" id ="28"></a>
-# Update Time (更新时间) 🕰 ：2019/12/01
+# Update Time (更新时间) 🕰 ：2019/12/04
 [🔙](#table-of-contents)
 
 
