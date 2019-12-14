@@ -28,7 +28,7 @@
 + [Interview (工作面试) 💼](#26)
 + [Dataset (数据集)  📊](#27)
 + [Others (其它) ❓](#28)
-+ [Update Time (更新时间) 🕰 ：2019/12/12](#29)
++ [Update Time (更新时间) 🕰 ：2019/12/14](#29)
 
 
 # Preface (前言)
@@ -170,7 +170,8 @@
 + [Bayesian networks](https://www.intechopen.com/books/bayesian-networks-advances-and-novel-applications)：贝叶斯网络在经济学、人工智能、交通系统、医疗领域都有举足轻重的应用，许多研究表明，贝叶斯网络是可靠和稳定的因果关系表示。本书的写作者阐明了贝叶斯网络在各个领域的进展和应用。
 + [Project Based Learning](https://github.com/tuvtran/project-based-learning)：该资料主要汇总整理了一系列编程教程，教你如何从零开始构建一个应用，其中包含 C、C++、Java、PHP、JavaScript、Python 等主流编程语言教程。GitHub :star:两万多。推荐等级：:heart::heart::heart::heart:！
 + [Build your own X](https://github.com/danistefanovic/build-your-own-x/)：该仓库收集了诸多计算机科学领域的教程资源，旨在从零开始，教授开发者构建一款完全属于自己的开发工具，其中包括增强现实、区块链、机器人、编辑器、命令行工具、神经网络、操作系统等几大领域。作为一名开发者，若能日拱一卒，沉下心来，跟着这个仓库里面的教程挨个做一遍，相信其技术水平定会有质的飞跃。GitHub :star:五万多。推荐等级：:heart::heart::heart::heart:！
-
++ [Tensorflow Data and Deployment](https://www.coursera.org/specializations/tensorflow-data-and-deployment):吴恩达创始的 deeplearning.ai 在 Coursera 上另外开设了一门课程，主要介绍使用 Tensorflow.js、TensorFlow Lite、TensorFlow Hub 等工具进行数据分析的方法。该专项课程已于今日开放注册。吴恩达对课程进行了转推。
++ [机器学习中的神经网络](https://www.cs.toronto.edu/~hinton/coursera_lectures.html)：深度学习三巨头之一，Geoffrey Hinton通过twitter公布了自己在2012年准备的MOOC课程——机器学习中的神经网络。课程中详细介绍了神经网络的各种概念与特点，虽然来自于5年前，但仍不失为一份很有意义的讲解
 
 
 <a class="toc" id ="5"></a>
@@ -180,14 +181,14 @@
 + [Lihang Code](https://github.com/fengdu78/lihang-code)：李航《统计学习方法》的代码实现，GitHub:star:八千多。推荐等级：:heart::heart:！
 + [统计学习方法](https://github.com/SmirkCao/Lihang)：李航的《统计学习方法》的详细笔记，以及各章节机器学习算法详细的 Python 代码
 + [MIT线性代数课程精细笔记](https://github.com/yizhen20133868/MIT-Linear-Algebra-Notes)：该笔记总结了我们在学习MIT线性代数课程的学习经验和过程。课程顺序是按照麻省理工公开课的 Linear Algebra. 记录的学习笔记。[知乎专栏](https://zhuanlan.zhihu.com/p/87873464)。
-+ [Convex Optimization](https://web.stanford.edu/~boyd/cvxbook/)：经典教材 Convex Optimization by Boyd and Vandenberghe
-+ [Mathematics for Machine Learning（机器学习数学基础）](https://mml-book.github.io/)：作者表示撰写这本书旨在激励人们学习数学概念。这本书并不打算涵盖前沿的机器学习技术，因为已经有很多书这样做了。相反，作者的目标是通过该书提供阅读其他书籍所需的数学基础。这本书分为两部分：数学基础知识和使用数学基础知识进行机器学习算法示例。[Github地址](https://github.com/mml-book/mml-book.github.io)
++ [《Convex Optimization》](https://web.stanford.edu/~boyd/cvxbook/)：经典教材 Convex Optimization by Boyd and Vandenberghe
++ [《Mathematics for Machine Learning（机器学习数学基础）》](https://mml-book.github.io/)：作者表示撰写这本书旨在激励人们学习数学概念。这本书并不打算涵盖前沿的机器学习技术，因为已经有很多书这样做了。相反，作者的目标是通过该书提供阅读其他书籍所需的数学基础。这本书分为两部分：数学基础知识和使用数学基础知识进行机器学习算法示例。[Github地址](https://github.com/mml-book/mml-book.github.io)
 + [《An Introduction to Statistical Learning》](http://faculty.marshall.usc.edu/gareth-james/ISL/)：《统计学习导论》，它的内容会有点数学，但是也很容易阅读。对于机器学习这样一个广泛的领域，这本书能将篇幅控制在400页左右很不容易。唯一的缺点是代码是用 R语言而不是Python编写的。
-+ [The Elements of Statistical Learning](https://esl.hohoweiya.xyz/)：斯坦福《统计学习要素》一直是机器学习领域公认经典的教材，是一本在机器学习、统计推理和模式识别领域有影响力和被广泛研究的书。而这本书一直没有得到中文翻译。近期由szcf-weiya博士整理翻译的The Elements of Statistical Learning (ESL)的中文翻译、代码实现及其习题解答公开，非常值得学习！[GitHub仓库](https://github.com/szcf-weiya/ESL-CN)
++ [《The Elements of Statistical Learning》](https://esl.hohoweiya.xyz/)：斯坦福《统计学习要素》一直是机器学习领域公认经典的教材，是一本在机器学习、统计推理和模式识别领域有影响力和被广泛研究的书。而这本书一直没有得到中文翻译。近期由szcf-weiya博士整理翻译的The Elements of Statistical Learning (ESL)的中文翻译、代码实现及其习题解答公开，非常值得学习！[GitHub仓库](https://github.com/szcf-weiya/ESL-CN)
 + [线性代数（Linear Algebra）中文笔记](https://github.com/yizhen20133868/MIT-Linear-Algebra-Notes)：该笔记总结了我们在学习MIT线性代数课程的学习经验和过程。课程顺序是按照麻省理工公开课的 [Linear Algebra. ](http://open.163.com/special/opencourse/daishu.html) 记录的学习笔记。
-+ [Seeing Theory](https://seeing-theory.brown.edu/cn.html#firstPage)：来自斯坦福大学的一位研究生和他的伙伴们开发了一本颇有新意的统计概率入门教材，与传统教材不同的是，这本书充分利用了数据可视化技术，交互性和趣味性都非常强，可以边读边玩。[书籍下载地址](https://seeing-theory.brown.edu/doc/seeing-theory.pdf)
-+ [Interactive Linear Algebra](http://textbooks.math.gatech.edu/ila/index.html)：《交互式线性代数》，它的最大特点就是“交互式”，总共包含了 6 章内容，涵盖了线性代数的核心知识。[离线 PDF 电子版下载地址](http://textbooks.math.gatech.edu/ila/ila.pdf)。这份《交互式线性代数》在线网页，作者开源了所有代码，并发布在 GitHub 上。你可以修改程序中的源代码，实现更加个性化的体验。[GitHub源码地址](https://github.com/QBobWatson/gt-linalg)。
-
++ [《Seeing Theory》](https://seeing-theory.brown.edu/cn.html#firstPage)：来自斯坦福大学的一位研究生和他的伙伴们开发了一本颇有新意的统计概率入门教材，与传统教材不同的是，这本书充分利用了数据可视化技术，交互性和趣味性都非常强，可以边读边玩。[书籍下载地址](https://seeing-theory.brown.edu/doc/seeing-theory.pdf)
++ [《Interactive Linear Algebra》](http://textbooks.math.gatech.edu/ila/index.html)：《交互式线性代数》，它的最大特点就是“交互式”，总共包含了 6 章内容，涵盖了线性代数的核心知识。[离线 PDF 电子版下载地址](http://textbooks.math.gatech.edu/ila/ila.pdf)。这份《交互式线性代数》在线网页，作者开源了所有代码，并发布在 GitHub 上。你可以修改程序中的源代码，实现更加个性化的体验。[GitHub源码地址](https://github.com/QBobWatson/gt-linalg)。
++ [《Introduction to Applied Linear Algebra》](https://web.stanford.edu/~boyd/vmls/vmls.pdf)：斯坦福大学Stephen Boyd教授与加州大学Lieven Vandenberghe教授合著的一本线性代数书籍。这本教科书结合了直观的解释和丰富的实例，让抽象的线性代数知识变得通俗易懂，并且你不需要任何线性代数基础就能看懂。[斯坦福课程主页](https://web.stanford.edu/class/ee103/)，[UCLA课程主页](http://www.seas.ucla.edu/~vandenbe/ee133a.html)
 
 <a class="toc" id ="6"></a>
 # Go Learning (Go 学习) 🇬🇱
@@ -295,6 +296,12 @@
 + [Celebrity-detection](https://github.com/Giphy/celeb-detection-oss)：GIPHY 开源了一个表情包识别器，可以分清楚超过 2300 个名人，而且它识别的还是动图，准确率超过 98%。良心的是，GIPHY 不仅把这个工具开源了，而且还直接用在了自己的网站上，不是 Demo，已经是成品。[在线使用](https://celebrity-detection.giphy.com/)。
 + [ThunderNet](https://github.com/mohhao/TF-Keras-ThunderNet)：作者提出来一种名为ThunderNet的轻量级two-stage检测器，整体结构分成名为SNet的轻型Backbone（主干）和Detection（检测）部分，其中SNet是基于ShuffleNetV2网络，用于对象检测，Detection部分是基于Light-Head R-CNN，并进一步压缩RPN和R-CNN子网，并设计了两个模块：Context Enhancement Module （CEM） 和 SpatialAttention Module （SAM），CEM将多尺度的局部特征和全局特征进行整合，SAM引入RPN信息来再调整RoIwarping层的特征分布。ThunderNet在推理速度、精度均显著优于同类网络，可部署在ARM平台上实现实时检测。[论文地址](https://arxiv.org/pdf/1903.11752.pdf)。
 + [Gaussian YOLOv3](https://github.com/jwchoi384/Gaussian_YOLOv3)：在目标检测的落地项目中，实时性和精确性的trade-off至关重要，而YOLOv3是目前为止在这方面做得最好的算法。本文通过高斯分布的特性，改进YOLOv3使得网络能够输出每个检测框的不确定性，从而提升了网络的精度。[论文地址](https://arxiv.org/abs/1904.04620)。
++ [YOLO v3](https://pjreddie.com/darknet/yolo)：停更许久的YOLOv3。[论文](https://arxiv.org/abs/1804.02767)及[代码](https://github.com/pjreddie/darknet)
++ [darknet](https://github.com/AlexeyAB/darknet)]：目前该项目在github上已获得 5.8k :star:，这个数量也相当之高，与原版YOLO区别在于：1. 提供Windows版本。2. 提供更详细的使用教程。3. 不停更新YOLOv3及衍生网络
++ [SimpleDet](https://github.com/TuSimple/simpledet)：SimpleDet 是一套简单且多功能的目标检测与实例分割的框架，其是基于MXNet开发完成。目前 SimpleDet 已获得 2.3k :star:！
++ [mmDetection](https://github.com/open-mmlab/mmdetection)：mmDetection 是个非常强大的目标检测工具箱，也是基于PyTorch实现。目前 mmDetection 已获得 7.6k :star:！
++ [Detectron2](https://github.com/facebookresearch/detectron2)：Detectron2 前身就是鼎鼎大名的 Detectron，其实Detectron可以说是Facebook第一代检测工具箱，目前在github上获得 22.5k :star:！
++ [PythonPlantsVsZombies](https://github.com/marblexu/PythonPlantsVsZombies)：用 Python 实现植物大战僵尸代码 
 
 
 
@@ -376,7 +383,9 @@
 + [Fiora](https://fiora.suisuijiang.com/)：你是否是社交软件的重度用户，并喜欢在网上与陌生人交流分享自己的观点呢？如果是的话，或许你可以考虑自己搭建一个多用户在线的实时聊天平台。要做到这一点并不难，借助一款叫 fiora 的开源软件便可以做到。fiora 是一款有趣的在线聊天应用。基于 node.js, mongodb, socket.io和 react 编写。[GitHub 地址](https://github.com/yinxin630/fiora/)。
 + [微信排版编辑器](https://github.com/doocs/md)：这是一个专为微信公众号排版而生的前端编辑器，可直接在 Web 端打开写文章，在编辑完成后，可将其生成的富文本内容一键复制到公众号上，自动化完成排版操作，很是方便。
 + [AI Dungeon](http://www.aidungeon.io/)：15亿参数的终极版GPT-2，就是OpenAI那只编故事成瘾的AI，都能拿来做些什么？有人用它做了个文字冒险游戏，并赐以优美的名字，叫“AI地牢 (AI Dungeon) ”。大概是在说，你一旦进去就出不来了，里面的故事太迷人。现在，这座地牢进化出了2.0版本。有网友盛情安利，表示不可错过，推特11小时已有1600赞！[游戏传送门](https://colab.research.google.com/github/nickwalton/AIDungeon/blob/master/AIDungeon_2.ipynb)，[博客传送门](https://pcc.cs.byu.edu/2019/11/21/ai-dungeon-2-creating-infinitely-generated-text-adventures-with-deep-learning-language-models/)
-+ [PythonPlantsVsZombies](https://github.com/marblexu/PythonPlantsVsZombies)：用 Python 实现植物大战僵尸代码 
++ [Sorry](https://github.com/xtyxtyx/sorry)：sorry 是一个很有意思的表情包斗图项目，源自"sorry，有钱事真的能为所欲为"这梗...
+
+
 
 
 <a class="toc" id ="12"></a>
@@ -561,6 +570,7 @@
 + [TensorFlow Models](https://github.com/tensorflow/models/)：一个GitHub上的存储库，包含了许多在TensorFlow中实现的模型，一共分为两类：官方模型和研究模型。官方模型，是使用TensorFlow的高级API的示例模型的集合。研究模型，是研究人员在TensorFlow中实现的大量模型集合
 + [Model Zoo](https://modelzoo.co/)：这个平台，由新加坡名为Jing Yu Koh本科生牵头搭建。与上述的几个平台不同，这个平台上提供预训练模型，不仅仅只是完全针对于Pytorch或者TensorFlow，推荐等级：:heart::heart:！
 + [RecQ](https://github.com/Coder-Yu/RecQ)：一个基于TensorFlow写的Python推荐系统框架
++ [Medium](https://github.com/eliorc/Medium)：基于TensorFlow 实现的PCA,t-SNE, AE, node2vec, LSTM算法
 ---
 + [TensorFlow 2.0 迁移指南](https://www.tensorflow.org/guide/migrate)：近期 TensorFlow 2.0正式版已经推出，如果你使用过tensorflow 1.x，这是一个迁移到2.0的官方指南
 + [tf upgrade v2](https://www.tensorflow.org/guide/upgrade)：为了帮助你（自动地）将代码从 keras 更新为 tf.keras，Google 发布了一个名为 tf_upgrade_v2 的脚本。顾名思义，这个脚本可以分析你的代码并报告需要改动的行，该脚本甚至可以替你完成升级过程。
@@ -584,6 +594,9 @@
 + [动手深度学习 (TensorFlow2.0)](https://github.com/TrickyGo/Dive-into-DL-TensorFlow2.0)：《动手学深度学习》(Dive into Deep Learning) TensorFlow 2.0版本代码实现。[在线阅读地址](https://trickygo.github.io/Dive-into-DL-TensorFlow2.0/#/)。推荐等级：:heart::heart::heart:！
 + [TF-2.0-Hacks](https://github.com/sayakpaul/tf-2.0-hacks/tree/master/)：该仓库包含了作者对新发布的TensorFlow 2.0的探索，里面有些相关资料很值得学习。
 + [TensorFlow Tutorials](https://www.tensorflow.org/tutorials)：TensorFlow 官方文档示例教程，使用2.0实现了一些经典模型，[GitHub仓库](https://github.com/tensorflow/docs/tree/master/site/en/tutorials)。推荐等级：:heart::heart::heart:！
+
+
+
 
 <a class="toc" id ="20"></a>
 # Keras Learning (Keras 学习) 🇰🇷
@@ -915,10 +928,10 @@
 + [Google Colab](https://colab.research.google.com/notebooks/welcome.ipynb)：Google Colab是帮你快速了解Python代码的利器，你可以直接在上面运行一些好玩好用的Jupyter Notebook项目。对于初学机器学习的人，即使你没有很好的硬件，也可以利用谷歌的免费资源来跑程序。同时上面还有很多GitHub相关[技术教程汇总](https://www.google-colab.com/github/)。推荐等级：:heart::heart:！
 + [Awesome Google Colab](https://github.com/firmai/awesome-google-colab)：GitHub上的一个新项目，Colab资源汇总。作者还自己建了[非官方的colab网站](https://www.google-colab.com/)，收集了大量学习资源。同时上面还有很多GitHub相关[技术教程汇总](https://www.google-colab.com/github/)。推荐等级：:heart::heart::heart:！
 + [Awesome Machine Learning Jupyter Notebooks For Colab](https://github.com/toxtli/awesome-machine-learning-jupyter-notebooks-for-colab)：机器学习和深度学习教程的列表，以Jupyter笔记本格式运行在谷歌Colab上，推荐等级：:heart::heart:！
-
++ [Microsoft To-Do](https://todo.microsoft.com/tasks/)：微软打造的PC版 TODO 工具
 
 <a class="toc" id ="29"></a>
-# Update Time (更新时间) 🕰 ：2019/12/12
+# Update Time (更新时间) 🕰 ：2019/12/14
 [🔙](#table-of-contents)
 
 
