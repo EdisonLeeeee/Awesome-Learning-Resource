@@ -28,7 +28,7 @@
 + [Interview (工作面试) 💼](#26)
 + [Dataset (数据集)  📊](#27)
 + [Others (其它) ❓](#28)
-+ [Update Time (更新时间) 🕰 ：2019/12/14](#29)
++ [Update Time (更新时间) 🕰 ：2019/12/17](#29)
 
 
 # Preface (前言)
@@ -172,6 +172,7 @@
 + [Build your own X](https://github.com/danistefanovic/build-your-own-x/)：该仓库收集了诸多计算机科学领域的教程资源，旨在从零开始，教授开发者构建一款完全属于自己的开发工具，其中包括增强现实、区块链、机器人、编辑器、命令行工具、神经网络、操作系统等几大领域。作为一名开发者，若能日拱一卒，沉下心来，跟着这个仓库里面的教程挨个做一遍，相信其技术水平定会有质的飞跃。GitHub :star:五万多。推荐等级：:heart::heart::heart::heart:！
 + [Tensorflow Data and Deployment](https://www.coursera.org/specializations/tensorflow-data-and-deployment):吴恩达创始的 deeplearning.ai 在 Coursera 上另外开设了一门课程，主要介绍使用 Tensorflow.js、TensorFlow Lite、TensorFlow Hub 等工具进行数据分析的方法。该专项课程已于今日开放注册。吴恩达对课程进行了转推。
 + [机器学习中的神经网络](https://www.cs.toronto.edu/~hinton/coursera_lectures.html)：深度学习三巨头之一，Geoffrey Hinton通过twitter公布了自己在2012年准备的MOOC课程——机器学习中的神经网络。课程中详细介绍了神经网络的各种概念与特点，虽然来自于5年前，但仍不失为一份很有意义的讲解
++ [**[practicalAI](https://github.com/practicalAI/practicalAI)**](https://github.com/practicalAI/practicalAI)：近期开源的自学深度学习 GitHub 项目，作者为每种具体算法提供了 Jupyter notebook 实现，可以轻易地在 Google Colab 上运行（免费提供云端 GPU 或 TPU）。所以想自学深度学习，不需要价格几千美元的 GPU，有一个 Chrome 浏览器就够了。这一套实践教程都能直接在 Colab 上运行，因此结合解释与代码，我们能更好地入门机器学习。推荐等级：:heart::heart::heart::heart:！
 
 
 <a class="toc" id ="5"></a>
@@ -189,6 +190,7 @@
 + [《Seeing Theory》](https://seeing-theory.brown.edu/cn.html#firstPage)：来自斯坦福大学的一位研究生和他的伙伴们开发了一本颇有新意的统计概率入门教材，与传统教材不同的是，这本书充分利用了数据可视化技术，交互性和趣味性都非常强，可以边读边玩。[书籍下载地址](https://seeing-theory.brown.edu/doc/seeing-theory.pdf)
 + [《Interactive Linear Algebra》](http://textbooks.math.gatech.edu/ila/index.html)：《交互式线性代数》，它的最大特点就是“交互式”，总共包含了 6 章内容，涵盖了线性代数的核心知识。[离线 PDF 电子版下载地址](http://textbooks.math.gatech.edu/ila/ila.pdf)。这份《交互式线性代数》在线网页，作者开源了所有代码，并发布在 GitHub 上。你可以修改程序中的源代码，实现更加个性化的体验。[GitHub源码地址](https://github.com/QBobWatson/gt-linalg)。
 + [《Introduction to Applied Linear Algebra》](https://web.stanford.edu/~boyd/vmls/vmls.pdf)：斯坦福大学Stephen Boyd教授与加州大学Lieven Vandenberghe教授合著的一本线性代数书籍。这本教科书结合了直观的解释和丰富的实例，让抽象的线性代数知识变得通俗易懂，并且你不需要任何线性代数基础就能看懂。[斯坦福课程主页](https://web.stanford.edu/class/ee103/)，[UCLA课程主页](http://www.seas.ucla.edu/~vandenbe/ee133a.html)
++ [A Beginner’s Guide to the Mathematics of Neural Networks](https://link.springer.com/chapter/10.1007/978-1-4471-3427-5_2)：一份为初学者准备的指南，关于神经网络中的数学问题，帮助读者理解神经网络模型中的数学概念和应用。
 
 <a class="toc" id ="6"></a>
 # Go Learning (Go 学习) 🇬🇱
@@ -240,7 +242,7 @@
 + [利用 Python 进行数据分析 · 第 2 版](https://www.jianshu.com/p/04d180d90a3f)：一本非常不错的 Python 数据分析入门系统教程。本书由 Python pandas 项目创始人Wes McKinney 亲笔撰写，详细介绍利用 Python 进行操作、处理、清洗和规整数据等方面的具体细节和基本要点。第 2 版针对 Python 3.6 进行全面修订和更新，涵盖新版的 pandas、NumPy、IPython 和 Jupyter，并增加大量实际案例，可以帮助你高效解决一系列数据分析问题。[翻译的 GitHub 地址](https://github.com/iamseancheney/python_for_data_analysis_2nd_chinese_version)，
 [GitBook（有锚点功能）](https://seancheney.gitbook.io/python-for-data-analysis-2nd/)，[书籍下载地址](http://www.jianshu.com/p/fad9e41c1a42)，[书籍代码的 GitHub 开源地址](https://github.com/wesm/pydata-book)
 + [Deep Learning With Python](https://www.manning.com/books/deep-learning-with-python?a_aid=keras&a_bid=76564dff)：一本很不错的学习 Python的书籍，书本代码是基于 Keras的，GitHub上已获:star:八千多，[代码地址](https://github.com/fchollet/deep-learning-with-python-notebooks)。
-
++ [Python Small Examples](https://github.com/jackzhenguo/python-small-examples)：Python小例子、小Demo一网打尽。Python基础、Web开发、数据科学、机器学习、TensorFlow、Pytorch，你能想到的基于Python的小Demo都在这里。
 
 <a class="toc" id ="8"></a>
 # Python Projects (Python 项目) 👨‍💻
@@ -571,6 +573,7 @@
 + [Model Zoo](https://modelzoo.co/)：这个平台，由新加坡名为Jing Yu Koh本科生牵头搭建。与上述的几个平台不同，这个平台上提供预训练模型，不仅仅只是完全针对于Pytorch或者TensorFlow，推荐等级：:heart::heart:！
 + [RecQ](https://github.com/Coder-Yu/RecQ)：一个基于TensorFlow写的Python推荐系统框架
 + [Medium](https://github.com/eliorc/Medium)：基于TensorFlow 实现的PCA,t-SNE, AE, node2vec, LSTM算法
++ [深度学习之TensorFlow工程化项目实战](https://github.com/aianaconda/TensorFlow_Engineering_Implementation)：《深度学习之TensorFlow工程化项目实战》是一本非常全面的、专注于实战的AI图书，兼容TensorFlow 1.x和2.x版本，共75个实例。本书结构清晰、案例丰富、通俗易懂、实用性强。适合对人工智能、TensorFlow感兴趣的读者作为自学教程。
 ---
 + [TensorFlow 2.0 迁移指南](https://www.tensorflow.org/guide/migrate)：近期 TensorFlow 2.0正式版已经推出，如果你使用过tensorflow 1.x，这是一个迁移到2.0的官方指南
 + [tf upgrade v2](https://www.tensorflow.org/guide/upgrade)：为了帮助你（自动地）将代码从 keras 更新为 tf.keras，Google 发布了一个名为 tf_upgrade_v2 的脚本。顾名思义，这个脚本可以分析你的代码并报告需要改动的行，该脚本甚至可以替你完成升级过程。
@@ -722,28 +725,58 @@
 [🔙](#table-of-contents)
 
 + [Google Scholar](https://scholar.google.com/)：谷歌学术
-+ [Paperswithcode](https://paperswithcode.com/)：如其名，收录了大量带有源代码的论文，[Github同名项目](https://github.com/zziz/pwc)，推荐等级：:heart::heart::heart:！
+
++ [Paperswithcode](https://paperswithcode.com/)：如其名，收录了大量带有源代码的论文，[Github同名项目](https://github.com/zziz/pwc)，推荐等级：:heart::heart::heart::heart:！
+
++ [ArXiv Sanity](http://www.arxiv-sanity.com/)：类似Paperswithcode，旨在提升获取研究成果的效率与体验
+
++ [arXiv Vanity](https://www.arxiv-vanity.com/)arXiv Vanity将来自arXiv的学术论文呈现为响应性网页，这样你就不用眯着眼睛看PDF了
+
 + [易搜搭](http://www.esoda.org/)：专业英文论文写作助手，只需要输入你想表达的中文句子，该网站会检索各种论文找出相似英文表达，使你的英文论文写作不再生硬
+
 + [Conference List](http://www.conferencelist.info/upcoming.html)：计算机各领域会议的时间表
+
 + [AI Conference Deadlines ](https://aideadlin.es/?sub=ML,CV,NLP,RO,SP,DM)：查看各个ai顶会的 Deadline
+
 + [Latex 代码转换器 - Mathpix](https://mathpix.com/)：如果你经常用 latex 编写文档，那你一定得安装下 Mathpix。这款工具能将带数学公式的截图一键转成 latex 代码，帮你省下很多时间，堪称神器！（可惜现在收费了）
+
 + [Image2LaTeX](https://github.com/blaisewang/img2latex-mathpix)：这一工具的名称是「Image2LaTeX」。顾名思义，这是利用 OCR 技术从图像中提取文字，并转换为 LaTex 代码的工具。无论是 OCR 还是自动转码，速度都是非常快的，准确性也很高。重点是，一个月可以免费使用1000次！(Mathpix 一个月只能免费使用50次)
+
 + [Grammarly](https://www.grammarly.com)：Grammarly 是一款非常强大的语法改错软件，帮助润色英文表达。
+
 + [Ginger](http://www.gingersoftware.com)：Ginger 号称是世界上最好用的英文写作润色工具，除了提供单词拼写、语法检查功能外，还提供句子改写、翻译、词典和朗读功能。
+
 + [1Checker](http://www.1checker.com)：1Checker 是一款中文本土用于进行英语文本的纠错（包括拼写、语法、样式和句子不完整）和润色的软件，界面是中文的，简单易懂，操作方便。
+
 + [谷歌学术镜像](https://zz.glgoo.top/scholar?hl=zh-CN&as_sdt=0,5)：一个谷歌学术的镜像网站，如果上不了谷歌学术的话可以用它作为替代
+
 + [Mathtex Tutorial](http://www.forkosh.com/mathtextutorial.html)：LaTex 数学公式在线转换，包括一些常用数学公式教程
+
 + [Tablesgenerator](http://www.tablesgenerator.com/)：：LaTex 表格在线生成器
+
 + [Codecogs](https://www.codecogs.com/eqnedit.php)：在线Latex公式编辑器
+
 + [AOE TIME](https://time.is/Anywhere_on_Earth)：“地球上的任何地方”(AoE)是一个日历名称，表示当日期在地球上的任何地方经过时，一段时间就结束了。许多会议（期刊）截稿时间都采用AOE时间
+
 + [PDFresizer](https://pdfresizer.com/)：PDF剪裁工具，当你的图片出现白边的时候可以使用这个工具进行剪裁
+
 + [Arxiv国内镜像](xxx.itp.ac.cn/)：Arxiv国内镜像。如 `https://arxiv.org/pdf/1512.03385.pdf` 下载很慢，换成 `http://xxx.itp.ac.cn/pdf/1512.03385.pdf`, 即可体验光速下载，注意 https 要换成 http。
+
 + [Semantic Scholar](https://www.semanticscholar.org/)：查论文神器
+
 + [Overleaf](https://www.overleaf.com/)：在线Latex编辑器，可以多人协作，堪称写论文利器
+
 + [Mendeley](https://www.mendeley.com/?interaction_required=true)：论文管理工具，全平台，还有网页版，很方便，高度安利
+
 + [Sci-Hub](https://sci-hub.tw/)：对于科研民工们，肯定很多人接触过sci-hub这个网站，一个很神奇的免费下载文献的网站。
+
 + [SwiftLaTeX](https://github.com/SwiftLaTeX/SwiftLaTeX)：一个名为 SwiftLaTeX 的可视化编辑器。该项目最大的亮点在于：你编写的 LaTeX 代码能够立刻展示实际的效果，所见即所得。这个编辑器还是基于浏览器的，还支持云文件存储。[在线体验版本](https://www.swiftlatex.com/oauth/login_oauth?type=sandbox)。
+
 + [Face Detection](https://github.com/jiankangdeng/handbook)：人脸识别方面的相关论文合集。
+
++ [NeurIPS 2019 Notes](https://david-abel.github.io/notes/neurips_2019.pdf)：布朗大学的博士生 David Abel 公开了他的 NeurIPS 2019 参会笔记，他从深度学习理论、强化学习、博弈论和元学习等主题出发记载参会的一些亮点与主要内容。[个人主页](https://david-abel.github.io/)
+
+  
 
 
 
@@ -827,7 +860,7 @@
 + [National Center for Environmental Information](https://www.ncdc.noaa.gov/data-access)：这个数据集涵盖地球物理学、大气和海洋数据。他们目前是世界上最大的气候和天气信息提供商。他们还提供了旧工具的链接，这些工具目前可能在网站上不可使用，但可用于其他地方。
 + [Reddit](https://www.reddit.com/r/datasets)：虽然你需要注册，但它是免费的。你可以搜索数据集并查找提供信息和请求信息的人。总的来说，Reddit 也是一个寻找信息并了解行业趋势的好地方。
 + [Kaggle 数据集](https://www.kaggle.com/datasets)：Kaggle 目前有将近 16,000 个数据集。你可以找到从运动队球员统计到洛杉矶停车引语任何范畴的数据。
-+ [NASA 的 Earth Data](https://earthdata.nasa.gov/?_fsi=BqJ6IiI5)：
++ [NASA 的 Earth Data](https://earthdata.nasa.gov/?_fsi=BqJ6IiI5)：NASA 的 Earth Data
 + [Pew Internet](https://www.pewinternet.org/datasets/?_fsi=BqJ6IiI5)：如果你需要的是社会学数据，这是一个很好的数据源。你还可以通过浏览找到一些有趣的文章。虽然需要注册才能查看和下载数据集，但它也是免费的。
 + [Centers for Disease Control and Prevention](https://www.cdc.gov/datastatistics/index.html)：该网站包括各种健康主题，可让你访问大量可浏览和可搜索的数据。甚至可以通过各种与主题相关的网站创建自己过滤的数据集。
 + [Bureau of Labor Statistics](https://www.bls.gov/data/)：你可以在这里找到有关美国劳动力市场活跃度、工作条件和价格变化的数据。
@@ -931,7 +964,7 @@
 + [Microsoft To-Do](https://todo.microsoft.com/tasks/)：微软打造的PC版 TODO 工具
 
 <a class="toc" id ="29"></a>
-# Update Time (更新时间) 🕰 ：2019/12/14
+# Update Time (更新时间) 🕰 ：2019/12/17
 [🔙](#table-of-contents)
 
 
