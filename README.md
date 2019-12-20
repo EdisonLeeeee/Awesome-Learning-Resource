@@ -28,7 +28,7 @@
 + [Interview (工作面试) 💼](#26)
 + [Dataset (数据集)  📊](#27)
 + [Others (其它) ❓](#28)
-+ [Update Time (更新时间) 🕰 ：2019/12/17](#29)
++ [Update Time (更新时间) 🕰 ：2019/12/20](#29)
 
 
 # Preface (前言)
@@ -64,6 +64,7 @@
 + [可汗学院](https://scikit-learn.org/stable/modules/clustering.html)：可汗学院几乎涵盖所有机器学习相关概念，且可免费学习。你可以在注册可汗学院时选择想要学习的主题，这样就可以得到量身定做的理论学习路径了。
 + [伯乐在线](https://github.com/jobbole/)：伯乐在线翻译组，GitHub上翻译了多个学习资源仓库，内含大量学习资源
 + [Machine Learning](https://www.coursera.org/learn/machine-learning)： Coursera 上开设的另一门机器学习课程，相比于吴恩达的课程更加简单易懂。
++ [latexstudio](https://www.latexstudio.net/)：Latex 学习网站
 
 
 <a class="toc" id ="3"></a>
@@ -172,7 +173,11 @@
 + [Build your own X](https://github.com/danistefanovic/build-your-own-x/)：该仓库收集了诸多计算机科学领域的教程资源，旨在从零开始，教授开发者构建一款完全属于自己的开发工具，其中包括增强现实、区块链、机器人、编辑器、命令行工具、神经网络、操作系统等几大领域。作为一名开发者，若能日拱一卒，沉下心来，跟着这个仓库里面的教程挨个做一遍，相信其技术水平定会有质的飞跃。GitHub :star:五万多。推荐等级：:heart::heart::heart::heart:！
 + [Tensorflow Data and Deployment](https://www.coursera.org/specializations/tensorflow-data-and-deployment):吴恩达创始的 deeplearning.ai 在 Coursera 上另外开设了一门课程，主要介绍使用 Tensorflow.js、TensorFlow Lite、TensorFlow Hub 等工具进行数据分析的方法。该专项课程已于今日开放注册。吴恩达对课程进行了转推。
 + [机器学习中的神经网络](https://www.cs.toronto.edu/~hinton/coursera_lectures.html)：深度学习三巨头之一，Geoffrey Hinton通过twitter公布了自己在2012年准备的MOOC课程——机器学习中的神经网络。课程中详细介绍了神经网络的各种概念与特点，虽然来自于5年前，但仍不失为一份很有意义的讲解
-+ [**[practicalAI](https://github.com/practicalAI/practicalAI)**](https://github.com/practicalAI/practicalAI)：近期开源的自学深度学习 GitHub 项目，作者为每种具体算法提供了 Jupyter notebook 实现，可以轻易地在 Google Colab 上运行（免费提供云端 GPU 或 TPU）。所以想自学深度学习，不需要价格几千美元的 GPU，有一个 Chrome 浏览器就够了。这一套实践教程都能直接在 Colab 上运行，因此结合解释与代码，我们能更好地入门机器学习。推荐等级：:heart::heart::heart::heart:！
++ [Practicalai](https://github.com/practicalAI/practicalAI)：近期开源的自学深度学习 GitHub 项目，作者为每种具体算法提供了 Jupyter notebook 实现，可以轻易地在 Google Colab 上运行（免费提供云端 GPU 或 TPU）。所以想自学深度学习，不需要价格几千美元的 GPU，有一个 Chrome 浏览器就够了。这一套实践教程都能直接在 Colab 上运行，因此结合解释与代码，我们能更好地入门机器学习。推荐等级：:heart::heart::heart::heart:！
++ [Recurrent Neural Network Tutorial](http://www.wildml.com/2015/10/recurrent-neural-network-tutorial-part-4-implementing-a-grulstm-rnn-with-python-and-theano/)：RNN 教程，推荐等级::heart::heart::heart:！
++ [Understanding LSTM Networks](http://colah.github.io/posts/2015-08-Understanding-LSTMs/)：LSTM教程，推荐等级::heart::heart::heart:！
++ [The Annotated Transformer](http://nlp.seas.harvard.edu/2018/04/03/attention.html)：Attention is All You Need 论文解读及相关代码实现教程，详细介绍了注意力机制。[相关博客](https://towardsdatascience.com/attn-illustrated-attention-5ec4ad276ee3#ba24)，推荐等级::heart::heart::heart::heart:！
+
 
 
 <a class="toc" id ="5"></a>
@@ -469,7 +474,6 @@
 + [Dimensionality Reduction Alo Codes](https://github.com/heucoder/dimensionality_reduction_alo_codes )：网上关于各种降维算法的资料参差不齐，同时大部分不提供源代码。这个 GitHub 项目整理了使用 Python 实现了 11 种经典的数据抽取（数据降维）算法，包括：PCA、LDA、MDS、LLE、TSNE 等，并附有相关资料、展示效果；非常适合机器学习初学者和刚刚入坑数据挖掘的小伙伴。
 + [https://jalammar.github.io/a-visual-guide-to-using-bert-for-the-first-time/](https://jalammar.github.io/a-visual-guide-to-using-bert-for-the-first-time/)：BERT小学生级上手教程，从原理到上手全有图示，还能直接在线运行。[代码](https://github.com/jalammar/jalammar.github.io/blob/master/notebooks/bert/A_Visual_Notebook_to_Using_BERT_for_the_First_Time.ipynb)，[Colab](https://colab.research.google.com/github/jalammar/jalammar.github.io/blob/master/notebooks/bert/A_Visual_Notebook_to_Using_BERT_for_the_First_Time.ipynb)，[DistilBERT](https://medium.com/。huggingface/distilbert-8cf3380435b5)
 
-
 <a class="toc" id ="14"></a>
 # Computer Vision (计算机视觉) 👁
 [🔙](#table-of-contents)
@@ -503,6 +507,7 @@
 + [RL Courser](https://www.youtube.com/playlist?list=PLV_1KI9mrSpGFoaxoL9BCZeen_s987Yxb)：YouTube上的强化学习公开课。
 + [Reinforcement Learning:Theory and Algorithms](https://rltheorybook.github.io/)：微软首席研究经理Alekh Agarwal、UIUC助理教授姜楠、华盛顿研究基金会数据科学主席Sham M. Kakade合编的新书《强化学习：理论与算法》，83页pdf，讲述了强化学习最新进展，包括MDP、样本复杂度、策略探索、PG、值函数等关键议题，是了解强化学习的材料。
 + [Playing Games](https://paperswithcode.com/area/playing-games)：深度强化学习的快速发展最直接的应用和体现就在“游戏”领域，目前DRL技术主要在视频帧游戏(Atari)、棋牌游戏(Go)、实时策略游戏、Board 游戏、球类(Football)等游戏中有广泛的研究，然而很多人看了领域大牛、顶级研究机构发的论文，一头雾水，主要原因是一方面自身coding能力不是足够高，另外一方面已发表的论文省略了众多细节，导致无法复现进行研究。该开源项目就是一些强化学习复现的论文及相关代码进行了汇总，从Paper到Coding, 一览深度强化学习挑战34类游戏。
++ [《A Beginner's Guide to Deep Reinforcement Learning》](https://pathmind.com/wiki/deep-reinforcement-learning)：一份简明《深度强化学习初学者指南》实用的教程
 
 
 
@@ -528,6 +533,9 @@
 + [Pytorch Geometric](https://github.com/rusty1s/pytorch_geometric)：近几年来，图神经网络（GNN）在推荐系统、搜索引擎、计算机视觉等领域中都引起了较大的关注。Github有大量开源GNN实现，其中pytorch_geometric是最优秀的实现之一，曾被Yann LeCun推荐，GitHub上获:star:近五千
 + [Plato](https://github.com/tencent/plato)：腾讯开源的高性能图计算框架 Plato，据介绍，Plato 可满足十亿级节点的超大规模图计算需求，将算法计算时间从「天」级缩短到「分钟」级，性能全面领先于其它主流分布式图计算框架，并且打破了原本动辄需要数百台服务器的资源瓶颈。
 + [Machine Learning with Graphs](http://web.stanford.edu/class/cs224w/)：斯坦福大学的最新课程CS224W——图机器学习，主讲人是斯坦福大牛Jure Leskovec，他是斯坦福大学计算机学院的副教授，也是图表示学习方法 node2vec 和 GraphSAGE 作者之一。
++ [Graph-based deep learning literature](https://github.com/naganandy/graph-based-deep-learning-literature)：图深度学习的论文集
+
+
 
 <a class="toc" id ="17"></a>
 # Generative Adversarial Networks (GANs) 🤜 🤛
@@ -545,9 +553,14 @@
 <a class="toc" id ="18"></a>
 # Adversarial Attack and Defense ⚔
 [🔙](#table-of-contents)
+
 + [Advertorch](https://github.com/BorealisAI/advertorch)：对抗鲁棒性研究工具，实现了大多数的对抗攻防算法（CV领域）。
 + [Cleverhans](https://github.com/tensorflow/cleverhans)：一个用于构建攻击、构建防御和基准测试的对抗性示例库。
 + [HackingNeuralNetworks](https://github.com/Kayzaks/HackingNeuralNetworks)：神经网络真的在软件层面上是安全吗？今日的 GitHub 趋势榜上有一个「骇入神经网络指南」项目。作者提供了一系列教学资料和代码，告诉了我们黑客会怎样对神经网络发起攻击。和对抗样本攻击不同，这些攻击都是从软件层面进行的，和使用对抗样本混淆模型能力的攻击不同。[教程文章地址](https://github.com/Kayzaks/HackingNeuralNetworks/blob/master/Article.pdf)。
++ [Papers of Robust ML](https://github.com/rainy1998/nlp-/blob/f62680e9663dc89920bd5dbbf44759e190ffd08c/Papers-of-Robust-ML.md)：Robust-ML的相关论文集
++ [Adversarial-DL](https://github.com/mbs0221/Adversarial-DL)：对抗深度学习的论文集
+
+
 
 <a class="toc" id ="19"></a>
 # TensorFlow Learning (TensorFlow 学习) 🇹🇫
@@ -588,7 +601,7 @@
 + [TensorFlow 2.0 + Keras Overview for Deep Learning Researchers](https://colab.research.google.com/drive/1UCJt8EYjlzCs1H1d1X0iDGYJsHKwu-NO#scrollTo=88ExjKfCo7aP)：Keras之父出品：Twitter超千赞的TF 2.0 + Keras速成课程。需要翻墙查看。推荐等级：:heart::heart:！
 + [Transformer Chatbot](https://medium.com/tensorflow/a-transformer-chatbot-tutorial-with-tensorflow-2-0-88bf59e66fe2)：【TensorFlow2.0】Transformer聊天机器人教程。[GitHub地址](https://github.com/tensorflow/examples/blob/master/community/en/transformer_chatbot.ipynb)
 + [TensorFlow Examples v2.0](https://github.com/aymericdamien/TensorFlow-Examples/tree/master/tensorflow_v2)：GitHub 中三万多:star:项目`TensorFlow examples`的一个子项目，更新了一些2.0的样例
-+ [Deep Learning with TensorFlow book](https://github.com/dragen1860/Deep-Learning-with-TensorFlow-book)：一本基于TensorFlow 2.0 正式版的中文深度学习开源书，GitHub趋势日榜排名全球第一，已斩获:star:三千多，并且还在不断增长。从目录章节构成来看，理论与编程并不是独立分开，而是随着难度的递增，循序渐进、穿插编排的，除此之外，每个章节里的内容编排也是理论与实战相结合。配套代码，[TensorFlow 2.0 实战案例](https://github.com/dragen1860/TensorFlow-2.x-Tutorials)。推荐等级：:heart::heart::heart:！
++ [《Deep Learning with TensorFlow book》](https://github.com/dragen1860/Deep-Learning-with-TensorFlow-book)：一本基于TensorFlow 2.0 正式版的中文深度学习开源书，GitHub趋势日榜排名全球第一，已斩获:star:三千多，并且还在不断增长。从目录章节构成来看，理论与编程并不是独立分开，而是随着难度的递增，循序渐进、穿插编排的，除此之外，每个章节里的内容编排也是理论与实战相结合。配套代码，[TensorFlow 2.0 实战案例](https://github.com/dragen1860/TensorFlow-2.x-Tutorials)。推荐等级：:heart::heart::heart:！
 + [简单粗暴TensorFlow 2.0](https://tf.wiki/)：一份全中文教学的快速上手指南，基于Keras和Eager Execution（动态图）模式，北大学霸出品，获得TensorFlow官方认可。其名为，简单粗暴TensorFlow 2.0。[GitHub地址](https://github.com/snowkylin/tensorflow-handbook)，推荐等级：:heart::heart::heart:！
 + [Hands On Machine Learning](https://www.oreilly.com/library/view/hands-on-machine-learning/9781492032632/)：这本书非常棒，可以带你更深入TF2.0，记得要看第二版。GitHub上已获:star:四千多，[代码地址](https://github.com/ageron/handson-ml2)。推荐等级：:heart::heart::heart:！
 + [Tf2 Course](https://github.com/ageron/tf2_course)："Deep Learning with TensorFlow 2 and Keras" 课程笔记
@@ -597,7 +610,7 @@
 + [动手深度学习 (TensorFlow2.0)](https://github.com/TrickyGo/Dive-into-DL-TensorFlow2.0)：《动手学深度学习》(Dive into Deep Learning) TensorFlow 2.0版本代码实现。[在线阅读地址](https://trickygo.github.io/Dive-into-DL-TensorFlow2.0/#/)。推荐等级：:heart::heart::heart:！
 + [TF-2.0-Hacks](https://github.com/sayakpaul/tf-2.0-hacks/tree/master/)：该仓库包含了作者对新发布的TensorFlow 2.0的探索，里面有些相关资料很值得学习。
 + [TensorFlow Tutorials](https://www.tensorflow.org/tutorials)：TensorFlow 官方文档示例教程，使用2.0实现了一些经典模型，[GitHub仓库](https://github.com/tensorflow/docs/tree/master/site/en/tutorials)。推荐等级：:heart::heart::heart:！
-
++ [《Hands-on Machine Learning with Scikit-Learn, Keras, and TensorFlow, 2nd Edition》](https://www.redhat.com/cms/managed-files/cm-oreilly-chapter-machine-learning-analyst-paper-f20000-201910-en.pdf)：Scikit-Learn，Keras，Tensorflow是机器学习工具链的重要组成部分。本书的作者，根据上述三个机器学习工具箱，融汇贯通成一个个机器学习实例，让即使对人工智能了解不多的程序员也可以使用简单高效的工具来实现机器学习任务。本书Sklearn,Keras与Tensorflow机器学习实用指南(第二版)涵盖大量上述三个工具和机器学习的相关内容。[书内代码](https://github.com/ageron/handson-ml2)
 
 
 
@@ -651,7 +664,7 @@
 + [PyTorch Tutorials](https://pytorch.org/tutorials/)：PyTorch 官方英文文档
 + [PyTorch Tutorial](https://github.com/yunjey/pytorch-tutorial)：PyTorch Tutorial for Deep Learning Researchers。GitHub上已收获一万多:star:
 + [Awesome Pytorch list](https://github.com/bharathgs/Awesome-pytorch-list)：GitHub上一个:star:七千多的项目，收集了GitHub上PyTorch相关内容以及不同的模型实现、帮助文档、教程，使用PyTorch的学习
-+ [Hands-on tour to deep learning with PyTorch](https://mlelarge.github.io/dataflowr-web/cea_edf_inria.html)：dataflowr 最近推出的一门五天初步掌握深度学习的实战教程（实战使用 PyTorch 框架），有知识点有实例有代码。[GitHub地址](https://github.com/mlelarge/dataflowr)
++ [《Hands-on tour to deep learning with PyTorch》](https://mlelarge.github.io/dataflowr-web/cea_edf_inria.html)：dataflowr 最近推出的一门五天初步掌握深度学习的实战教程（实战使用 PyTorch 框架），有知识点有实例有代码。[GitHub地址](https://github.com/mlelarge/dataflowr)
 + [Existential Pontification and Generalized Abstract Digressions ](http://blog.ezyang.com/2019/05/pytorch-internals/)：万字综述，核心开发者全面解读 PyTorch 内部机制 
 + [Rainbow is All You Need](https://nbviewer.jupyter.org/github/Curt-Park/rainbow-is-all-you-need/tree/master/)：一份用 Jypyter Notebook 写的深度强化学习（Deep Reiforcement Learning）笔记，背景理论、代码实现全都有，手把手教你从 DQN 到Rainbow 。 [GitHub地址](https://github.com/Curt-Park/rainbow-is-all-you-need)，推荐等级：:heart::heart::heart:！
 + [Python Autocomplete](https://github.com/vpj/python_autocomplete/blob/master/extract_code.py)：一个利用 PyTorch 写的自动补全代码的小项目
@@ -662,11 +675,10 @@
 + [PyTorchDocs](https://github.com/fendouai/PyTorchDocs)：PyTorch 官方中文教程包含 60 分钟快速入门教程，强化教程，计算机视觉，自然语言处理，生成对抗网络，强化学习。
 + [Deep Learning 60min Blitz](https://pytorch.org/tutorials/beginner/deep_learning_60min_blitz.html)：入门 PyTorch 深度学习需要多久？PyTorch 的一份官方教程表示：只需要 60 分钟。
 + [SpeedTorch](https://github.com/Santosh-Gupta/SpeedTorch)：机器学习中，有一个限制速度的环节，那就是从 CPU 到 GPU 之间的张量迁移。很多计算只能在 CPU 上进行，然后迁移到 GPU 进行后续的训练工作，因此迁移中如果速度太慢，则会拖累整个模型的训练效率。近日，有一位开发者开源了针对 PyTorch 的 CPU->GPU 迁移工具，相比原版加速了 110 倍之多。
-+ [动手深度学习](https://github.com/d2l-ai/d2l-zh)：动手深度学习(Dive into Deep Learning)一书仓库，Github :star:一万多。面向中文读者、能运行、可讨论。英文版即伯克利“深度学习导论”教材。[原书地址](https://zh.d2l.ai/)，[课程B站视频](https://space.bilibili.com/209599371/channel/detail?cid=23541)，[官网](http://zh.d2l.ai/index.html)。推荐等级：:heart::heart::heart:！
-+ [动手学深度学习 (PyTorch)](https://github.com/ShusenTang/Dive-into-DL-PyTorch)：该项目将《动手学深度学习》(Dive into Deep Learning)原书中的MXNet实现改为PyTorch实现，[在线版本](http://tangshusen.me/Dive-into-DL-PyTorch/#/)。然而，源项目由于写的是 Markdown ,公式和代码显示不太方便阅读。一位中国海洋大学大三学生将上面 PyTorch 版本的《动手深度学习》编译成完整的 PDF 文件。方便大家阅读以及解决 GitHub 上公式显示不全的问题。GitHub 地址 [Dive-into-DL-PyTorch.pdf](https://github.com/OUCMachineLearning/OUCML/blob/master/BOOK/Dive-into-DL-PyTorch.pdf)。推荐等级：:heart::heart::heart:！
-+ [Deep Learning With Pytorch](https://pytorch.org/deep-learning-with-pytorch-thank-you)：Pytorch官网Pytorch.org最近发布了一本开源书深度学习《Deep Learning with PyTorch》，共141页pdf，限时开放，涵盖了深度学习和Pytorch库的介绍，预训练网络，张量，学习机制，数据神经网络学习。书里面有详实的代码，是入门学习Pytorch深度学习必备器物，不得不看！[GitHub仓库代码](https://github.com/deep-learning-with-pytorch/dlwpt-code)。推荐等级：:heart::heart:！
++ [《动手深度学习》](https://github.com/d2l-ai/d2l-zh)：动手深度学习(Dive into Deep Learning)一书仓库，Github :star:一万多。面向中文读者、能运行、可讨论。英文版即伯克利“深度学习导论”教材。[原书地址](https://zh.d2l.ai/)，[课程B站视频](https://space.bilibili.com/209599371/channel/detail?cid=23541)，[官网](http://zh.d2l.ai/index.html)。推荐等级：:heart::heart::heart:！
++ [《动手学深度学习 (PyTorch)》](https://github.com/ShusenTang/Dive-into-DL-PyTorch)：该项目将《动手学深度学习》(Dive into Deep Learning)原书中的MXNet实现改为PyTorch实现，[在线版本](http://tangshusen.me/Dive-into-DL-PyTorch/#/)。然而，源项目由于写的是 Markdown ,公式和代码显示不太方便阅读。一位中国海洋大学大三学生将上面 PyTorch 版本的《动手深度学习》编译成完整的 PDF 文件。方便大家阅读以及解决 GitHub 上公式显示不全的问题。GitHub 地址 [Dive-into-DL-PyTorch.pdf](https://github.com/OUCMachineLearning/OUCML/blob/master/BOOK/Dive-into-DL-PyTorch.pdf)。推荐等级：:heart::heart::heart:！
++ [《Deep Learning With Pytorch》](https://pytorch.org/deep-learning-with-pytorch-thank-you)：Pytorch官网Pytorch.org最近发布了一本开源书深度学习《Deep Learning with PyTorch》，共141页pdf，限时开放，涵盖了深度学习和Pytorch库的介绍，预训练网络，张量，学习机制，数据神经网络学习。书里面有详实的代码，是入门学习Pytorch深度学习必备器物，不得不看！[GitHub仓库代码](https://github.com/deep-learning-with-pytorch/dlwpt-code)。推荐等级：:heart::heart:！
 + [PyTorch: An Imperative Style, High-PerformanceDeep Learning Library](https://papers.nips.cc/paper/9015-pytorch-an-imperative-style-high-performance-deep-learning-library.pdf)：NIPS 2019接收为poster的论文，由PyTorch 开发项目组发表，完整且系统地介绍了 PyTorch 本身。推荐等级：:heart::heart::heart:！
-+ [The Annotated Transformer](http://nlp.seas.harvard.edu/2018/04/03/attention.html)：Attention is All You Need 论文相关代码教程，详细介绍了注意力机制。[相关博客](https://towardsdatascience.com/attn-illustrated-attention-5ec4ad276ee3#ba24)。
 
 
 
@@ -709,6 +721,8 @@
 + [Draw.io](https://www.draw.io/)：一免费制图神器来袭！名为draw.io，打开网页就能使用，支持中文版，也不会给你上水印。不只是能让你创建空白图，官方还提供了133个模板，覆盖了商务、工程图、流程图等13个类别。如此神器，好评自然如潮。有人说，这是一个开发人员可以使用的、最有用的100%免费软件工具。推荐等级：:heart::heart::heart:！ [GitHub地址](https://github.com/jgraph/drawio) 以及 [桌面版下载地址](https://github.com/jgraph/drawio-desktop)。
 + [Yellowbrick](https://www.scikit-yb.org/en/latest/)：可视化利器Yellowbrick，这是一款基于sklearn+matplotlib模块构建的更加高级的可视化工具，能够更加方便地完成很多数据探索、分词与展示工作。[中文文档地址](http://www.scikit-yb.org/zh/latest/)
 + [G6](https://github.com/antvis/G6/)：G6 是一个图可视化引擎。它提供了图的绘制、布局、分析、交互、动画等图可视化的基础能力。旨在让关系变得透明，简单。让用户获得关系数据的 Insight。基于 G6，用户可以快速搭建自己的 图分析 或 图编辑 应用。
++ [CoreDraw](https://www.coreldraw.com/)：CorelDRAW Graphics Suite是加拿大Corel公司的平面设计软件；该软件是Corel公司出品的矢量图形制作工具软件，这个图形工具给设计师提供了矢量动画、页面设计、网站制作、位图编辑和网页动画等多种功能。
++ [Origin](https://www.originlab.com/)：Origin是由OriginLab公司开发的一个科学绘图、数据分析软件，支持在Microsoft Windows下运行。Origin支持各种各样的2D/3D图形。Origin中的数据分析功能包括统计，信号处理，曲线拟合以及峰值分析。Origin中的曲线拟合是采用基于Levernberg-Marquardt算法（LMA）的非线性最小二乘法拟合。Origin强大的数据导入功能，支持多种格式的数据，包括ASCII、Excel、NI TDM、DIADem、NetCDF、SPC等等。图形输出格式多样，例如JPEG，GIF，EPS，TIFF等。内置的查询工具可通过ADO访问数据库数据。
 
 
 <a class="toc" id ="23"></a>
@@ -725,58 +739,32 @@
 [🔙](#table-of-contents)
 
 + [Google Scholar](https://scholar.google.com/)：谷歌学术
-
 + [Paperswithcode](https://paperswithcode.com/)：如其名，收录了大量带有源代码的论文，[Github同名项目](https://github.com/zziz/pwc)，推荐等级：:heart::heart::heart::heart:！
-
 + [ArXiv Sanity](http://www.arxiv-sanity.com/)：类似Paperswithcode，旨在提升获取研究成果的效率与体验
-
 + [arXiv Vanity](https://www.arxiv-vanity.com/)arXiv Vanity将来自arXiv的学术论文呈现为响应性网页，这样你就不用眯着眼睛看PDF了
-
 + [易搜搭](http://www.esoda.org/)：专业英文论文写作助手，只需要输入你想表达的中文句子，该网站会检索各种论文找出相似英文表达，使你的英文论文写作不再生硬
-
 + [Conference List](http://www.conferencelist.info/upcoming.html)：计算机各领域会议的时间表
-
 + [AI Conference Deadlines ](https://aideadlin.es/?sub=ML,CV,NLP,RO,SP,DM)：查看各个ai顶会的 Deadline
-
 + [Latex 代码转换器 - Mathpix](https://mathpix.com/)：如果你经常用 latex 编写文档，那你一定得安装下 Mathpix。这款工具能将带数学公式的截图一键转成 latex 代码，帮你省下很多时间，堪称神器！（可惜现在收费了）
-
 + [Image2LaTeX](https://github.com/blaisewang/img2latex-mathpix)：这一工具的名称是「Image2LaTeX」。顾名思义，这是利用 OCR 技术从图像中提取文字，并转换为 LaTex 代码的工具。无论是 OCR 还是自动转码，速度都是非常快的，准确性也很高。重点是，一个月可以免费使用1000次！(Mathpix 一个月只能免费使用50次)
-
 + [Grammarly](https://www.grammarly.com)：Grammarly 是一款非常强大的语法改错软件，帮助润色英文表达。
-
 + [Ginger](http://www.gingersoftware.com)：Ginger 号称是世界上最好用的英文写作润色工具，除了提供单词拼写、语法检查功能外，还提供句子改写、翻译、词典和朗读功能。
-
 + [1Checker](http://www.1checker.com)：1Checker 是一款中文本土用于进行英语文本的纠错（包括拼写、语法、样式和句子不完整）和润色的软件，界面是中文的，简单易懂，操作方便。
-
 + [谷歌学术镜像](https://zz.glgoo.top/scholar?hl=zh-CN&as_sdt=0,5)：一个谷歌学术的镜像网站，如果上不了谷歌学术的话可以用它作为替代
-
 + [Mathtex Tutorial](http://www.forkosh.com/mathtextutorial.html)：LaTex 数学公式在线转换，包括一些常用数学公式教程
-
 + [Tablesgenerator](http://www.tablesgenerator.com/)：：LaTex 表格在线生成器
-
 + [Codecogs](https://www.codecogs.com/eqnedit.php)：在线Latex公式编辑器
-
 + [AOE TIME](https://time.is/Anywhere_on_Earth)：“地球上的任何地方”(AoE)是一个日历名称，表示当日期在地球上的任何地方经过时，一段时间就结束了。许多会议（期刊）截稿时间都采用AOE时间
-
 + [PDFresizer](https://pdfresizer.com/)：PDF剪裁工具，当你的图片出现白边的时候可以使用这个工具进行剪裁
-
 + [Arxiv国内镜像](xxx.itp.ac.cn/)：Arxiv国内镜像。如 `https://arxiv.org/pdf/1512.03385.pdf` 下载很慢，换成 `http://xxx.itp.ac.cn/pdf/1512.03385.pdf`, 即可体验光速下载，注意 https 要换成 http。
-
 + [Semantic Scholar](https://www.semanticscholar.org/)：查论文神器
-
 + [Overleaf](https://www.overleaf.com/)：在线Latex编辑器，可以多人协作，堪称写论文利器
-
 + [Mendeley](https://www.mendeley.com/?interaction_required=true)：论文管理工具，全平台，还有网页版，很方便，高度安利
-
 + [Sci-Hub](https://sci-hub.tw/)：对于科研民工们，肯定很多人接触过sci-hub这个网站，一个很神奇的免费下载文献的网站。
-
 + [SwiftLaTeX](https://github.com/SwiftLaTeX/SwiftLaTeX)：一个名为 SwiftLaTeX 的可视化编辑器。该项目最大的亮点在于：你编写的 LaTeX 代码能够立刻展示实际的效果，所见即所得。这个编辑器还是基于浏览器的，还支持云文件存储。[在线体验版本](https://www.swiftlatex.com/oauth/login_oauth?type=sandbox)。
-
 + [Face Detection](https://github.com/jiankangdeng/handbook)：人脸识别方面的相关论文合集。
-
 + [NeurIPS 2019 Notes](https://david-abel.github.io/notes/neurips_2019.pdf)：布朗大学的博士生 David Abel 公开了他的 NeurIPS 2019 参会笔记，他从深度学习理论、强化学习、博弈论和元学习等主题出发记载参会的一些亮点与主要内容。[个人主页](https://david-abel.github.io/)
-
-  
++ [awesome papers](https://github.com/murufeng/awesome-papers)：机器学习，深度学习，自然语言处理，计算机视觉方面的顶级期刊会议论文集
 
 
 
@@ -962,9 +950,17 @@
 + [Awesome Google Colab](https://github.com/firmai/awesome-google-colab)：GitHub上的一个新项目，Colab资源汇总。作者还自己建了[非官方的colab网站](https://www.google-colab.com/)，收集了大量学习资源。同时上面还有很多GitHub相关[技术教程汇总](https://www.google-colab.com/github/)。推荐等级：:heart::heart::heart:！
 + [Awesome Machine Learning Jupyter Notebooks For Colab](https://github.com/toxtli/awesome-machine-learning-jupyter-notebooks-for-colab)：机器学习和深度学习教程的列表，以Jupyter笔记本格式运行在谷歌Colab上，推荐等级：:heart::heart:！
 + [Microsoft To-Do](https://todo.microsoft.com/tasks/)：微软打造的PC版 TODO 工具
++ [Codeimg.io](https://codeimg.io/)：Codeimg.io 是一个仍在测试中的创建代码图像的工具，目前发布了创建代码图像所需的基本功能：按照常用社交平台 Facebook、Twitter、Instagram 及自定义创建项目、支持 JPG、PNG 和 SVG 项目格式、调整字体大小、保存用户定义的设置等。
++ [Carbon](https://carbon.now.sh/)：Carbon 是由 Dawn Labs 创建开发的一个代码转图像的开源项目，目前在 GitHub 上拥有 :star:2W多。
++ [Glorious Demo](https://glorious.codes/demo)：Glorious Demo 是一个开源的 JavaScript 库，它提供了一个简单的 API 来为你的代码示例创建动画。目前在 GitHub 拥有:star:3K。[GitHub](https://github.com/glorious-codes/glorious-demo#installation)
++ [CodeZen](http://codezen.rishimohan.me/)：CodeZen 是一个非常简约的代码转图像工具，就像操作文本编辑器一样简单，能快速将你的源代码导出为具有语法风格的图像。
++ [Marmoset](http://t.cn/AiT9X7mV)：Marmoset 是一款 Chrome 应用程序，可以让你以透视的方式截取你的代码截图。
++ [DownGit](https://minhaskamal.github.io/DownGit/#/home)：Git文件下载工具，只需输入连接即可下载GitHub上的文件
+
+
 
 <a class="toc" id ="29"></a>
-# Update Time (更新时间) 🕰 ：2019/12/17
+# Update Time (更新时间) 🕰 ：2019/12/20
 [🔙](#table-of-contents)
 
 
