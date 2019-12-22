@@ -1,41 +1,183 @@
 <a class="toc" id="table-of-contents"></a>
 # Table of Contents
 + [Preface (前言)](#1)
-+ [Learning Websites (学习网站) 💻](#2)
-+ [Learn by Game 👾](#3)
-+ [Courses and Learning Resources (课程与学习资源 )‍ 🎓](#4)
-+ [Math (数学) 📐](#5)
-+ [Go Learning (Go 学习) 🇬🇱](#6)
-+ [Python Learning (Python 学习) 🐍](#7)
-+ [Python Projects (Python 项目) 👨‍💻](#8)
-+ [Python Crawler (Python 爬虫) 🕷](#9)
-+ [Git 👬](#10)
-+ [GitHub 👬](#11)
-+ [Algorithm (算法) 💡](#12)
-+ [Machine Learning (机器学习) 🤖](#13)
-+ [Computer Vision (计算机视觉) 👁](#14)
-+ [Reinforcement Learning (强化学习) 💪](#15)
-+ [Graph Learning (图学习) 🗺](#16)
-+ [Generative Adversarial Networks (GANs) 🤜 🤛](#17)
-+ [Adversarial Attack and Defense ⚔](#18)
-+ [TensorFlow Learning (TensorFlow 学习) 🇹🇫](#19)
-+ [Keras Learning (Keras 学习) 🇰🇷](#20)
-+ [PyTorch Learning (PyTorch 学习) 🇵🇹](#21)
-+ [Visualization (可视化) 👀](#22)
-+ [English Learning (英语学习) 🗣](#23)
-+ [Paper (论文相关) 📄](#24)
-+ [Download Resources (下载资源) 📥](#25)
-+ [Interview (工作面试) 💼](#26)
-+ [Dataset (数据集)  📊](#27)
-+ [Others (其它) ❓](#28)
-+ [Update Time (更新时间) 🕰 ：2019/12/20](#29)
++ [Git 👬](#2)
++ [GitHub 👬](#3)
++ [Algorithm (算法) 💡](#4)
++ [Blogs (教程博客) 🗨](#5)
++ [Math (数学) 📐](#6)
++ [Learning Websites (学习网站) 💻](#7)
++ [Learn by Game 👾](#8)
++ [Courses and Learning Resources (课程与学习资源 )‍ 🎓](#9)
++ [Go Learning (Go 学习) 🇬🇱](#10)
++ [Python Learning (Python 学习) 🐍](#11)
++ [Python Projects (Python 项目) 👨‍💻](#12)
++ [Python Crawler (Python 爬虫) 🕷](#13)
++ [Machine Learning (机器学习) 🤖](#14)
++ [Computer Vision (计算机视觉) 👁](#15)
++ [Reinforcement Learning (强化学习) 💪](#16)
++ [Graph Learning (图学习) 🗺](#17)
++ [Generative Adversarial Networks (GANs) 🤜 🤛](#18)
++ [Adversarial Attack and Defense ⚔](#19)
++ [TensorFlow Learning (TensorFlow 学习) 🇹🇫](#20)
++ [Keras Learning (Keras 学习) 🇰🇷](#21)
++ [PyTorch Learning (PyTorch 学习) 🇵🇹](#22)
++ [Visualization (可视化) 👀](#23)
++ [English Learning (英语学习) 🗣](#24)
++ [Paper (论文相关) 📄](#25)
++ [Download Resources (下载资源) 📥](#26)
++ [Interview (工作面试) 💼](#27)
++ [Dataset (数据集)  📊](#28)
++ [Others (其它) ❓](#29)
++ [Update Time (更新时间) 🕰 ：2019/12/22](#30)
 
 
 # Preface (前言)
 [🔙](#table-of-contents)
 主要是用于汇总自己平时收集的一些学习网站、资源以及资料等，便于查看整理，并会不断更新 😋
 
+
 <a class="toc" id ="2"></a>
+# Git 👬
+[🔙](#table-of-contents)
+
++ [Learn Git Branching](https://learngitbranching.js.org/)：一个用于学习 Git 的交互式学习网站，[GitHub](https://github.com/pcottle/learnGitBranching)上收获了:star:一万多
++ [Git](https://git-scm.com/)：Git官方教程
++ [Git Book](https://git-scm.com/book/en/v2)：Git 官方教程电子书。[中文版Git Book链接](https://git-scm.com/book/zh/v2)
++ [猴子老师Git教程](https://backlog.com/git-tutorial/cn/intro/intro1_1.html)：号称猴子都能懂的Git入门教程
++ [廖雪峰Git教程](https://www.liaoxuefeng.com/wiki/896043488029600)：廖雪峰Git教程，号称史上最浅显易懂的Git教程
++ [Pro Git 第二版](http://bit.ly/2H7A7Lg)：这本书被誉为 Git 学习的圣经，作者是 Scott Chacon 和 Ben Straub。Scott Chacon 在 GitHub 工作，自称 Git 的布道者。你可以在网站上免费阅读这本书，也可以下载他们提供的电子版本
++ [git-recipes](http://bit.ly/2Z4jw0M)：童仲毅 (`geeeeeeeeek@github`) 对很多英文资料进行翻译、整理的集合教程。包含入门基础、进阶知识和应用范例。这些英文资料主要包括 GitHub 竞争者 Bitbucket 的 Git 教程
++ [Udacity Git 课程](http://bit.ly/2H5PZhi)：谷歌无人车之父 Sebastian Thrun 创办的 优达学城（Udacity）上面的 免费 Git 课程。这门课程由优达学城与 GitHub 共同制作，介绍进行版本控制的基础知识，重点讲解 Git 版本控制系统以及 GitHub 协作平台
++ [happypeter1983 的 Git 视频教程](http://bit.ly/2Z6rS87)：这份教程就更进阶了一些。讲到了一些高级命令的用法。当然还有其他学习资源。
++ [Oh shit, git!](http://ohshitgit.com/)：这个网站整理了一些 Git 新手在使用 Git 时常会遇到的各种突发状况，并贴心的给出了应对方案。
++ [gitignore](https://github.com/github/gitignore)：GitHub 官方开源的一个项目，这个项目为开发者编写好特定的 `.gitignore` 规则，做成了模板。开发者只需选择好自己的项目类别，将文件内容复制粘贴放到自己项目里面就可以用了,在上面，你可以找到目前所有主流语言的 .gitignore 模板。[在线生成网站](http://gitignore.io/)
++ [Readme Md Generator](https://github.com/kefranabg/readme-md-generator)：一名来自法国的小哥因为饱受重复编写 README 文档的折磨，在 GitHub 上开源了 readme-md-generator 这个工具。从项目名字便可以知道，它一个 README 文档生成器。其主要作用是通过命令行抓取项目的 package.json 和 git 配置信息，自动完成 README 文档的编写操作，Github上已获:star:五千多
++ [Repository Templates](https://github.blog/2019-06-06-generate-new-repositories-with-repository-templates/)：为了避免开发者做一些无用的重复性工作，GitHub 发布的一个新功能 - 模板仓库（repository templates）。这个功能可以将以往创建过的仓库标记成模板（template），这样在你下一次创建仓库的时候，就可以使用这个模板功能，快速生成具有和原仓库一样的目录与文件内容，每个模板仓库在 URL 末端带上 /generate 后，还可以将模板仓库通过链接分享给其他人，其它人在打开链接之后，便可以快速通过这个模板来创建新仓库
++ [Git 基本操作](https://www.processon.com/view/5d43d213e4b0e42f2a2ba9b9?fromnew=1#map)：一张 Git 基本操作的速查表（脑图）
+
+<a class="toc" id ="3"></a>
+# GitHub 👬
+[🔙](#table-of-contents)
+
++ [GitHub-Chinese-Top-Charts](https://github.com/kon9chunkit/GitHub-Chinese-Top-Charts)：Github中文项目排行榜，帮助你发现高分优秀中文项目、更高效地吸收国人的优秀经验成果；榜单每周更新一次。
++ [HelloHithub](https://www.hellogithub.com/)：分享GitHub上有趣，入门级的开源项目
++ [GitHubDaily ](https://github.com/GitHubDaily/GitHubDaily)：每日不定时推送一批 GitHub 上优秀的开源项目给开发者, 帮助开发者们发现当下最火的开源项目
++ [GitHub 帮助](https://help.github.com/cn#dotcom)：GitHub官方中文帮助文档，全球最大的开源网站GitHub是每个程序员必须接触的，学习它的使用百利而无一害，同时也适合学习Git
++ [GitHub Help](https://help.github.com/en)：GitHub官方英文帮助文档，由于中文文档是从英文文档翻译而来，可能有些内容不是最新，英语好的人应该看英文文档，才能实时获取最新内容
++ [FastText by FacebookResearch](https://github.com/facebookresearch/fastText)：GitHub上:star:两万，fastText是Facebook团队的一个开源和免费库，用于有效学习单词表示。它是轻量级的，允许用户学习文本表示和句子分类器。它适用于标准的通用硬件。模型可以减小尺寸，甚至适合移动设备。
++ [Logoly](https://github.com/bestony/logoly)：不正经 Logo 生成器。这是一个在线的 PornHub 风格 Logo 生成工具，可以帮助你快速生成类似 PornHub 风格的 Logo。[在线体验地址](https://logoly.pro/)
++ [Moji, Moji, Emoji](https://github.com/ericandrewlewis/emoji-mosaic)：这是一个可根据图片配色，将图片转为用 emoji 填充的工具。[在线体验地址](http://ericandrewlewis.github.io/emoji-mosaic/)
++ [坦克大战](https://battle-city.js.org/)：GitHub 上实现的这个开源版本，可在 Web 上直接玩，还原度非常之高，并支持单台电脑，双人组队。
++ [俄罗斯方块](https://chvin.github.io/react-tetris/?lan=cn)：这个项目不仅好玩，技术实现原理也讲解非常到位。它通过响应式与数据持久化，使得游戏体验的效果更佳，也让你可以直接在手机端上进行操作。
++ [Gameboy 模拟器](https://github.com/HFO4/gameboy.live)：如果我说你能在终端上用 Gameboy 来玩游戏，你可能会大吃一惊。但，生命不息，折腾不止，这玩意确实被重庆大学的一位大二学生给整出来了。
++ [扫雷](http://muan.github.io/emoji-minesweeper/)：作为一款在当年霸屏 Windows 机器的小游戏，相信不少人都不会感到陌生。这款结合了当下比较新颖的 emoji 表情元素，重现了当年的经典。
++ [在线玩中文 DOS](https://dos.zczc.cz/)：国内一位老玩家，出于对 DOS 游戏的怀念，在 GitHub 上开源了这个项目。
++ [TfPyth](https://github.com/BlackHC/TfPyTh)：一行代码切换TensorFlow与PyTorch，模型训练也能用俩框架
++ [Navi](https://github.com/denisidoro/navi)：一个神奇的命令行备忘录，GitHub上已获:star:三千多
++ [the-art-of-command-line](https://github.com/jlevy/the-art-of-command-line/blob/master/README-zh.md)：本文是作者在 Linux 上工作时，发现的一些命令行使用技巧的摘要。有些技巧非常基础，而另一些则相当复杂，甚至晦涩难懂。这篇文章并不长，但当你能够熟练掌握这里列出的所有技巧时，你就学会了很多关于命令行的东西了。目前Github获:star:六万多。其他相关资源：
+
+    + [awesome-shell](https://github.com/alebcay/awesome-shell)：一份精心组织的命令行工具及资源的列表。
+    + [awesome-osx-command-line](https://github.com/herrbischoff/awesome-osx-command-line)：一份针对 OS X 命令行的更深入的指南。
+    + [Strict mode](http://redsymbol.net/articles/unofficial-bash-strict-mode/)：为了编写更好的脚本文件。
+    + [shellcheck](https://github.com/koalaman/shellcheck)：一个静态 shell 脚本分析工具，本质上是 bash／sh／zsh 的 lint。
+    + [Filenames and Pathnames in Shell](http://www.dwheeler.com/essays/filenames-in-shell.html)：有关如何在 shell 脚本里正确处理文件名的细枝末节。
+    + [Data Science at the Command Line](http://datascienceatthecommandline.com/#tools)：用于数据科学的一些命令和工具，摘自同名书籍。
++ [Checkm8](https://github.com/axi0mX/ipwndfu)：一位名为Axi0mx的开发人员发布的一个名为Checkm8的iPhone破解程序，而且是开源的。Github 上已经获:star:五千多。
++ [Lazynlp](https://github.com/chiphuyen/lazynlp)：英伟达工程师小姐姐Chip Huyen，在GitHub上开源了一个名为“lazynlp”的工具库。爬网页、清洗数据、创建数据集都可以搞定。她说，使用这个库，你应该能创建一个比大于40G的文本数据集，比OpenAI训练GPT-2时使用的还要大。开源仅一天，项目在GitHub上就获得了300多星，Twitter上获得上千次点赞。fast.ai创始人Jeremy Howard等人也转发推荐。而且，用这个工具库创建数据集的过程，也并不麻烦。
++ [Leon Sans](https://leon-kim.com)：GitHub:star:六千多，一种字体，变成千姿百态艺术字，可尖可圆可开花，隔壁设计师馋哭了。[GitHub传送门](https://github.com/cmiscm/leonsans)。
++ [BullshitGenerator](https://github.com/menzi11/BullshitGenerator)：狗屁不通文章生成器，GitHub上，这个富有灵魂的项目名吸引了众人的目光。项目诞生一周，便冲上了趋势榜榜首。并且，不止名字被注入灵魂，生成的文字也有一股不可抗拒的力量。只要输入一句话，系统就会给你一篇狗屁不通的万字长文，[网页版](https://suulnnka.github.io/BullshitGenerator/index.html)。
++ [Spleeter](https://github.com/deezer/spleeter)：来自法国的音乐流媒体公司 Deezer 开源了一个音轨分离软件 spleeter，只需输入一段命令就可以将音乐的人声和各种乐器声分离，支持 mp3、wav、ogg 等常见音频格式。GitHub:star:七千多。
++ [Emotion-recognition](https://github.com/omar178/Emotion-recognition)：使用 Keras 实现的实时表情识别项目
++ [自动微分法实现](https://github.com/tiandiweizun/autodiff)：200行写一个自动微分工具 
++ [Autograd](https://github.com/HIPS/autograd)：自动微分的实现，有效地计算numpy代码的导数。
++ [AutodiffEngine](https://github.com/mrcat2018/AutodiffEngine)：自动微分引擎，来源于华盛顿大学陈天奇的课程项目 
++ [996.ICU](https://github.com/996icu/996.ICU)：996.ICU 是指 “工作 996， 生病 ICU” 。这是中国程序员之间的一种自嘲说法，意思是如果按照 996 的模式工作，那以后就得进 ICU 了。这个项目最早是某个中国程序员发起的，然后就火遍全网，甚至火到了全世界很多其他国家，其网站被翻译成了多种语言，GitHub获:star:二十五万。[网站地址](https://996.icu)。
++ [You-Get](https://github.com/soimort/you-get)：可以通过一个命令下载网上的在线视频，GitHub获:star:两万八。
++ [Postwoman](https://github.com/liyasthomas/postwoman)：和 postman 一样，它能提供一些 API 的请求测试功能，HTTP 的请求方式和自定义 Header 都可以使用，而且它可以直接在线上就能运行，坊间有称它是 postman 的老婆。GitHub 获:star:一万多，[体验地址](https://postwoman.io)。
++ [FastAPI](https://github.com/tiangolo/fastapi)：FastAPI 是一个基于 Python3.6+ 构建的高性能 web 框架，使用它可以很快的简单写一些 API 接口，GitHub 获:star:六千多。
++ [Fiora](https://fiora.suisuijiang.com/)：你是否是社交软件的重度用户，并喜欢在网上与陌生人交流分享自己的观点呢？如果是的话，或许你可以考虑自己搭建一个多用户在线的实时聊天平台。要做到这一点并不难，借助一款叫 fiora 的开源软件便可以做到。fiora 是一款有趣的在线聊天应用。基于 node.js, mongodb, socket.io和 react 编写。[GitHub 地址](https://github.com/yinxin630/fiora/)。
++ [微信排版编辑器](https://github.com/doocs/md)：这是一个专为微信公众号排版而生的前端编辑器，可直接在 Web 端打开写文章，在编辑完成后，可将其生成的富文本内容一键复制到公众号上，自动化完成排版操作，很是方便。
++ [AI Dungeon](http://www.aidungeon.io/)：15亿参数的终极版GPT-2，就是OpenAI那只编故事成瘾的AI，都能拿来做些什么？有人用它做了个文字冒险游戏，并赐以优美的名字，叫“AI地牢 (AI Dungeon) ”。大概是在说，你一旦进去就出不来了，里面的故事太迷人。现在，这座地牢进化出了2.0版本。有网友盛情安利，表示不可错过，推特11小时已有1600赞！[游戏传送门](https://colab.research.google.com/github/nickwalton/AIDungeon/blob/master/AIDungeon_2.ipynb)，[博客传送门](https://pcc.cs.byu.edu/2019/11/21/ai-dungeon-2-creating-infinitely-generated-text-adventures-with-deep-learning-language-models/)
++ [Sorry](https://github.com/xtyxtyx/sorry)：sorry 是一个很有意思的表情包斗图项目，源自"sorry，有钱事真的能为所欲为"这梗...
+
+
+
+
+<a class="toc" id ="4"></a>
+# Algorithm (算法) 💡
+[🔙](#table-of-contents)
+
++ [Algorithm Python](https://github.com/TheAlgorithms/Python)：GitHub上:star:五万的项目，使用Python实现了所有算法，推荐等级：:heart::heart::heart:！
++ [Leet Code Animation](https://github.com/MisterBooo/LeetCodeAnimation)：GitHub上:star:三万多的中文项目，用动画的形式呈现解LeetCode题目的思路
++ [Leet Code 题解](https://github.com/azl397985856/leetcode)：GitHub上:star:一万多的中文项目，记录了LeetCode上大多数题目的题解
++ [Algorithms](https://github.com/Dev-XYS/Algorithms)：GitHub上一个全面的算法代码仓库，涵盖了大量常用的C++算法代码实现
++ [Algorithm Visualizer](https://algorithm-visualizer.org/)：算法在线交互式可视化平台，[GitHub](https://github.com/algorithm-visualizer/algorithm-visualizer)上收获:star:两万多！
++ [VisualGo](https://visualgo.net/zh)：数据结构和算法动态可视化网站
++ [CSIE](http://www.csie.ntnu.edu.tw/~u91029/)：算法学习网站，讲解、代码格式、图表都很规范，覆盖广
++ [Matrix67](http://www.matrix67.com/informatics.html) Matrix67 的一些算法讲解类经典文章
++ [Beyond the Void](https://www.byvoid.com/blog/tag/計算機科學)：BYVoid 的计算机科学博客，详细介绍了不少算法
++ [知乎：有哪些学习算法的网站推荐？](https://www.zhihu.com/question/20368410)：知乎上的一个问题，介绍了不少学习算法的网站、题库、OJ等
++ [Interpretable Ml Book](https://github.com/christophM/interpretable-ml-book)：Christoph Molnar年初公开的《可解释的机器学习（Interpretable Machine Learning）》，带你打开机器学习的黑盒子。[在线阅读链接](https://christophm.github.io/interpretable-ml-book/index.html)
+核心章节为：
+    + 1.机器学习简介
+    + 2.可解释性
+    + 3.数据集
+    + 4.可解释的模型
+    + 5.模型不可知方法
+    + 6.基于实例的解释
+    + 7.神经网络解释
+    + 8.机器学习与可解释性研究的未来
+
+<a class="toc" id ="5"></a>
+# Blogs (教程博客) 🗨
+[🔙](#table-of-contents)
+
+
++ [Understanding LSTM Networks](http://colah.github.io/posts/2015-08-Understanding-LSTMs/)：LSTM教程，推荐等级::heart::heart::heart:！
++ [Sebastian Raschka](https://sebastianraschka.com/)：一位国外小哥的个人网站，里面有各种机器学习、深度学习的博客及笔记等资源
++ [Sebastian Ruder](http://ruder.io/)：DeepMind的一位研究学者的博客，博客内容包括深度学习、机器学习和自然语言处理，对于其中一些知识点例如 [An overview of gradient descent optimization algorithms](http://ruder.io/optimizing-gradient-descent/) 讲解得十分巧妙，推荐等级：:heart::heart:！
++ [StackSoft](http://www.statsoft.com/Textbook)：国外一个机器学习相关的博客网站，里面有各种常见的机器学习算法介绍
++ [A Visual Guide To Using Bert For The First Time/](https://jalammar.github.io/a-visual-guide-to-using-bert-for-the-first-time/)：BERT小学生级上手教程，从原理到上手全有图示，还能直接在线运行。[代码](https://github.com/jalammar/jalammar.github.io/blob/master/notebooks/bert/A_Visual_Notebook_to_Using_BERT_for_the_First_Time.ipynb)，[Colab](https://colab.research.google.com/github/jalammar/jalammar.github.io/blob/master/notebooks/bert/A_Visual_Notebook_to_Using_BERT_for_the_First_Time.ipynb)，[DistilBERT](https://medium.com/。huggingface/distilbert-8cf3380435b5)
++ [Recurrent Neural Network Tutorial](http://www.wildml.com/2015/10/recurrent-neural-network-tutorial-part-4-implementing-a-grulstm-rnn-with-python-and-theano/)：RNN 教程，推荐等级::heart::heart::heart:！
++ [The Annotated Transformer](http://nlp.seas.harvard.edu/2018/04/03/attention.html)：Attention is All You Need 论文解读及相关代码实现教程，详细介绍了注意力机制。[相关博客](https://towardsdatascience.com/attn-illustrated-attention-5ec4ad276ee3#ba24)，推荐等级::heart::heart::heart::heart:！
++ [The Illustrated Transformer](https://jalammar.github.io/illustrated-transformer/)：这篇文章将带你通过一个self-attention模块了解其中涉及的数学运算。读完本文，你将能够从头开始写一个self-attention模块。
++ [A Gentle Introduction to Graph Neural Networks (Basics, DeepWalk, and GraphSage)](https://towardsdatascience.com/a-gentle-introduction-to-graph-neural-network-basics-deepwalk-and-graphsage-db5d540d50b3)：介绍了图神经网络的概念及其最新进展的博客
++ [Hands-on Graph Neural Networks with PyTorch & PyTorch Geometric](https://towardsdatascience.com/hands-on-graph-neural-networks-with-pytorch-pytorch-geometric-359487e221a8)：使用PyTorch和PyTorch Geometric（PyG），构建图形神经网络框架的教程博客。[GitHub地址](https://github.com/khuangaf/Pytorch-Geometric-YooChoose)
++ [Seeing What a GAN Cannot Generate](https://www.zhuanzhi.ai/paper/1a6ada6940f38d05a5dcdea60e663ec5)：GAN这个模型，不能生成哪些东西呢？来自MIT的David Bau等人，在ICCV 2019 上的文章《Seeing What a GAN Cannot Generate》，进行了一系列实验，尝试找到问题的答案。[文章主页](http://ganseeing.csail.mit.edu/)，[文章代码地址](https://github.com/davidbau/ganseeing)。
++ [Chollet 推特](https://twitter.com/fchollet/status/1105139360226140160)：谷歌深度学习研究员、“Keras之父”François Chollet发表推特，总结了一份TensorFlow 2.0 + Keras做深度学习研究的速成指南。[Google Colab Notebook地址](https://colab.research.google.com/drive/17u-pRZJnKN0gO5XZmq8n5A2bKGrfKEUg#scrollTo=rwREGJ7Wiyl9)
++ [Installing Keras For Deep Learning](http://www.pyimagesearch.com/2016/07/18/installing-keras-for-deep-learning/)：安装Keras库进行深度学习，国外一篇比较火的博客，旨在演示如何安装Keras库进行深度学习。
++ [Rainbow is All You Need](https://nbviewer.jupyter.org/github/Curt-Park/rainbow-is-all-you-need/tree/master/)：一份用 Jypyter Notebook 写的深度强化学习（Deep Reiforcement Learning）笔记，背景理论、代码实现全都有，手把手教你从 DQN 到Rainbow 。 [GitHub地址](https://github.com/Curt-Park/rainbow-is-all-you-need)，推荐等级：:heart::heart::heart:！
++ [TensorFlow 2.0 is Now Available](https://medium.com/tensorflow/tensorflow-2-0-is-now-available-57d706c2a9ab)：官方博客，介绍TensorFlow 2.0
++ [TF-2.0-Hacks](https://github.com/sayakpaul/tf-2.0-hacks/tree/master/)：该仓库包含了作者对新发布的TensorFlow 2.0的探索，里面有些相关资料很值得学习。
++ [Activation Functions Explained](https://mlfromscratch.com/activation-functions-explained/#/)：优化神经网络;选择正确的激活函数，你的神经网络可以表现得更好。六大激活函数讲解。推荐等级::heart::heart::heart::heart:！
++ [Harvardnlp](http://nlp.seas.harvard.edu/code/)：内有大量NLP相关的教程和代码(PyTorch)实现，推荐等级::heart::heart::heart::heart:！
++ [From zero to research — An introduction to Meta-learning](https://medium.com/huggingface/from-zero-to-research-an-introduction-to-meta-learning-8e16e677f78a)：关于Meta-Learning 的详细介绍教程和代码实现，推荐等级::heart::heart::heart::heart:！
++ [What everyone forgets about Machine Learning](https://towardsdatascience.com/what-everyone-forgets-about-machine-learning-974752543849)：
++ [The Will Will Web](https://blog.miniasp.com/)：記載著 Will 在網路世界的學習心得與技術分享
+
+
+<a class="toc" id ="6"></a>
+# Math (数学) 📐
+[🔙](#table-of-contents)
+
++ [Lihang Code](https://github.com/fengdu78/lihang-code)：李航《统计学习方法》的代码实现，GitHub:star:八千多。推荐等级：:heart::heart:！
++ [统计学习方法](https://github.com/SmirkCao/Lihang)：李航的《统计学习方法》的详细笔记，以及各章节机器学习算法详细的 Python 代码
++ [MIT线性代数课程精细笔记](https://github.com/yizhen20133868/MIT-Linear-Algebra-Notes)：该笔记总结了我们在学习MIT线性代数课程的学习经验和过程。课程顺序是按照麻省理工公开课的 Linear Algebra. 记录的学习笔记。[知乎专栏](https://zhuanlan.zhihu.com/p/87873464)。
++ [《Convex Optimization》](https://web.stanford.edu/~boyd/cvxbook/)：经典教材 Convex Optimization by Boyd and Vandenberghe
++ [《Mathematics for Machine Learning（机器学习数学基础）》](https://mml-book.github.io/)：作者表示撰写这本书旨在激励人们学习数学概念。这本书并不打算涵盖前沿的机器学习技术，因为已经有很多书这样做了。相反，作者的目标是通过该书提供阅读其他书籍所需的数学基础。这本书分为两部分：数学基础知识和使用数学基础知识进行机器学习算法示例。[Github地址](https://github.com/mml-book/mml-book.github.io)
++ [《An Introduction to Statistical Learning》](http://faculty.marshall.usc.edu/gareth-james/ISL/)：《统计学习导论》，它的内容会有点数学，但是也很容易阅读。对于机器学习这样一个广泛的领域，这本书能将篇幅控制在400页左右很不容易。唯一的缺点是代码是用 R语言而不是Python编写的。
++ [《The Elements of Statistical Learning》](https://esl.hohoweiya.xyz/)：斯坦福《统计学习要素》一直是机器学习领域公认经典的教材，是一本在机器学习、统计推理和模式识别领域有影响力和被广泛研究的书。而这本书一直没有得到中文翻译。近期由szcf-weiya博士整理翻译的The Elements of Statistical Learning (ESL)的中文翻译、代码实现及其习题解答公开，非常值得学习！[GitHub仓库](https://github.com/szcf-weiya/ESL-CN)
++ [线性代数（Linear Algebra）中文笔记](https://github.com/yizhen20133868/MIT-Linear-Algebra-Notes)：该笔记总结了我们在学习MIT线性代数课程的学习经验和过程。课程顺序是按照麻省理工公开课的 [Linear Algebra. ](http://open.163.com/special/opencourse/daishu.html) 记录的学习笔记。
++ [《Seeing Theory》](https://seeing-theory.brown.edu/cn.html#firstPage)：来自斯坦福大学的一位研究生和他的伙伴们开发了一本颇有新意的统计概率入门教材，与传统教材不同的是，这本书充分利用了数据可视化技术，交互性和趣味性都非常强，可以边读边玩。[书籍下载地址](https://seeing-theory.brown.edu/doc/seeing-theory.pdf)
++ [《Interactive Linear Algebra》](http://textbooks.math.gatech.edu/ila/index.html)：《交互式线性代数》，它的最大特点就是“交互式”，总共包含了 6 章内容，涵盖了线性代数的核心知识。[离线 PDF 电子版下载地址](http://textbooks.math.gatech.edu/ila/ila.pdf)。这份《交互式线性代数》在线网页，作者开源了所有代码，并发布在 GitHub 上。你可以修改程序中的源代码，实现更加个性化的体验。[GitHub源码地址](https://github.com/QBobWatson/gt-linalg)。
++ [《Introduction to Applied Linear Algebra》](https://web.stanford.edu/~boyd/vmls/vmls.pdf)：斯坦福大学Stephen Boyd教授与加州大学Lieven Vandenberghe教授合著的一本线性代数书籍。这本教科书结合了直观的解释和丰富的实例，让抽象的线性代数知识变得通俗易懂，并且你不需要任何线性代数基础就能看懂。[斯坦福课程主页](https://web.stanford.edu/class/ee103/)，[UCLA课程主页](http://www.seas.ucla.edu/~vandenbe/ee133a.html)
++ [A Beginner’s Guide to the Mathematics of Neural Networks](https://link.springer.com/chapter/10.1007/978-1-4471-3427-5_2)：一份为初学者准备的指南，关于神经网络中的数学问题，帮助读者理解神经网络模型中的数学概念和应用。
++ [面向机器学习的线性代数和微积分要点速览](https://stanford.edu/~shervine/l/zh/teaching/cs-229/refresher-algebra-calculus)：斯坦福大学CS229课程中线性代数和微积分回顾，中文版
+
+
+
+<a class="toc" id ="7"></a>
 # Learning Websites (学习网站) 💻
 [🔙](#table-of-contents)
 
@@ -64,10 +206,15 @@
 + [可汗学院](https://scikit-learn.org/stable/modules/clustering.html)：可汗学院几乎涵盖所有机器学习相关概念，且可免费学习。你可以在注册可汗学院时选择想要学习的主题，这样就可以得到量身定做的理论学习路径了。
 + [伯乐在线](https://github.com/jobbole/)：伯乐在线翻译组，GitHub上翻译了多个学习资源仓库，内含大量学习资源
 + [Machine Learning](https://www.coursera.org/learn/machine-learning)： Coursera 上开设的另一门机器学习课程，相比于吴恩达的课程更加简单易懂。
-+ [latexstudio](https://www.latexstudio.net/)：Latex 学习网站
++ [Latexstudio](https://www.latexstudio.net/)：Latex 学习网站
 
 
-<a class="toc" id ="3"></a>
+
+
+
+
+
+<a class="toc" id ="8"></a>
 # Learn by Game 👾
 [🔙](#table-of-contents)
 
@@ -115,7 +262,7 @@
 + [Lightbot](https://lightbot.com/)：Lightbot是一款移动端游戏，玩家通过控制机器人的移动在固定位置点亮灯泡。[在线地址](http://lightbot.com/flash.html)
 + [Box Island](https://boxisland.io/)：Box Island 是一款经典且屡获殊荣的移动端编程冒险游戏，这款游戏在为孩子们带来令人兴奋的冒险体验的同时， 向他们介绍编程的基础知识。 
 
-<a class="toc" id ="4"></a>
+<a class="toc" id ="9"></a>
 # Courses and Learning Resources (课程与学习资源 )‍ 🎓
 [🔙](#table-of-contents)
 
@@ -174,30 +321,12 @@
 + [Tensorflow Data and Deployment](https://www.coursera.org/specializations/tensorflow-data-and-deployment):吴恩达创始的 deeplearning.ai 在 Coursera 上另外开设了一门课程，主要介绍使用 Tensorflow.js、TensorFlow Lite、TensorFlow Hub 等工具进行数据分析的方法。该专项课程已于今日开放注册。吴恩达对课程进行了转推。
 + [机器学习中的神经网络](https://www.cs.toronto.edu/~hinton/coursera_lectures.html)：深度学习三巨头之一，Geoffrey Hinton通过twitter公布了自己在2012年准备的MOOC课程——机器学习中的神经网络。课程中详细介绍了神经网络的各种概念与特点，虽然来自于5年前，但仍不失为一份很有意义的讲解
 + [Practicalai](https://github.com/practicalAI/practicalAI)：近期开源的自学深度学习 GitHub 项目，作者为每种具体算法提供了 Jupyter notebook 实现，可以轻易地在 Google Colab 上运行（免费提供云端 GPU 或 TPU）。所以想自学深度学习，不需要价格几千美元的 GPU，有一个 Chrome 浏览器就够了。这一套实践教程都能直接在 Colab 上运行，因此结合解释与代码，我们能更好地入门机器学习。推荐等级：:heart::heart::heart::heart:！
-+ [Recurrent Neural Network Tutorial](http://www.wildml.com/2015/10/recurrent-neural-network-tutorial-part-4-implementing-a-grulstm-rnn-with-python-and-theano/)：RNN 教程，推荐等级::heart::heart::heart:！
-+ [Understanding LSTM Networks](http://colah.github.io/posts/2015-08-Understanding-LSTMs/)：LSTM教程，推荐等级::heart::heart::heart:！
-+ [The Annotated Transformer](http://nlp.seas.harvard.edu/2018/04/03/attention.html)：Attention is All You Need 论文解读及相关代码实现教程，详细介绍了注意力机制。[相关博客](https://towardsdatascience.com/attn-illustrated-attention-5ec4ad276ee3#ba24)，推荐等级::heart::heart::heart::heart:！
++ [《深度学习：Deep Learning》](https://github.com/glouppe/info8010-deep-learning#info8010---deep-learning)：深度机器学习的最新发展使视觉识别、语音和文本理解或自主智能体系统取得了前所未有的巨大进步。在此背景下，本课程将深入探讨深度学习架构的细节，重点是学习这些任务的端到端模型。学生将学习实施、训练和调试自己的神经网络，并对该领域的前沿研究有详细的了解。该课程还将介绍推理方法的最新创新，包括微分推理、对抗性训练和贝叶斯深度学习。
++ [《贝叶斯深度学习: Deep Learning with Bayesian Principles》](https://nips.cc/Conferences/2019/Schedule?showEvent=13205)：来自东京RIKEN研究中心的Emtiyaz Khan给了关于以贝叶斯原理进行深度学习的教程《Deep Learning with Bayesian Principles》，共有86页ppt，以及撰写了最新的论文，讲述贝叶斯和深度学习如何结合到一起进行学习新算法，提出了一种基于贝叶斯原理的学习规则，它使我们能够连接各种各样的学习算法。利用这一规则，可以在概率图形模型、连续优化、深度学习、强化学习、在线学习和黑盒优化等领域得到广泛的学习算法。非常具有启发性，值得查看！[视频地址](https://slideslive.com/38921489/deep-learning-with-bayesian-principles)。
++ [ Introduction to Artificial Intelligence](https://github.com/glouppe/info8006-introduction-to-ai)：Gilles Louppe Fall2019硬核课程：人工智能导论（Introduction to Artificial Intelligence），722页ppt，本课程的核心内容基于教科书：“人工智能：一种现代的方法”【第三版，作者：罗素 (Stuart J.Russell) / 诺维格 (Peter Norvig)】，某些课程和材料部分改编自加州大学伯克利分校的“人工智能入门”。
++ [微软人工智能教育与学习共建社区](https://github.com/microsoft/ai-edu)：本社区是微软亚洲研究院（Microsoft Research Asia，简称MSRA）人工智能教育团队创立的人工智能教育与学习共建社区。平台开发团队在GitHub上表示，该平台是在教育部指导下，依托于新一代人工智能开放科研教育平台，微软亚洲研究院研发团队和学术合作部将为本社区提供全面支持。
 
-
-
-<a class="toc" id ="5"></a>
-# Math (数学) 📐
-[🔙](#table-of-contents)
-
-+ [Lihang Code](https://github.com/fengdu78/lihang-code)：李航《统计学习方法》的代码实现，GitHub:star:八千多。推荐等级：:heart::heart:！
-+ [统计学习方法](https://github.com/SmirkCao/Lihang)：李航的《统计学习方法》的详细笔记，以及各章节机器学习算法详细的 Python 代码
-+ [MIT线性代数课程精细笔记](https://github.com/yizhen20133868/MIT-Linear-Algebra-Notes)：该笔记总结了我们在学习MIT线性代数课程的学习经验和过程。课程顺序是按照麻省理工公开课的 Linear Algebra. 记录的学习笔记。[知乎专栏](https://zhuanlan.zhihu.com/p/87873464)。
-+ [《Convex Optimization》](https://web.stanford.edu/~boyd/cvxbook/)：经典教材 Convex Optimization by Boyd and Vandenberghe
-+ [《Mathematics for Machine Learning（机器学习数学基础）》](https://mml-book.github.io/)：作者表示撰写这本书旨在激励人们学习数学概念。这本书并不打算涵盖前沿的机器学习技术，因为已经有很多书这样做了。相反，作者的目标是通过该书提供阅读其他书籍所需的数学基础。这本书分为两部分：数学基础知识和使用数学基础知识进行机器学习算法示例。[Github地址](https://github.com/mml-book/mml-book.github.io)
-+ [《An Introduction to Statistical Learning》](http://faculty.marshall.usc.edu/gareth-james/ISL/)：《统计学习导论》，它的内容会有点数学，但是也很容易阅读。对于机器学习这样一个广泛的领域，这本书能将篇幅控制在400页左右很不容易。唯一的缺点是代码是用 R语言而不是Python编写的。
-+ [《The Elements of Statistical Learning》](https://esl.hohoweiya.xyz/)：斯坦福《统计学习要素》一直是机器学习领域公认经典的教材，是一本在机器学习、统计推理和模式识别领域有影响力和被广泛研究的书。而这本书一直没有得到中文翻译。近期由szcf-weiya博士整理翻译的The Elements of Statistical Learning (ESL)的中文翻译、代码实现及其习题解答公开，非常值得学习！[GitHub仓库](https://github.com/szcf-weiya/ESL-CN)
-+ [线性代数（Linear Algebra）中文笔记](https://github.com/yizhen20133868/MIT-Linear-Algebra-Notes)：该笔记总结了我们在学习MIT线性代数课程的学习经验和过程。课程顺序是按照麻省理工公开课的 [Linear Algebra. ](http://open.163.com/special/opencourse/daishu.html) 记录的学习笔记。
-+ [《Seeing Theory》](https://seeing-theory.brown.edu/cn.html#firstPage)：来自斯坦福大学的一位研究生和他的伙伴们开发了一本颇有新意的统计概率入门教材，与传统教材不同的是，这本书充分利用了数据可视化技术，交互性和趣味性都非常强，可以边读边玩。[书籍下载地址](https://seeing-theory.brown.edu/doc/seeing-theory.pdf)
-+ [《Interactive Linear Algebra》](http://textbooks.math.gatech.edu/ila/index.html)：《交互式线性代数》，它的最大特点就是“交互式”，总共包含了 6 章内容，涵盖了线性代数的核心知识。[离线 PDF 电子版下载地址](http://textbooks.math.gatech.edu/ila/ila.pdf)。这份《交互式线性代数》在线网页，作者开源了所有代码，并发布在 GitHub 上。你可以修改程序中的源代码，实现更加个性化的体验。[GitHub源码地址](https://github.com/QBobWatson/gt-linalg)。
-+ [《Introduction to Applied Linear Algebra》](https://web.stanford.edu/~boyd/vmls/vmls.pdf)：斯坦福大学Stephen Boyd教授与加州大学Lieven Vandenberghe教授合著的一本线性代数书籍。这本教科书结合了直观的解释和丰富的实例，让抽象的线性代数知识变得通俗易懂，并且你不需要任何线性代数基础就能看懂。[斯坦福课程主页](https://web.stanford.edu/class/ee103/)，[UCLA课程主页](http://www.seas.ucla.edu/~vandenbe/ee133a.html)
-+ [A Beginner’s Guide to the Mathematics of Neural Networks](https://link.springer.com/chapter/10.1007/978-1-4471-3427-5_2)：一份为初学者准备的指南，关于神经网络中的数学问题，帮助读者理解神经网络模型中的数学概念和应用。
-
-<a class="toc" id ="6"></a>
+<a class="toc" id ="10"></a>
 # Go Learning (Go 学习) 🇬🇱
 [🔙](#table-of-contents)
 
@@ -215,7 +344,7 @@
 + [Gopl-zh](https://github.com/golang-china/gopl-zh)：Go语言圣经中文版，建议初学者先从该项目学起。
 + [Go2-book](https://github.com/chai2010/go2-book)：《Go2编程指南》开源图书，重点讲解Go2新特性，以及Go1教程中较少涉及的特性
 
-<a class="toc" id ="7"></a>
+<a class="toc" id ="11"></a>
 # Python Learning (Python 学习) 🐍
 [🔙](#table-of-contents)
 
@@ -249,7 +378,7 @@
 + [Deep Learning With Python](https://www.manning.com/books/deep-learning-with-python?a_aid=keras&a_bid=76564dff)：一本很不错的学习 Python的书籍，书本代码是基于 Keras的，GitHub上已获:star:八千多，[代码地址](https://github.com/fchollet/deep-learning-with-python-notebooks)。
 + [Python Small Examples](https://github.com/jackzhenguo/python-small-examples)：Python小例子、小Demo一网打尽。Python基础、Web开发、数据科学、机器学习、TensorFlow、Pytorch，你能想到的基于Python的小Demo都在这里。
 
-<a class="toc" id ="8"></a>
+<a class="toc" id ="12"></a>
 # Python Projects (Python 项目) 👨‍💻
 [🔙](#table-of-contents)
 
@@ -312,7 +441,7 @@
 
 
 
-<a class="toc" id ="9"></a>
+<a class="toc" id ="13"></a>
 # Python Crawler (Python 爬虫) 🕷
 [🔙](#table-of-contents)
 
@@ -328,99 +457,9 @@
 + [Twitter Scraper](https://github.com/kennethreitz/twitter-scraper)：作者逆向了 Twitter 前端 API，消除了官方 API 速率限制，非常快。
 + [AutoCrawler](https://github.com/YoongiKim/AutoCrawler)：Google，Naver 多进程图像抓取工具（高品质，高速度和可自定义）。
 
-<a class="toc" id ="10"></a>
-# Git 👬
-[🔙](#table-of-contents)
-
-+ [Learn Git Branching](https://learngitbranching.js.org/)：一个用于学习 Git 的交互式学习网站，[GitHub](https://github.com/pcottle/learnGitBranching)上收获了:star:一万多
-+ [Git](https://git-scm.com/)：Git官方教程
-+ [Git Book](https://git-scm.com/book/en/v2)：Git 官方教程电子书。[中文版Git Book链接](https://git-scm.com/book/zh/v2)
-+ [猴子老师Git教程](https://backlog.com/git-tutorial/cn/intro/intro1_1.html)：号称猴子都能懂的Git入门教程
-+ [廖雪峰Git教程](https://www.liaoxuefeng.com/wiki/896043488029600)：廖雪峰Git教程，号称史上最浅显易懂的Git教程
-+ [Pro Git 第二版](http://bit.ly/2H7A7Lg)：这本书被誉为 Git 学习的圣经，作者是 Scott Chacon 和 Ben Straub。Scott Chacon 在 GitHub 工作，自称 Git 的布道者。你可以在网站上免费阅读这本书，也可以下载他们提供的电子版本
-+ [git-recipes](http://bit.ly/2Z4jw0M)：童仲毅 (`geeeeeeeeek@github`) 对很多英文资料进行翻译、整理的集合教程。包含入门基础、进阶知识和应用范例。这些英文资料主要包括 GitHub 竞争者 Bitbucket 的 Git 教程
-+ [Udacity Git 课程](http://bit.ly/2H5PZhi)：谷歌无人车之父 Sebastian Thrun 创办的 优达学城（Udacity）上面的 免费 Git 课程。这门课程由优达学城与 GitHub 共同制作，介绍进行版本控制的基础知识，重点讲解 Git 版本控制系统以及 GitHub 协作平台
-+ [happypeter1983 的 Git 视频教程](http://bit.ly/2Z6rS87)：这份教程就更进阶了一些。讲到了一些高级命令的用法。当然还有其他学习资源。
-+ [Oh shit, git!](http://ohshitgit.com/)：这个网站整理了一些 Git 新手在使用 Git 时常会遇到的各种突发状况，并贴心的给出了应对方案。
-+ [gitignore](https://github.com/github/gitignore)：GitHub 官方开源的一个项目，这个项目为开发者编写好特定的 `.gitignore` 规则，做成了模板。开发者只需选择好自己的项目类别，将文件内容复制粘贴放到自己项目里面就可以用了,在上面，你可以找到目前所有主流语言的 .gitignore 模板。[在线生成网站](http://gitignore.io/)
-+ [Readme Md Generator](https://github.com/kefranabg/readme-md-generator)：一名来自法国的小哥因为饱受重复编写 README 文档的折磨，在 GitHub 上开源了 readme-md-generator 这个工具。从项目名字便可以知道，它一个 README 文档生成器。其主要作用是通过命令行抓取项目的 package.json 和 git 配置信息，自动完成 README 文档的编写操作，Github上已获:star:五千多
-+ [Repository Templates](https://github.blog/2019-06-06-generate-new-repositories-with-repository-templates/)：为了避免开发者做一些无用的重复性工作，GitHub 发布的一个新功能 - 模板仓库（repository templates）。这个功能可以将以往创建过的仓库标记成模板（template），这样在你下一次创建仓库的时候，就可以使用这个模板功能，快速生成具有和原仓库一样的目录与文件内容，每个模板仓库在 URL 末端带上 /generate 后，还可以将模板仓库通过链接分享给其他人，其它人在打开链接之后，便可以快速通过这个模板来创建新仓库
-+ [Git 基本操作](https://www.processon.com/view/5d43d213e4b0e42f2a2ba9b9?fromnew=1#map)：一张 Git 基本操作的速查表（脑图）
-
-<a class="toc" id ="11"></a>
-# GitHub 👬
-[🔙](#table-of-contents)
-
-+ [GitHub-Chinese-Top-Charts](https://github.com/kon9chunkit/GitHub-Chinese-Top-Charts)：Github中文项目排行榜，帮助你发现高分优秀中文项目、更高效地吸收国人的优秀经验成果；榜单每周更新一次。
-+ [HelloHithub](https://www.hellogithub.com/)：分享GitHub上有趣，入门级的开源项目
-+ [GitHubDaily ](https://github.com/GitHubDaily/GitHubDaily)：每日不定时推送一批 GitHub 上优秀的开源项目给开发者, 帮助开发者们发现当下最火的开源项目
-+ [GitHub 帮助](https://help.github.com/cn#dotcom)：GitHub官方中文帮助文档，全球最大的开源网站GitHub是每个程序员必须接触的，学习它的使用百利而无一害，同时也适合学习Git
-+ [GitHub Help](https://help.github.com/en)：GitHub官方英文帮助文档，由于中文文档是从英文文档翻译而来，可能有些内容不是最新，英语好的人应该看英文文档，才能实时获取最新内容
-+ [FastText by FacebookResearch](https://github.com/facebookresearch/fastText)：GitHub上:star:两万，fastText是Facebook团队的一个开源和免费库，用于有效学习单词表示。它是轻量级的，允许用户学习文本表示和句子分类器。它适用于标准的通用硬件。模型可以减小尺寸，甚至适合移动设备。
-+ [Logoly](https://github.com/bestony/logoly)：不正经 Logo 生成器。这是一个在线的 PornHub 风格 Logo 生成工具，可以帮助你快速生成类似 PornHub 风格的 Logo。[在线体验地址](https://logoly.pro/)
-+ [Moji, Moji, Emoji](https://github.com/ericandrewlewis/emoji-mosaic)：这是一个可根据图片配色，将图片转为用 emoji 填充的工具。[在线体验地址](http://ericandrewlewis.github.io/emoji-mosaic/)
-+ [坦克大战](https://battle-city.js.org/)：GitHub 上实现的这个开源版本，可在 Web 上直接玩，还原度非常之高，并支持单台电脑，双人组队。
-+ [俄罗斯方块](https://chvin.github.io/react-tetris/?lan=cn)：这个项目不仅好玩，技术实现原理也讲解非常到位。它通过响应式与数据持久化，使得游戏体验的效果更佳，也让你可以直接在手机端上进行操作。
-+ [Gameboy 模拟器](https://github.com/HFO4/gameboy.live)：如果我说你能在终端上用 Gameboy 来玩游戏，你可能会大吃一惊。但，生命不息，折腾不止，这玩意确实被重庆大学的一位大二学生给整出来了。
-+ [扫雷](http://muan.github.io/emoji-minesweeper/)：作为一款在当年霸屏 Windows 机器的小游戏，相信不少人都不会感到陌生。这款结合了当下比较新颖的 emoji 表情元素，重现了当年的经典。
-+ [在线玩中文 DOS](https://dos.zczc.cz/)：国内一位老玩家，出于对 DOS 游戏的怀念，在 GitHub 上开源了这个项目。
-+ [TfPyth](https://github.com/BlackHC/TfPyTh)：一行代码切换TensorFlow与PyTorch，模型训练也能用俩框架
-+ [Navi](https://github.com/denisidoro/navi)：一个神奇的命令行备忘录，GitHub上已获:star:三千多
-+ [the-art-of-command-line](https://github.com/jlevy/the-art-of-command-line/blob/master/README-zh.md)：本文是作者在 Linux 上工作时，发现的一些命令行使用技巧的摘要。有些技巧非常基础，而另一些则相当复杂，甚至晦涩难懂。这篇文章并不长，但当你能够熟练掌握这里列出的所有技巧时，你就学会了很多关于命令行的东西了。目前Github获:star:六万多。其他相关资源：
-
-    + [awesome-shell](https://github.com/alebcay/awesome-shell)：一份精心组织的命令行工具及资源的列表。
-    + [awesome-osx-command-line](https://github.com/herrbischoff/awesome-osx-command-line)：一份针对 OS X 命令行的更深入的指南。
-    + [Strict mode](http://redsymbol.net/articles/unofficial-bash-strict-mode/)：为了编写更好的脚本文件。
-    + [shellcheck](https://github.com/koalaman/shellcheck)：一个静态 shell 脚本分析工具，本质上是 bash／sh／zsh 的 lint。
-    + [Filenames and Pathnames in Shell](http://www.dwheeler.com/essays/filenames-in-shell.html)：有关如何在 shell 脚本里正确处理文件名的细枝末节。
-    + [Data Science at the Command Line](http://datascienceatthecommandline.com/#tools)：用于数据科学的一些命令和工具，摘自同名书籍。
-+ [Checkm8](https://github.com/axi0mX/ipwndfu)：一位名为Axi0mx的开发人员发布的一个名为Checkm8的iPhone破解程序，而且是开源的。Github 上已经获:star:五千多。
-+ [Lazynlp](https://github.com/chiphuyen/lazynlp)：英伟达工程师小姐姐Chip Huyen，在GitHub上开源了一个名为“lazynlp”的工具库。爬网页、清洗数据、创建数据集都可以搞定。她说，使用这个库，你应该能创建一个比大于40G的文本数据集，比OpenAI训练GPT-2时使用的还要大。开源仅一天，项目在GitHub上就获得了300多星，Twitter上获得上千次点赞。fast.ai创始人Jeremy Howard等人也转发推荐。而且，用这个工具库创建数据集的过程，也并不麻烦。
-+ [Leon Sans](https://leon-kim.com)：GitHub:star:六千多，一种字体，变成千姿百态艺术字，可尖可圆可开花，隔壁设计师馋哭了。[GitHub传送门](https://github.com/cmiscm/leonsans)。
-+ [BullshitGenerator](https://github.com/menzi11/BullshitGenerator)：狗屁不通文章生成器，GitHub上，这个富有灵魂的项目名吸引了众人的目光。项目诞生一周，便冲上了趋势榜榜首。并且，不止名字被注入灵魂，生成的文字也有一股不可抗拒的力量。只要输入一句话，系统就会给你一篇狗屁不通的万字长文，[网页版](https://suulnnka.github.io/BullshitGenerator/index.html)。
-+ [Spleeter](https://github.com/deezer/spleeter)：来自法国的音乐流媒体公司 Deezer 开源了一个音轨分离软件 spleeter，只需输入一段命令就可以将音乐的人声和各种乐器声分离，支持 mp3、wav、ogg 等常见音频格式。GitHub:star:七千多。
-+ [Emotion-recognition](https://github.com/omar178/Emotion-recognition)：使用 Keras 实现的实时表情识别项目
-+ [自动微分法实现](https://github.com/tiandiweizun/autodiff)：200行写一个自动微分工具 
-+ [Autograd](https://github.com/HIPS/autograd)：自动微分的实现，有效地计算numpy代码的导数。
-+ [AutodiffEngine](https://github.com/mrcat2018/AutodiffEngine)：自动微分引擎，来源于华盛顿大学陈天奇的课程项目 
-+ [996.ICU](https://github.com/996icu/996.ICU)：996.ICU 是指 “工作 996， 生病 ICU” 。这是中国程序员之间的一种自嘲说法，意思是如果按照 996 的模式工作，那以后就得进 ICU 了。这个项目最早是某个中国程序员发起的，然后就火遍全网，甚至火到了全世界很多其他国家，其网站被翻译成了多种语言，GitHub获:star:二十五万。[网站地址](https://996.icu)。
-+ [You-Get](https://github.com/soimort/you-get)：可以通过一个命令下载网上的在线视频，GitHub获:star:两万八。
-+ [Postwoman](https://github.com/liyasthomas/postwoman)：和 postman 一样，它能提供一些 API 的请求测试功能，HTTP 的请求方式和自定义 Header 都可以使用，而且它可以直接在线上就能运行，坊间有称它是 postman 的老婆。GitHub 获:star:一万多，[体验地址](https://postwoman.io)。
-+ [FastAPI](https://github.com/tiangolo/fastapi)：FastAPI 是一个基于 Python3.6+ 构建的高性能 web 框架，使用它可以很快的简单写一些 API 接口，GitHub 获:star:六千多。
-+ [Fiora](https://fiora.suisuijiang.com/)：你是否是社交软件的重度用户，并喜欢在网上与陌生人交流分享自己的观点呢？如果是的话，或许你可以考虑自己搭建一个多用户在线的实时聊天平台。要做到这一点并不难，借助一款叫 fiora 的开源软件便可以做到。fiora 是一款有趣的在线聊天应用。基于 node.js, mongodb, socket.io和 react 编写。[GitHub 地址](https://github.com/yinxin630/fiora/)。
-+ [微信排版编辑器](https://github.com/doocs/md)：这是一个专为微信公众号排版而生的前端编辑器，可直接在 Web 端打开写文章，在编辑完成后，可将其生成的富文本内容一键复制到公众号上，自动化完成排版操作，很是方便。
-+ [AI Dungeon](http://www.aidungeon.io/)：15亿参数的终极版GPT-2，就是OpenAI那只编故事成瘾的AI，都能拿来做些什么？有人用它做了个文字冒险游戏，并赐以优美的名字，叫“AI地牢 (AI Dungeon) ”。大概是在说，你一旦进去就出不来了，里面的故事太迷人。现在，这座地牢进化出了2.0版本。有网友盛情安利，表示不可错过，推特11小时已有1600赞！[游戏传送门](https://colab.research.google.com/github/nickwalton/AIDungeon/blob/master/AIDungeon_2.ipynb)，[博客传送门](https://pcc.cs.byu.edu/2019/11/21/ai-dungeon-2-creating-infinitely-generated-text-adventures-with-deep-learning-language-models/)
-+ [Sorry](https://github.com/xtyxtyx/sorry)：sorry 是一个很有意思的表情包斗图项目，源自"sorry，有钱事真的能为所欲为"这梗...
 
 
-
-
-<a class="toc" id ="12"></a>
-# Algorithm (算法) 💡
-[🔙](#table-of-contents)
-
-+ [Algorithm Python](https://github.com/TheAlgorithms/Python)：GitHub上:star:五万的项目，使用Python实现了所有算法，推荐等级：:heart::heart::heart:！
-+ [Leet Code Animation](https://github.com/MisterBooo/LeetCodeAnimation)：GitHub上:star:三万多的中文项目，用动画的形式呈现解LeetCode题目的思路
-+ [Leet Code 题解](https://github.com/azl397985856/leetcode)：GitHub上:star:一万多的中文项目，记录了LeetCode上大多数题目的题解
-+ [Algorithms](https://github.com/Dev-XYS/Algorithms)：GitHub上一个全面的算法代码仓库，涵盖了大量常用的C++算法代码实现
-+ [Algorithm Visualizer](https://algorithm-visualizer.org/)：算法在线交互式可视化平台，[GitHub](https://github.com/algorithm-visualizer/algorithm-visualizer)上收获:star:两万多！
-+ [VisualGo](https://visualgo.net/zh)：数据结构和算法动态可视化网站
-+ [CSIE](http://www.csie.ntnu.edu.tw/~u91029/)：算法学习网站，讲解、代码格式、图表都很规范，覆盖广
-+ [Matrix67](http://www.matrix67.com/informatics.html) Matrix67 的一些算法讲解类经典文章
-+ [Beyond the Void](https://www.byvoid.com/blog/tag/計算機科學)：BYVoid 的计算机科学博客，详细介绍了不少算法
-+ [知乎：有哪些学习算法的网站推荐？](https://www.zhihu.com/question/20368410)：知乎上的一个问题，介绍了不少学习算法的网站、题库、OJ等
-+ [Interpretable Ml Book](https://github.com/christophM/interpretable-ml-book)：Christoph Molnar年初公开的《可解释的机器学习（Interpretable Machine Learning）》，带你打开机器学习的黑盒子。[在线阅读链接](https://christophm.github.io/interpretable-ml-book/index.html)
-核心章节为：
-    + 1.机器学习简介
-    + 2.可解释性
-    + 3.数据集
-    + 4.可解释的模型
-    + 5.模型不可知方法
-    + 6.基于实例的解释
-    + 7.神经网络解释
-    + 8.机器学习与可解释性研究的未来
-
-<a class="toc" id ="13"></a>
+<a class="toc" id ="14"></a>
 # Machine Learning (机器学习) 🤖
 [🔙](#table-of-contents)
 
@@ -434,12 +473,9 @@
 + [Homemade Machine Learning](https://github.com/trekhleb/homemade-machine-learning)：GitHub上:star:一万二的项目，内容包含大多流行的机器学习算法的Python手工实现，并未使用常见的深度学习框架（TensofFlow等），便于理解算法原理，同时还附有数学原理以及Demo展示，十分适合自学的机器学习，作者博客：[Jack Cui](https://cuijiahua.com/blog/spider/)
 + [USF Data Institute](https://medium.com/usf-msds)：USF大学数据研究所主页，上面有许多关于机器学习的博客文章，有空看看十分涨知识
 + [Deep Learning Book](http://www.deeplearningbook.org/)：深度学习界的大佬Ian Goodfellow 和 Yoshua Bengio所著的深度学习书。[中文版](https://github.com/exacity/deeplearningbook-chinese)GitHub仓库已获:star:两万多，[PDF下载](https://github.com/exacity/deeplearningbook-chinese/releases/download/v0.5-beta/dlbook_cn_v0.5-beta.pdf)。推荐等级：:heart::heart::heart:！
-+ [Sebastian Raschka](https://sebastianraschka.com/)：一位国外小哥的个人网站，里面有各种机器学习、深度学习的博客及笔记等资源
-+ [Sebastian Ruder](http://ruder.io/)：DeepMind的一位研究学者的博客，博客内容包括深度学习、机器学习和自然语言处理，对于其中一些知识点例如 [An overview of gradient descent optimization algorithms](http://ruder.io/optimizing-gradient-descent/) 讲解得十分巧妙，推荐等级：:heart::heart:！
 + [Baidu AI Studio](https://aistudio.baidu.com/aistudio/index)：百度的 AI 工作室，里面有各种机器学习数据集、文章、项目，可用作机器学习实践教程
 + [DS Cheatsheets](https://github.com/FavioVazquez/ds-cheatsheets)：GitHub上:star:五千多的项目，一份数据科学备忘单
 + [Data Science Cheat Sheet](https://github.com/abhat222/Data-Science--Cheat-Sheet)：数据科学速查表，GitHub:star:八千多。内容几乎涵盖数据科学相关的所有领域，在理论应用方面包括大数据分析、数据挖掘、数据可视化、深度学习，机器学习等等；在编程语言与工具方面，包括Excel、SQL、Python、MATLAB、Linux；基础的学科知识包含统计学、数学、概率论。另外，就连面试问题都没放过
-+ [StackSoft](http://www.statsoft.com/Textbook)：国外一个机器学习相关的博客网站，里面有各种常见的机器学习算法介绍
 + [NLP Tutorial](https://github.com/graykode/nlp-tutorial)：一个很赞NLP入门代码练习库（含Pytorch和TensorFlow版本） 
 + [10 Minutes to pandas](https://pandas.pydata.org/pandas-docs/stable/getting_started/10min.html)：官方文档，十分钟上手 pandas 教程
 + [Numpy developer guide](https://docs.scipy.org/doc/numpy/dev/)：官方学习文档，Numpy 上手指南
@@ -472,9 +508,8 @@
 + [Machine Learning Course](https://github.com/machinelearningmindset/machine-learning-course)：Python 机器学习在线指南，本项目的目的是通过使用 Python 提供一系列简单而全面的教程来梳理机器学习的最重要方面。Github上:star:六千多。[在线阅读](https://machine-learning-course.readthedocs.io/en/latest/index.html#)，推荐等级：:heart::heart:！
 + [Machine Learning Notes](https://wei2624.github.io/machine%20learning/Machine-Learning-Notes/)：一份机器学习的笔记，由哥伦比亚大学研究生张威整理。张威同学本科毕业于加拿大滑铁卢大学电子工程系，曾经联合带队参加 2016 年 IEEE 数字信号处理大赛获得前 10 的名次，也曾在微软亚洲研究院副院长郭百宁老师研究组和首席研究员曾文军老师研究组实习。在哥伦比亚大学，张威同学也担任过《Bayesian Model Machine Learning》这门机器学习进阶课程的助教。[课程地址](http://www.cs.columbia.edu/~blei/fogm/2018F/index.html)。推荐等级：:heart::heart:！
 + [Dimensionality Reduction Alo Codes](https://github.com/heucoder/dimensionality_reduction_alo_codes )：网上关于各种降维算法的资料参差不齐，同时大部分不提供源代码。这个 GitHub 项目整理了使用 Python 实现了 11 种经典的数据抽取（数据降维）算法，包括：PCA、LDA、MDS、LLE、TSNE 等，并附有相关资料、展示效果；非常适合机器学习初学者和刚刚入坑数据挖掘的小伙伴。
-+ [https://jalammar.github.io/a-visual-guide-to-using-bert-for-the-first-time/](https://jalammar.github.io/a-visual-guide-to-using-bert-for-the-first-time/)：BERT小学生级上手教程，从原理到上手全有图示，还能直接在线运行。[代码](https://github.com/jalammar/jalammar.github.io/blob/master/notebooks/bert/A_Visual_Notebook_to_Using_BERT_for_the_First_Time.ipynb)，[Colab](https://colab.research.google.com/github/jalammar/jalammar.github.io/blob/master/notebooks/bert/A_Visual_Notebook_to_Using_BERT_for_the_First_Time.ipynb)，[DistilBERT](https://medium.com/。huggingface/distilbert-8cf3380435b5)
 
-<a class="toc" id ="14"></a>
+<a class="toc" id ="15"></a>
 # Computer Vision (计算机视觉) 👁
 [🔙](#table-of-contents)
 
@@ -484,7 +519,7 @@
 + [ImageProcessing100Wen](https://github.com/gzr2017/ImageProcessing100Wen)：图像处理入门 100 题，主要针对图像处理的一些基本操作，非常适合入门！该项目最大的特色就是 100 题循序渐进，基本涵盖了 OpenCV 的关键知识点。如果你正在入门 CV，正在学习 OpenCV，那么这个项目将会是一个不错的从入门到进阶的教程。
 
 
-<a class="toc" id ="15"></a>
+<a class="toc" id ="16"></a>
 # Reinforcement Learning (强化学习) 💪
 [🔙](#table-of-contents)
 
@@ -512,13 +547,11 @@
 
 
 
-<a class="toc" id ="16"></a>
+<a class="toc" id ="17"></a>
 # Graph Learning (图学习) 🗺
 [🔙](#table-of-contents)
 
-+ [A Gentle Introduction to Graph Neural Networks (Basics, DeepWalk, and GraphSage)](https://towardsdatascience.com/a-gentle-introduction-to-graph-neural-network-basics-deepwalk-and-graphsage-db5d540d50b3)：介绍了图神经网络的概念及其最新进展的博客
 + [Innovations in Graph Representation Learning ](https://ai.googleblog.com/2019/06/innovations-in-graph-representation.html)：Google图挖掘团队的两位高级科学家Alessandro Epasto和Bryan Perozzi在Google AI Blog上发表的《Innovations in Graph Representation Learning》，介绍了最新的一些图表示学习成果
-+ [Hands-on Graph Neural Networks with PyTorch & PyTorch Geometric](https://towardsdatascience.com/hands-on-graph-neural-networks-with-pytorch-pytorch-geometric-359487e221a8)：使用PyTorch和PyTorch Geometric（PyG），构建图形神经网络框架的教程博客。[GitHub地址](https://github.com/khuangaf/Pytorch-Geometric-YooChoose)
 + [Awesome Graph Classification](https://github.com/benedekrozemberczki/awesome-graph-classification)：这是一个野心勃勃的项目，涵盖了从深度学习、图形内核、到统计指纹和分解等领域的优秀论文以及对应的Python实现，作者表示会持续更新。GitHub :star:两千多。
 该仓库分为4个部分，分别是：
     + 因式分解
@@ -537,7 +570,7 @@
 
 
 
-<a class="toc" id ="17"></a>
+<a class="toc" id ="18"></a>
 # Generative Adversarial Networks (GANs) 🤜 🤛
 [🔙](#table-of-contents)
 
@@ -547,10 +580,9 @@
 + [Generative Adversarial Networks - The Story So Far](https://blog.floydhub.com/gans-story-so-far/)：Reddit 出现的一个归纳 GAN 发展脉络的博客，作者在博客中详细梳理了过去几年的 GAN 发展历程，包含众多 SOTA 论文及其代码和对应的学习资源
 + [CycleGAN Tutorial](https://www.tensorflow.org/beta/tutorials/generative/cyclegan)：官方资源帖，手把手教你在TensorFlow 2.0中实现CycleGAN，这份教程全面详细，想学CycleGAN不能错过这个。[GitHub地址](https://github.com/tensorflow/docs/blob/master/site/en/r2/tutorials/generative/cyclegan.ipynb)
 + [GAN Overview Chinese (pdf)](https://github.com/Morde-kaiser/LearningNotes/blob/master/GAN-Overview-Chinese.pdf)：万字综述之生成对抗网络（GAN）
-+ [Seeing What a GAN Cannot Generate](https://www.zhuanzhi.ai/paper/1a6ada6940f38d05a5dcdea60e663ec5)：GAN这个模型，不能生成哪些东西呢？来自MIT的David Bau等人，在ICCV 2019 上的文章《Seeing What a GAN Cannot Generate》，进行了一系列实验，尝试找到问题的答案。[文章主页](http://ganseeing.csail.mit.edu/)，[文章代码地址](https://github.com/davidbau/ganseeing)。
 
 
-<a class="toc" id ="18"></a>
+<a class="toc" id ="19"></a>
 # Adversarial Attack and Defense ⚔
 [🔙](#table-of-contents)
 
@@ -562,7 +594,7 @@
 
 
 
-<a class="toc" id ="19"></a>
+<a class="toc" id ="20"></a>
 # TensorFlow Learning (TensorFlow 学习) 🇹🇫
 [🔙](#table-of-contents)
 
@@ -594,33 +626,30 @@
 + [Models and Datasets](https://www.tensorflow.org/resources/models-datasets)：为了简化TensorFlow 2.0的入门工作，官方发布了几个使用2.0 API的常用ML模型的参考实现
 + [Introduction TensorFlow](https://www.coursera.org/learn/introduction-tensorflow)：免费 TensorFlow 课程
 + [Intro To TensorFlow For Deep Learning Ud187](https://www.udacity.com/course/intro-to-tensorflow-for-deep-learning--ud187)：另一个免费 TensorFlow 课程
-+ [TensorFlow 2.0 is Now Available](https://medium.com/tensorflow/tensorflow-2-0-is-now-available-57d706c2a9ab)：官方博客，介绍TensorFlow 2.0
 + [TensorFlow 2.0](https://github.com/tensorflow/tensorflow/releases/tag/v2.0.0)：GitHub上TensorFlow 2.0 源码
 + [Hands-on TensorFlow 2.0](https://storage.googleapis.com/applied-dl/SciPy_Tokyo.pdf)：TensorFlow 2.0 实操教程
-+ [Chollet 推特](https://twitter.com/fchollet/status/1105139360226140160)：谷歌深度学习研究员、“Keras之父”François Chollet发表推特，总结了一份TensorFlow 2.0 + Keras做深度学习研究的速成指南。[Google Colab Notebook地址](https://colab.research.google.com/drive/17u-pRZJnKN0gO5XZmq8n5A2bKGrfKEUg#scrollTo=rwREGJ7Wiyl9)
 + [TensorFlow 2.0 + Keras Overview for Deep Learning Researchers](https://colab.research.google.com/drive/1UCJt8EYjlzCs1H1d1X0iDGYJsHKwu-NO#scrollTo=88ExjKfCo7aP)：Keras之父出品：Twitter超千赞的TF 2.0 + Keras速成课程。需要翻墙查看。推荐等级：:heart::heart:！
 + [Transformer Chatbot](https://medium.com/tensorflow/a-transformer-chatbot-tutorial-with-tensorflow-2-0-88bf59e66fe2)：【TensorFlow2.0】Transformer聊天机器人教程。[GitHub地址](https://github.com/tensorflow/examples/blob/master/community/en/transformer_chatbot.ipynb)
 + [TensorFlow Examples v2.0](https://github.com/aymericdamien/TensorFlow-Examples/tree/master/tensorflow_v2)：GitHub 中三万多:star:项目`TensorFlow examples`的一个子项目，更新了一些2.0的样例
 + [《Deep Learning with TensorFlow book》](https://github.com/dragen1860/Deep-Learning-with-TensorFlow-book)：一本基于TensorFlow 2.0 正式版的中文深度学习开源书，GitHub趋势日榜排名全球第一，已斩获:star:三千多，并且还在不断增长。从目录章节构成来看，理论与编程并不是独立分开，而是随着难度的递增，循序渐进、穿插编排的，除此之外，每个章节里的内容编排也是理论与实战相结合。配套代码，[TensorFlow 2.0 实战案例](https://github.com/dragen1860/TensorFlow-2.x-Tutorials)。推荐等级：:heart::heart::heart:！
 + [简单粗暴TensorFlow 2.0](https://tf.wiki/)：一份全中文教学的快速上手指南，基于Keras和Eager Execution（动态图）模式，北大学霸出品，获得TensorFlow官方认可。其名为，简单粗暴TensorFlow 2.0。[GitHub地址](https://github.com/snowkylin/tensorflow-handbook)，推荐等级：:heart::heart::heart:！
-+ [Hands On Machine Learning](https://www.oreilly.com/library/view/hands-on-machine-learning/9781492032632/)：这本书非常棒，可以带你更深入TF2.0，记得要看第二版。GitHub上已获:star:四千多，[代码地址](https://github.com/ageron/handson-ml2)。推荐等级：:heart::heart::heart:！
++ [《Hands On Machine Learning》](https://www.oreilly.com/library/view/hands-on-machine-learning/9781492032632/)：这本书非常棒，可以带你更深入TF2.0，记得要看第二版。GitHub上已获:star:四千多，[代码地址](https://github.com/ageron/handson-ml2)。推荐等级：:heart::heart::heart:！
 + [Tf2 Course](https://github.com/ageron/tf2_course)："Deep Learning with TensorFlow 2 and Keras" 课程笔记
 + [TensorFlow 2.0 中文教程](https://github.com/czy36mengfei/tensorflow2_tutorials_chinese)：该教程主要由tensorflow2.0官方教程的作者个人学习复现笔记整理而来，并借鉴了一些keras构造神经网络的方法，中文讲解，方便喜欢阅读中文教程的朋友。[知乎专栏](https://zhuanlan.zhihu.com/p/59507137)。
 + [Awesome Tensorflow 2](https://github.com/Amin-Tgz/awesome-tensorflow-2)：Tensorflow 2.x资源，如教程，博客，代码和视频。推荐等级：:heart::heart::heart::heart:！
-+ [动手深度学习 (TensorFlow2.0)](https://github.com/TrickyGo/Dive-into-DL-TensorFlow2.0)：《动手学深度学习》(Dive into Deep Learning) TensorFlow 2.0版本代码实现。[在线阅读地址](https://trickygo.github.io/Dive-into-DL-TensorFlow2.0/#/)。推荐等级：:heart::heart::heart:！
-+ [TF-2.0-Hacks](https://github.com/sayakpaul/tf-2.0-hacks/tree/master/)：该仓库包含了作者对新发布的TensorFlow 2.0的探索，里面有些相关资料很值得学习。
++ [《动手深度学习 (TensorFlow2.0)》](https://github.com/TrickyGo/Dive-into-DL-TensorFlow2.0)：《动手学深度学习》(Dive into Deep Learning) TensorFlow 2.0版本代码实现。[在线阅读地址](https://trickygo.github.io/Dive-into-DL-TensorFlow2.0/#/)。推荐等级：:heart::heart::heart:！
 + [TensorFlow Tutorials](https://www.tensorflow.org/tutorials)：TensorFlow 官方文档示例教程，使用2.0实现了一些经典模型，[GitHub仓库](https://github.com/tensorflow/docs/tree/master/site/en/tutorials)。推荐等级：:heart::heart::heart:！
 + [《Hands-on Machine Learning with Scikit-Learn, Keras, and TensorFlow, 2nd Edition》](https://www.redhat.com/cms/managed-files/cm-oreilly-chapter-machine-learning-analyst-paper-f20000-201910-en.pdf)：Scikit-Learn，Keras，Tensorflow是机器学习工具链的重要组成部分。本书的作者，根据上述三个机器学习工具箱，融汇贯通成一个个机器学习实例，让即使对人工智能了解不多的程序员也可以使用简单高效的工具来实现机器学习任务。本书Sklearn,Keras与Tensorflow机器学习实用指南(第二版)涵盖大量上述三个工具和机器学习的相关内容。[书内代码](https://github.com/ageron/handson-ml2)
++ [Tensor2Tensor](https://colab.research.google.com/github/tensorflow/tensor2tensor/blob/master/tensor2tensor/notebooks/hello_t2t.ipynb)：tensor2tensor（t2t）是google基于tensorflow新开源的深度学习库，该库将深度学习所需要的元素（数据集、模型、学习率、超参数等）封装成标准化的统一接口，在使用其做模型训练时可以更加的灵活。GitHub :star: 9.4k。
 
 
 
-<a class="toc" id ="20"></a>
+<a class="toc" id ="21"></a>
 # Keras Learning (Keras 学习) 🇰🇷
 [🔙](#table-of-contents)
 + [Keras](https://keras.io/)：Keras官方手册，非常详细的官方文档，文档中详细的介绍了从Keras每个知识点的用法，一步步带你从入门到精通。
 + [Keras-cn](https://keras.io/zh/)：Keras中文官方手册，该中文官方手册是对对Keras英文官方手册最好的还原，适合所有阶段的Keras学习者阅读。
 + [Keras中文文档](https://keras-cn.readthedocs.io/en/latest/)：另一个非官方的Keras中文文档，笔者花了近两年的时间在维护，文档也一直在更新，包含ConvLSTM2D、SimpleRNNCellKeras、GRUCell等最新的内容，非常用心的一份Keras文档。
-+ [Installing Keras For Deep Learning](http://www.pyimagesearch.com/2016/07/18/installing-keras-for-deep-learning/)：安装Keras库进行深度学习，国外一篇比较火的博客，旨在演示如何安装Keras库进行深度学习。
 + [Deep Learning With Keras Notebooks](https://github.com/erhwenkuo/deep-learning-with-keras-notebooks)：黄海广博士力荐的Keras github项目，这个github的repository主要是博主在学习Keras的一些记录及练习，满满都是干货，建议大家看一下。
 + [keraschina](http://www.keraschina.com)：磐创AI Keras系列教程总结，从CNN到RNN，以入门、基础为主的讲解，适合小白学习。
 + [Waterloo](https://www.youtube.com/watch?v=Tp3SaRbql4k)：Waterloo大学关于Keras的课程，该视频在YouTube上有很高的播放率，课程质量非常高
@@ -654,7 +683,7 @@
 
 
 
-<a class="toc" id ="21"></a>
+<a class="toc" id ="22"></a>
 # PyTorch Learning (PyTorch 学习) 🇵🇹
 [🔙](#table-of-contents)
 
@@ -666,7 +695,6 @@
 + [Awesome Pytorch list](https://github.com/bharathgs/Awesome-pytorch-list)：GitHub上一个:star:七千多的项目，收集了GitHub上PyTorch相关内容以及不同的模型实现、帮助文档、教程，使用PyTorch的学习
 + [《Hands-on tour to deep learning with PyTorch》](https://mlelarge.github.io/dataflowr-web/cea_edf_inria.html)：dataflowr 最近推出的一门五天初步掌握深度学习的实战教程（实战使用 PyTorch 框架），有知识点有实例有代码。[GitHub地址](https://github.com/mlelarge/dataflowr)
 + [Existential Pontification and Generalized Abstract Digressions ](http://blog.ezyang.com/2019/05/pytorch-internals/)：万字综述，核心开发者全面解读 PyTorch 内部机制 
-+ [Rainbow is All You Need](https://nbviewer.jupyter.org/github/Curt-Park/rainbow-is-all-you-need/tree/master/)：一份用 Jypyter Notebook 写的深度强化学习（Deep Reiforcement Learning）笔记，背景理论、代码实现全都有，手把手教你从 DQN 到Rainbow 。 [GitHub地址](https://github.com/Curt-Park/rainbow-is-all-you-need)，推荐等级：:heart::heart::heart:！
 + [Python Autocomplete](https://github.com/vpj/python_autocomplete/blob/master/extract_code.py)：一个利用 PyTorch 写的自动补全代码的小项目
 + [Pytorch Geometric](https://github.com/rusty1s/pytorch_geometric)：近几年来，图神经网络（GNN）在推荐系统、搜索引擎、计算机视觉等领域中都引起了较大的关注。Github有大量开源GNN实现，其中pytorch_geometric是最优秀的实现之一，曾被Yann LeCun推荐，GitHub上获:star:近五千
 + [TfPyth](https://github.com/BlackHC/TfPyTh)：一行代码切换TensorFlow与PyTorch，模型训练也能用俩框架
@@ -685,7 +713,7 @@
 
 
 
-<a class="toc" id ="22"></a>
+<a class="toc" id ="23"></a>
 # Visualization (可视化) 👀
 [🔙](#table-of-contents)
 
@@ -725,7 +753,7 @@
 + [Origin](https://www.originlab.com/)：Origin是由OriginLab公司开发的一个科学绘图、数据分析软件，支持在Microsoft Windows下运行。Origin支持各种各样的2D/3D图形。Origin中的数据分析功能包括统计，信号处理，曲线拟合以及峰值分析。Origin中的曲线拟合是采用基于Levernberg-Marquardt算法（LMA）的非线性最小二乘法拟合。Origin强大的数据导入功能，支持多种格式的数据，包括ASCII、Excel、NI TDM、DIADem、NetCDF、SPC等等。图形输出格式多样，例如JPEG，GIF，EPS，TIFF等。内置的查询工具可通过ADO访问数据库数据。
 
 
-<a class="toc" id ="23"></a>
+<a class="toc" id ="24"></a>
 # English Learning (英语学习) 🗣
 [🔙](#table-of-contents)
 
@@ -733,8 +761,11 @@
 + [A Programmers Guide to English](https://github.com/yujiangshui/A-Programmers-Guide-to-English)：GitHub上一个:star:七千多的英语学习项目，专为程序员编写的英语学习指南。[在线阅读链接](https://a-programmers-guide-to-english.harryyu.me/)
 + [English level up tips for Chinese](https://github.com/byoungd/English-level-up-tips-for-Chinese)：Github上一个:star:一万七的英语学习项目，可能是让你受益匪浅的英语进阶指南。[GitBook地址](https://byoungd.gitbook.io/english-level-up-tips/)
 + [Chinese Programmer Wrong Pronunciation](https://github.com/shimohq/chinese-programmer-wrong-pronunciation)：GitHub上一个:star:近万的英语学习项目，收集了中国程序员容易发音错误的单词
++ [Microsoft Aim Writing](https://aka.ms/zuowen)：亚洲研究院研发升级了以前的作文打分功能，命名为“微软爱写作”（Microsoft Aim Writing）。从小学到到雅思托福的作文都可以改。
 
-<a class="toc" id ="24"></a>
+
+
+<a class="toc" id ="25"></a>
 # Paper (论文相关) 📄
 [🔙](#table-of-contents)
 
@@ -768,7 +799,7 @@
 
 
 
-<a class="toc" id ="25"></a>
+<a class="toc" id ="26"></a>
 # Download Resources (下载资源) 📥
 [🔙](#table-of-contents)
 
@@ -785,7 +816,7 @@
 
 
 
-<a class="toc" id ="26"></a>
+<a class="toc" id ="27"></a>
 # Interview (工作面试) 💼
 [🔙](#table-of-contents)
 
@@ -818,7 +849,7 @@
 + [955.WLB](https://github.com/formulahendry/955.WLB)：与 996.ICU 相呼应，955 公司白名单。旨在让更多的人逃离 996，加入 955 的行列。GitHub 获:star:近两万。
 
 
-<a class="toc" id ="27"></a>
+<a class="toc" id ="28"></a>
 # Dataset (数据集)  📊
 [🔙](#table-of-contents)
 
@@ -913,7 +944,7 @@
 
 
 
-<a class="toc" id ="28"></a>
+<a class="toc" id ="29"></a>
 # Others (其它) ❓
 [🔙](#table-of-contents)
 
@@ -959,8 +990,8 @@
 
 
 
-<a class="toc" id ="29"></a>
-# Update Time (更新时间) 🕰 ：2019/12/20
+<a class="toc" id ="30"></a>
+# Update Time (更新时间) 🕰 ：2019/12/22
 [🔙](#table-of-contents)
 
 
