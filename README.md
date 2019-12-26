@@ -339,12 +339,12 @@
 + [Ultimate Go](https://github.com/hoanhan101/ultimate-go)：网友hoanhan101分享的一份完整Go语言学习笔记，里面记录了他从零开始学习Go语言时所用的方法，以及对应全部学习资料。Hackernews热度1天升至400，好评如潮
 + [Learn Go with Tests](https://github.com/quii/learn-go-with-tests)：Hackernews 上用户@olah_1推荐的一个Go语言课程，表示：Learn Go with Tests是我经历过的最好的编程语言课程
 + [Introducing Go](http://shop.oreilly.com/product/0636920046516.do)：如果搞不明白Go是什么，可以去OReilly上资料
-+ [Gotraining](https://github.com/ardanlabs/gotraining)：一个GitHub上5000+star的课程培训，Ardan Labs机构
++ [Gotraining](https://github.com/ardanlabs/gotraining)：一个GitHub上:star:5k+的课程培训，Ardan Labs机构
 + [Roadmap](https://github.com/dzyanis/roadmap)：网友贡献自制Go学习思维导图
 + [Web Dev Golang Anti Textbook](https://github.com/thewhitetulip/web-dev-golang-anti-textbook)：学习如何在没有框架的情况下用Go语言编写web app
 + [hackernews讨论区](https://news.ycombinator.com/item?id=20701671)：hackernews 上的 Go 讨论区
 + [The Go programming language](https://github.com/golang/go)：Go语言源码仓库
-+ [Go 入门指南](https://github.com/unknwon/the-way-to-go_ZH_CN)：《The Way to Go》中文译本，中文正式名《Go 入门指南》，Github上:star:近两万。[在线电子书](https://github.com/Unknwon/the-way-to-go_ZH_CN/blob/master/eBook/directory.md)。
++ [Go 入门指南](https://github.com/unknwon/the-way-to-go_ZH_CN)：《The Way to Go》中文译本，中文正式名《Go 入门指南》，Github上:star:近20k。[在线电子书](https://github.com/Unknwon/the-way-to-go_ZH_CN/blob/master/eBook/directory.md)。
 + [Go指南](https://go-tour-zh.appspot.com/welcome/1)： 该指南可以进行交互。点击 “运行”按钮（或按 Shift + Enter）可以在 远程服务器上 编译并执行程序。 结果展示在代码的下面。这些例子程序展示了 Go 的各个方面。在指南中的程序可以成为你积累经验的开始。 
 + [Advanced Go Programming](https://chai2010.cn/advanced-go-programming-book/)：Go语言高级编程，涵盖CGO、Go汇编语言、RPC实现、Web框架实现、分布式系统等高阶主题，针对Go语言有一定经验想深入了解Go语言各种高级用法的开发人员。
 + [Gopl-zh](https://github.com/golang-china/gopl-zh)：Go语言圣经中文版，建议初学者先从该项目学起。
@@ -361,8 +361,8 @@
 + [Dive Into Python 3](http://diveintopython3.problemsolving.io/)：深入 Python3（英文版），网上大多人推荐的Python学习书
 + [深入 Python3](http://www.ttlsa.com/docs/dive-into-python3/)：深入 Python3（中文版）
 + [Python 3 Cheat Sheet (PDF)](https://perso.limsi.fr/pointal/_media/python:cours:mementopython3-english.pdf)：Python 3 Cheat Sheet 由法国国家科学研究中心（CNRS）的法国机械工程与信息技术实验室（LIMSI）的工程师 Laurent Pointal 总结。Python 3 Cheat Sheet 一共包含两页，分成了多个框图，涉及基本的 Python 数据结构、数学运算、条件和循环语句、文件读写，以及异常值处理等
-+ [Learn Python](https://github.com/xianhu/LearnPython)：GitHub上一个:star:三千多的中文项目，以撸代码的形式学习Python，以Python代码加上注释作为教程，内容十分详细
-+ [Python-100-Days](https://github.com/jackfrued/Python-100-Days)：GitHub上一个:star:四万多的中文项目，带你100天从新手到大师
++ [Learn Python](https://github.com/xianhu/LearnPython)：GitHub上一个:star:3k+的中文项目，以撸代码的形式学习Python，以Python代码加上注释作为教程，内容十分详细
++ [Python-100-Days](https://github.com/jackfrued/Python-100-Days)：GitHub上一个:star:40k+的中文项目，带你100天从新手到大师
 + [Learn Python Programming](https://www.programiz.com/python-programming)：[Programiz](https://www.programiz.com/)的 Python 教程
 + [What the fuck Python](https://github.com/satwikkansal/wtfpython)：GitHub上一个:star:一万五的英文项目，讲述了一些有趣且鲜为人知的 Python 特性
 + [What the fuck Python-cn](https://github.com/leisurelicht/wtfpython-cn)：What the fuck Python的中文版
