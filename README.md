@@ -29,7 +29,7 @@
 + [Interview (工作面试) 💼](#27)
 + [Dataset (数据集)  📊](#28)
 + [Others (其它) ❓](#29)
-+ [Update Time (更新时间) 🕰 ：2019/12/26](#30)
++ [Update Time (更新时间) 🕰 ：2020/01/03](#30)
 
 
 # Preface (前言)
@@ -100,7 +100,7 @@
 + [微信排版编辑器](https://github.com/doocs/md)：这是一个专为微信公众号排版而生的前端编辑器，可直接在 Web 端打开写文章，在编辑完成后，可将其生成的富文本内容一键复制到公众号上，自动化完成排版操作，很是方便。
 + [AI Dungeon](http://www.aidungeon.io/)：15亿参数的终极版GPT-2，就是OpenAI那只编故事成瘾的AI，都能拿来做些什么？有人用它做了个文字冒险游戏，并赐以优美的名字，叫“AI地牢 (AI Dungeon) ”。大概是在说，你一旦进去就出不来了，里面的故事太迷人。现在，这座地牢进化出了2.0版本。有网友盛情安利，表示不可错过，推特11小时已有1600赞！[游戏传送门](https://colab.research.google.com/github/nickwalton/AIDungeon/blob/master/AIDungeon_2.ipynb)，[博客传送门](https://pcc.cs.byu.edu/2019/11/21/ai-dungeon-2-creating-infinitely-generated-text-adventures-with-deep-learning-language-models/)
 + [Sorry](https://github.com/xtyxtyx/sorry)：sorry 是一个很有意思的表情包斗图项目，源自"sorry，有钱事真的能为所欲为"这梗...
-
++ [NNI (Neural Network Intelligence)](https://aka.ms/nniis)：2018年9月，微软亚洲研究院发布了第一版 NNI (Neural Network Intelligence) ，目前已在 GitHub 上获得 :star:3.8K ，成为最热门的自动机器学习（AutoML）开源项目之一。最新版本的 NNI 对机器学习生命周期的各个环节做了更加全面的支持，包括特征工程、神经网络架构搜索（NAS）、超参调优和模型压缩在内的步骤，你都能使用自动机器学习算法来完成。
 
 
 
@@ -158,6 +158,9 @@
 + [Pytorch Internals](http://blog.ezyang.com/2019/05/pytorch-internals/)：万字综述，核心开发者全面解读PyTorch内部机制。推荐等级::heart::heart::heart::heart:！
 + [Tutorial on Variational Autoencoders](https://arxiv.org/abs/1606.05908)：一个很棒的教程，深入探讨了构建变分自编码器的细节
 + [Variational Autoencoder in TensorFlow](https://jmetzen.github.io/2015-11-27/vae.html)：使用TensorFlow 1.x 实现VAE教程
++ [Soumith Chintala](https://github.com/soumith)：Pytorch 开发者之一的GitHub主页，有许多值得学习的Pytorch项目。
++ [pytorch-tutorial](https://github.com/yunjey/pytorch-tutorial)：PyTorch Tutorial for Deep Learning Researchers，GitHub :star:15k，推荐等级::heart::heart::heart::heart:！
+
 
 
 <a class="toc" id ="6"></a>
@@ -331,7 +334,6 @@
 + [kaggle: Faster Data Science Education](https://www.kaggle.com/learn/overview)：想学Python 、机器学习、数据可视化……你可能会想Coursera上的在线教程，或者吴恩达大名鼎鼎的深度学习视频课，或者一些有名的网上社区，比如fast.ai，Udemy和EdX。但是你可能会因为时间不够就半途而废。Kaggle官网的一系列课程完美地解决了这个问题。只需要几个小时就可以学到最有用的技术。包含课程为：Python，机器学习入门，中极机器学习，数据可视化，Pandas，特征学习，深度学习，SQL入门，SQL进阶，地理空间分析，机器学习可解释性。推荐等级：:heart::heart::heart::heart:！
 + [Python Tips for Data Scientist](https://runawayhorse001.github.io/PythonTipsDS/index.html)：Wenqiang Feng, Xu Gao and Upendra Madam三位数据科学家撰写了一本《给数据科学家的Python技能秘籍》，简明扼要，非常实用，使用与数据科学家相关的详细演示代码和示例来共享一些用于数据科学家工作的有用python技巧，值得放在身旁学习查看！推荐等级：:heart::heart::heart::heart:！
 
-
 <a class="toc" id ="10"></a>
 # Go Learning (Go 学习) 🇬🇱
 [🔙](#table-of-contents)
@@ -382,7 +384,7 @@
 + [利用 Python 进行数据分析 · 第 2 版](https://www.jianshu.com/p/04d180d90a3f)：一本非常不错的 Python 数据分析入门系统教程。本书由 Python pandas 项目创始人Wes McKinney 亲笔撰写，详细介绍利用 Python 进行操作、处理、清洗和规整数据等方面的具体细节和基本要点。第 2 版针对 Python 3.6 进行全面修订和更新，涵盖新版的 pandas、NumPy、IPython 和 Jupyter，并增加大量实际案例，可以帮助你高效解决一系列数据分析问题。[翻译的 GitHub 地址](https://github.com/iamseancheney/python_for_data_analysis_2nd_chinese_version)，
 [GitBook（有锚点功能）](https://seancheney.gitbook.io/python-for-data-analysis-2nd/)，[书籍下载地址](http://www.jianshu.com/p/fad9e41c1a42)，[书籍代码的 GitHub 开源地址](https://github.com/wesm/pydata-book)
 + [Deep Learning With Python](https://www.manning.com/books/deep-learning-with-python?a_aid=keras&a_bid=76564dff)：一本很不错的学习 Python的书籍，书本代码是基于 Keras的，GitHub上已获:star:八千多，[代码地址](https://github.com/fchollet/deep-learning-with-python-notebooks)。
-+ [Python Small Examples](https://github.com/jackzhenguo/python-small-examples)：Python小例子、小Demo一网打尽。Python基础、Web开发、数据科学、机器学习、TensorFlow、Pytorch，你能想到的基于Python的小Demo都在这里。
++ [Python Small Examples](https://github.com/jackzhenguo/python-small-examples)：Python小例子、小Demo一网打尽。Python基础、Web开发、数据科学、机器学习、TensorFlow、Pytorch，你能想到的基于Python的小Demo都在这里。[PDF下载](https://github.com/jackzhenguo/python-small-examples/files/3992400/Python.V1.1.pdf)
 
 <a class="toc" id ="12"></a>
 # Python Projects (Python 项目) 👨‍💻
@@ -580,6 +582,9 @@
 + [Open Graph Benchmark](http://ogb.stanford.edu)：在 NeurlPS 2019 大会的图表示学习演讲中，Jure Leskovec 宣布开源图神经网络的通用性能评价基准数据集 OGB（Open Graph Benchmark）。通过这一数据集，可以更好地评估模型性能等方面的指标。[图表示学习演讲合集](https://slideslive.com/38921872/graph-representation-learning-3)。
 + [Deep Graph Library (DGL)](https://github.com/dmlc/dgl)：在现有DL框架的基础上构建的基于Pytorch的Python包，用于简化对图的深度学习
 + [PyTorch Geometric (PYG)](https://github.com/rusty1s/pytorch_geometric)：基于PyTorch的图深度学习扩展库
++ [《An introduction to machine learning on graphs》](https://conferences.oreilly.com/strata/strata-ny-2019/public/schedule/detail/76557)：《Introduction to graphs and machine learning》（《图机器学习导论》）为我们介绍了图机器学习的动机与发展，包括网络表示学习、图神经网络等图机器学习方法及其在问答、知识图谱等领域的应用。
++ [GraphEmbedding](https://github.com/shenweichen/GraphEmbedding)：GraphEmbedding 算法的实现库。
++ [stellargraph](https://github.com/stellargraph/stellargraph)：使用tf2.x写的图机器学习算法实现库。
 
 
 <a class="toc" id ="18"></a>
@@ -594,6 +599,7 @@
 + [GAN Overview Chinese (pdf)](https://github.com/Morde-kaiser/LearningNotes/blob/master/GAN-Overview-Chinese.pdf)：万字综述之生成对抗网络（GAN）
 + [PyTorch-GAN](https://github.com/eriklindernoren/PyTorch-GAN)：用Pytorch 实现的 GAN代码大全，GitHub :star:5k+。
 + [《GANs in Action》](https://www.manning.com/books/gans-in-action)：牛津大学Jakub Langr 撰写了《GANs in Action Deep learning with Generative Adversarial Networks》的著作，囊括了关于GAN的定义、训练、变体等，全面叙述关于当下AI最重要的技术之一GAN的著作，是学习生成式对抗网络非常好的学习图书，是关于GAN的最好的书籍之一。
++ [DiscoGAN-pytorch](https://github.com/carpedm20/DiscoGAN-pytorch)："Learning to Discover Cross-Domain Relations with Generative Adversarial Networks" PyTorch实现
 
 
 <a class="toc" id ="19"></a>
@@ -605,7 +611,7 @@
 + [HackingNeuralNetworks](https://github.com/Kayzaks/HackingNeuralNetworks)：神经网络真的在软件层面上是安全吗？今日的 GitHub 趋势榜上有一个「骇入神经网络指南」项目。作者提供了一系列教学资料和代码，告诉了我们黑客会怎样对神经网络发起攻击。和对抗样本攻击不同，这些攻击都是从软件层面进行的，和使用对抗样本混淆模型能力的攻击不同。[教程文章地址](https://github.com/Kayzaks/HackingNeuralNetworks/blob/master/Article.pdf)。
 + [Papers of Robust ML](https://github.com/rainy1998/nlp-/blob/f62680e9663dc89920bd5dbbf44759e190ffd08c/Papers-of-Robust-ML.md)：Robust-ML的相关论文集
 + [Adversarial-DL](https://github.com/mbs0221/Adversarial-DL)：对抗深度学习的论文集
-
++ [One Pixel Attack Keras](https://github.com/Hyperparticle/one-pixel-attack-keras)："One pixel attack for fooling deep neural networks"  的Keras实现
 
 
 <a class="toc" id ="20"></a>
@@ -721,7 +727,7 @@
 + [《动手学深度学习 (PyTorch)》](https://github.com/ShusenTang/Dive-into-DL-PyTorch)：该项目将《动手学深度学习》(Dive into Deep Learning)原书中的MXNet实现改为PyTorch实现，[在线版本](http://tangshusen.me/Dive-into-DL-PyTorch/#/)。然而，源项目由于写的是 Markdown ,公式和代码显示不太方便阅读。一位中国海洋大学大三学生将上面 PyTorch 版本的《动手深度学习》编译成完整的 PDF 文件。方便大家阅读以及解决 GitHub 上公式显示不全的问题。GitHub 地址 [Dive-into-DL-PyTorch.pdf](https://github.com/OUCMachineLearning/OUCML/blob/master/BOOK/Dive-into-DL-PyTorch.pdf)。推荐等级：:heart::heart::heart:！
 + [《Deep Learning With Pytorch》](https://pytorch.org/deep-learning-with-pytorch-thank-you)：Pytorch官网Pytorch.org最近发布了一本开源书深度学习《Deep Learning with PyTorch》，共141页pdf，限时开放，涵盖了深度学习和Pytorch库的介绍，预训练网络，张量，学习机制，数据神经网络学习。书里面有详实的代码，是入门学习Pytorch深度学习必备器物，不得不看！[GitHub仓库代码](https://github.com/deep-learning-with-pytorch/dlwpt-code)。推荐等级：:heart::heart:！
 + [PyTorch: An Imperative Style, High-PerformanceDeep Learning Library](https://papers.nips.cc/paper/9015-pytorch-an-imperative-style-high-performance-deep-learning-library.pdf)：NIPS 2019接收为poster的论文，由PyTorch 开发项目组发表，完整且系统地介绍了 PyTorch 本身。推荐等级：:heart::heart::heart:！
-
++ [高效入门pytorch视频教程](https://www.bilibili.com/video/av78848066?p=1&share_medium=android&share_source=copy_link&bbid=PQ05DmoLags-WjsNcQ1xinfoc&ts=1576063595154)：南开大学王老师强烈推荐的《高效入门pytorch视频教程》（33集完整版），推荐等级：:heart::heart::heart:！
 
 
 
@@ -786,6 +792,7 @@
 [🔙](#table-of-contents)
 
 + [Google Scholar](https://scholar.google.com/)：谷歌学术
++ [acronymify](http://acronymify.com/)：取名网站，只需在上面的框中输入您的单词，然后按search生成可能的缩写词列表。
 + [Paperswithcode](https://paperswithcode.com/)：如其名，收录了大量带有源代码的论文，[Github同名项目](https://github.com/zziz/pwc)，推荐等级：:heart::heart::heart::heart:！
 + [ArXiv Sanity](http://www.arxiv-sanity.com/)：类似Paperswithcode，旨在提升获取研究成果的效率与体验
 + [arXiv Vanity](https://www.arxiv-vanity.com/)arXiv Vanity将来自arXiv的学术论文呈现为响应性网页，这样你就不用眯着眼睛看PDF了
@@ -1007,7 +1014,7 @@
 
 
 <a class="toc" id ="30"></a>
-# Update Time (更新时间) 🕰 ：2019/12/26
+# Update Time (更新时间) 🕰 ：20120/01/03
 [🔙](#table-of-contents)
 
 
