@@ -128,6 +128,11 @@
     + 6.基于实例的解释
     + 7.神经网络解释
     + 8.机器学习与可解释性研究的未来
++ [WechatMomentScreenshot](https://github.com/TransparentLC/WechatMomentScreenshot)：朋友圈转发截图生成工具 已获得微信“绿色网站”认证（滑稽）
+
+
+
+
 
 <a class="toc" id ="5"></a>
 # Blogs (教程博客) 🗨
@@ -333,6 +338,9 @@
 + [微软人工智能教育与学习共建社区](https://github.com/microsoft/ai-edu)：本社区是微软亚洲研究院（Microsoft Research Asia，简称MSRA）人工智能教育团队创立的人工智能教育与学习共建社区。平台开发团队在GitHub上表示，该平台是在教育部指导下，依托于新一代人工智能开放科研教育平台，微软亚洲研究院研发团队和学术合作部将为本社区提供全面支持。
 + [kaggle: Faster Data Science Education](https://www.kaggle.com/learn/overview)：想学Python 、机器学习、数据可视化……你可能会想Coursera上的在线教程，或者吴恩达大名鼎鼎的深度学习视频课，或者一些有名的网上社区，比如fast.ai，Udemy和EdX。但是你可能会因为时间不够就半途而废。Kaggle官网的一系列课程完美地解决了这个问题。只需要几个小时就可以学到最有用的技术。包含课程为：Python，机器学习入门，中极机器学习，数据可视化，Pandas，特征学习，深度学习，SQL入门，SQL进阶，地理空间分析，机器学习可解释性。推荐等级：:heart::heart::heart::heart:！
 + [Python Tips for Data Scientist](https://runawayhorse001.github.io/PythonTipsDS/index.html)：Wenqiang Feng, Xu Gao and Upendra Madam三位数据科学家撰写了一本《给数据科学家的Python技能秘籍》，简明扼要，非常实用，使用与数据科学家相关的详细演示代码和示例来共享一些用于数据科学家工作的有用python技巧，值得放在身旁学习查看！推荐等级：:heart::heart::heart::heart:！
++ [CS512 Spring 2020 "Data Mining: Principles and Algorithms"](https://wiki.illinois.edu//wiki/display/cs512)：UIUC韩家炜老师2020年新课：CS512 数据挖掘：原理与算法课程。本课程内容包括:网络概论、信息网络挖掘、序列与图数据挖掘、先进的聚类方法、离群点分析方法、数据流挖掘、时空数据挖掘、文本数据挖掘、Web数据挖掘等。[个人主页](https://hanj.cs.illinois.edu/)。
+
+
 
 <a class="toc" id ="10"></a>
 # Go Learning (Go 学习) 🇬🇱
@@ -385,6 +393,9 @@
 [GitBook（有锚点功能）](https://seancheney.gitbook.io/python-for-data-analysis-2nd/)，[书籍下载地址](http://www.jianshu.com/p/fad9e41c1a42)，[书籍代码的 GitHub 开源地址](https://github.com/wesm/pydata-book)
 + [Deep Learning With Python](https://www.manning.com/books/deep-learning-with-python?a_aid=keras&a_bid=76564dff)：一本很不错的学习 Python的书籍，书本代码是基于 Keras的，GitHub上已获:star:八千多，[代码地址](https://github.com/fchollet/deep-learning-with-python-notebooks)。
 + [Python Small Examples](https://github.com/jackzhenguo/python-small-examples)：Python小例子、小Demo一网打尽。Python基础、Web开发、数据科学、机器学习、TensorFlow、Pytorch，你能想到的基于Python的小Demo都在这里。[PDF下载](https://github.com/jackzhenguo/python-small-examples/files/3992400/Python.V1.1.pdf)
++ [《Classic Computer Science Problems in Python》](https://www.manning.com/books/classic-computer-science-problems-in-python)：这本书不是对Python的介绍。相反，这本书假设您已经是一名中级或高级的Python程序员。尽管这本书需要Python3.7，但我们并不认为它能够精通最新版本的Python的每一个方面。事实上，这本书的内容是建立在这样一个假设上的：它将作为学习材料，帮助读者达到这样的掌握。另一方面，这本书不适合完全不熟悉Python的读者。
+
+
 
 <a class="toc" id ="12"></a>
 # Python Projects (Python 项目) 👨‍💻
@@ -446,6 +457,7 @@
 + [mmDetection](https://github.com/open-mmlab/mmdetection)：mmDetection 是个非常强大的目标检测工具箱，也是基于PyTorch实现。目前 mmDetection 已获得 7.6k :star:！
 + [Detectron2](https://github.com/facebookresearch/detectron2)：Detectron2 前身就是鼎鼎大名的 Detectron，其实Detectron可以说是Facebook第一代检测工具箱，目前在github上获得 22.5k :star:！
 + [PythonPlantsVsZombies](https://github.com/marblexu/PythonPlantsVsZombies)：用 Python 实现植物大战僵尸代码 
++ [NNI](https://github.com/microsoft/nni)：有了 AutoML，特征工程、神经架构和超参搜索这些炼金基本功再也不用担心了。作为科技巨头，微软也在 AutoML 上开源了自己的 NNI 库，这个库在 GitHub 上非常流行，长期盘踞在每日项目 Trending 榜，GitHub:star:5.7k。根据 GitHub 项目上的介绍，NNI（Neural Network Intelligence）意图帮助用户使用自动机器学习算法、帮助进行算法加速、实现更好的超参数、神经架构和模型压缩，以及进行平台部署。
 
 
 
@@ -479,7 +491,7 @@
 + [数据竞赛Top解决方案开源整理](https://github.com/Smilexuhc/Data-Competition-TopSolution)：涵盖大量数据竞赛的解题方案代码，适合作为学习机器学习的实践代码参考
 + [Librec](https://github.com/guoguibing/librec/tree/3.0.0-beta)：Librec是一个利用Java写的推荐系统库，涵盖了大量推荐系统常用算法
 + [Tencent Ml Images](https://github.com/Tencent/tencent-ml-images)：腾讯开源的超大型多标签图像数据集及模型训练代码
-+ [Deep Learning Models](https://github.com/rasbt/deeplearning-models)：GitHub上:star:8k+的项目，涵盖了大量深度学习模型的TensorFlow和PyTorch实现，同时在代码中还了大量的tips提示，推荐等级：:heart::heart::heart:！
++ [Deep Learning Models](https://github.com/rasbt/deeplearning-models)：GitHub上:star:10.8k+的项目，rasbt在Github上整理了关于深度学习模型TensorFlow和Pytorch代码实现集合，含有100个，各种各样的深度学习架构，模型，和技巧的集合Jupyter Notebooks，从基础的逻辑回归到神经网络到CNN到GNN等，可谓一网打尽，值得收藏！推荐等级：:heart::heart::heart::heart:！
 + [Homemade Machine Learning](https://github.com/trekhleb/homemade-machine-learning)：GitHub上:star:一万二的项目，内容包含大多流行的机器学习算法的Python手工实现，并未使用常见的深度学习框架（TensofFlow等），便于理解算法原理，同时还附有数学原理以及Demo展示，十分适合自学的机器学习，作者博客：[Jack Cui](https://cuijiahua.com/blog/spider/)
 + [USF Data Institute](https://medium.com/usf-msds)：USF大学数据研究所主页，上面有许多关于机器学习的博客文章，有空看看十分涨知识
 + [Deep Learning Book](http://www.deeplearningbook.org/)：深度学习界的大佬Ian Goodfellow 和 Yoshua Bengio所著的深度学习书。[中文版](https://github.com/exacity/deeplearningbook-chinese)GitHub仓库已获:star:两万多，[PDF下载](https://github.com/exacity/deeplearningbook-chinese/releases/download/v0.5-beta/dlbook_cn_v0.5-beta.pdf)。推荐等级：:heart::heart::heart:！
@@ -519,6 +531,7 @@
 + [Machine Learning Notes](https://wei2624.github.io/machine%20learning/Machine-Learning-Notes/)：一份机器学习的笔记，由哥伦比亚大学研究生张威整理。张威同学本科毕业于加拿大滑铁卢大学电子工程系，曾经联合带队参加 2016 年 IEEE 数字信号处理大赛获得前 10 的名次，也曾在微软亚洲研究院副院长郭百宁老师研究组和首席研究员曾文军老师研究组实习。在哥伦比亚大学，张威同学也担任过《Bayesian Model Machine Learning》这门机器学习进阶课程的助教。[课程地址](http://www.cs.columbia.edu/~blei/fogm/2018F/index.html)。推荐等级：:heart::heart:！
 + [Dimensionality Reduction Alo Codes](https://github.com/heucoder/dimensionality_reduction_alo_codes )：网上关于各种降维算法的资料参差不齐，同时大部分不提供源代码。这个 GitHub 项目整理了使用 Python 实现了 11 种经典的数据抽取（数据降维）算法，包括：PCA、LDA、MDS、LLE、TSNE 等，并附有相关资料、展示效果；非常适合机器学习初学者和刚刚入坑数据挖掘的小伙伴。
 + [Edwardlib](http://edwardlib.org/)：Edward是一个用于概率建模、推理和评论的Python库。它是使用概率模型进行快速实验和研究的试验台，范围从小数据集上的经典层次模型到大数据集上的复杂深度概率模型。Edward融合了三个领域:贝叶斯统计和机器学习、深度学习和概率编程。
++ [《Natural Language Processing in Action》](https://www.manning.com/?a_aid=totalgood)：自然语言处理（NLP）系统的开发已建立了通过人脑与人脑之间进行信息流和计算的多种技术。这本新书《Natural Language Processing in Action：Understanding, analyzing, and generating text with Python 》为我们提供了从基础知识到动手构建后端NLP系统的全套学习内容，希望对您开启NLP学习之旅有所帮助。[GitHub代码地址](https://github.com/totalgood/nlpia)。
 
 
 <a class="toc" id ="15"></a>
@@ -585,6 +598,8 @@
 + [《An introduction to machine learning on graphs》](https://conferences.oreilly.com/strata/strata-ny-2019/public/schedule/detail/76557)：《Introduction to graphs and machine learning》（《图机器学习导论》）为我们介绍了图机器学习的动机与发展，包括网络表示学习、图神经网络等图机器学习方法及其在问答、知识图谱等领域的应用。
 + [GraphEmbedding](https://github.com/shenweichen/GraphEmbedding)：GraphEmbedding 算法的实现库。
 + [stellargraph](https://github.com/stellargraph/stellargraph)：使用tf2.x写的图机器学习算法实现库。
++ [《A Gentle Introduction to Deep Learning for Graphs》](https://arxiv.org/abs/1912.12693)：《A Gentle Introduction to Deep Learning for Graphs》是图深度学习领域的教程导论，它倾向于对主流概念和架构的一致和渐进的介绍，而不是对最新文献的阐述。教程在介绍概念和想法时采用了自上而下的方法并保留了清晰的历史观点，为此，导论在第2节中提供了图表示学习的泛化形式，将图表示学习泛化为一种基于局部和迭代的结构化信息处理过程。同时，介绍了架构路线图，整个导论也是围绕该路线图进行开展的。导论聚焦于面向局部和迭代的信息处理过程，因为这些过程与神经网络的体系更为一致。因此，导论会淡化那些基于图谱理论的全局方法（假设有一个固定的邻接矩阵）。
++ [《Deep Graph Similarity Learning: A Survey》](https://arxiv.org/abs/1912.11615)：在许多将数据表示为图形的领域中，学习图形之间的相似性度量标准被认为是一个关键问题，它可以进一步促进各种学习任务，例如分类，聚类和相似性搜索。最近，人们对深度图相似性学习越来越感兴趣，其中的主要思想是学习一种深度学习模型，该模型将输入图映射到目标空间，以使目标空间中的距离近似于输入空间中的结构距离。在这里，本文提供对深度图相似性学习的现有文献的全面回顾。本文为方法和应用提出了系统的分类法。最后，本文讨论该问题的挑战和未来方向。
 
 
 <a class="toc" id ="18"></a>
@@ -661,7 +676,7 @@
 + [TensorFlow Tutorials](https://www.tensorflow.org/tutorials)：TensorFlow 官方文档示例教程，使用2.0实现了一些经典模型，[GitHub仓库](https://github.com/tensorflow/docs/tree/master/site/en/tutorials)。推荐等级：:heart::heart::heart:！
 + [《Hands-on Machine Learning with Scikit-Learn, Keras, and TensorFlow, 2nd Edition》](https://www.redhat.com/cms/managed-files/cm-oreilly-chapter-machine-learning-analyst-paper-f20000-201910-en.pdf)：Scikit-Learn，Keras，Tensorflow是机器学习工具链的重要组成部分。本书的作者，根据上述三个机器学习工具箱，融汇贯通成一个个机器学习实例，让即使对人工智能了解不多的程序员也可以使用简单高效的工具来实现机器学习任务。本书Sklearn,Keras与Tensorflow机器学习实用指南(第二版)涵盖大量上述三个工具和机器学习的相关内容。[书内代码](https://github.com/ageron/handson-ml2)
 + [Tensor2Tensor](https://colab.research.google.com/github/tensorflow/tensor2tensor/blob/master/tensor2tensor/notebooks/hello_t2t.ipynb)：tensor2tensor（t2t）是google基于tensorflow新开源的深度学习库，该库将深度学习所需要的元素（数据集、模型、学习率、超参数等）封装成标准化的统一接口，在使用其做模型训练时可以更加的灵活。GitHub :star: 9.4k。
-
++ [《Deep Learning Pipeline: Building a Deep Learning Model with TensorFlow》](https://www.oreilly.com/library/view/deep-learning-pipeline/9781484253496/)：根据最新的TensorFlow方法而不是过时的工程概念来构建自己的Pipeline。这本书向你展示了如何为真实的TensorFlow项目建立一个深度学习Pipeline。
 
 
 <a class="toc" id ="21"></a>
@@ -771,8 +786,10 @@
 + [G6](https://github.com/antvis/G6/)：G6 是一个图可视化引擎。它提供了图的绘制、布局、分析、交互、动画等图可视化的基础能力。旨在让关系变得透明，简单。让用户获得关系数据的 Insight。基于 G6，用户可以快速搭建自己的 图分析 或 图编辑 应用。
 + [CoreDraw](https://www.coreldraw.com/)：CorelDRAW Graphics Suite是加拿大Corel公司的平面设计软件；该软件是Corel公司出品的矢量图形制作工具软件，这个图形工具给设计师提供了矢量动画、页面设计、网站制作、位图编辑和网页动画等多种功能。
 + [Origin](https://www.originlab.com/)：Origin是由OriginLab公司开发的一个科学绘图、数据分析软件，支持在Microsoft Windows下运行。Origin支持各种各样的2D/3D图形。Origin中的数据分析功能包括统计，信号处理，曲线拟合以及峰值分析。Origin中的曲线拟合是采用基于Levernberg-Marquardt算法（LMA）的非线性最小二乘法拟合。Origin强大的数据导入功能，支持多种格式的数据，包括ASCII、Excel、NI TDM、DIADem、NetCDF、SPC等等。图形输出格式多样，例如JPEG，GIF，EPS，TIFF等。内置的查询工具可通过ADO访问数据库数据。
-+ [visdom](https://github.com/facebookresearch/visdom)：visdom是一款用于创建、组织和共享实时大量训练数据可视化的灵活工具。相较于TensorFlow的可视化工具TensorBoard，visdom则是对应于PyTorch的可视化工具。
-
++ [visdom](https://github.com/facebookresearch/visdom)：visdom是一款用于创建、组织和共享实时大量训练数据可视化的灵活工具。相较于TensorFlow的可视化工具TensorBoard，visdom 则是对应于PyTorch的可视化工具。
++ [Gource](https://gource.io/)： Gource 将软件项目以动画树的形式展现，根目录为中心，目录为分支，文件为叶子，当一颗 “树” 华丽丽地舒展开，减去旧枝、添加新叶，也就意味着，开发人员为这一软件项目做出的贡献越来越丰富。
+并且，这棵 “树” 不仅能展示软件版本的更迭，还可以显示有多少开发者参与其中。
++ [Logstalgia](https://logstalgia.io/)：Logstalgia是一个流量可视化网站，它可以回放或流媒体web服务器访问日志
 
 
 <a class="toc" id ="24"></a>
