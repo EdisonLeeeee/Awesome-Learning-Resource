@@ -5,32 +5,33 @@
 + [GitHub 👬](#3)
 + [Algorithm (算法) 💡](#4)
 + [Blogs (教程博客) 🗨](#5)
-+ [Math (数学) 📐](#6)
-+ [Learning Websites (学习网站) 💻](#7)
-+ [Learn by Game 👾](#8)
-+ [Courses and Learning Resources (课程与学习资源 )‍ 🎓](#9)
-+ [Go Learning (Go 学习) 🇬🇱](#10)
-+ [Python Learning (Python 学习) 🐍](#11)
-+ [Python Projects (Python 项目) 👨‍💻](#12)
-+ [Python Crawler (Python 爬虫) 🕷](#13)
-+ [Jupyter 📔](#14)
-+ [Machine Learning (机器学习) 🤖](#15)
-+ [Computer Vision (计算机视觉) 👁](#16)
-+ [Reinforcement Learning (强化学习) 💪](#17)
-+ [Graph Learning (图学习) 🗺](#18)
-+ [Generative Adversarial Networks (GANs) 🤜 🤛](#19)
-+ [Adversarial Attack and Defense ⚔](#20)
-+ [TensorFlow Learning (TensorFlow 学习) 🇹🇫](#21)
-+ [Keras Learning (Keras 学习) 🇰🇷](#22)
-+ [PyTorch Learning (PyTorch 学习) 🇵🇹](#23)
-+ [Visualization (可视化) 👀](#24)
-+ [English Learning (英语学习) 🗣](#25)
-+ [Paper (论文相关) 📄](#26)
-+ [Download (下载) 📥](#27)
-+ [Interview (工作面试) 💼](#28)
-+ [Dataset (数据集)  📊](#29)
-+ [Others (其它) ❓](#30)
-+ [Update Time (更新时间) 🕰 ：20120/01/09](#31)
++ [CheatSheets 📑](#6)
++ [Math (数学) 📐](#7)
++ [Learning Websites (学习网站) 💻](#8)
++ [Learn by Game 👾](#9)
++ [Courses and Learning Resources (课程与学习资源 )‍ 🎓](#10)
++ [Go Learning (Go 学习) 🇬🇱](#11)
++ [Python Learning (Python 学习) 🐍](#12)
++ [Python Projects (Python 项目) 👨‍💻](#13)
++ [Python Crawler (Python 爬虫) 🕷](#14)
++ [Jupyter 📔](#15)
++ [Machine Learning (机器学习) 🤖](#16)
++ [Computer Vision (计算机视觉) 👁](#17)
++ [Reinforcement Learning (强化学习) 💪](#18)
++ [Graph Learning (图学习) 🗺](#19)
++ [Generative Adversarial Networks (GANs) 🤜 🤛](#20)
++ [Adversarial Attack and Defense ⚔](#21)
++ [TensorFlow Learning (TensorFlow 学习) 🇹🇫](#22)
++ [Keras Learning (Keras 学习) 🇰🇷](#23)
++ [PyTorch Learning (PyTorch 学习) 🇵🇹](#24)
++ [Visualization (可视化) 👀](#25)
++ [English Learning (英语学习) 🗣](#26)
++ [Paper (论文相关) 📝](#27)
++ [Download (下载) 📥](#28)
++ [Interview (工作面试) 💼](#29)
++ [Dataset (数据集)  📊](#30)
++ [Others (其它) ❓](#31)
++ [Update Time (更新时间) 🕰 ：20120/01/09](#32)
 
 
 # Preface (前言)
@@ -55,7 +56,6 @@
 + [gitignore](https://github.com/github/gitignore)：GitHub 官方开源的一个项目，这个项目为开发者编写好特定的 `.gitignore` 规则，做成了模板。开发者只需选择好自己的项目类别，将文件内容复制粘贴放到自己项目里面就可以用了,在上面，你可以找到目前所有主流语言的 .gitignore 模板。[在线生成网站](http://gitignore.io/)
 + [Readme Md Generator](https://github.com/kefranabg/readme-md-generator)：一名来自法国的小哥因为饱受重复编写 README 文档的折磨，在 GitHub 上开源了 readme-md-generator 这个工具。从项目名字便可以知道，它一个 README 文档生成器。其主要作用是通过命令行抓取项目的 package.json 和 git 配置信息，自动完成 README 文档的编写操作，Github上已获:star:5k+
 + [Repository Templates](https://github.blog/2019-06-06-generate-new-repositories-with-repository-templates/)：为了避免开发者做一些无用的重复性工作，GitHub 发布的一个新功能 - 模板仓库（repository templates）。这个功能可以将以往创建过的仓库标记成模板（template），这样在你下一次创建仓库的时候，就可以使用这个模板功能，快速生成具有和原仓库一样的目录与文件内容，每个模板仓库在 URL 末端带上 /generate 后，还可以将模板仓库通过链接分享给其他人，其它人在打开链接之后，便可以快速通过这个模板来创建新仓库
-+ [Git 基本操作](https://www.processon.com/view/5d43d213e4b0e42f2a2ba9b9?fromnew=1#map)：一张 Git 基本操作的速查表（脑图）
 + [《Beginning Git and GitHub》](https://www.apress.com/gp/book/9781484253120)：Git与Github学习使用指南（Beginning Git and GitHub），[GitHub](https://github.com/Apress/beginning-git-and-github)。
 
 
@@ -134,8 +134,6 @@
 
 
 
-
-
 <a class="toc" id ="5"></a>
 # Blogs (教程博客) 🗨
 [🔙](#table-of-contents)
@@ -171,7 +169,21 @@
 + [Go2-book](https://github.com/chai2010/go2-book)：《Go2编程指南》开源图书，重点讲解Go2新特性，以及Go1教程中较少涉及的特性
 + [知乎：Flask 10天开发一个网站](https://zhuanlan.zhihu.com/p/33038507)：一个Flask写网站的教程
 
+
 <a class="toc" id ="6"></a>
+# CheatSheets 📑
+[🔙](#table-of-contents)
++ [Data Science Cheat Sheet](https://github.com/abhat222/Data-Science--Cheat-Sheet)：数据科学速查表，GitHub:star:8k+。内容几乎涵盖数据科学相关的所有领域，在理论应用方面包括大数据分析、数据挖掘、数据可视化、深度学习，机器学习等等；在编程语言与工具方面，包括Excel、SQL、Python、MATLAB、Linux；基础的学科知识包含统计学、数学、概率论。另外，就连面试问题都没放过
++ [Git 基本操作](https://www.processon.com/view/5d43d213e4b0e42f2a2ba9b9?fromnew=1#map)：一张 Git 基本操作的速查表（脑图）
++ [Python Data Science Cheatsheet](https://github.com/jaystone776/python-data-science-cheatsheet)：Python 数据科学速查表中文版，[英文原版](https://www.datacamp.com/community/data-science-cheatsheets)。
++ [Data Science Cheat Sheet](https://github.com/abhat222/Data-Science--Cheat-Sheet)：数据科学速查表，GitHub:star:8k+。内容几乎涵盖数据科学相关的所有领域，在理论应用方面包括大数据分析、数据挖掘、数据可视化、深度学习，机器学习等等；在编程语言与工具方面，包括Excel、SQL、Python、MATLAB、Linux；基础的学科知识包含统计学、数学、概率论。另外，就连面试问题都没放过
++ [Python 3 Cheat Sheet (PDF)](https://perso.limsi.fr/pointal/_media/python:cours:mementopython3-english.pdf)：Python 3 Cheat Sheet 由法国国家科学研究中心（CNRS）的法国机械工程与信息技术实验室（LIMSI）的工程师 Laurent Pointal 总结。Python 3 Cheat Sheet 一共包含两页，分成了多个框图，涉及基本的 Python 数据结构、数学运算、条件和循环语句、文件读写，以及异常值处理等
++ [Python Cheatsheet](https://github.com/gto76/python-cheatsheet): 全面的Python备忘单，内含超全代码示例。基于Python 3.6打造，未来将会进一步丰富，添加Asyncio等内容。GitHub上获:star:4.6k。[文本下载链接](https://raw.githubusercontent.com/gto76/python-cheatsheet/master/README.md)
++ [DS Cheatsheets](https://github.com/FavioVazquez/ds-cheatsheets)：GitHub上:star:5k+的项目，一份数据科学备忘单
+
+
+
+<a class="toc" id ="7"></a>
 # Math (数学) 📐
 [🔙](#table-of-contents)
 
@@ -191,7 +203,7 @@
 
 
 
-<a class="toc" id ="7"></a>
+<a class="toc" id ="8"></a>
 # Learning Websites (学习网站) 💻
 [🔙](#table-of-contents)
 
@@ -228,7 +240,7 @@
 
 
 
-<a class="toc" id ="8"></a>
+<a class="toc" id ="9"></a>
 # Learn by Game 👾
 [🔙](#table-of-contents)
 
@@ -276,7 +288,7 @@
 + [Lightbot](https://lightbot.com/)：Lightbot是一款移动端游戏，玩家通过控制机器人的移动在固定位置点亮灯泡。[在线地址](http://lightbot.com/flash.html)
 + [Box Island](https://boxisland.io/)：Box Island 是一款经典且屡获殊荣的移动端编程冒险游戏，这款游戏在为孩子们带来令人兴奋的冒险体验的同时， 向他们介绍编程的基础知识。 
 
-<a class="toc" id ="9"></a>
+<a class="toc" id ="10"></a>
 # Courses and Learning Resources (课程与学习资源 )‍ 🎓
 [🔙](#table-of-contents)
 
@@ -377,7 +389,7 @@
 
 
 
-<a class="toc" id ="10"></a>
+<a class="toc" id ="11"></a>
 # Go Learning (Go 学习) 🇬🇱
 [🔙](#table-of-contents)
 
@@ -397,7 +409,7 @@
 
 
 
-<a class="toc" id ="11"></a>
+<a class="toc" id ="12"></a>
 # Python Learning (Python 学习) 🐍
 [🔙](#table-of-contents)
 
@@ -410,7 +422,6 @@
 + [Python最佳实践指南](https://pythonguidecn.readthedocs.io/zh/latest/)：Python漫游指南（中文版）
 + [Dive Into Python 3](http://diveintopython3.problemsolving.io/)：深入 Python3（英文版），网上大多人推荐的Python学习书
 + [深入 Python3](http://www.ttlsa.com/docs/dive-into-python3/)：深入 Python3（中文版）
-+ [Python 3 Cheat Sheet (PDF)](https://perso.limsi.fr/pointal/_media/python:cours:mementopython3-english.pdf)：Python 3 Cheat Sheet 由法国国家科学研究中心（CNRS）的法国机械工程与信息技术实验室（LIMSI）的工程师 Laurent Pointal 总结。Python 3 Cheat Sheet 一共包含两页，分成了多个框图，涉及基本的 Python 数据结构、数学运算、条件和循环语句、文件读写，以及异常值处理等
 + [Learn Python](https://github.com/xianhu/LearnPython)：GitHub上一个:star:3k+的中文项目，以撸代码的形式学习Python，以Python代码加上注释作为教程，内容十分详细
 + [Python-100-Days](https://github.com/jackfrued/Python-100-Days)：GitHub上一个:star:40k+的中文项目，带你100天从新手到大师
 + [Learn Python Programming](https://www.programiz.com/python-programming)：[Programiz](https://www.programiz.com/)的 Python 教程
@@ -419,7 +430,6 @@
 + [Pandas 教程](https://github.com/hangsz/pandas-tutorial)：GitHub上一个:star:七百多的Pandas私人中文教程，适合初级到中级晋升者
 + [知乎：哪些Python库让你相见恨晚？](https://www.zhihu.com/question/24590883)：知乎上的一个问题，下面许多大佬介绍了各种各样的Python库，一方面方便Python的使用，另一方面通过这些库可以更好地学习Python
 + [Practical Business Python](https://pbpython.com/)：该网站旨在收集和传播关于如何在业务环境中更有效地使用python的想法，包括不少文章教程和代码。[GitHub地址](https://github.com/chris1610/pbpython)
-+ [Python Cheatsheet](https://github.com/gto76/python-cheatsheet): 全面的Python备忘单，内含超全代码示例。基于Python 3.6打造，未来将会进一步丰富，添加Asyncio等内容。GitHub上获:star:4.6k。[文本下载链接](https://raw.githubusercontent.com/gto76/python-cheatsheet/master/README.md)
 + [Develop with Python on Windows](https://docs.microsoft.com/zh-cn/windows/python/)：在 Windows 上做 Python 开发太痛苦？微软最近发布了一系列官方教程，这些教程将指导使用者如何设置开发环境、是否在原生 Windows 或 Windows Subsystem for Linux (WSL) 系统上安装自己的工具，以及如何集成 VS Code、Git 等工具
 + [Awesome Python cn](https://github.com/jobbole/awesome-python-cn)：Python资源大全中文版，包括：Web框架、网络爬虫、模板引擎、数据库、数据可视化、图片处理等，由伯乐在线持续更新。GitHub:star:15k，推荐等级：:heart::heart::heart:！
 + [30-seconds-of-python](https://github.com/30-seconds/30-seconds-of-python)：一组有用的Python代码片段，可以在30秒或更少的时间内理解它们。
@@ -438,7 +448,7 @@
 + [Awesome Python in Education ](https://github.com/quobit/awesome-python-in-education#jupyter)：关于Python的学习资源列表。
 
 
-<a class="toc" id ="12"></a>
+<a class="toc" id ="13"></a>
 # Python Projects (Python 项目) 👨‍💻
 [🔙](#table-of-contents)
 
@@ -502,7 +512,7 @@
 + [Mario-Level-1](https://github.com/justinmeister/Mario-Level-1)：Python 和 Pygame写的超级马里奥第一关，GitHub:star:1.7k。
 + [PopMusicMaker](https://github.com/haebichan/PopMusicMaker)：利用隐马尔科夫模型（HMM）和随机森林结构建立的流行音乐制作器。[相关博客](https://towardsdatascience.com/making-music-when-simple-probabilities-outperform-deep-learning-75f4ee1b8e69)。
 
-<a class="toc" id ="13"></a>
+<a class="toc" id ="14"></a>
 # Python Crawler (Python 爬虫) 🕷
 [🔙](#table-of-contents)
 
@@ -521,7 +531,7 @@
 + [AutoCrawler](https://github.com/YoongiKim/AutoCrawler)：Google，Naver 多进程图像抓取工具（高品质，高速度和可自定义）。
 + [Scrapy Cookbook](https://scrapy-cookbook.readthedocs.io/zh_CN/latest/)：Scrapy中文文档
 
-<a class="toc" id ="14"></a>
+<a class="toc" id ="15"></a>
 # Jupyter 📔
 [🔙](#table-of-contents)
 
@@ -538,7 +548,7 @@
 + [Jupytext](https://github.com/mwouts/jupytext)：Jupytext，顾名思义，能够把 Jupyter Notebook 的内容转化成纯文本，用你最顺手的 IDE 打开。Jupytext 现在支持的语言还不能覆盖 Jupyter Notebook 的全部，但搞定了最流行的几种。它支持 Jupyter Notebook 和下面这些格式之间的相互转换：Julia 脚本（.jl）、Python 脚本（.py）、R 脚本（.R）、Markdown 文件（.md）、R Markdown 文件（.Rmd）。Jupytext 作者 Marc Wouts 在博客 [Jupytext 1.0 highlights](https://towardsdatascience.com/jupytext-1-0-highlights-a49dca9baa7b) 展示了怎样借助这个工具在 IDE 或者编辑器里来编辑 Jupyter Notebook、进行版本控制。
 + [Marc Wouts](https://medium.com/@marc.wouts)：Jupyter 作者 Marc Wouts 的 Medium 博客主页。
 
-<a class="toc" id ="15"></a>
+<a class="toc" id ="16"></a>
 # Machine Learning (机器学习) 🤖
 [🔙](#table-of-contents)
 
@@ -552,9 +562,6 @@
 + [USF Data Institute](https://medium.com/usf-msds)：USF大学数据研究所主页，上面有许多关于机器学习的博客文章，有空看看十分涨知识
 + [Deep Learning Book](http://www.deeplearningbook.org/)：深度学习界的大佬Ian Goodfellow 和 Yoshua Bengio所著的深度学习书。[中文版](https://github.com/exacity/deeplearningbook-chinese)GitHub仓库已获20k+，[PDF下载](https://github.com/exacity/deeplearningbook-chinese/releases/download/v0.5-beta/dlbook_cn_v0.5-beta.pdf)。推荐等级：:heart::heart::heart:！
 + [Baidu AI Studio](https://aistudio.baidu.com/aistudio/index)：百度的 AI 工作室，里面有各种机器学习数据集、文章、项目，可用作机器学习实践教程
-+ [DS Cheatsheets](https://github.com/FavioVazquez/ds-cheatsheets)：GitHub上:star:5k+的项目，一份数据科学备忘单
-+ [Data Science Cheat Sheet](https://github.com/abhat222/Data-Science--Cheat-Sheet)：数据科学速查表，GitHub:star:8k+。内容几乎涵盖数据科学相关的所有领域，在理论应用方面包括大数据分析、数据挖掘、数据可视化、深度学习，机器学习等等；在编程语言与工具方面，包括Excel、SQL、Python、MATLAB、Linux；基础的学科知识包含统计学、数学、概率论。另外，就连面试问题都没放过
-+ [Python Data Science Cheatsheet](https://github.com/jaystone776/python-data-science-cheatsheet)：Python 数据科学速查表中文版，[英文原版](https://www.datacamp.com/community/data-science-cheatsheets)。
 + [NLP Tutorial](https://github.com/graykode/nlp-tutorial)：一个很赞NLP入门代码练习库（含Pytorch和TensorFlow版本） 
 + [10 Minutes to pandas](https://pandas.pydata.org/pandas-docs/stable/getting_started/10min.html)：官方文档，十分钟上手 pandas 教程
 + [Numpy developer guide](https://docs.scipy.org/doc/numpy/dev/)：官方学习文档，Numpy 上手指南
@@ -593,7 +600,7 @@
 + [PC-DARTS](https://arxiv.org/abs/1907.05737)：在此论文中，来自上海交通大学和华为诺亚方舟实验室的研究人员提出了一种基于部分通道采样的内存高效的可微网络结构搜索方法方法，能够显著提升可微式搜索的速度和性能。该方法在 CIFAR10 数据集上，只需要 0.1 个 GPU 天（单卡 1.5 小时）就可以完成一次搜索过程，并且达到 2.57% 的测试错误率；即使在 ImageNet 数据集上直接搜索，该方法也只需要 3.8 个 GPU 天（8 卡 11.5 小时），并且在 ImageNet 的移动设定（600M 运算）中达到 24.2%/7.3% 的 top-1/top-5 测试错误率。难得的是，该方法展示出了在不同参数设定下的搜索稳定性，能够很容易地应用于不同的实际场景。[GitHub地址](https://github.com/yuhuixu1993/PC-DARTS)
 + []()：
 
-<a class="toc" id ="16"></a>
+<a class="toc" id ="17"></a>
 # Computer Vision (计算机视觉) 👁
 [🔙](#table-of-contents)
 
@@ -603,7 +610,7 @@
 + [ImageProcessing100Wen](https://github.com/gzr2017/ImageProcessing100Wen)：图像处理入门 100 题，主要针对图像处理的一些基本操作，非常适合入门！该项目最大的特色就是 100 题循序渐进，基本涵盖了 OpenCV 的关键知识点。如果你正在入门 CV，正在学习 OpenCV，那么这个项目将会是一个不错的从入门到进阶的教程。
 
 
-<a class="toc" id ="17"></a>
+<a class="toc" id ="18"></a>
 # Reinforcement Learning (强化学习) 💪
 [🔙](#table-of-contents)
 
@@ -631,7 +638,7 @@
 
 
 
-<a class="toc" id ="18"></a>
+<a class="toc" id ="19"></a>
 # Graph Learning (图学习) 🗺
 [🔙](#table-of-contents)
 
@@ -661,7 +668,7 @@
 + [《Deep Graph Similarity Learning: A Survey》](https://arxiv.org/abs/1912.11615)：在许多将数据表示为图形的领域中，学习图形之间的相似性度量标准被认为是一个关键问题，它可以进一步促进各种学习任务，例如分类，聚类和相似性搜索。最近，人们对深度图相似性学习越来越感兴趣，其中的主要思想是学习一种深度学习模型，该模型将输入图映射到目标空间，以使目标空间中的距离近似于输入空间中的结构距离。在这里，本文提供对深度图相似性学习的现有文献的全面回顾。本文为方法和应用提出了系统的分类法。最后，本文讨论该问题的挑战和未来方向。
 
 
-<a class="toc" id ="19"></a>
+<a class="toc" id ="20"></a>
 # Generative Adversarial Networks (GANs) 🤜 🤛
 [🔙](#table-of-contents)
 
@@ -676,7 +683,7 @@
 + [DiscoGAN-pytorch](https://github.com/carpedm20/DiscoGAN-pytorch)："Learning to Discover Cross-Domain Relations with Generative Adversarial Networks" PyTorch实现
 
 
-<a class="toc" id ="20"></a>
+<a class="toc" id ="21"></a>
 # Adversarial Attack and Defense ⚔
 [🔙](#table-of-contents)
 
@@ -688,7 +695,7 @@
 + [One Pixel Attack Keras](https://github.com/Hyperparticle/one-pixel-attack-keras)："One pixel attack for fooling deep neural networks"  的Keras实现
 + [Adversarial Robustness Toolbox](https://github.com/IBM/adversarial-robustness-toolbox)：IBM研发的关于对抗攻防机器学习的库，GitHub:star:1.2k。
 
-<a class="toc" id ="21"></a>
+<a class="toc" id ="22"></a>
 # TensorFlow Learning (TensorFlow 学习) 🇹🇫
 [🔙](#table-of-contents)
 
@@ -738,7 +745,7 @@
 + [《Deep Learning Pipeline: Building a Deep Learning Model with TensorFlow》](https://www.oreilly.com/library/view/deep-learning-pipeline/9781484253496/)：根据最新的TensorFlow方法而不是过时的工程概念来构建自己的Pipeline。这本书向你展示了如何为真实的TensorFlow项目建立一个深度学习Pipeline。
 + [《Accelerating training, inference, and ML applications on NVIDIA GPUs》](https://conferences.oreilly.com/tensorflow/tf-ca-2019/public/schedule/detail/79348)：Maggie Zhang，Nathan Luehr，Josh Romero，Pooya Davoodi和Davide Onofrio深入研究了用于加速深度学习训练和推理的通用深度学习和机器学习工作负载的技术。 通过本教程将了解DALI如何消除现实应用中的I/O和数据处理瓶颈，以及自动混合精度（AMP）如何轻松地在Volta GPU上的训练性能提高3倍。 您将看到使用Horovod进行多GPU和多节点扩展的最佳实践。 他们使用深度学习探查器来可视化TensorFlow操作并确定优化机会。 本教程将教读者学习使用TensorRT（TRT）中的INT8量化来部署这些训练过的模型，所有这些都将在TensorFlow框架的新型便捷API中进行。
 
-<a class="toc" id ="22"></a>
+<a class="toc" id ="23"></a>
 # Keras Learning (Keras 学习) 🇰🇷
 [🔙](#table-of-contents)
 + [Keras](https://keras.io/)：Keras官方手册，非常详细的官方文档，文档中详细的介绍了从Keras每个知识点的用法，一步步带你从入门到精通。
@@ -777,7 +784,7 @@
 
 
 
-<a class="toc" id ="23"></a>
+<a class="toc" id ="24"></a>
 # PyTorch Learning (PyTorch 学习) 🇵🇹
 [🔙](#table-of-contents)
 
@@ -807,7 +814,7 @@
 
 
 
-<a class="toc" id ="24"></a>
+<a class="toc" id ="25"></a>
 # Visualization (可视化) 👀
 [🔙](#table-of-contents)
 
@@ -852,7 +859,7 @@
 + [《D3 Tips and Tricks》](https://leanpub.com/D3-Tips-and-Tricks)：D3 Tips and Tricks介绍了如何利用d3.js这一工具，实现数据可视化。其中包含50多个可以下载的代码示例。
 
 
-<a class="toc" id ="25"></a>
+<a class="toc" id ="26"></a>
 # English Learning (英语学习) 🗣
 [🔙](#table-of-contents)
 
@@ -864,8 +871,8 @@
 
 
 
-<a class="toc" id ="26"></a>
-# Paper (论文相关) 📄
+<a class="toc" id ="27"></a>
+# Paper (论文相关) 📝
 [🔙](#table-of-contents)
 
 + [Google Scholar](https://scholar.google.com/)：谷歌学术
@@ -900,7 +907,7 @@
 
 
 
-<a class="toc" id ="27"></a>
+<a class="toc" id ="28"></a>
 # Download (下载) 📥
 [🔙](#table-of-contents)
 
@@ -921,7 +928,7 @@
 + [奶牛快传](https://cowtransfer.com/)：奶牛快传创建于2016年，是一款专注于即用即走的在线大文件传输服务，也是目前本土化做的最好的，无论是界面还是操作上都十分地通俗易懂。在上传速度方面，据奶牛快传称，无论是上传还是下载，都没有速度限制，完全依托于用户本地网络的带宽。
 
 
-<a class="toc" id ="28"></a>
+<a class="toc" id ="29"></a>
 # Interview (工作面试) 💼
 [🔙](#table-of-contents)
 
@@ -929,7 +936,6 @@
 + [Python Interview Question](https://github.com/kenwoodjw/python_interview_question)：GitHub上一个:star:3k左右的中文项目，介绍了各种Python相关面试题，可以作为一个Python学习教程
 + [Interview Code Practice Python](https://github.com/leeguandong/Interview-code-practice-python)：GitHub上的一个项目，用 Python 实现的各类面试题
 + [Algorithm Interview Notes Chinese](https://github.com/imhuay/Algorithm_Interview_Notes-Chinese)：2018/2019/校招/春招/秋招/算法/机器学习(Machine Learning)/深度学习(Deep Learning)/自然语言处理(NLP)/C/C++/Python/面试笔记 ，GitHub 上 :star:24k
-+ [Data Science Cheat Sheet](https://github.com/abhat222/Data-Science--Cheat-Sheet)：数据科学速查表，GitHub:star:8k+。内容几乎涵盖数据科学相关的所有领域，在理论应用方面包括大数据分析、数据挖掘、数据可视化、深度学习，机器学习等等；在编程语言与工具方面，包括Excel、SQL、Python、MATLAB、Linux；基础的学科知识包含统计学、数学、概率论。另外，就连面试问题都没放过
 + [Coding Interview University](https://github.com/jwasham/coding-interview-university)：GitHub:star:80k的项目，原名「Google 面试大学」。这份指南里面包含 Google 相关的介绍视频、面试过程、教学资源，同时也有数据结构、算法、密码学等计算机专业的知识讲解。[中文版指南链接](https://github.com/jwasham/coding-interview-university/blob/master/translations/README-cn.md)，推荐等级：:heart::heart::heart:！
 + [CS-Notes](https://github.com/CyC2018/CS-Notes)：GitHub上:star:70k，Tech Interview Guide 技术面试必备基础知识、Leetcode 题解、Java、C++、Python、后端面试、操作系统、计算机网络、系统设计。[在线阅读链接](https://cyc2018.github.io/CS-Notes)
 + [Hacking a Google Interview](http://courses.csail.mit.edu/iap/interview/index.php)：谷歌面试编程题及解题技巧（MIT版），重点介绍科技公司在面试时经常出现的计算机科学问题，其中包括时间复杂度、哈希表、二进制树搜索，以及 MIT「算法设计与分析」（MIT 6.046）课程中会出现的内容。但是，大部分时间都会专注于你不会在课堂上学到的内容，例如刁钻的按位逻辑和解决问题的技巧。
@@ -954,7 +960,7 @@
 + [955.WLB](https://github.com/formulahendry/955.WLB)：与 996.ICU 相呼应，955 公司白名单。旨在让更多的人逃离 996，加入 955 的行列。GitHub 获:star:20k。
 
 
-<a class="toc" id ="29"></a>
+<a class="toc" id ="30"></a>
 # Dataset (数据集)  📊
 [🔙](#table-of-contents)
 
@@ -1044,12 +1050,12 @@
 + [WPI 数据集](http://computing.wpi.edu/dataset.html)：交通灯、行人和车道检测的数据集。
 + [The Best Public Datasets for Machine Learning and Data Science](https://medium.com/towards-artificial-intelligence/the-50-best-public-datasets-for-machine-learning-d80e9f030279)：上述的大部分资料都来自于该网址，经过数小时的网络搜集，作者为高质量和多样化的机器学习数据集创建了一个伟大的备忘单。
 + [开源数据集（机器之心整理）](https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2650748057&idx=2&sn=edff081f094b9f410d26e2ad8ebefa02&chksm=871af0e7b06d79f146a47ed084b9af92a09234c7d9b908e38eaf63b1da3ce0162083d0b4b5f7&mpshare=1&scene=24&srcid=0905I7FwP0u7usXkSPJtmw8B#rd)：skymind.ai 发布的一份非常全面的开源数据集。内容包括生物识别、自然图像以及深度学习图像等数据集，经机器之心整理。
++ [Awesome-Cybersecurity-Datasets](https://github.com/shramos/Awesome-Cybersecurity-Datasets#network-traffic)：网络安全数据集列表大全。
 
 
 
 
-
-<a class="toc" id ="30"></a>
+<a class="toc" id ="31"></a>
 # Others (其它) ❓
 [🔙](#table-of-contents)
 
@@ -1092,9 +1098,9 @@
 + [CodeZen](http://codezen.rishimohan.me/)：CodeZen 是一个非常简约的代码转图像工具，就像操作文本编辑器一样简单，能快速将你的源代码导出为具有语法风格的图像。
 + [Marmoset](http://t.cn/AiT9X7mV)：Marmoset 是一款 Chrome 应用程序，可以让你以透视的方式截取你的代码截图。
 + [DownGit](https://minhaskamal.github.io/DownGit/#/home)：Git文件下载工具，只需输入连接即可下载GitHub上的文件
++ [Material Design](https://github.com/Templarian/MaterialDesign)：图标设计大全，GitHub:star:7.1k。
 
-
-<a class="toc" id ="31"></a>
+<a class="toc" id ="32"></a>
 # Update Time (更新时间) 🕰 ：20120/01/09
 [🔙](#table-of-contents)
 
