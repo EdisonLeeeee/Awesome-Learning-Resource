@@ -554,6 +554,7 @@
 + [Baidu AI Studio](https://aistudio.baidu.com/aistudio/index)：百度的 AI 工作室，里面有各种机器学习数据集、文章、项目，可用作机器学习实践教程
 + [DS Cheatsheets](https://github.com/FavioVazquez/ds-cheatsheets)：GitHub上:star:5k+的项目，一份数据科学备忘单
 + [Data Science Cheat Sheet](https://github.com/abhat222/Data-Science--Cheat-Sheet)：数据科学速查表，GitHub:star:8k+。内容几乎涵盖数据科学相关的所有领域，在理论应用方面包括大数据分析、数据挖掘、数据可视化、深度学习，机器学习等等；在编程语言与工具方面，包括Excel、SQL、Python、MATLAB、Linux；基础的学科知识包含统计学、数学、概率论。另外，就连面试问题都没放过
++ [Python Data Science Cheatsheet](https://github.com/jaystone776/python-data-science-cheatsheet)：Python 数据科学速查表中文版，[英文原版](https://www.datacamp.com/community/data-science-cheatsheets)。
 + [NLP Tutorial](https://github.com/graykode/nlp-tutorial)：一个很赞NLP入门代码练习库（含Pytorch和TensorFlow版本） 
 + [10 Minutes to pandas](https://pandas.pydata.org/pandas-docs/stable/getting_started/10min.html)：官方文档，十分钟上手 pandas 教程
 + [Numpy developer guide](https://docs.scipy.org/doc/numpy/dev/)：官方学习文档，Numpy 上手指南
@@ -590,7 +591,7 @@
 + [《Natural Language Processing in Action》](https://www.manning.com/?a_aid=totalgood)：自然语言处理（NLP）系统的开发已建立了通过人脑与人脑之间进行信息流和计算的多种技术。这本新书《Natural Language Processing in Action：Understanding, analyzing, and generating text with Python 》为我们提供了从基础知识到动手构建后端NLP系统的全套学习内容，希望对您开启NLP学习之旅有所帮助。[GitHub代码地址](https://github.com/totalgood/nlpia)。
 + [OCR-IdentificationIDElement](https://github.com/Mingtzge/2019-CCF-BDCI-OCR-MCZJ-OCR-IdentificationIDElement)：2019CCF-BDCI大赛 最佳创新探索奖获得者 基于OCR身份证要素提取赛题冠军 天晨破晓团队 赛题源码
 + [PC-DARTS](https://arxiv.org/abs/1907.05737)：在此论文中，来自上海交通大学和华为诺亚方舟实验室的研究人员提出了一种基于部分通道采样的内存高效的可微网络结构搜索方法方法，能够显著提升可微式搜索的速度和性能。该方法在 CIFAR10 数据集上，只需要 0.1 个 GPU 天（单卡 1.5 小时）就可以完成一次搜索过程，并且达到 2.57% 的测试错误率；即使在 ImageNet 数据集上直接搜索，该方法也只需要 3.8 个 GPU 天（8 卡 11.5 小时），并且在 ImageNet 的移动设定（600M 运算）中达到 24.2%/7.3% 的 top-1/top-5 测试错误率。难得的是，该方法展示出了在不同参数设定下的搜索稳定性，能够很容易地应用于不同的实际场景。[GitHub地址](https://github.com/yuhuixu1993/PC-DARTS)
-
++ []()：
 
 <a class="toc" id ="16"></a>
 # Computer Vision (计算机视觉) 👁
