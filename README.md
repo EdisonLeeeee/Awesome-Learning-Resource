@@ -547,6 +547,9 @@
 + [Jupyterlab](https://github.com/jupyterlab/jupyterlab)：Jupyterlab 官方仓库
 + [Jupytext](https://github.com/mwouts/jupytext)：Jupytext，顾名思义，能够把 Jupyter Notebook 的内容转化成纯文本，用你最顺手的 IDE 打开。Jupytext 现在支持的语言还不能覆盖 Jupyter Notebook 的全部，但搞定了最流行的几种。它支持 Jupyter Notebook 和下面这些格式之间的相互转换：Julia 脚本（.jl）、Python 脚本（.py）、R 脚本（.R）、Markdown 文件（.md）、R Markdown 文件（.Rmd）。Jupytext 作者 Marc Wouts 在博客 [Jupytext 1.0 highlights](https://towardsdatascience.com/jupytext-1-0-highlights-a49dca9baa7b) 展示了怎样借助这个工具在 IDE 或者编辑器里来编辑 Jupyter Notebook、进行版本控制。
 + [Marc Wouts](https://medium.com/@marc.wouts)：Jupyter 作者 Marc Wouts 的 Medium 博客主页。
++ [Tf2_course](https://github.com/ageron/tf2_course#starting-jupyter)：官方推荐，用tf.keras和TensorFlow2.0做深度学习任务的Jupyter教程
+
+
 
 <a class="toc" id ="16"></a>
 # Machine Learning (机器学习) 🤖
@@ -598,7 +601,7 @@
 + [《Natural Language Processing in Action》](https://www.manning.com/?a_aid=totalgood)：自然语言处理（NLP）系统的开发已建立了通过人脑与人脑之间进行信息流和计算的多种技术。这本新书《Natural Language Processing in Action：Understanding, analyzing, and generating text with Python 》为我们提供了从基础知识到动手构建后端NLP系统的全套学习内容，希望对您开启NLP学习之旅有所帮助。[GitHub代码地址](https://github.com/totalgood/nlpia)。
 + [OCR-IdentificationIDElement](https://github.com/Mingtzge/2019-CCF-BDCI-OCR-MCZJ-OCR-IdentificationIDElement)：2019CCF-BDCI大赛 最佳创新探索奖获得者 基于OCR身份证要素提取赛题冠军 天晨破晓团队 赛题源码
 + [PC-DARTS](https://arxiv.org/abs/1907.05737)：在此论文中，来自上海交通大学和华为诺亚方舟实验室的研究人员提出了一种基于部分通道采样的内存高效的可微网络结构搜索方法方法，能够显著提升可微式搜索的速度和性能。该方法在 CIFAR10 数据集上，只需要 0.1 个 GPU 天（单卡 1.5 小时）就可以完成一次搜索过程，并且达到 2.57% 的测试错误率；即使在 ImageNet 数据集上直接搜索，该方法也只需要 3.8 个 GPU 天（8 卡 11.5 小时），并且在 ImageNet 的移动设定（600M 运算）中达到 24.2%/7.3% 的 top-1/top-5 测试错误率。难得的是，该方法展示出了在不同参数设定下的搜索稳定性，能够很容易地应用于不同的实际场景。[GitHub地址](https://github.com/yuhuixu1993/PC-DARTS)
-+ []()：
++ [AutoGluon](https://github.com/awslabs/autogluon)：亚马逊AWS推出新的基于mxnet的开源库AutoGluon，只需三行代码，自动生成高性能模型，让调参、神经架构搜索等过程实现自动化，无需研究人员人工决策，大大降低了机器学习模型的使用门槛。[官方文档](https://autogluon.mxnet.io/)。
 
 <a class="toc" id ="17"></a>
 # Computer Vision (计算机视觉) 👁
@@ -744,6 +747,10 @@
 + [Tensor2Tensor](https://colab.research.google.com/github/tensorflow/tensor2tensor/blob/master/tensor2tensor/notebooks/hello_t2t.ipynb)：tensor2tensor（t2t）是google基于tensorflow新开源的深度学习库，该库将深度学习所需要的元素（数据集、模型、学习率、超参数等）封装成标准化的统一接口，在使用其做模型训练时可以更加的灵活。GitHub :star: 9.4k。
 + [《Deep Learning Pipeline: Building a Deep Learning Model with TensorFlow》](https://www.oreilly.com/library/view/deep-learning-pipeline/9781484253496/)：根据最新的TensorFlow方法而不是过时的工程概念来构建自己的Pipeline。这本书向你展示了如何为真实的TensorFlow项目建立一个深度学习Pipeline。
 + [《Accelerating training, inference, and ML applications on NVIDIA GPUs》](https://conferences.oreilly.com/tensorflow/tf-ca-2019/public/schedule/detail/79348)：Maggie Zhang，Nathan Luehr，Josh Romero，Pooya Davoodi和Davide Onofrio深入研究了用于加速深度学习训练和推理的通用深度学习和机器学习工作负载的技术。 通过本教程将了解DALI如何消除现实应用中的I/O和数据处理瓶颈，以及自动混合精度（AMP）如何轻松地在Volta GPU上的训练性能提高3倍。 您将看到使用Horovod进行多GPU和多节点扩展的最佳实践。 他们使用深度学习探查器来可视化TensorFlow操作并确定优化机会。 本教程将教读者学习使用TensorRT（TRT）中的INT8量化来部署这些训练过的模型，所有这些都将在TensorFlow框架的新型便捷API中进行。
++ [TensorFlow From Zero To One](https://github.com/amusi/TensorFlow-From-Zero-To-One)：TensorFlow 从0到1学习资料大全，含入门指南、在线博客、视频教程、书籍推荐和实战项目等。
++ [Tensorflow 官方Youtube](https://www.youtube.com/channel/UC0rqucBdTuFTjJiefW5t-IQ)：Tensorflow 官方Youtube
++ [Tensorflow 官方博客](https://medium.com/tensorflow)：Tensorflow 官方博客
++ [TensorFlow Tutorial For Beginners](https://www.datacamp.com/community/tutorials/tensorflow-tutorial)：Tensorflow 新手教程
 
 <a class="toc" id ="23"></a>
 # Keras Learning (Keras 学习) 🇰🇷
@@ -857,7 +864,7 @@
 并且，这棵 “树” 不仅能展示软件版本的更迭，还可以显示有多少开发者参与其中。
 + [Logstalgia](https://logstalgia.io/)：Logstalgia是一个流量可视化网站，它可以回放或流媒体web服务器访问日志
 + [《D3 Tips and Tricks》](https://leanpub.com/D3-Tips-and-Tricks)：D3 Tips and Tricks介绍了如何利用d3.js这一工具，实现数据可视化。其中包含50多个可以下载的代码示例。
-
++ [Manifold](https://github.com/uber/manifold#load-and-convert-data)：Uber推出了一款ML可视化调试工具Manifold（流形），可以帮助开发者发现让模型不能准确预测的数据子集，通过不同子集之间的特征分布差异来解释模型性能不佳的可能原因。Maniflod可以为机器学习工作流程提供可解释性和可调试性。[官方博客](https://eng.uber.com/manifold-open-source/)。
 
 <a class="toc" id ="26"></a>
 # English Learning (英语学习) 🗣
@@ -903,7 +910,9 @@
 + [SwiftLaTeX](https://github.com/SwiftLaTeX/SwiftLaTeX)：一个名为 SwiftLaTeX 的可视化编辑器。该项目最大的亮点在于：你编写的 LaTeX 代码能够立刻展示实际的效果，所见即所得。这个编辑器还是基于浏览器的，还支持云文件存储。[在线体验版本](https://www.swiftlatex.com/oauth/login_oauth?type=sandbox)。
 + [Face Detection](https://github.com/jiankangdeng/handbook)：人脸识别方面的相关论文合集。
 + [NeurIPS 2019 Notes](https://david-abel.github.io/notes/neurips_2019.pdf)：布朗大学的博士生 David Abel 公开了他的 NeurIPS 2019 参会笔记，他从深度学习理论、强化学习、博弈论和元学习等主题出发记载参会的一些亮点与主要内容。[个人主页](https://david-abel.github.io/)
-+ [awesome papers](https://github.com/murufeng/awesome-papers)：机器学习，深度学习，自然语言处理，计算机视觉方面的顶级期刊会议论文集
++ [Awesome Papers](https://github.com/murufeng/awesome-papers)：机器学习，深度学习，自然语言处理，计算机视觉方面的顶级期刊会议论文集
++ [Tableconvert](https://tableconvert.com/)：在线表格转换工具，实现将 EXCEL, CSV, URL, HTML, JSON, MARKDOWN 格式的文件转换为 Markdown, CSV/TSV, JSON, XML, YAML, SQL, HTML 表格，LaTex 表格， Plain Text 表格等格式。
++ [AsciiMath](http://asciimath.org/)：在浏览器中编辑你想要的数学公式，支持在浏览器中直接编辑和前端代码中实现。
 
 
 
@@ -1099,6 +1108,8 @@
 + [Marmoset](http://t.cn/AiT9X7mV)：Marmoset 是一款 Chrome 应用程序，可以让你以透视的方式截取你的代码截图。
 + [DownGit](https://minhaskamal.github.io/DownGit/#/home)：Git文件下载工具，只需输入连接即可下载GitHub上的文件
 + [Material Design](https://github.com/Templarian/MaterialDesign)：图标设计大全，GitHub:star:7.1k。
++ [StarHistory ](https://github.com/timqian/star-history)：查看某个项目的 star 的增长趋势，Github:star:1.6k
+
 
 <a class="toc" id ="32"></a>
 # Update Time (更新时间) 🕰 ：20120/01/09
