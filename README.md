@@ -788,7 +788,7 @@
 + [Headline Generator](https://github.com/udibr/headlines)：利用循环神经网络独立生成新闻标题的实现
 + [Deep Learning With Python](https://www.manning.com/books/deep-learning-with-python?a_aid=keras&a_bid=76564dff)：一本很不错的学习 Python的书籍，书本代码是基于 Keras的，GitHub上已获:star:8k+，[代码地址](https://github.com/fchollet/deep-learning-with-python-notebooks
 )。推荐等级：:heart::heart::heart:！
-
++ [keras-ocr](https://github.com/faustomorales/keras-ocr)：Keras作者François Chollet近期在Twitter上推荐了Github上的一个基于tf.keras的OCR项目Keras-OCR。该项目开箱即用，可直接执行OCR，也提供了端到端训练的流水线。
 
 
 <a class="toc" id ="24"></a>
