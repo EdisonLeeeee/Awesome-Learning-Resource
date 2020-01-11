@@ -1,4 +1,5 @@
 <a class="toc" id="table-of-contents"></a>
+
 # Table of Contents
 + [Preface (前言)](#1)
 + [Git 👬](#2)
@@ -385,7 +386,7 @@
 + [《D3 Tips and Tricks》](https://leanpub.com/D3-Tips-and-Tricks)：D3 Tips and Tricks介绍了如何利用d3.js这一工具，实现数据可视化。其中包含50多个可以下载的代码示例。
 + [《An Introduction to Statistical Learning》](http://faculty.marshall.usc.edu/gareth-james/ISL/)：统计学习导论：基于R应用,这本书由南加州大学马歇尔商学院院长Gareth James等人出品，主要面向非数学专业的高年级本科生，硕士生和博士生。该书内容主要由R语言实现，并详细说明了统计学习方法在现实生活中的应用实例。
 
-
++ [《Deep Learning》](https://github.com/glouppe/info8010-deep-learning#info8010---deep-learning)：深度机器学习的最新发展使视觉识别、语音和文本理解或自主智能体系统取得了前所未有的巨大进步。在此背景下，本课程将深入探讨深度学习架构的细节，重点是学习这些任务的端到端模型。学生将学习实施、训练和调试自己的神经网络，并对该领域的前沿研究有详细的了解。该课程还将介绍推理方法的最新创新，包括微分推理、对抗性训练和贝叶斯深度学习。
 
 
 
