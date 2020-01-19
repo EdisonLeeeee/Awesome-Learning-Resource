@@ -889,7 +889,7 @@
 + [Paperswithcode](https://paperswithcode.com/)：如其名，收录了大量带有源代码的论文，[Github同名项目](https://github.com/zziz/pwc)，推荐等级：:heart::heart::heart::heart:！
 + [ArXiv Sanity](http://www.arxiv-sanity.com/)：类似Paperswithcode，旨在提升获取研究成果的效率与体验
 + [arXiv Vanity](https://www.arxiv-vanity.com/)arXiv Vanity将来自arXiv的学术论文呈现为响应性网页，这样你就不用眯着眼睛看PDF了
-+ [易搜搭](http://www.esoda.org/)：专业英文论文写作助手，只需要输入你想表达的中文句子，该网站会检索各种论文找出相似英文表达，使你的英文论文写作不再生硬
++ [易搜搭](http://www.esoda.org/)：专业英文论文写作助手，只需要输入你想表达的中文句子，该网站会检索各种论文找出相似英文表达，使你的英文论文写作不再生硬，推荐等级：:heart::heart::heart::heart:！
 + [Conference List](http://www.conferencelist.info/upcoming.html)：计算机各领域会议的时间表
 + [AI Conference Deadlines ](https://aideadlin.es/?sub=ML,CV,NLP,RO,SP,DM)：查看各个ai顶会的 Deadline
 + [Latex 代码转换器 - Mathpix](https://mathpix.com/)：如果你经常用 latex 编写文档，那你一定得安装下 Mathpix。这款工具能将带数学公式的截图一键转成 latex 代码，帮你省下很多时间，堪称神器！（可惜现在收费了）
