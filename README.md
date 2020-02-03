@@ -32,7 +32,7 @@
 + [Interview (工作面试) 💼](#29)
 + [Dataset (数据集)  📊](#30)
 + [Others (其它) ❓](#31)
-+ [Last Update (更新时间) 🕰 ：20120/01/22](#32)
++ [Last Update (更新时间) 🕰 ：20120/02/03](#32)
 
 
 # Preface (前言)
@@ -104,7 +104,7 @@
 + [AI Dungeon](http://www.aidungeon.io/)：15亿参数的终极版GPT-2，就是OpenAI那只编故事成瘾的AI，都能拿来做些什么？有人用它做了个文字冒险游戏，并赐以优美的名字，叫“AI地牢 (AI Dungeon) ”。大概是在说，你一旦进去就出不来了，里面的故事太迷人。现在，这座地牢进化出了2.0版本。有网友盛情安利，表示不可错过，推特11小时已有1600赞！[游戏传送门](https://colab.research.google.com/github/nickwalton/AIDungeon/blob/master/AIDungeon_2.ipynb)，[博客传送门](https://pcc.cs.byu.edu/2019/11/21/ai-dungeon-2-creating-infinitely-generated-text-adventures-with-deep-learning-language-models/)
 + [Sorry](https://github.com/xtyxtyx/sorry)：sorry 是一个很有意思的表情包斗图项目，源自"sorry，有钱事真的能为所欲为"这梗...
 + [NNI (Neural Network Intelligence)](https://aka.ms/nniis)：2018年9月，微软亚洲研究院发布了第一版 NNI (Neural Network Intelligence) ，目前已在 GitHub 上获得 :star:3.8K ，成为最热门的自动机器学习（AutoML）开源项目之一。最新版本的 NNI 对机器学习生命周期的各个环节做了更加全面的支持，包括特征工程、神经网络架构搜索（NAS）、超参调优和模型压缩在内的步骤，你都能使用自动机器学习算法来完成。
-
++ [Chinese Poetry](https://github.com/chinese-poetry/chinese-poetry)：最全中华古诗词数据库, 唐宋两朝近一万四千古诗人, 接近5.5万首唐诗加26万宋诗. 两宋时期1564位词人，21050首词。GitHub :star:26.7k。
 
 
 <a class="toc" id ="4"></a>
@@ -169,8 +169,10 @@
 + [崔庆才个人站点](https://cuiqingcai.com/)：爬虫必看博客网站
 + [《Go2-book》](https://github.com/chai2010/go2-book)：《Go2编程指南》开源图书，重点讲解Go2新特性，以及Go1教程中较少涉及的特性
 + [知乎：Flask 10天开发一个网站](https://zhuanlan.zhihu.com/p/33038507)：一个Flask写网站的教程
++ [Do We Really Need Model Compression?](http://mitchgordon.me/machine/learning/2020/01/13/do-we-really-need-model-compression.html)：探索从零开始训练小模型所涉及的障碍，讨论为什么模型压缩有效，以及两种提高内存效率的训练方法：超参数化界限和一种能够减少或消除对事后模型压缩的需求的优化算法。
 
 <a class="toc" id ="6"></a>
+
 # CheatSheets 📑
 [🔙](#table-of-contents)
 + [Data Science Cheat Sheet](https://github.com/abhat222/Data-Science--Cheat-Sheet)：数据科学速查表，GitHub:star:8k+。内容几乎涵盖数据科学相关的所有领域，在理论应用方面包括大数据分析、数据挖掘、数据可视化、深度学习，机器学习等等；在编程语言与工具方面，包括Excel、SQL、Python、MATLAB、Linux；基础的学科知识包含统计学、数学、概率论。另外，就连面试问题都没放过
@@ -388,7 +390,7 @@
 + [《Machine Learning Systems》](https://www.manning.com/books/machine-learning-systems)：《机器学习系统》，本文首先介绍了反应性机器学习基础，然后介绍如何建立一个反应式机器学习系统（收集数据、生成特征、学习模型、评估模型、发布模型），最后介绍如何操作一个机器学习系统。
 + [CS234: Reinforcement Learning Winter 2020](https://web.stanford.edu/class/cs234/schedule.html)：斯坦福大学的最新课程CS234——强化学习，主讲人是斯坦福大学Emma Brunskill，她是斯坦福大学计算机科学助理教授，任职斯坦福大学人类影响力实验室、斯坦福人工智能实验室以及统计机器学习小组，主要研究强化学习。要实现人工智能的梦想和影响，需要能够学会做出正确决策的自主系统。强化学习是这样做的一个强有力的范例，它与大量的任务相关，包括机器人、游戏、消费者建模和医疗保健。本课程通过讲课、书面作业和编码作业的结合，学生将精通强化学习的关键思想和技术。
 + [Lectures for INFO8010 - Deep Learning](https://github.com/glouppe/info8010-deep-learning)：深度学习课程 PPT，深入探讨深度学习架构的细节，重点是学习这些任务的端到端模型。学生将学习实施、训练和调试自己的神经网络，并对该领域的前沿研究有详细的了解。该课程还将介绍推理方法的最新创新，包括微分推理、对抗性训练和贝叶斯深度学习。作者主页[Gilles Louppe](http://glouppe.github.io/)
-
++ [《Python Tips for Data Scientist》](https://runawayhorse001.github.io/PythonTipsDS/pythonTipsDS.pdf)：最近Wenqiang Feng, Xu Gao and Upendra Madam三位数据科学家撰写了一本《给数据科学家的Python技能秘籍》，简明扼要，非常实用，使用与数据科学家相关的详细演示代码和示例来共享一些用于数据科学家工作的有用python技巧，值得放在身旁学习查看！
 
 <a class="toc" id ="11"></a>
 # Go Learning (Go 学习) 🇬🇱
@@ -604,6 +606,8 @@
 + [OCR-IdentificationIDElement](https://github.com/Mingtzge/2019-CCF-BDCI-OCR-MCZJ-OCR-IdentificationIDElement)：2019CCF-BDCI大赛 最佳创新探索奖获得者 基于OCR身份证要素提取赛题冠军 天晨破晓团队 赛题源码
 + [PC-DARTS](https://arxiv.org/abs/1907.05737)：在此论文中，来自上海交通大学和华为诺亚方舟实验室的研究人员提出了一种基于部分通道采样的内存高效的可微网络结构搜索方法方法，能够显著提升可微式搜索的速度和性能。该方法在 CIFAR10 数据集上，只需要 0.1 个 GPU 天（单卡 1.5 小时）就可以完成一次搜索过程，并且达到 2.57% 的测试错误率；即使在 ImageNet 数据集上直接搜索，该方法也只需要 3.8 个 GPU 天（8 卡 11.5 小时），并且在 ImageNet 的移动设定（600M 运算）中达到 24.2%/7.3% 的 top-1/top-5 测试错误率。难得的是，该方法展示出了在不同参数设定下的搜索稳定性，能够很容易地应用于不同的实际场景。[GitHub地址](https://github.com/yuhuixu1993/PC-DARTS)
 + [AutoGluon](https://github.com/awslabs/autogluon)：亚马逊AWS推出新的基于mxnet的开源库AutoGluon，只需三行代码，自动生成高性能模型，让调参、神经架构搜索等过程实现自动化，无需研究人员人工决策，大大降低了机器学习模型的使用门槛。[官方文档](https://autogluon.mxnet.io/)。
++ [Optuna](https://optuna.org/)：Optuna是一款为机器学习任务设计的自动超参数优化软件框架，是一款按运行定义(define-by-run) 原则设计的优化软件，允许用户动态地调整搜索空间，在同类软件中尤属首创，是下一代超参调优框架的代表。[GitHub](https://github.com/optuna/optuna):star:1.9k,
+
 
 <a class="toc" id ="17"></a>
 # Computer Vision (计算机视觉) 👁
@@ -671,7 +675,7 @@
 + [stellargraph](https://github.com/stellargraph/stellargraph)：使用tf2.x写的图机器学习算法实现库。
 + [《A Gentle Introduction to Deep Learning for Graphs》](https://arxiv.org/abs/1912.12693)：《A Gentle Introduction to Deep Learning for Graphs》是图深度学习领域的教程导论，它倾向于对主流概念和架构的一致和渐进的介绍，而不是对最新文献的阐述。教程在介绍概念和想法时采用了自上而下的方法并保留了清晰的历史观点，为此，导论在第2节中提供了图表示学习的泛化形式，将图表示学习泛化为一种基于局部和迭代的结构化信息处理过程。同时，介绍了架构路线图，整个导论也是围绕该路线图进行开展的。导论聚焦于面向局部和迭代的信息处理过程，因为这些过程与神经网络的体系更为一致。因此，导论会淡化那些基于图谱理论的全局方法（假设有一个固定的邻接矩阵）。
 + [《Deep Graph Similarity Learning: A Survey》](https://arxiv.org/abs/1912.11615)：在许多将数据表示为图形的领域中，学习图形之间的相似性度量标准被认为是一个关键问题，它可以进一步促进各种学习任务，例如分类，聚类和相似性搜索。最近，人们对深度图相似性学习越来越感兴趣，其中的主要思想是学习一种深度学习模型，该模型将输入图映射到目标空间，以使目标空间中的距离近似于输入空间中的结构距离。在这里，本文提供对深度图相似性学习的现有文献的全面回顾。本文为方法和应用提出了系统的分类法。最后，本文讨论该问题的挑战和未来方向。
-
++ [《Graph-Powered Machine Learning》](https://www.manning.com/books/graph-powered-machine-learning)：图驱动机器学习向您介绍图技术概念，强调图在机器学习和大数据平台中的作用。您将深入了解各种技术，包括数据源建模、算法设计、链接分析、分类和集群。在掌握核心概念之后，您将探索三个端到端项目，它们将演示体系结构、最佳设计实践、优化方法和常见缺陷。作者亚历山德罗·内格罗在构建基于图形的机器学习系统方面的丰富经验在每一章中都有所体现，你可以从他与真实客户合作的实例和具体场景中学习!
 
 <a class="toc" id ="20"></a>
 # Generative Adversarial Networks (GANs) 🤜 🤛
@@ -725,6 +729,7 @@
 + [RecQ](https://github.com/Coder-Yu/RecQ)：一个基于TensorFlow写的Python推荐系统框架
 + [Medium](https://github.com/eliorc/Medium)：基于TensorFlow 实现的PCA,t-SNE, AE, node2vec, LSTM算法
 + [深度学习之TensorFlow工程化项目实战](https://github.com/aianaconda/TensorFlow_Engineering_Implementation)：《深度学习之TensorFlow工程化项目实战》是一本非常全面的、专注于实战的AI图书，兼容TensorFlow 1.x和2.x版本，共75个实例。本书结构清晰、案例丰富、通俗易懂、实用性强。适合对人工智能、TensorFlow感兴趣的读者作为自学教程。
++ [Tensorflow Practice](https://github.com/princewen/tensorflow_practice)：tensorflow 实战练习，包括强化学习、推荐系统、nlp等，GitHub:star:3.6k。​
 ---
 + [TensorFlow 2.0 迁移指南](https://www.tensorflow.org/guide/migrate)：近期 TensorFlow 2.0正式版已经推出，如果你使用过tensorflow 1.x，这是一个迁移到2.0的官方指南
 + [tf upgrade v2](https://www.tensorflow.org/guide/upgrade)：为了帮助你（自动地）将代码从 keras 更新为 tf.keras，Google 发布了一个名为 tf_upgrade_v2 的脚本。顾名思义，这个脚本可以分析你的代码并报告需要改动的行，该脚本甚至可以替你完成升级过程。
@@ -753,8 +758,10 @@
 + [Tensorflow 官方Youtube](https://www.youtube.com/channel/UC0rqucBdTuFTjJiefW5t-IQ)：Tensorflow 官方Youtube
 + [Tensorflow 官方博客](https://medium.com/tensorflow)：Tensorflow 官方博客
 + [TensorFlow Tutorial For Beginners](https://www.datacamp.com/community/tutorials/tensorflow-tutorial)：Tensorflow 新手教程
++ [TensorFlow Geometric](https://github.com/CrawlScript/tf_geometric)：基于 Tensorflow 的高效友好的图神经网络库，受 [Pytorch Geometric](https://github.com/rusty1s/pytorch_geometric) 启发。一个新开始的项目，GitHub:star:仅十几，但发展前景好。​推荐等级：:heart::heart::heart:！
 
 <a class="toc" id ="23"></a>
+
 # Keras Learning (Keras 学习) 🇰🇷
 [🔙](#table-of-contents)
 + [Keras](https://keras.io/)：Keras官方手册，非常详细的官方文档，文档中详细的介绍了从Keras每个知识点的用法，一步步带你从入门到精通。
@@ -790,7 +797,7 @@
 + [Headline Generator](https://github.com/udibr/headlines)：利用循环神经网络独立生成新闻标题的实现
 + [Deep Learning With Python](https://www.manning.com/books/deep-learning-with-python?a_aid=keras&a_bid=76564dff)：一本很不错的学习 Python的书籍，书本代码是基于 Keras的，GitHub上已获:star:8k+，[代码地址](https://github.com/fchollet/deep-learning-with-python-notebooks
 )。推荐等级：:heart::heart::heart:！
-+ [keras-ocr](https://github.com/faustomorales/keras-ocr)：Keras作者François Chollet近期在Twitter上推荐了Github上的一个基于tf.keras的OCR项目Keras-OCR。该项目开箱即用，可直接执行OCR，也提供了端到端训练的流水线。
++ [Keras Ocr](https://github.com/faustomorales/keras-ocr)：Keras作者François Chollet近期在Twitter上推荐了Github上的一个基于tf.keras的OCR项目Keras-OCR。该项目开箱即用，可直接执行OCR，也提供了端到端训练的流水线。
 
 
 <a class="toc" id ="24"></a>
@@ -806,7 +813,7 @@
 + [《Hands-on tour to deep learning with PyTorch》](https://mlelarge.github.io/dataflowr-web/cea_edf_inria.html)：dataflowr 最近推出的一门五天初步掌握深度学习的实战教程（实战使用 PyTorch 框架），有知识点有实例有代码。[GitHub地址](https://github.com/mlelarge/dataflowr)
 + [Existential Pontification and Generalized Abstract Digressions ](http://blog.ezyang.com/2019/05/pytorch-internals/)：万字综述，核心开发者全面解读 PyTorch 内部机制 
 + [Python Autocomplete](https://github.com/vpj/python_autocomplete/blob/master/extract_code.py)：一个利用 PyTorch 写的自动补全代码的小项目
-+ [Pytorch Geometric](https://github.com/rusty1s/pytorch_geometric)：近几年来，图神经网络（GNN）在推荐系统、搜索引擎、计算机视觉等领域中都引起了较大的关注。Github有大量开源GNN实现，其中pytorch_geometric是最优秀的实现之一，曾被Yann LeCun推荐，GitHub上获:star:5k
++ [Pytorch Geometric](https://github.com/rusty1s/pytorch_geometric)：近几年来，图神经网络（GNN）在推荐系统、搜索引擎、计算机视觉等领域中都引起了较大的关注。Github有大量开源GNN实现，其中pytorch_geometric是最优秀的实现之一，曾被Yann LeCun推荐，GitHub上获:star:5k，并且正在飞速上涨，推荐等级：:heart::heart::heart::heart:！
 + [TfPyth](https://github.com/BlackHC/TfPyTh)：一行代码切换TensorFlow与PyTorch，模型训练也能用俩框架
 + [PyTorch Hub](https://pytorch.org/hub)：PyTorch Hub是一个简易API和工作流程，为复现研究提供了基本构建模块，包含预训练模型库。PyTorch Hub支持Colab，能与论文代码结合网站Papers With Code集成，用于更广泛的研究。[GitHub地址](https://github.com/pytorch/hub)
 + [Model Zoo](https://modelzoo.co/)：这个平台，由新加坡名为Jing Yu Koh本科生牵头搭建。与上述的几个平台不同，这个平台上提供预训练模型，不仅仅只是完全针对于Pytorch或者TensorFlow，推荐等级：:heart::heart:！
@@ -969,10 +976,10 @@
     + 附加链接
     + 编码训练营
     + 其它资源
-
 + [Awesome-algorithm-interview](https://github.com/lcylmhlcy/Awesome-algorithm-interview)：算法工程师(人工智能cv方向)面试问题及相关资料的网站收集
 + [Awesome Interview Questions](https://github.com/MaximAbramchuck/awesome-interview-questions)：这个精选的面试题库不仅全，而且对提交的面试题会进行审核，并且会不定期对链接进行审核，提剔除失效链接，GitHub:star:30k+。推荐等级：:heart::heart::heart:！
 + [955.WLB](https://github.com/formulahendry/955.WLB)：与 996.ICU 相呼应，955 公司白名单。旨在让更多的人逃离 996，加入 955 的行列。GitHub 获:star:20k。
++ [SoftwareArchitect](https://github.com/justinamiller/SoftwareArchitect)：高级架构师 Justin Miller 在 GitHub 上创建项目，介绍自己关于「如何成为更好的软件架构师」的想法。该项目发布一天即获得 1.4k :star:，现在已有 :star:3.8k。
 
 
 <a class="toc" id ="30"></a>
@@ -1074,7 +1081,7 @@
 # Others (其它) ❓
 [🔙](#table-of-contents)
 
-+ [awesome](https://github.com/sindresorhus/awesome)：各种Awesome 资源大全，GitHub :star:123k，推荐等级:heart::heart::heart::heart:！
++ [Awesome](https://github.com/sindresorhus/awesome)：各种Awesome 资源大全，GitHub :star:123k，推荐等级:heart::heart::heart::heart:！
 + [Web Develope Roadmap](https://github.com/kamranahmedse/developer-roadmap)：web 开发者学习路线图，GitHub :star:93.2k，推荐等级:heart::heart::heart::heart:！
 + [Lepton](https://github.com/hackjutsu/Lepton)：一个很好用的开源代码片段管理软件，基于[GitHub Gist](https://gist.github.com/)。GitHub:star:6.8k，推荐等级：:heart::heart:！
 + [Let's Build A Simple Interpreter](https://ruslanspivak.com/lsbasi-part1/)：加拿大工程师[Ruslan Spivak](https://ruslanspivak.com/pages/about/)写的如何利用Python自己写一个编译器文章的博客，适合用于学习编译原理。[GitHub代码](https://github.com/rspivak/lsbasi)
@@ -1135,7 +1142,7 @@
 
 
 <a class="toc" id ="32"></a>
-# Last Update (更新时间) 🕰 ：20120/01/22
+# Last Update (更新时间) 🕰 ：20120/02/03
 [🔙](#table-of-contents)
 
 
