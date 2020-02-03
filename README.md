@@ -1,11 +1,10 @@
 <a class="toc" id="table-of-contents"></a>
-
 # Table of Contents
 + [Preface (前言)](#1)
 + [Git 👬](#2)
 + [GitHub 👬](#3)
 + [Algorithm (算法) 💡](#4)
-+ [Blogs (教程博客) 🗨](#5)
++ [Tutorial Blogs (教程博客) 🗨](#5)
 + [CheatSheets 📑](#6)
 + [Math (数学) 📐](#7)
 + [Learning Websites (学习网站) 💻](#8)
@@ -15,26 +14,29 @@
 + [Python Learning (Python 学习) 🐍](#12)
 + [Python Projects (Python 项目) 👨‍💻](#13)
 + [Python Crawler (Python 爬虫) 🕷](#14)
-+ [Jupyter 📔](#15)
++ [Jupyter Notebook 📔](#15)
 + [Machine Learning (机器学习) 🤖](#16)
 + [Computer Vision (计算机视觉) 👁](#17)
 + [Reinforcement Learning (强化学习) 💪](#18)
 + [Graph Learning (图学习) 🗺](#19)
 + [Generative Adversarial Networks (GANs) 🤜 🤛](#20)
 + [Adversarial Attack and Defense ⚔](#21)
-+ [TensorFlow Learning (TensorFlow 学习) 🇹🇫](#22)
-+ [Keras Learning (Keras 学习) 🇰🇷](#23)
-+ [PyTorch Learning (PyTorch 学习) 🇵🇹](#24)
-+ [Visualization (可视化) 👀](#25)
-+ [English Learning (英语学习) 🗣](#26)
-+ [Paper (论文相关) 📝](#27)
-+ [Download (下载) 📥](#28)
-+ [Interview (工作面试) 💼](#29)
-+ [Dataset (数据集)  📊](#30)
-+ [Others (其它) ❓](#31)
-+ [Last Update (更新时间) 🕰 ：20120/02/03](#32)
++ [Model Compression ⚗](#22)
++ [TensorFlow Learning (TensorFlow 学习) 🇹🇫](#23)
++ [Keras Learning (Keras 学习) 🇰🇷](#24)
++ [PyTorch Learning (PyTorch 学习) 🇵🇹](#25)
++ [Visualization (可视化) 👀](#26)
++ [English Learning (英语学习) 🗣](#27)
++ [Paper-Related (论文相关) 📝](#28)
++ [Download (下载) 📥](#29)
++ [Interview (工作面试) 💼](#30)
++ [Dataset (数据集)  📊](#31)
++ [Code-Related Toolkit 💻](#32)
++ [Other Unsorted (其它) ❓](#33)
++ [Last Update (更新时间) 🕰 ：20120/02/03](#34)
 
 
+<a class="toc" id ="1"></a>
 # Preface (前言)
 [🔙](#table-of-contents)
 主要是用于汇总自己平时收集的一些学习网站、资源以及资料等，便于查看整理，并会不断更新 😋
@@ -136,7 +138,7 @@
 
 
 <a class="toc" id ="5"></a>
-# Blogs (教程博客) 🗨
+# Tutorial Blogs (教程博客) 🗨
 [🔙](#table-of-contents)
 
 
@@ -171,8 +173,8 @@
 + [知乎：Flask 10天开发一个网站](https://zhuanlan.zhihu.com/p/33038507)：一个Flask写网站的教程
 + [Do We Really Need Model Compression?](http://mitchgordon.me/machine/learning/2020/01/13/do-we-really-need-model-compression.html)：探索从零开始训练小模型所涉及的障碍，讨论为什么模型压缩有效，以及两种提高内存效率的训练方法：超参数化界限和一种能够减少或消除对事后模型压缩的需求的优化算法。
 
-<a class="toc" id ="6"></a>
 
+<a class="toc" id ="6"></a>
 # CheatSheets 📑
 [🔙](#table-of-contents)
 + [Data Science Cheat Sheet](https://github.com/abhat222/Data-Science--Cheat-Sheet)：数据科学速查表，GitHub:star:8k+。内容几乎涵盖数据科学相关的所有领域，在理论应用方面包括大数据分析、数据挖掘、数据可视化、深度学习，机器学习等等；在编程语言与工具方面，包括Excel、SQL、Python、MATLAB、Linux；基础的学科知识包含统计学、数学、概率论。另外，就连面试问题都没放过
@@ -391,6 +393,8 @@
 + [CS234: Reinforcement Learning Winter 2020](https://web.stanford.edu/class/cs234/schedule.html)：斯坦福大学的最新课程CS234——强化学习，主讲人是斯坦福大学Emma Brunskill，她是斯坦福大学计算机科学助理教授，任职斯坦福大学人类影响力实验室、斯坦福人工智能实验室以及统计机器学习小组，主要研究强化学习。要实现人工智能的梦想和影响，需要能够学会做出正确决策的自主系统。强化学习是这样做的一个强有力的范例，它与大量的任务相关，包括机器人、游戏、消费者建模和医疗保健。本课程通过讲课、书面作业和编码作业的结合，学生将精通强化学习的关键思想和技术。
 + [Lectures for INFO8010 - Deep Learning](https://github.com/glouppe/info8010-deep-learning)：深度学习课程 PPT，深入探讨深度学习架构的细节，重点是学习这些任务的端到端模型。学生将学习实施、训练和调试自己的神经网络，并对该领域的前沿研究有详细的了解。该课程还将介绍推理方法的最新创新，包括微分推理、对抗性训练和贝叶斯深度学习。作者主页[Gilles Louppe](http://glouppe.github.io/)
 + [《Python Tips for Data Scientist》](https://runawayhorse001.github.io/PythonTipsDS/pythonTipsDS.pdf)：最近Wenqiang Feng, Xu Gao and Upendra Madam三位数据科学家撰写了一本《给数据科学家的Python技能秘籍》，简明扼要，非常实用，使用与数据科学家相关的详细演示代码和示例来共享一些用于数据科学家工作的有用python技巧，值得放在身旁学习查看！
++ [Free Books](https://github.com/ruanyf/free-books)：阮一峰老师在 GitHub 上整理了他平时所发现的一些免费技术书籍。书籍列表包括 Web 开发、人工智能、系统管理等内容，覆盖面颇广
+
 
 <a class="toc" id ="11"></a>
 # Go Learning (Go 学习) 🇬🇱
@@ -536,7 +540,7 @@
 + [Scrapy Cookbook](https://scrapy-cookbook.readthedocs.io/zh_CN/latest/)：Scrapy中文文档
 
 <a class="toc" id ="15"></a>
-# Jupyter 📔
+# Jupyter Notebook 📔
 [🔙](#table-of-contents)
 
 + [Nbviewer](https://nbviewer.jupyter.org/)： 在线渲染 Jupyter 文件的网页，只需要输入 Github 仓库地址即可。
@@ -705,6 +709,14 @@
 + [Adversarial Robustness Toolbox](https://github.com/IBM/adversarial-robustness-toolbox)：IBM研发的关于对抗攻防机器学习的库，GitHub:star:1.2k。
 
 <a class="toc" id ="22"></a>
+# Model Compression ⚗
+[🔙](#table-of-contents)
++ [Distiller](https://github.com/NervanaSystems/distiller)：基于Pytorch 的模型压缩库，GitHub:star:2.6k
++ [Tensorflow Model Optimization](https://github.com/tensorflow/model-optimization)：TensorFlow 官方模型优化工具，GitHub:star:600+。[官网主页](https://www.tensorflow.org/model_optimization)
++ [Distil*](https://github.com/huggingface/transformers/tree/master/examples/distillation)：包含了用于训练Distill*的原始代码，以及展示如何使用DistilBERT、DistilRoBERTa和DistilGPT2的示例。
+
+
+<a class="toc" id ="23"></a>
 # TensorFlow Learning (TensorFlow 学习) 🇹🇫
 [🔙](#table-of-contents)
 
@@ -760,8 +772,8 @@
 + [TensorFlow Tutorial For Beginners](https://www.datacamp.com/community/tutorials/tensorflow-tutorial)：Tensorflow 新手教程
 + [TensorFlow Geometric](https://github.com/CrawlScript/tf_geometric)：基于 Tensorflow 的高效友好的图神经网络库，受 [Pytorch Geometric](https://github.com/rusty1s/pytorch_geometric) 启发。一个新开始的项目，GitHub:star:仅十几，但发展前景好。​推荐等级：:heart::heart::heart:！
 
-<a class="toc" id ="23"></a>
 
+<a class="toc" id ="24"></a>
 # Keras Learning (Keras 学习) 🇰🇷
 [🔙](#table-of-contents)
 + [Keras](https://keras.io/)：Keras官方手册，非常详细的官方文档，文档中详细的介绍了从Keras每个知识点的用法，一步步带你从入门到精通。
@@ -798,9 +810,9 @@
 + [Deep Learning With Python](https://www.manning.com/books/deep-learning-with-python?a_aid=keras&a_bid=76564dff)：一本很不错的学习 Python的书籍，书本代码是基于 Keras的，GitHub上已获:star:8k+，[代码地址](https://github.com/fchollet/deep-learning-with-python-notebooks
 )。推荐等级：:heart::heart::heart:！
 + [Keras Ocr](https://github.com/faustomorales/keras-ocr)：Keras作者François Chollet近期在Twitter上推荐了Github上的一个基于tf.keras的OCR项目Keras-OCR。该项目开箱即用，可直接执行OCR，也提供了端到端训练的流水线。
++ [Keras Tuner](https://github.com/keras-team/keras-tuner)：基于 Keras 的模型调参工具，GitHub:star:1.7k
 
-
-<a class="toc" id ="24"></a>
+<a class="toc" id ="25"></a>
 # PyTorch Learning (PyTorch 学习) 🇵🇹
 [🔙](#table-of-contents)
 
@@ -830,7 +842,7 @@
 
 
 
-<a class="toc" id ="25"></a>
+<a class="toc" id ="26"></a>
 # Visualization (可视化) 👀
 [🔙](#table-of-contents)
 
@@ -878,7 +890,7 @@
 
 
 
-<a class="toc" id ="26"></a>
+<a class="toc" id ="27"></a>
 # English Learning (英语学习) 🗣
 [🔙](#table-of-contents)
 
@@ -890,8 +902,8 @@
 
 
 
-<a class="toc" id ="27"></a>
-# Paper (论文相关) 📝
+<a class="toc" id ="28"></a>
+# Paper-Related (论文相关) 📝
 [🔙](#table-of-contents)
 
 + [Google Scholar](https://scholar.google.com/)：谷歌学术
@@ -929,12 +941,13 @@
 
 
 
-<a class="toc" id ="28"></a>
+<a class="toc" id ="29"></a>
 # Download (下载) 📥
 [🔙](#table-of-contents)
 
 + [MSDN](https://msdn.itellyou.cn/)：十分齐全、靠谱的Windows系统、软件资源下载网站
 + [N软网](https://www.nruan.com/)：提供互联网前沿资讯及软件下载
++ [DownGit](https://minhaskamal.github.io/DownGit/#/home)：Git文件下载工具，只需输入连接即可下载GitHub上的文件
 + [OmegaXYZ](http://www.omegaxyz.com/resource/resource_software/)：既有各种高级语言的教程，也有机器学习的教程，以及各种算法实现，还有提供一些软件资源下载。[GitHub](https://github.com/xyjigsaw)上还有许多关于Python的学习项目
 + [视频鱼](http://www.shipinyu.cn/)：一个输入视频网址即可下载视频的网站
 + [Awesome Windows](https://github.com/Awesome-Windows/Awesome/blob/master/README-cn.md)：GitHub上:star:9k+的项目，收列了Windows上优质&精选的最佳应用程序及工具
@@ -950,7 +963,7 @@
 + [奶牛快传](https://cowtransfer.com/)：奶牛快传创建于2016年，是一款专注于即用即走的在线大文件传输服务，也是目前本土化做的最好的，无论是界面还是操作上都十分地通俗易懂。在上传速度方面，据奶牛快传称，无论是上传还是下载，都没有速度限制，完全依托于用户本地网络的带宽。
 
 
-<a class="toc" id ="29"></a>
+<a class="toc" id ="30"></a>
 # Interview (工作面试) 💼
 [🔙](#table-of-contents)
 
@@ -982,11 +995,13 @@
 + [SoftwareArchitect](https://github.com/justinamiller/SoftwareArchitect)：高级架构师 Justin Miller 在 GitHub 上创建项目，介绍自己关于「如何成为更好的软件架构师」的想法。该项目发布一天即获得 1.4k :star:，现在已有 :star:3.8k。
 
 
-<a class="toc" id ="30"></a>
+<a class="toc" id ="31"></a>
 # Dataset (数据集)  📊
 [🔙](#table-of-contents)
 
 + [Google Dataset Search](https://toolbox.google.com/datasetsearch): 谷歌提供的数据集搜索工具，可以搜到绝大多数的公开数据集
++ [Machine learning datasets](https://www.datasetlist.com/)：这个网站上共收集到了100多个业界最大型的数据集。根据任务类别，这些数据集中又分为三大类：计算机视觉（CV）、自然语言处理（NLP）和音频数据集
++ [Networkrepository](http://networkrepository.com/index.php)：第一个具有实时可视化分析功能的交互式数据和网络数据存储库。里面有许多Graph相关的数据集
 + [LINQS](https://linqs.soe.ucsc.edu/data)：提供了一些Graph结构的数据集
 + [Network Repository](http://networkrepository.com/index.php)：一个交互式科学网络数据仓库，里面含有大量的图结构数据集
 + [Stanford Network Analysis Project](http://snap.stanford.edu/)：斯坦福开放的图相关数据集。
@@ -1077,13 +1092,42 @@
 
 
 
-<a class="toc" id ="31"></a>
-# Others (其它) ❓
+
+<a class="toc" id ="32"></a>
+# Code-Related Toolkit 💻
+[🔙](#table-of-contents)
+
++ Code Reviewer：
+    + [Review Assistant](https://bit.ly/2Uw0a6M)：Review Assistant 是 Visual Studio 的一个扩展。它支持 Visual Studio 2019、2017、2015、2013、2012 和 2010。Review Assistant 可以帮助创建审查请求并能在不离开 IDE 的情况下对请求做出响应。它支持 TFS、Subversion、Git、Mercurial 以及 Perforce。Review Assistant 将“代码审查板（Code Review Board）”窗口添加到 IDE 中。该窗口可用于管理用户所有可用的审查。
+    + [Reshift](https://bit.ly/33Oubj8)：Reshift 是一个基于 SaaS（Software-as-a-Service，软件即服务）的软件平台，它可以帮助软件开发团队在部署代码到生产环境之前，更快地识别出代码中更多的漏洞。可以减少发现和修复漏洞的成本和时间，可以识别数据泄露的潜在风险，并能帮助软件公司达到合规性和法规要求。
+    + [Gerrit](https://www.gerritcodereview.com/)：这是一个开源的轻量级工具，它是基于“Git 版本控制系统”来进行构建的。在所有用户都是受信提交者的项目环境中，该工具非常有用，因为该工具允许用户检查项目中所做的总体变更。
+    + [Codestriker](http://codestriker.sourceforge.net/)：Codestriker 是一个开源的在线源码审查 Web 应用程序。此代码审查工具可以帮助我们在数据库中记录问题、注释和决策。它也可以用于代码检查（Code Inspections）。
+    + [Phabricator](https://www.phacility.com/)：Phabricator 是一个开源的源码扫描程序。它还包括了基于 Web 的轻量级代码审查、规划、测试、bug 发现等功能。
+    + [Crucible](https://www.atlassian.com/software/crucible)：Crucible 是一个基于 Web 的代码质量工具。开发人员利用它来进行代码审查、bug 及缺陷发现、变更讨论和知识共享。该工具可以帮助他们捕获主要缺陷并改进他们的代码架构。
+    + [Review Board](https://www.reviewboard.org/)：Review Board 是一个安全的代码审查工具。它可用于开源项目和公司的代码审查和文档审查。
+    + [Barkeep](http://getbarkeep.org/)：Barkeep 是一个友好的代码审查系统工具。它提供了一种最简单的方法来审查代码。它允许我们查看任何 Git 库的提交、查看差异点并编写注释。
+    + [Reviewable](https://reviewable.io/)：Reviewable 是一个轻量级的、功能强大的代码分析工具，它使代码审查更快、更全面。它通过用户界面清理、bug 发现以及语法高亮显示来帮助我们提高代码质量。
+    + [Peer Review Plugin](https://trac-hacks.org/wiki/PeerReviewPlugin)：Peer Review Plugin 消除了耗时的代码审查会议的需求，因为它使我们可以在基于 Web 的用户友好的环境中审查代码。
+    + [Codacy](https://www.codacy.com/)：Codacy 工具通过静态代码分析自动识别问题。在每个拉取（pull）和提交（commit）请求中，它能快速地告诉用户有关安全性问题、代码重复和代码复杂度的信息。
+    + [CodeFactor.io](https://www.codefactor.io/)：使用 Code Factor 工具，我们可以了解整个项目的代码质量、最近提交的内容以及问题最多的文件。我们可以针对每次提交（commit）和拉取（pull）的请求进行跟踪及问题修复。
+    + [Helix swarm](https://www.perforce.com/products/helix-swarm)：Helix swarm 是一个代码审查工具，它可以安排审查、共享内容并查看代码审查变更。它支持持续集成部署。它可以帮助我们监控进度、自动化设计过程并提高项目的发布质量。
+    + [Rhodecode](https://rhodecode.com/)：Rhodecode 是一个开源的、安全的企业级源码管理工具。该工具可作为 Git、Subversion 和 Mercurial 的集成工具。
+    + [Veracode ](https://www.veracode.com/products/binary-static-analysis-sast)：Veracode 是一个代码审查和静态分析工具。它是基于 SaaS 模型构建的。此工具允许我们从安全性的角度分析代码。该工具使用二进制代码 / 字节码，并能保证 100% 的测试覆盖率。
+    + [JArchitect](http://www.jarchitect.com/)：JArchitect 是一款易于使用的代码审查工具，可用于分析 Java 代码。每次审查后，它都会发送一份项目开发相关的报告。该工具还可以帮助我们提高代码的可维护性。
++ [Lepton](https://github.com/hackjutsu/Lepton)：一个很好用的开源代码片段管理软件，基于[GitHub Gist](https://gist.github.com/)。GitHub:star:6.8k，推荐等级：:heart::heart:！
++ [Codeimg.io](https://codeimg.io/)：Codeimg.io 是一个仍在测试中的创建代码图像的工具，目前发布了创建代码图像所需的基本功能：按照常用社交平台 Facebook、Twitter、Instagram 及自定义创建项目、支持 JPG、PNG 和 SVG 项目格式、调整字体大小、保存用户定义的设置等。
++ [Carbon](https://carbon.now.sh/)：Carbon 是由 Dawn Labs 创建开发的一个代码转图像的开源项目，目前在 GitHub 上拥有 :star:200k+。
++ [Glorious Demo](https://glorious.codes/demo)：Glorious Demo 是一个开源的 JavaScript 库，它提供了一个简单的 API 来为你的代码示例创建动画。目前在 GitHub 拥有:star:3k。[GitHub](https://github.com/glorious-codes/glorious-demo#installation)
++ [CodeZen](http://codezen.rishimohan.me/)：CodeZen 是一个非常简约的代码转图像工具，就像操作文本编辑器一样简单，能快速将你的源代码导出为具有语法风格的图像。
++ [StarHistory](https://github.com/timqian/star-history)：查看某个项目的 star 的增长趋势，Github:star:1.6k
+
+
+<a class="toc" id ="33"></a>
+# Other Unsorted (其它) ❓
 [🔙](#table-of-contents)
 
 + [Awesome](https://github.com/sindresorhus/awesome)：各种Awesome 资源大全，GitHub :star:123k，推荐等级:heart::heart::heart::heart:！
 + [Web Develope Roadmap](https://github.com/kamranahmedse/developer-roadmap)：web 开发者学习路线图，GitHub :star:93.2k，推荐等级:heart::heart::heart::heart:！
-+ [Lepton](https://github.com/hackjutsu/Lepton)：一个很好用的开源代码片段管理软件，基于[GitHub Gist](https://gist.github.com/)。GitHub:star:6.8k，推荐等级：:heart::heart:！
 + [Let's Build A Simple Interpreter](https://ruslanspivak.com/lsbasi-part1/)：加拿大工程师[Ruslan Spivak](https://ruslanspivak.com/pages/about/)写的如何利用Python自己写一个编译器文章的博客，适合用于学习编译原理。[GitHub代码](https://github.com/rspivak/lsbasi)
 >“如果你不知道编译器是如何工作的，那么你就不知道计算机是如何工作的。 如果你不是100％确定你是否知道编译器是如何工作的，那么你就不知道它们是如何工作的。“ - Steve Yegge 
 + [Let’s Build A Web Server](https://ruslanspivak.com/lsbaws-part1/)：加拿大工程师[Ruslan Spivak](https://ruslanspivak.com/pages/about/)写的如何利用Python自己写一个网络服务器的博客，适合用于学习Web server。[GitHub代码](https://github.com/rspivak/lsbaws)
@@ -1093,9 +1137,6 @@
 + [Greasy Fork](https://greasyfork.org/zh-CN): 一个提供用户脚本的网站，浏览器安装好 TemperMonkey 后，使用这些脚本上网简直不要爽到飞起
 + [Remove.bg](https://www.remove.bg/)：一个可以在线免费消除图片背景的网站，并且提供API供批量处理图片使用（收费），简单方便（只需几秒钟，但效果强大
 + [Advanced Java](https://github.com/doocs/advanced-java)：GitHub:star:25k，互联网 Java 工程师进阶知识完全扫盲：涵盖高并发、分布式、高可用、微服务等领域知识，后端同学必看，前端同学也可学习，推荐等级：:heart::heart::heart:！
-+ [Machine learning datasets](https://www.datasetlist.com/)：这个网站上共收集到了100多个业界最大型的数据集。根据任务类别，这些数据集中又分为三大类：计算机视觉（CV）、自然语言处理（NLP）和音频数据集
-+ [Networkrepository](http://networkrepository.com/index.php)：第一个具有实时可视化分析功能的交互式数据和网络数据存储库。里面有许多Graph相关的数据集
-+ [Free Books](https://github.com/ruanyf/free-books)：阮一峰老师在 GitHub 上整理了他平时所发现的一些免费技术书籍。书籍列表包括 Web 开发、人工智能、系统管理等内容，覆盖面颇广
 + [Windows Keyboard Shortcuts](https://support.microsoft.com/zh-cn/help/12445/windows-keyboard-shortcuts)：微软官方：Windows 中的键盘快捷方式
 + [Naptha](https://projectnaptha.com/)：一位来自MIT的学生Kevin Kwok用计算机视觉算法写了个Chrome插件Naptha，可以直接识别网页图片中的文字，并直接对它们进行高亮、复制粘贴、翻译、修改等操作。[Chrome插件下载地址](https://chrome.google.com/webstore/detail/project-naptha/molncoemjfmpgdkbdlbjmhlcgniigdnf)
 + [PDFresizer](https://pdfresizer.com/)：只需几下点击，允许对PDF文件分割和合并，优化，裁剪，调整大小，进行在线转换。
@@ -1114,34 +1155,10 @@
 + [Google Colab](https://colab.research.google.com/notebooks/welcome.ipynb)：Google Colab是帮你快速了解Python代码的利器，你可以直接在上面运行一些好玩好用的Jupyter Notebook项目。对于初学机器学习的人，即使你没有很好的硬件，也可以利用谷歌的免费资源来跑程序。同时上面还有很多GitHub相关[技术教程汇总](https://www.google-colab.com/github/)。推荐等级：:heart::heart:！
 + [Awesome Google Colab](https://github.com/firmai/awesome-google-colab)：GitHub上的一个新项目，Colab资源汇总。作者还自己建了[非官方的colab网站](https://www.google-colab.com/)，收集了大量学习资源。同时上面还有很多GitHub相关[技术教程汇总](https://www.google-colab.com/github/)。推荐等级：:heart::heart::heart:！
 + [Microsoft To-Do](https://todo.microsoft.com/tasks/)：微软打造的PC版 TODO 工具
-+ [Codeimg.io](https://codeimg.io/)：Codeimg.io 是一个仍在测试中的创建代码图像的工具，目前发布了创建代码图像所需的基本功能：按照常用社交平台 Facebook、Twitter、Instagram 及自定义创建项目、支持 JPG、PNG 和 SVG 项目格式、调整字体大小、保存用户定义的设置等。
-+ [Carbon](https://carbon.now.sh/)：Carbon 是由 Dawn Labs 创建开发的一个代码转图像的开源项目，目前在 GitHub 上拥有 :star:200k+。
-+ [Glorious Demo](https://glorious.codes/demo)：Glorious Demo 是一个开源的 JavaScript 库，它提供了一个简单的 API 来为你的代码示例创建动画。目前在 GitHub 拥有:star:3k。[GitHub](https://github.com/glorious-codes/glorious-demo#installation)
-+ [CodeZen](http://codezen.rishimohan.me/)：CodeZen 是一个非常简约的代码转图像工具，就像操作文本编辑器一样简单，能快速将你的源代码导出为具有语法风格的图像。
 + [Marmoset](http://t.cn/AiT9X7mV)：Marmoset 是一款 Chrome 应用程序，可以让你以透视的方式截取你的代码截图。
-+ [DownGit](https://minhaskamal.github.io/DownGit/#/home)：Git文件下载工具，只需输入连接即可下载GitHub上的文件
 + [Material Design](https://github.com/Templarian/MaterialDesign)：图标设计大全，GitHub:star:7.1k。
-+ [StarHistory ](https://github.com/timqian/star-history)：查看某个项目的 star 的增长趋势，Github:star:1.6k
-+ Code Review 工具：
-    + [Review Assistant](https://bit.ly/2Uw0a6M)：Review Assistant 是 Visual Studio 的一个扩展。它支持 Visual Studio 2019、2017、2015、2013、2012 和 2010。Review Assistant 可以帮助创建审查请求并能在不离开 IDE 的情况下对请求做出响应。它支持 TFS、Subversion、Git、Mercurial 以及 Perforce。Review Assistant 将“代码审查板（Code Review Board）”窗口添加到 IDE 中。该窗口可用于管理用户所有可用的审查。
-    + [Reshift](https://bit.ly/33Oubj8)：Reshift 是一个基于 SaaS（Software-as-a-Service，软件即服务）的软件平台，它可以帮助软件开发团队在部署代码到生产环境之前，更快地识别出代码中更多的漏洞。可以减少发现和修复漏洞的成本和时间，可以识别数据泄露的潜在风险，并能帮助软件公司达到合规性和法规要求。
-    + [Gerrit](https://www.gerritcodereview.com/)：这是一个开源的轻量级工具，它是基于“Git 版本控制系统”来进行构建的。在所有用户都是受信提交者的项目环境中，该工具非常有用，因为该工具允许用户检查项目中所做的总体变更。
-    + [Codestriker](http://codestriker.sourceforge.net/)：Codestriker 是一个开源的在线源码审查 Web 应用程序。此代码审查工具可以帮助我们在数据库中记录问题、注释和决策。它也可以用于代码检查（Code Inspections）。
-    + [Phabricator](https://www.phacility.com/)：Phabricator 是一个开源的源码扫描程序。它还包括了基于 Web 的轻量级代码审查、规划、测试、bug 发现等功能。
-    + [Crucible](https://www.atlassian.com/software/crucible)：Crucible 是一个基于 Web 的代码质量工具。开发人员利用它来进行代码审查、bug 及缺陷发现、变更讨论和知识共享。该工具可以帮助他们捕获主要缺陷并改进他们的代码架构。
-    + [Review Board](https://www.reviewboard.org/)：Review Board 是一个安全的代码审查工具。它可用于开源项目和公司的代码审查和文档审查。
-    + [Barkeep](http://getbarkeep.org/)：Barkeep 是一个友好的代码审查系统工具。它提供了一种最简单的方法来审查代码。它允许我们查看任何 Git 库的提交、查看差异点并编写注释。
-    + [Reviewable](https://reviewable.io/)：Reviewable 是一个轻量级的、功能强大的代码分析工具，它使代码审查更快、更全面。它通过用户界面清理、bug 发现以及语法高亮显示来帮助我们提高代码质量。
-    + [Peer Review Plugin](https://trac-hacks.org/wiki/PeerReviewPlugin)：Peer Review Plugin 消除了耗时的代码审查会议的需求，因为它使我们可以在基于 Web 的用户友好的环境中审查代码。
-    + [Codacy](https://www.codacy.com/)：Codacy 工具通过静态代码分析自动识别问题。在每个拉取（pull）和提交（commit）请求中，它能快速地告诉用户有关安全性问题、代码重复和代码复杂度的信息。
-    + [CodeFactor.io](https://www.codefactor.io/)：使用 Code Factor 工具，我们可以了解整个项目的代码质量、最近提交的内容以及问题最多的文件。我们可以针对每次提交（commit）和拉取（pull）的请求进行跟踪及问题修复。
-    + [Helix swarm](https://www.perforce.com/products/helix-swarm)：Helix swarm 是一个代码审查工具，它可以安排审查、共享内容并查看代码审查变更。它支持持续集成部署。它可以帮助我们监控进度、自动化设计过程并提高项目的发布质量。
-    + [Rhodecode](https://rhodecode.com/)：Rhodecode 是一个开源的、安全的企业级源码管理工具。该工具可作为 Git、Subversion 和 Mercurial 的集成工具。
-    + [Veracode ](https://www.veracode.com/products/binary-static-analysis-sast)：Veracode 是一个代码审查和静态分析工具。它是基于 SaaS 模型构建的。此工具允许我们从安全性的角度分析代码。该工具使用二进制代码 / 字节码，并能保证 100% 的测试覆盖率。
-    + [JArchitect](http://www.jarchitect.com/)：JArchitect 是一款易于使用的代码审查工具，可用于分析 Java 代码。每次审查后，它都会发送一份项目开发相关的报告。该工具还可以帮助我们提高代码的可维护性。
 
-
-<a class="toc" id ="32"></a>
+<a class="toc" id ="34"></a>
 # Last Update (更新时间) 🕰 ：20120/02/03
 [🔙](#table-of-contents)
 
