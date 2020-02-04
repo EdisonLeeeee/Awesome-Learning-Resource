@@ -4,12 +4,12 @@
 + [Git 👬](#2)
 + [GitHub 👬](#3)
 + [Algorithm (算法) 💡](#4)
-+ [Tutorial Blogs (教程博客) 🗨](#5)
++ [Tutorials and Blogs (教程博客) 🗨](#5)
 + [CheatSheets 📑](#6)
 + [Math (数学) 📐](#7)
 + [Learning Websites (学习网站) 💻](#8)
 + [Learn by Game 👾](#9)
-+ [Courses and Learning Resources (课程与学习资源 )‍ 🎓](#10)
++ [Courses and Books (课程与书籍) 🎓](#10)
 + [Go Learning (Go 学习) 🇬🇱](#11)
 + [Python Learning (Python 学习) 🐍](#12)
 + [Python Projects (Python 项目) 👨‍💻](#13)
@@ -138,7 +138,7 @@
 
 
 <a class="toc" id ="5"></a>
-# Tutorial Blogs (教程博客) 🗨
+# Tutorials and Blogs (教程博客) 🗨
 [🔙](#table-of-contents)
 
 
@@ -172,6 +172,7 @@
 + [《Go2-book》](https://github.com/chai2010/go2-book)：《Go2编程指南》开源图书，重点讲解Go2新特性，以及Go1教程中较少涉及的特性
 + [知乎：Flask 10天开发一个网站](https://zhuanlan.zhihu.com/p/33038507)：一个Flask写网站的教程
 + [Do We Really Need Model Compression?](http://mitchgordon.me/machine/learning/2020/01/13/do-we-really-need-model-compression.html)：探索从零开始训练小模型所涉及的障碍，讨论为什么模型压缩有效，以及两种提高内存效率的训练方法：超参数化界限和一种能够减少或消除对事后模型压缩的需求的优化算法。
++ [Tensorflow vs Pytorch](https://github.com/tango4j/tensorflow-vs-pytorch)：用于 TensorFlow 和 PyTorch 的比较指南
 
 
 <a class="toc" id ="6"></a>
@@ -184,6 +185,7 @@
 + [Python 3 Cheat Sheet (PDF)](https://perso.limsi.fr/pointal/_media/python:cours:mementopython3-english.pdf)：Python 3 Cheat Sheet 由法国国家科学研究中心（CNRS）的法国机械工程与信息技术实验室（LIMSI）的工程师 Laurent Pointal 总结。Python 3 Cheat Sheet 一共包含两页，分成了多个框图，涉及基本的 Python 数据结构、数学运算、条件和循环语句、文件读写，以及异常值处理等
 + [Python Cheatsheet](https://github.com/gto76/python-cheatsheet): 全面的Python备忘单，内含超全代码示例。基于Python 3.6打造，未来将会进一步丰富，添加Asyncio等内容。GitHub上获:star:4.6k。[文本下载链接](https://raw.githubusercontent.com/gto76/python-cheatsheet/master/README.md)
 + [DS Cheatsheets](https://github.com/FavioVazquez/ds-cheatsheets)：GitHub上:star:5k+的项目，一份数据科学备忘单
++ [Tips-of-Feature-engineering](https://github.com/Pysamlam/Tips-of-Feature-engineering)：机器学习实用的特征工程技巧
 
 
 
@@ -293,7 +295,7 @@
 + [Box Island](https://boxisland.io/)：Box Island 是一款经典且屡获殊荣的移动端编程冒险游戏，这款游戏在为孩子们带来令人兴奋的冒险体验的同时， 向他们介绍编程的基础知识。 
 
 <a class="toc" id ="10"></a>
-# Courses and Learning Resources (课程与学习资源 )‍ 🎓
+# Courses and Books (课程与书籍) 🎓
 [🔙](#table-of-contents)
 
 + [CS231n: Convolutional Neural Networks for Visual Recognition](http://cs231n.github.io/)：斯坦福CS课程CS231：卷积网络视觉识别笔记
@@ -394,9 +396,11 @@
 + [Lectures for INFO8010 - Deep Learning](https://github.com/glouppe/info8010-deep-learning)：深度学习课程 PPT，深入探讨深度学习架构的细节，重点是学习这些任务的端到端模型。学生将学习实施、训练和调试自己的神经网络，并对该领域的前沿研究有详细的了解。该课程还将介绍推理方法的最新创新，包括微分推理、对抗性训练和贝叶斯深度学习。作者主页[Gilles Louppe](http://glouppe.github.io/)
 + [《Python Tips for Data Scientist》](https://runawayhorse001.github.io/PythonTipsDS/pythonTipsDS.pdf)：最近Wenqiang Feng, Xu Gao and Upendra Madam三位数据科学家撰写了一本《给数据科学家的Python技能秘籍》，简明扼要，非常实用，使用与数据科学家相关的详细演示代码和示例来共享一些用于数据科学家工作的有用python技巧，值得放在身旁学习查看！
 + [Free Books](https://github.com/ruanyf/free-books)：阮一峰老师在 GitHub 上整理了他平时所发现的一些免费技术书籍。书籍列表包括 Web 开发、人工智能、系统管理等内容，覆盖面颇广
-
++ [《Mastering Large Datasets with Python》](https://www.manning.com/books/mastering-large-datasets-with-python)：《用Python掌握大型数据集》，作者J.T. Wolohan向您介绍了如何使用Python编码的功能影响方法来处理小型项目并对其进行扩展。您将探索有助于清晰性和可伸缩性的方法和内置Python工具，比如高性能并行方法，以及支持高数据吞吐量的分布式技术。本实用教程中丰富的实践练习将为任何大型数据科学项目锁定这些基本技能。
++ [Deep Learning Books)](https://github.com/loveunk/Deep-learning-books)：一些机器学习、深度学习等相关话题的书籍。推荐等级：:heart::heart::heart::heart:！
 
 <a class="toc" id ="11"></a>
+
 # Go Learning (Go 学习) 🇬🇱
 [🔙](#table-of-contents)
 
@@ -544,6 +548,8 @@
 [🔙](#table-of-contents)
 
 + [Nbviewer](https://nbviewer.jupyter.org/)： 在线渲染 Jupyter 文件的网页，只需要输入 Github 仓库地址即可。
++ [Nbdev](https://github.com/fastai/nbdev/)：fast.ai 创始研究员 Jeremy Howard 撰文介绍了 fast.ai 最近提出的新型编程环境 nbdev，它基于 Jupyter Notebook 构建，并将 IDE 编辑器的优点带入 Jupyter Notebook，可以在 Notebooks 中开发而不影响整个项目生命周期。[文档](https://github.com/fastai/nbdev/)
++ [Reviewnb](https://www.reviewnb.com/)：**Code Reviews for Jupyter Notebooks**，Jupyter Notebook 的代码审查工具。介绍博客[Introducing ReviewNB: Code Reviews for Jupyter Notebooks](https://towardsdatascience.com/introducing-reviewnb-visual-diff-for-jupyter-notebooks-6797e6dfa20c)
 + [Polynote](https://github.com/polynote/polynote)：使用类似 Jupyter Notebook 进行数据分析和机器学习是近来较为方便灵活的开发方式，但是 Jupyter Notebook 缺乏对多种语言的原生支持，在管理笔记本内的依赖、数据可视化等方面有所欠缺。近日，NetFlix 公司将其数据分析和机器学习开发工具 Polynote 开源。这一工具支持多语言在一个笔记本程序内运行，还增加了很多新特性，值得尝试使用。推荐等级：:heart:！
 + [Awesome JupyterLab](https://github.com/mauhai/awesome-jupyterlab)：Jupyter lab 插件和资源大全列表，GitHub::star:1k。
 + [Awesome Jupyter](https://github.com/adebar/awesome-jupyter)：Jupyter 插件和资源大全列表，GitHub::star:1.4k。
@@ -599,7 +605,7 @@
 + [Amueller](https://github.com/amueller)：如果你已经学完了 Dataquest 上的数据科学课程，那么你应该对使用 Python 执行机器学习的基础知识有了充分了解。如果还没有，这方面也有很多免费资源。我推荐首先从 scikit-learn 开始学起，因为 scikit-learn 是目前最常用的机器学习 Python 库。很幸运，scikit-learn 核心开发者之一 Andreas Mueller 举办了为期两天的 workshop，同时发布了该课程的所有材料，包含幻灯片、课程笔记和 notebook。推荐大家先学习这份资料。
 + [Scikit-learn](https://scikit-learn.org/stable/tutorial/basic/tutorial.html)：接下来，我推荐大家学习 scikit-learn 官方文档中的一些教程。之后，大家就可以构建一些实际机器学习应用，学习模型运行背后的理论了。
 + [Scikit-learn 贡献指南](https://scikit-learn.org/stable/developers/contributing.html)：scikit-learn 贡献指南旨在促进开发者对 scikit-learn 库的贡献，但它实际上也涉及最佳实践。它包括 GitHub、单元测试、debug 等话题，而且其写作背景是数据科学应用。
-+ [Fast.Ai](https://www.fast.ai/)：要想对深度学习有一个全面的了解，我觉得 fast.ai 是最好的选择，它完全免费且没有广告。该课程包含机器学习导论、深度学习实践、计算线性代数和自然语言处理导论（代码优先）。所有课程都以实践为先，强烈推荐大家学习这些课。
++ [Fast.Ai](https://www.fast.ai/)：要想对深度学习有一个全面的了解，我觉得 fast.ai 是最好的选择，它完全免费且没有广告。该课程包含机器学习导论、深度学习实践、计算线性代数和自然语言处理导论（代码优先）。所有课程都以实践为先，强烈推荐大家学习这些课。深度学习课程[Practical Deep Learning for Coders](https://course.fast.ai/index.html)，推荐等级：:heart::heart::heart:！
 + [数据科学推荐阅读清单](https://medium.com/vickdata/10-free-data-science-books-you-must-read-in-2019-2d4f32793a51)：一份数据科学推荐阅读清单，包含 10 本在线免费书籍
 + [Super Machine Learning Revision Notes](https://createmomo.github.io/2018/01/23/Super-Machine-Learning-Revision-Notes/#tableofcontents)：一份长约 80 页的学习笔记，旨在总结机器学习的一系列基本概念（如梯度下降、反向传播等），不同的机器学习算法和流行模型，以及一些作者在实践中学到的技巧和经验。推荐等级：:heart::heart:！
 + [Machine Learning Course](https://github.com/machinelearningmindset/machine-learning-course)：Python 机器学习在线指南，本项目的目的是通过使用 Python 提供一系列简单而全面的教程来梳理机器学习的最重要方面。Github上:star:6k+。[在线阅读](https://machine-learning-course.readthedocs.io/en/latest/index.html#)，推荐等级：:heart::heart:！
