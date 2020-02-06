@@ -4,12 +4,12 @@
 + [Git 👬](#2)
 + [GitHub 👬](#3)
 + [Algorithm (算法) 💡](#4)
-+ [Tutorials and Blogs (教程博客) 🗨](#5)
++ [Tutorials & Blogs (教程博客) 🗨](#5)
 + [CheatSheets 📑](#6)
 + [Math (数学) 📐](#7)
 + [Learning Websites (学习网站) 💻](#8)
 + [Learn by Game 👾](#9)
-+ [Courses and Books (课程与书籍) 🎓](#10)
++ [Courses & Books (课程与书籍) 🎓](#10)
 + [Go Learning (Go 学习) 🇬🇱](#11)
 + [Python Learning (Python 学习) 🐍](#12)
 + [Python Projects (Python 项目) 👨‍💻](#13)
@@ -29,11 +29,11 @@
 + [English Learning (英语学习) 🗣](#27)
 + [Paper-Related (论文相关) 📝](#28)
 + [Download (下载) 📥](#29)
-+ [Interview (工作面试) 💼](#30)
++ [Jobs & Interview (工作面试) 💼](#30)
 + [Dataset (数据集)  📊](#31)
 + [Code-Related Toolkit 💻](#32)
 + [Other Unsorted (其它) ❓](#33)
-+ [Last Update (更新时间) 🕰 ：20120/02/03](#34)
++ [Last Update (更新时间) 🕰 ：20120/02/06](#34)
 
 
 <a class="toc" id ="1"></a>
@@ -138,7 +138,7 @@
 
 
 <a class="toc" id ="5"></a>
-# Tutorials and Blogs (教程博客) 🗨
+# Tutorials & Blogs (教程博客) 🗨
 [🔙](#table-of-contents)
 
 
@@ -295,7 +295,7 @@
 + [Box Island](https://boxisland.io/)：Box Island 是一款经典且屡获殊荣的移动端编程冒险游戏，这款游戏在为孩子们带来令人兴奋的冒险体验的同时， 向他们介绍编程的基础知识。 
 
 <a class="toc" id ="10"></a>
-# Courses and Books (课程与书籍) 🎓
+# Courses & Books (课程与书籍) 🎓
 [🔙](#table-of-contents)
 
 + [CS231n: Convolutional Neural Networks for Visual Recognition](http://cs231n.github.io/)：斯坦福CS课程CS231：卷积网络视觉识别笔记
@@ -970,7 +970,7 @@
 
 
 <a class="toc" id ="30"></a>
-# Interview (工作面试) 💼
+# Jobs & Interview (工作面试) 💼
 [🔙](#table-of-contents)
 
 + [Interview Internal Reference](https://github.com/0voice/interview_internal_reference)：2019年最新总结，阿里、腾讯、百度、美团、今日头条等国内互联网大厂的面试题，还配备有答案和出题人分析等信息。这个项目或许对大家找工作面试有所帮助，推荐等级：:heart::heart::heart:！
@@ -999,7 +999,10 @@
 + [Awesome Interview Questions](https://github.com/MaximAbramchuck/awesome-interview-questions)：这个精选的面试题库不仅全，而且对提交的面试题会进行审核，并且会不定期对链接进行审核，提剔除失效链接，GitHub:star:30k+。推荐等级：:heart::heart::heart:！
 + [955.WLB](https://github.com/formulahendry/955.WLB)：与 996.ICU 相呼应，955 公司白名单。旨在让更多的人逃离 996，加入 955 的行列。GitHub 获:star:20k。
 + [SoftwareArchitect](https://github.com/justinamiller/SoftwareArchitect)：高级架构师 Justin Miller 在 GitHub 上创建项目，介绍自己关于「如何成为更好的软件架构师」的想法。该项目发布一天即获得 1.4k :star:，现在已有 :star:3.8k。
-
++ [How to Make More money](https://github.com/easychen/howto-make-more-money)：程序员如何优雅的挣零花钱，GitHub:star:9.3k
++ [Coding](https://coding.net/)：国内接项目外包平台
++ [Upwork](https://www.upwork.com/)：国外接项目外包平台
++ [Freelancer](http://freelancer.com)：国外接项目外包平台
 
 <a class="toc" id ="31"></a>
 # Dataset (数据集)  📊
@@ -1165,7 +1168,7 @@
 + [Material Design](https://github.com/Templarian/MaterialDesign)：图标设计大全，GitHub:star:7.1k。
 
 <a class="toc" id ="34"></a>
-# Last Update (更新时间) 🕰 ：20120/02/03
+# Last Update (更新时间) 🕰 ：20120/02/06
 [🔙](#table-of-contents)
 
 
