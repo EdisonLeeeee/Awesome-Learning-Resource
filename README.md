@@ -33,12 +33,13 @@
 + [Dataset (数据集)  📊](#31)
 + [Code-Related Toolkit 💻](#32)
 + [Other Unsorted (其它) ❓](#33)
-+ [Last Update (更新时间) 🕰 ：20120/02/06](#34)
++ [Last Update (更新时间) 🕰 ：20120/02/09](#34)
 
 
 <a class="toc" id ="1"></a>
 # Preface (前言)
 [🔙](#table-of-contents)
+
 主要是用于汇总自己平时收集的一些学习网站、资源以及资料等，便于查看整理，并会不断更新 😋
 
 
@@ -66,7 +67,7 @@
 # GitHub 👬
 [🔙](#table-of-contents)
 
-+ [GitHub-Chinese-Top-Charts](https://github.com/kon9chunkit/GitHub-Chinese-Top-Charts)：Github中文项目排行榜，帮助你发现高分优秀中文项目、更高效地吸收国人的优秀经验成果；榜单每周更新一次。
++ [GitHub Chinese Top Charts](https://github.com/kon9chunkit/GitHub-Chinese-Top-Charts)：Github中文项目排行榜，帮助你发现高分优秀中文项目、更高效地吸收国人的优秀经验成果；榜单每周更新一次。
 + [HelloGithub](https://www.hellogithub.com/)：分享GitHub上有趣，入门级的开源项目
 + [GitHubDaily ](https://github.com/GitHubDaily/GitHubDaily)：每日不定时推送一批 GitHub 上优秀的开源项目给开发者, 帮助开发者们发现当下最火的开源项目
 + [GitHub 帮助](https://help.github.com/cn#dotcom)：GitHub官方中文帮助文档，全球最大的开源网站GitHub是每个程序员必须接触的，学习它的使用百利而无一害，同时也适合学习Git
@@ -173,11 +174,12 @@
 + [知乎：Flask 10天开发一个网站](https://zhuanlan.zhihu.com/p/33038507)：一个Flask写网站的教程
 + [Do We Really Need Model Compression?](http://mitchgordon.me/machine/learning/2020/01/13/do-we-really-need-model-compression.html)：探索从零开始训练小模型所涉及的障碍，讨论为什么模型压缩有效，以及两种提高内存效率的训练方法：超参数化界限和一种能够减少或消除对事后模型压缩的需求的优化算法。
 + [Tensorflow vs Pytorch](https://github.com/tango4j/tensorflow-vs-pytorch)：用于 TensorFlow 和 PyTorch 的比较指南
-
++ [State Of The Art Shitcode](https://github.com/trekhleb/state-of-the-art-shitcode)：GitHub 上有一个新项目，它描述了「最佳垃圾代码」的十九条关键准则。从变量命名到注释编写。这些准则将指导你写出最亮眼的烂代码。
 
 <a class="toc" id ="6"></a>
 # CheatSheets 📑
 [🔙](#table-of-contents)
+
 + [Data Science Cheat Sheet](https://github.com/abhat222/Data-Science--Cheat-Sheet)：数据科学速查表，GitHub:star:8k+。内容几乎涵盖数据科学相关的所有领域，在理论应用方面包括大数据分析、数据挖掘、数据可视化、深度学习，机器学习等等；在编程语言与工具方面，包括Excel、SQL、Python、MATLAB、Linux；基础的学科知识包含统计学、数学、概率论。另外，就连面试问题都没放过
 + [Git 基本操作](https://www.processon.com/view/5d43d213e4b0e42f2a2ba9b9?fromnew=1#map)：一张 Git 基本操作的速查表（脑图）
 + [Python Data Science Cheatsheet](https://github.com/jaystone776/python-data-science-cheatsheet)：Python 数据科学速查表中文版，[英文原版](https://www.datacamp.com/community/data-science-cheatsheets)。
@@ -186,7 +188,9 @@
 + [Python Cheatsheet](https://github.com/gto76/python-cheatsheet): 全面的Python备忘单，内含超全代码示例。基于Python 3.6打造，未来将会进一步丰富，添加Asyncio等内容。GitHub上获:star:4.6k。[文本下载链接](https://raw.githubusercontent.com/gto76/python-cheatsheet/master/README.md)
 + [DS Cheatsheets](https://github.com/FavioVazquez/ds-cheatsheets)：GitHub上:star:5k+的项目，一份数据科学备忘单
 + [Tips-of-Feature-engineering](https://github.com/Pysamlam/Tips-of-Feature-engineering)：机器学习实用的特征工程技巧
-
++ [Python 3 Cheat Sheet](https://perso.limsi.fr/pointal/python:memento)：Python 3 Cheat Sheet 由法国国家科学研究中心（CNRS）的法国机械工程与信息技术实验室（LIMSI）的工程师 Laurent Pointal 总结。这个简单的 Cheat Sheet 专注于从算法/编程开始所必需的语言部分，提供了学生入门所需的一般信息。注意：它不涉及面向对象的编程。[PDF 地址](https://perso.limsi.fr/pointal/_media/python:cours:mementopython3-english.pdf)
++ [Deep Learning cheatsheets for Stanford's CS 230](https://github.com/afshinea/stanford-cs-230-deep-learning)：吴恩达CS230深度学习课小抄，[清单主页](https://stanford.edu/~shervine/teaching/cs-230.html)。
++ [《Python-Knowledge-Handbook》](https://github.com/liyangbit/Python-Knowledge-Handbook)：《Python知识手册》 由 『Python数据之道』出品
 
 
 <a class="toc" id ="7"></a>
@@ -203,10 +207,12 @@
 + [线性代数（Linear Algebra）中文笔记](https://github.com/yizhen20133868/MIT-Linear-Algebra-Notes)：该笔记总结了我们在学习MIT线性代数课程的学习经验和过程。课程顺序是按照麻省理工公开课的 [Linear Algebra. ](http://open.163.com/special/opencourse/daishu.html) 记录的学习笔记。
 + [《Seeing Theory》](https://seeing-theory.brown.edu/cn.html#firstPage)：来自斯坦福大学的一位研究生和他的伙伴们开发了一本颇有新意的统计概率入门教材，与传统教材不同的是，这本书充分利用了数据可视化技术，交互性和趣味性都非常强，可以边读边玩。[书籍下载地址](https://seeing-theory.brown.edu/doc/seeing-theory.pdf)
 + [《Interactive Linear Algebra》](http://textbooks.math.gatech.edu/ila/index.html)：《交互式线性代数》，它的最大特点就是“交互式”，总共包含了 6 章内容，涵盖了线性代数的核心知识。[离线 PDF 电子版下载地址](http://textbooks.math.gatech.edu/ila/ila.pdf)。这份《交互式线性代数》在线网页，作者开源了所有代码，并发布在 GitHub 上。你可以修改程序中的源代码，实现更加个性化的体验。[GitHub源码地址](https://github.com/QBobWatson/gt-linalg)。
-+ [《Introduction to Applied Linear Algebra》](https://web.stanford.edu/~boyd/vmls/vmls.pdf)：斯坦福大学Stephen Boyd教授与加州大学Lieven Vandenberghe教授合著的一本线性代数书籍。这本教科书结合了直观的解释和丰富的实例，让抽象的线性代数知识变得通俗易懂，并且你不需要任何线性代数基础就能看懂。[斯坦福课程主页](https://web.stanford.edu/class/ee103/)，[UCLA课程主页](http://www.seas.ucla.edu/~vandenbe/ee133a.html)
 + [A Beginner’s Guide to the Mathematics of Neural Networks](https://link.springer.com/chapter/10.1007/978-1-4471-3427-5_2)：一份为初学者准备的指南，关于神经网络中的数学问题，帮助读者理解神经网络模型中的数学概念和应用。
 + [面向机器学习的线性代数和微积分要点速览](https://stanford.edu/~shervine/l/zh/teaching/cs-229/refresher-algebra-calculus)：斯坦福大学CS229课程中线性代数和微积分回顾，中文版
-
++ [《Introduction to Applied Linear Algebra》](https://web.stanford.edu/~boyd/vmls/vmls.pdf)：斯坦福大学Stephen Boyd教授与加州大学Lieven Vandenberghe教授合著的一本线性代数书籍。这本教科书结合了直观的解释和丰富的实例，让抽象的线性代数知识变得通俗易懂，并且你不需要任何线性代数基础就能看懂。[斯坦福课程主页](https://web.stanford.edu/class/ee103/)，[UCLA课程主页](http://www.seas.ucla.edu/~vandenbe/ee133a.html)
++ [《Linear Matrix Inequalities in System and Control Theory》](https://web.stanford.edu/~boyd/lmibook/)：斯坦福大学Stephen Boyd教授与加州大学Lieven Vandenberghe教授合著数学书之一
++ [《Convex Optimization》](https://web.stanford.edu/~boyd/cvxbook/)：斯坦福大学Stephen Boyd教授与加州大学Lieven Vandenberghe教授合著数学书之一
++ [《Linear Controller Design – Limits of Performance》](https://web.stanford.edu/~boyd/lcdbook/)：斯坦福大学Stephen Boyd教授与加州大学Lieven Vandenberghe教授合著数学书之一
 
 
 <a class="toc" id ="8"></a>
@@ -398,6 +404,9 @@
 + [Free Books](https://github.com/ruanyf/free-books)：阮一峰老师在 GitHub 上整理了他平时所发现的一些免费技术书籍。书籍列表包括 Web 开发、人工智能、系统管理等内容，覆盖面颇广
 + [《Mastering Large Datasets with Python》](https://www.manning.com/books/mastering-large-datasets-with-python)：《用Python掌握大型数据集》，作者J.T. Wolohan向您介绍了如何使用Python编码的功能影响方法来处理小型项目并对其进行扩展。您将探索有助于清晰性和可伸缩性的方法和内置Python工具，比如高性能并行方法，以及支持高数据吞吐量的分布式技术。本实用教程中丰富的实践练习将为任何大型数据科学项目锁定这些基本技能。
 + [Deep Learning Books)](https://github.com/loveunk/Deep-learning-books)：一些机器学习、深度学习等相关话题的书籍。推荐等级：:heart::heart::heart::heart:！
+
+
+
 
 <a class="toc" id ="11"></a>
 
@@ -617,6 +626,7 @@
 + [PC-DARTS](https://arxiv.org/abs/1907.05737)：在此论文中，来自上海交通大学和华为诺亚方舟实验室的研究人员提出了一种基于部分通道采样的内存高效的可微网络结构搜索方法方法，能够显著提升可微式搜索的速度和性能。该方法在 CIFAR10 数据集上，只需要 0.1 个 GPU 天（单卡 1.5 小时）就可以完成一次搜索过程，并且达到 2.57% 的测试错误率；即使在 ImageNet 数据集上直接搜索，该方法也只需要 3.8 个 GPU 天（8 卡 11.5 小时），并且在 ImageNet 的移动设定（600M 运算）中达到 24.2%/7.3% 的 top-1/top-5 测试错误率。难得的是，该方法展示出了在不同参数设定下的搜索稳定性，能够很容易地应用于不同的实际场景。[GitHub地址](https://github.com/yuhuixu1993/PC-DARTS)
 + [AutoGluon](https://github.com/awslabs/autogluon)：亚马逊AWS推出新的基于mxnet的开源库AutoGluon，只需三行代码，自动生成高性能模型，让调参、神经架构搜索等过程实现自动化，无需研究人员人工决策，大大降低了机器学习模型的使用门槛。[官方文档](https://autogluon.mxnet.io/)。
 + [Optuna](https://optuna.org/)：Optuna是一款为机器学习任务设计的自动超参数优化软件框架，是一款按运行定义(define-by-run) 原则设计的优化软件，允许用户动态地调整搜索空间，在同类软件中尤属首创，是下一代超参调优框架的代表。[GitHub](https://github.com/optuna/optuna):star:1.9k,
++ [SQLFlow](https://github.com/sql-machine-learning/sqlflow)：开源项目SQLFlow，它是SQL引擎（如MySQL、HIVE等）和机器学习引擎（如TensorFlow、XGBoost等）之间的桥梁。它扩展了SQL语义，使得它能够进行模型训练、预测和解释。GitHub:star:3.5k+
 
 
 <a class="toc" id ="17"></a>
@@ -673,19 +683,22 @@
 + [Graph-based deep learning literature](https://github.com/naganandy/graph-based-deep-learning-literature)： GitHub上的一个项目，作者整理了包含近期基于图的深度学习会议论文
 + [Literature of Deep Learning for Graphs](https://github.com/DeepGraphLearning/LiteratureDL4Graph)：GitHub上:star:2k的图神经网络的学习资源，里面整理了大量图深度学习论文，大多数都被顶会收录，数量有上百篇。这份资源最闪亮的地方，就是将这些不同方向已经发表的论文进行了整理，分门别类得放上了论文的标题、作者、关键词和地址链接。
 + [Must-read papers and continuous tracking on Graph Neural Network(GNN) progress](https://github.com/jdlc105/Must-read-papers-and-continuous-tracking-on-Graph-Neural-Network-GNN-progress/blob/master/README.md)：Github上的图神经网络必读论文和最新进展列表 
-+ [Pytorch Geometric](https://github.com/rusty1s/pytorch_geometric)：近几年来，图神经网络（GNN）在推荐系统、搜索引擎、计算机视觉等领域中都引起了较大的关注。Github有大量开源GNN实现，其中pytorch_geometric是最优秀的实现之一，曾被Yann LeCun推荐，GitHub上获:star:5k
 + [Plato](https://github.com/tencent/plato)：腾讯开源的高性能图计算框架 Plato，据介绍，Plato 可满足十亿级节点的超大规模图计算需求，将算法计算时间从「天」级缩短到「分钟」级，性能全面领先于其它主流分布式图计算框架，并且打破了原本动辄需要数百台服务器的资源瓶颈。
 + [Machine Learning with Graphs](http://web.stanford.edu/class/cs224w/)：斯坦福大学的最新课程CS224W——图机器学习，主讲人是斯坦福大牛Jure Leskovec，他是斯坦福大学计算机学院的副教授，也是图表示学习方法 node2vec 和 GraphSAGE 作者之一。
 + [Graph-based deep learning literature](https://github.com/naganandy/graph-based-deep-learning-literature)：图深度学习的论文集
 + [Open Graph Benchmark](http://ogb.stanford.edu)：在 NeurlPS 2019 大会的图表示学习演讲中，Jure Leskovec 宣布开源图神经网络的通用性能评价基准数据集 OGB（Open Graph Benchmark）。通过这一数据集，可以更好地评估模型性能等方面的指标。[图表示学习演讲合集](https://slideslive.com/38921872/graph-representation-learning-3)。
 + [Deep Graph Library (DGL)](https://github.com/dmlc/dgl)：在现有DL框架的基础上构建的基于Pytorch的Python包，用于简化对图的深度学习
-+ [PyTorch Geometric (PYG)](https://github.com/rusty1s/pytorch_geometric)：基于PyTorch的图深度学习扩展库
-+ [《An introduction to machine learning on graphs》](https://conferences.oreilly.com/strata/strata-ny-2019/public/schedule/detail/76557)：《Introduction to graphs and machine learning》（《图机器学习导论》）为我们介绍了图机器学习的动机与发展，包括网络表示学习、图神经网络等图机器学习方法及其在问答、知识图谱等领域的应用。
++ [Pytorch Geometric (PYG)](https://github.com/rusty1s/pytorch_geometric)：近几年来，图神经网络（GNN）在推荐系统、搜索引擎、计算机视觉等领域中都引起了较大的关注。Github有大量开源GNN实现，其中pytorch_geometric是最优秀的实现之一，曾被 Yann LeCun 推荐，GitHub上获:star:5k
 + [GraphEmbedding](https://github.com/shenweichen/GraphEmbedding)：GraphEmbedding 算法的实现库。
-+ [stellargraph](https://github.com/stellargraph/stellargraph)：使用tf2.x写的图机器学习算法实现库。
++ [StellarGraph](https://github.com/stellargraph/stellargraph)：使用tf2.x写的图机器学习算法实现库。
++ [Euler](https://github.com/alibaba/euler)：阿里妈妈开源大规模分布式图表征学习框架Euler，面向工业级用户和高级研究者，结合TF/XDL/PyTorch等深度学习基础工具，支持超大规模复杂异构图的模型训练。GitHub:star:2k+
++ [《An introduction to machine learning on graphs》](https://conferences.oreilly.com/strata/strata-ny-2019/public/schedule/detail/76557)：《Introduction to graphs and machine learning》（《图机器学习导论》）为我们介绍了图机器学习的动机与发展，包括网络表示学习、图神经网络等图机器学习方法及其在问答、知识图谱等领域的应用。
 + [《A Gentle Introduction to Deep Learning for Graphs》](https://arxiv.org/abs/1912.12693)：《A Gentle Introduction to Deep Learning for Graphs》是图深度学习领域的教程导论，它倾向于对主流概念和架构的一致和渐进的介绍，而不是对最新文献的阐述。教程在介绍概念和想法时采用了自上而下的方法并保留了清晰的历史观点，为此，导论在第2节中提供了图表示学习的泛化形式，将图表示学习泛化为一种基于局部和迭代的结构化信息处理过程。同时，介绍了架构路线图，整个导论也是围绕该路线图进行开展的。导论聚焦于面向局部和迭代的信息处理过程，因为这些过程与神经网络的体系更为一致。因此，导论会淡化那些基于图谱理论的全局方法（假设有一个固定的邻接矩阵）。
 + [《Deep Graph Similarity Learning: A Survey》](https://arxiv.org/abs/1912.11615)：在许多将数据表示为图形的领域中，学习图形之间的相似性度量标准被认为是一个关键问题，它可以进一步促进各种学习任务，例如分类，聚类和相似性搜索。最近，人们对深度图相似性学习越来越感兴趣，其中的主要思想是学习一种深度学习模型，该模型将输入图映射到目标空间，以使目标空间中的距离近似于输入空间中的结构距离。在这里，本文提供对深度图相似性学习的现有文献的全面回顾。本文为方法和应用提出了系统的分类法。最后，本文讨论该问题的挑战和未来方向。
 + [《Graph-Powered Machine Learning》](https://www.manning.com/books/graph-powered-machine-learning)：图驱动机器学习向您介绍图技术概念，强调图在机器学习和大数据平台中的作用。您将深入了解各种技术，包括数据源建模、算法设计、链接分析、分类和集群。在掌握核心概念之后，您将探索三个端到端项目，它们将演示体系结构、最佳设计实践、优化方法和常见缺陷。作者亚历山德罗·内格罗在构建基于图形的机器学习系统方面的丰富经验在每一章中都有所体现，你可以从他与真实客户合作的实例和具体场景中学习!
++ [TensorFlow Geometric](https://github.com/CrawlScript/tf_geometric)：基于 Tensorflow 的高效友好的图神经网络库，受 [Pytorch Geometric](https://github.com/rusty1s/pytorch_geometric) 启发。一个新开始的项目，GitHub:star:仅十几，但发展前景好。​推荐等级：:heart::heart::heart:！
+
+
 
 <a class="toc" id ="20"></a>
 # Generative Adversarial Networks (GANs) 🤜 🤛
@@ -713,10 +726,13 @@
 + [Adversarial-DL](https://github.com/mbs0221/Adversarial-DL)：对抗深度学习的论文集
 + [One Pixel Attack Keras](https://github.com/Hyperparticle/one-pixel-attack-keras)："One pixel attack for fooling deep neural networks"  的Keras实现
 + [Adversarial Robustness Toolbox](https://github.com/IBM/adversarial-robustness-toolbox)：IBM研发的关于对抗攻防机器学习的库，GitHub:star:1.2k。
++ [DeepRobust](DeepRobust)：密歇根州立大学开源的基于PyTorch实现的攻防算法库大全，包含`image`和`Graph`两种领域的攻防算法，目前刚刚开源，值得关注。
+
 
 <a class="toc" id ="22"></a>
 # Model Compression ⚗
 [🔙](#table-of-contents)
+
 + [Distiller](https://github.com/NervanaSystems/distiller)：基于Pytorch 的模型压缩库，GitHub:star:2.6k
 + [Tensorflow Model Optimization](https://github.com/tensorflow/model-optimization)：TensorFlow 官方模型优化工具，GitHub:star:600+。[官网主页](https://www.tensorflow.org/model_optimization)
 + [Distil*](https://github.com/huggingface/transformers/tree/master/examples/distillation)：包含了用于训练Distill*的原始代码，以及展示如何使用DistilBERT、DistilRoBERTa和DistilGPT2的示例。
@@ -776,7 +792,6 @@
 + [Tensorflow 官方Youtube](https://www.youtube.com/channel/UC0rqucBdTuFTjJiefW5t-IQ)：Tensorflow 官方Youtube
 + [Tensorflow 官方博客](https://medium.com/tensorflow)：Tensorflow 官方博客
 + [TensorFlow Tutorial For Beginners](https://www.datacamp.com/community/tutorials/tensorflow-tutorial)：Tensorflow 新手教程
-+ [TensorFlow Geometric](https://github.com/CrawlScript/tf_geometric)：基于 Tensorflow 的高效友好的图神经网络库，受 [Pytorch Geometric](https://github.com/rusty1s/pytorch_geometric) 启发。一个新开始的项目，GitHub:star:仅十几，但发展前景好。​推荐等级：:heart::heart::heart:！
 
 
 <a class="toc" id ="24"></a>
@@ -827,7 +842,7 @@
 + [PyTorch 123](http://pytorch123.com/)：PyTorch 是近年来较为火爆的深度学习框架，然而其中文版官方教程久久不来。近日，一款完整的 PyTorch 中文版官方教程出炉，作者来自 pytorchchina.com。教程根据 PyTorch 官方版本目录，完整地还原了所有的内容。包括简单的环境搭建、快速入门相关 API、高级操作、图像处理实战、文本处理实战、GAN 和强化学习等，基本涵盖了目前所有深度学习相关的知识点。推荐等级：:heart::heart::heart:！
 + [PyTorch Tutorials](https://pytorch.org/tutorials/)：PyTorch 官方英文文档
 + [PyTorch Tutorial](https://github.com/yunjey/pytorch-tutorial)：PyTorch Tutorial for Deep Learning Researchers。GitHub上已收获:star:10k+
-+ [Awesome Pytorch list](https://github.com/bharathgs/Awesome-pytorch-list)：GitHub上一个:star:7k+的项目，收集了GitHub上PyTorch相关内容以及不同的模型实现、帮助文档、教程，使用PyTorch的学习
++ [Awesome Pytorch list](https://github.com/bharathgs/Awesome-pytorch-list)：GitHub上一个:star:9k+的项目，收集了GitHub上PyTorch相关内容以及不同的模型实现、帮助文档、教程，使用PyTorch的学习。推荐等级：:heart::heart::heart::heart:！
 + [《Hands-on tour to deep learning with PyTorch》](https://mlelarge.github.io/dataflowr-web/cea_edf_inria.html)：dataflowr 最近推出的一门五天初步掌握深度学习的实战教程（实战使用 PyTorch 框架），有知识点有实例有代码。[GitHub地址](https://github.com/mlelarge/dataflowr)
 + [Existential Pontification and Generalized Abstract Digressions ](http://blog.ezyang.com/2019/05/pytorch-internals/)：万字综述，核心开发者全面解读 PyTorch 内部机制 
 + [Python Autocomplete](https://github.com/vpj/python_autocomplete/blob/master/extract_code.py)：一个利用 PyTorch 写的自动补全代码的小项目
@@ -843,7 +858,7 @@
 + [《Deep Learning With Pytorch》](https://pytorch.org/deep-learning-with-pytorch-thank-you)：Pytorch官网Pytorch.org最近发布了一本开源书深度学习《Deep Learning with PyTorch》，共141页pdf，限时开放，涵盖了深度学习和Pytorch库的介绍，预训练网络，张量，学习机制，数据神经网络学习。书里面有详实的代码，是入门学习Pytorch深度学习必备器物，不得不看！[GitHub仓库代码](https://github.com/deep-learning-with-pytorch/dlwpt-code)。推荐等级：:heart::heart:！
 + [PyTorch: An Imperative Style, High-PerformanceDeep Learning Library](https://papers.nips.cc/paper/9015-pytorch-an-imperative-style-high-performance-deep-learning-library.pdf)：NIPS 2019接收为poster的论文，由PyTorch 开发项目组发表，完整且系统地介绍了 PyTorch 本身。推荐等级：:heart::heart::heart:！
 + [高效入门pytorch视频教程](https://www.bilibili.com/video/av78848066?p=1&share_medium=android&share_source=copy_link&bbid=PQ05DmoLags-WjsNcQ1xinfoc&ts=1576063595154)：南开大学王老师强烈推荐的《高效入门pytorch视频教程》（33集完整版），推荐等级：:heart::heart::heart:！
-
++ [Pytorch-Playground](https://github.com/aaron-xichen/pytorch-playground)：Pytorch中的基本预训练模型和数据集(MNIST、SVHN、CIFAR10、CIFAR100、STL10、AlexNet、VGG16、VGG19、ResNet、Inception、SqueezeNet)，GitHub:star:1.9k
 
 
 
@@ -999,10 +1014,14 @@
 + [Awesome Interview Questions](https://github.com/MaximAbramchuck/awesome-interview-questions)：这个精选的面试题库不仅全，而且对提交的面试题会进行审核，并且会不定期对链接进行审核，提剔除失效链接，GitHub:star:30k+。推荐等级：:heart::heart::heart:！
 + [955.WLB](https://github.com/formulahendry/955.WLB)：与 996.ICU 相呼应，955 公司白名单。旨在让更多的人逃离 996，加入 955 的行列。GitHub 获:star:20k。
 + [SoftwareArchitect](https://github.com/justinamiller/SoftwareArchitect)：高级架构师 Justin Miller 在 GitHub 上创建项目，介绍自己关于「如何成为更好的软件架构师」的想法。该项目发布一天即获得 1.4k :star:，现在已有 :star:3.8k。
++ [DLInterview](https://github.com/ShanghaiTechAIClub/DLInterview)：上海科技大学 AI 实验室开源的一份深度学习面试题集锦，它从数学基础、经典机器学习算法、深度学习算法以及编程语言等方面提供了众多面试题。此外，这一个项目是作者在准备 2018 年春招实习过程中的总结，内容以计算机书籍的学习笔记为主，在整理重点知识的同时会尽量保证知识的系统性。
 + [How to Make More money](https://github.com/easychen/howto-make-more-money)：程序员如何优雅的挣零花钱，GitHub:star:9.3k
 + [Coding](https://coding.net/)：国内接项目外包平台
 + [Upwork](https://www.upwork.com/)：国外接项目外包平台
 + [Freelancer](http://freelancer.com)：国外接项目外包平台
+
+
+
 
 <a class="toc" id ="31"></a>
 # Dataset (数据集)  📊
@@ -1168,7 +1187,7 @@
 + [Material Design](https://github.com/Templarian/MaterialDesign)：图标设计大全，GitHub:star:7.1k。
 
 <a class="toc" id ="34"></a>
-# Last Update (更新时间) 🕰 ：20120/02/06
+# Last Update (更新时间) 🕰 ：20120/02/09
 [🔙](#table-of-contents)
 
 
