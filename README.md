@@ -34,7 +34,7 @@
 + [Dataset (数据集)  📊](#32)
 + [Code-related Toolkit 💻](#33)
 + [Other Unsorted (其它) ❓](#34)
-+ [Last Update (更新时间) 🕰 ：2020/02/16](#35)
++ [Last Update (更新时间) 🕰 ：2020/02/19](#35)
 
 
 # Preface (前言)
@@ -118,6 +118,7 @@
 + [Discourse](https://github.com/discourse/discourse)：一个开源的论坛，GitHub:star:30k。
 + [EverydayWechat](https://github.com/sfyc23/EverydayWechat)：微信助手：1.每日定时给好友（女友）发送定制消息。2.机器人自动回复好友。3.群助手功能（例如：查询垃圾分类、天气、日历、电影实时票房、快递物流、PM2.5等）。GitHub:star:7k。
 + [Google Cloud Vision](https://github.com/GoogleCloudPlatform/cloud-vision):Google的VisionAPI，可以用来自己构建一个搜索引擎。
++ [Markdeep](https://casual-effects.com/markdeep/)：Markdeep 是一个用来写纯文本的插件，它能以 Markdown 的语法与渲染方式纯文本，并在网页上展示。同时，除了 Markdown 语法，Markdeep 还额外支持图表、数学方程等扩展能力。只要你有纯文本编辑器，加上一条语句，瞬间它就可以成为 Markdown 编辑器。
 
 <a class="toc" id ="4"></a>
 # Algorithm (算法) 💡
@@ -192,6 +193,10 @@
 + [Transfer Learning With Tensorflow](https://rubikscode.net/2019/11/11/transfer-learning-with-tensorflow-2/)：TensorFlow2 最新迁移学习教程和实战
 + [Introducing TensorFlow Datasets](https://medium.com/tensorflow/introducing-tensorflow-datasets-c7f01f7e19f3)：TensorFlow Dataset 库的官方介绍博客。
 + [Python Logging Model](https://github.com/zonezoen/blog/tree/master/python/logging_model)：Python 线上环境如何优雅输出log日志
++ [床长人工智能教程](https://www.cbedai.net/chichoxian/)：床长人工智能教程，教程涉及到了人工智能的方方面面，从基础原理到现在很火的人脸识别，自动驾驶.，股票预测，金融分析…以及一些小众的特殊应用。
++ [Unveiling the Hidden Layers of Neural Networks](https://medium.com/sfu-big-data/unveiling-the-hidden-layers-of-neural-networks-6269615fb8a9)：深度学习黑盒可视化指南，了解神经网络隐藏层的重要性，介绍如何可视化神经网络以及隐藏层的过程。
++ [Machine Learning: Step-By-Step](https://towardsdatascience.com/machine-learning-step-by-step-6fbde95c455a)：使用随机森林、PCA和超参数调优的Python机器学习分类的逐步学习指南。
++ [Modelling the coronavirus epidemic in a city with Python](https://towardsdatascience.com/modelling-the-coronavirus-epidemic-spreading-in-a-city-with-python-babd14d82fa2)：Python新冠病毒传播建模教程。
 
 <a class="toc" id ="6"></a>
 # CheatSheets (速查表) 📑
@@ -447,6 +452,11 @@
 + [《Machine Learning Yearning》](https://www.deeplearning.ai/machine-learning-yearning/)：《机器学习秘籍》，Andrew Ng 博士目前正在撰写的一本免费书籍，教你如何构造机器学习项目。 本书的重点不是教你如何使用 ML 算法，而是教你如何使用 ML 算法。
 + [Interpretable Ml Book](https://github.com/christophM/interpretable-ml-book)：Christoph Molnar年初公开的《可解释的机器学习（Interpretable Machine Learning）》，带你打开机器学习的黑盒子。[在线阅读链接](https://christophm.github.io/interpretable-ml-book/index.html)
 + [《神经网络与深度学习》](http://neuralnetworksanddeeplearning.com/index.html)：神经网络是有史以来最漂亮的编程范例之一。在传统的编程方法中，我们告诉计算机要做什么，把大问题分解成许多小的、精确定义的任务，计算机可以轻松地执行这些任务。相反，在神经网络中，我们不会告诉计算机如何解决我们的问题。相反，它从观测数据中学习，找出自己解决手头问题的方法。
++ [Applied Machine Learning Spring 2020](http://www.cs.columbia.edu/~amueller/comsw4995s20/schedule/)：哥伦比亚大学应用机器学习课程2020，[GitHub](https://github.com/amueller/COMS4995-s20)， [视频](https://www.bilibili.com/video/av86820508)。
++ [《自然语言处理》](https://github.com/jacobeisenstein/gt-nlp-class/blob/master/notes/eisenstein-nlp-notes.pdf)：《自然语言处理》一书pdf
++ [《Structure and Interpretation of Computer Programs》](https://mitpress.mit.edu/sites/default/files/sicp/full-text/book/book.html)：这是曾经 MIT 计算机系本科生的教材，用 Lisp 的一种极简的方言 Scheme 语言作为初学者编程语言 —— 而不是常用的 Java、Python、C，SICP 训练的是大家如何表达。
++ [《The Art of Unix Programming》](http://www.catb.org/~esr/writings/taoup/html/)：Unix 有很多设计的智慧值得学习。
++ [《Paul Graham‘s Essays》](http://www.paulgraham.com/articles.html)：Paul Graham 是硅谷著名的工程师、创业者、和投资人，创办了 Y Combinator，在他的主页上有一系列著名的文章。推荐等级:heart::heart::heart:!
 
 
 <a class="toc" id ="11"></a>
@@ -517,6 +527,7 @@
 # Python Projects (Python 项目) 👨‍💻
 [🔙](#table-of-contents)
 
++ [Awesome Python Applications](https://github.com/mahmoud/awesome-python-applications)：181 个 Python 开源项目，涵盖了 15 个领域。GitHub:star:10.8k，推荐等级:heart::heart::heart::heart:!
 + [抖音机器人](https://github.com/wangshub/Douyin-Bot)：使用 Python+ADB 做的 Python 抖音机器人。可以实现自动翻页、颜值检测、人脸识别、自动点赞、自动关注、随机防 Ban、自动评论等功能
 + [PythonRobotics](https://github.com/AtsushiSakai/PythonRobotics)：这是机器人算法的 Python 代码集合，尤其适用于自主导航。易于阅读并能快速理解每个算法的基本思想、选择被广泛使用和实用的算法、最低依赖性。
 + [Google Images Download](https://github.com/hardikvasa/google-images-download)：这是一个命令行 python 程序，用于搜索 Google Images 上的关键字 / 关键短语，并可选择将图像下载到本地计算机；还可以从另一个 python 文件调用此脚本。
@@ -697,7 +708,7 @@
 + [SQLFlow](https://github.com/sql-machine-learning/sqlflow)：开源项目SQLFlow，它是SQL引擎（如MySQL、HIVE等）和机器学习引擎（如TensorFlow、XGBoost等）之间的桥梁。它扩展了SQL语义，使得它能够进行模型训练、预测和解释。GitHub:star:3.5k+
 + [ILearnDeepLearning.py](https://github.com/SkalskiP/ILearnDeepLearning.py)：包含了与神经网络和深度学习相关的小项目，尝试只使用 NumPy 构建，通过解决简单的分类问题来测试模型，并将其与 Keras 构建的神经网络进行性能比较。推荐等级：:heart::heart:！
 + [CDCS](https://github.com/geekinglcq/CDCS)：CDCS 中国数据竞赛优胜解集锦，GitHub:star:1.6k
-
++ [PKUSeg](https://github.com/lancopku/PKUSeg-python)：北大开源的一个中文分词工具包，名为PKUSeg，基于Python。工具包的分词准确率，远远超过THULAC和结巴分词这两位重要选手。GitHub:star:4.6k。
 
 <a class="toc" id ="17"></a>
 # Fine-tuning (模型调参) 🔧
@@ -766,11 +777,6 @@
 
 + [Innovations in Graph Representation Learning ](https://ai.googleblog.com/2019/06/innovations-in-graph-representation.html)：Google图挖掘团队的两位高级科学家Alessandro Epasto和Bryan Perozzi在Google AI Blog上发表的《Innovations in Graph Representation Learning》，介绍了最新的一些图表示学习成果
 + [Awesome Graph Classification](https://github.com/benedekrozemberczki/awesome-graph-classification)：这是一个野心勃勃的项目，涵盖了从深度学习、图形内核、到统计指纹和分解等领域的优秀论文以及对应的Python实现，作者表示会持续更新。GitHub :star:2k+。
-该仓库分为4个部分，分别是：
-    + 因式分解
-    + 光谱和统计指纹
-    + 深度学习
-    + 图形内核
 + [Awesome Network Embedding](https://github.com/chihming/awesome-network-embedding)：关于 Network Embedding 的相关论文合集，GitHub :star:2k。
 + [Awesome Graph Neural Networks](https://github.com/nnzhan/Awesome-Graph-Neural-Networks)：GNN相关论文列表。
 + [Graph-based deep learning literature](https://github.com/naganandy/graph-based-deep-learning-literature)： GitHub上的一个项目，作者整理了包含近期基于图的深度学习会议论文
@@ -791,6 +797,9 @@
 + [《Deep Graph Similarity Learning: A Survey》](https://arxiv.org/abs/1912.11615)：在许多将数据表示为图形的领域中，学习图形之间的相似性度量标准被认为是一个关键问题，它可以进一步促进各种学习任务，例如分类，聚类和相似性搜索。最近，人们对深度图相似性学习越来越感兴趣，其中的主要思想是学习一种深度学习模型，该模型将输入图映射到目标空间，以使目标空间中的距离近似于输入空间中的结构距离。在这里，本文提供对深度图相似性学习的现有文献的全面回顾。本文为方法和应用提出了系统的分类法。最后，本文讨论该问题的挑战和未来方向。
 + [《Graph-Powered Machine Learning》](https://www.manning.com/books/graph-powered-machine-learning)：图驱动机器学习向您介绍图技术概念，强调图在机器学习和大数据平台中的作用。您将深入了解各种技术，包括数据源建模、算法设计、链接分析、分类和集群。在掌握核心概念之后，您将探索三个端到端项目，它们将演示体系结构、最佳设计实践、优化方法和常见缺陷。作者亚历山德罗·内格罗在构建基于图形的机器学习系统方面的丰富经验在每一章中都有所体现，你可以从他与真实客户合作的实例和具体场景中学习!
 + [GDE](https://github.com/Zymrael/gde)：图神经常微分方程（Graph Neural Ordinary Differential Equations，GDE），GDE 模型的主要目的是，提供一种数据驱动的方法为结构化系统建模，特别是当这个动态过程是非线性时，更是难以用经典的分析方法进行建模。[论文 Graph Neural Ordinary Differential Equations](https://arxiv.org/abs/1911.07532)。
++ [Karate Club ](https://github.com/benedekrozemberczki/karateclub)：基于 NetworkX 的无监督图机器学习算法库，GitHub:star:300+。
++ [PyGSP](https://github.com/epfl-lts2/pygsp/tree/b7ca37c0f0eac7bb34167b6a7be0d2d5dbde7662)：Python 图信号处理库，GitHub:star:100+。
++ [Awesome GCN](https://github.com/Jiakui/awesome-gcn)：图卷积神经网络相关资源，GitHub:star:300+。
 
 
 <a class="toc" id ="21"></a>
@@ -1113,6 +1122,7 @@
 + [Awesome-algorithm-interview](https://github.com/lcylmhlcy/Awesome-algorithm-interview)：算法工程师(人工智能cv方向)面试问题及相关资料的网站收集
 + [Awesome Interview Questions](https://github.com/MaximAbramchuck/awesome-interview-questions)：这个精选的面试题库不仅全，而且对提交的面试题会进行审核，并且会不定期对链接进行审核，提剔除失效链接，GitHub:star:30k+。推荐等级：:heart::heart::heart:！
 + [Interactive Coding Challenges](https://github.com/donnemartin/interactive-coding-challenges)：20个交互式Python编码面试挑战(算法和数据结构)，GitHub:star:19k+。推荐等级：:heart::heart::heart:！
++ [Coding Interviews](https://github.com/shenweichen/coding_interviews)：《剑指Offer》题目汇总&常考题总结(Python实现)
 + [50+ Data Structure and Algorithms Interview Questions for Programmers](https://hackernoon.com/50-data-structure-and-algorithms-interview-questions-for-programmers-b4b1ac61f5b0)：Java语言算法和编程面试题精选TOP50，附解决方案。
 + [955.WLB](https://github.com/formulahendry/955.WLB)：与 996.ICU 相呼应，955 公司白名单。旨在让更多的人逃离 996，加入 955 的行列。GitHub 获:star:20k。
 + [SoftwareArchitect](https://github.com/justinamiller/SoftwareArchitect)：高级架构师 Justin Miller 在 GitHub 上创建项目，介绍自己关于「如何成为更好的软件架构师」的想法。该项目发布一天即获得 1.4k :star:，现在已有 :star:3.8k。
@@ -1313,7 +1323,7 @@
 
 
 <a class="toc" id ="35"></a>
-# Last Update (更新时间) 🕰 ：2020/02/16
+# Last Update (更新时间) 🕰 ：2020/02/19
 [🔙](#table-of-contents)
 
 
