@@ -34,7 +34,7 @@
 + [Dataset (数据集)  📊](#32)
 + [Code-related Toolkit 💻](#33)
 + [Other Unsorted (其它) ❓](#34)
-+ [Last Update (更新时间) 🕰 ：2020/02/19](#35)
++ [Last Update (更新时间) 🕰 ：2020/02/23](#35)
 
 
 # Preface (前言)
@@ -70,6 +70,7 @@
 + [Gitstar Ranking](https://gitstar-ranking.com/repositories)：GitHub顶级项目排行榜
 + [Gitignore](https://github.com/github/gitignore)：GitHub 提供的各种项目的 gitignore 文件模板，省了自己写了
 + [GitHub Chinese Top Charts](https://github.com/kon9chunkit/GitHub-Chinese-Top-Charts)：Github中文项目排行榜，帮助你发现高分优秀中文项目、更高效地吸收国人的优秀经验成果；榜单每周更新一次。
++ [Lib4dev](http://www.lib4dev.in/)：一个超赞的在线网站，里面汇集了包含所有编程语言的开源项目和库，并可以链接到相对应的 GitHub 上。使用 lib4dev 可以查找任何编程语言的最佳库，它界面简单，基本上所有编程语言的库和开源项目都可以在上面找得到。推荐等级：:heart::heart::heart:！
 + [HelloGithub](https://www.hellogithub.com/)：分享GitHub上有趣，入门级的开源项目
 + [GitHubDaily ](https://github.com/GitHubDaily/GitHubDaily)：每日不定时推送一批 GitHub 上优秀的开源项目给开发者, 帮助开发者们发现当下最火的开源项目
 + [GitHub 帮助](https://help.github.com/cn#dotcom)：GitHub官方中文帮助文档，全球最大的开源网站GitHub是每个程序员必须接触的，学习它的使用百利而无一害，同时也适合学习Git
@@ -119,6 +120,7 @@
 + [EverydayWechat](https://github.com/sfyc23/EverydayWechat)：微信助手：1.每日定时给好友（女友）发送定制消息。2.机器人自动回复好友。3.群助手功能（例如：查询垃圾分类、天气、日历、电影实时票房、快递物流、PM2.5等）。GitHub:star:7k。
 + [Google Cloud Vision](https://github.com/GoogleCloudPlatform/cloud-vision):Google的VisionAPI，可以用来自己构建一个搜索引擎。
 + [Markdeep](https://casual-effects.com/markdeep/)：Markdeep 是一个用来写纯文本的插件，它能以 Markdown 的语法与渲染方式纯文本，并在网页上展示。同时，除了 Markdown 语法，Markdeep 还额外支持图表、数学方程等扩展能力。只要你有纯文本编辑器，加上一条语句，瞬间它就可以成为 Markdown 编辑器。
++ [Real Time Person Removal](https://github.com/jasonmayes/Real-Time-Person-Removal)：实时人物去除项目，这个项目的神奇之处在于，只需要在网络浏览器中使用 JavaScript，用 200 多行 TensorFlow.js 代码，就可以实时让视频画面中的人物对象从复杂的背景中凭空消失！GitHub:star:2.5k
 
 <a class="toc" id ="4"></a>
 # Algorithm (算法) 💡
@@ -197,6 +199,10 @@
 + [Unveiling the Hidden Layers of Neural Networks](https://medium.com/sfu-big-data/unveiling-the-hidden-layers-of-neural-networks-6269615fb8a9)：深度学习黑盒可视化指南，了解神经网络隐藏层的重要性，介绍如何可视化神经网络以及隐藏层的过程。
 + [Machine Learning: Step-By-Step](https://towardsdatascience.com/machine-learning-step-by-step-6fbde95c455a)：使用随机森林、PCA和超参数调优的Python机器学习分类的逐步学习指南。
 + [Modelling the coronavirus epidemic in a city with Python](https://towardsdatascience.com/modelling-the-coronavirus-epidemic-spreading-in-a-city-with-python-babd14d82fa2)：Python新冠病毒传播建模教程。
++ [Building an Incremental Recommender System](https://towardsdatascience.com/building-an-incremental-recommender-system-8836e30afaef)：利用CF Step python库，快速实现增量学习推荐系统，重现了Joao Vinagre等人发表的*“Fast incremental matrix factorization for recommendation with positive-only feedback”的结果
++ [Machine Learning Notes](https://github.com/Sophia-11/Machine-Learning-Notes)：周志华《机器学习》手推笔记
++ [Clear and Creepy Danger of Machine Learning: Hacking Passwords](https://towardsdatascience.com/clear-and-creepy-danger-of-machine-learning-hacking-passwords-a01a7d6076d5)：一位好奇的学者 Tikeswar Naik，通过简单的实验和讨论了机器学习技术的某一潜在滥用情况——使用 ML 来破解密码，希望通过这一介绍能够让更多人保持警惕，并找到减轻或防止滥用的方法。[GitHub](https://github.com/tikeswar/kido)
+
 
 <a class="toc" id ="6"></a>
 # CheatSheets (速查表) 📑
@@ -357,6 +363,7 @@
 + [Coursera ML Py](https://github.com/nsoojin/coursera-ml-py)：吴恩达机器学习课程笔记，Python代码
 + [CourseraML](https://github.com/kaleko/CourseraML)：吴恩达机器学习课程笔记，Jupyter笔记本格式
 + [C++ 匠心之作 从0到1入门资料](https://github.com/AnkerLeng/Cpp-0-1-Resource)：C++ 匠心之作 从0到1入门资料，[视频教程](https://www.bilibili.com/video/av41559729/)。
++ [MIT 6.824: Distributed Systems](https://www.youtube.com/channel/UC_7WrbZTCODu1o_kfUMq88g)：MIT"分布式系统课程"（Distributed Systems），业内大名鼎鼎，新手入坑分布式系统的首选学习教程。[B站地址](https://www.bilibili.com/video/av89327823/)
 + [A Self-Learning, Modern Computer Science Curriculum](https://functionalcs.github.io/curriculum/)：国外一位工程师写的计算机自学指南，中文译名应为《现代化计算机科学自学指南》，内容包含着许多来自许多世界知名高校、顶尖的教授与技术专家所编著的计算机课程
 + [Virgilio](https://github.com/virgili0/Virgilio)：这个项目是 GitHub 上一位名为“维吉尔（Vigilio）”的开发者整理的一个:star:10k的项目，项目包括职业进阶路径、专业知识讲解、工具介绍等，着重强调，不走弯路，简明扼要。[GitHub中文版链接](https://github.com/virgili0/Virgilio/tree/master/zh-CN)。推荐等级：:heart::heart::heart:！
 + [Leeml Notes](https://github.com/datawhalechina/leeml-notes)：李宏毅老师的机器学习视频是机器学习领域经典的中文视频之一，也被称为中文世界中最好的机器学习视频。这个笔记是根据李宏毅老师机器学习视频的一个辅助资料，本笔记基本上完全复刻李老师课堂上讲的所有内容，并加入了一些和相关的学习补充资料和参考资料，结合这些资料一起学习，相信你会对机器学习有更加深刻的理解。[在线阅读地址](https://datawhalechina.github.io/leeml-notes)和[配套视频](https://www.bilibili.com/video/av59538266)。推荐等级：:heart::heart::heart:！
@@ -450,7 +457,7 @@
 + [《The Hundred-Page Machine Learning Book》](http://themlbook.com/wiki/doku.php)：《百页机器学习》，这本书诞生于 LinkedIn 上的一个挑战（Andriy 是一个有影响力的人）。他的书不需要太多的介绍：亚马逊同类产品的畅销书，可能还是这一主题的最好的书面知识总结。
 + [《Learn From Data》](https://www.youtube.com/playlist?list=PLD63A284B7615313A)：如果你想开始学习机器学习的关键概念，那么你会喜欢这本书：简单易懂，简洁明了。这可能是继吴恩达课程之后最好的学习资源！这是我第一本关于机器学习的书和课程。
 + [《Machine Learning Yearning》](https://www.deeplearning.ai/machine-learning-yearning/)：《机器学习秘籍》，Andrew Ng 博士目前正在撰写的一本免费书籍，教你如何构造机器学习项目。 本书的重点不是教你如何使用 ML 算法，而是教你如何使用 ML 算法。
-+ [Interpretable Ml Book](https://github.com/christophM/interpretable-ml-book)：Christoph Molnar年初公开的《可解释的机器学习（Interpretable Machine Learning）》，带你打开机器学习的黑盒子。[在线阅读链接](https://christophm.github.io/interpretable-ml-book/index.html)
++ [Interpretable Ml Book](https://github.com/christophM/interpretable-ml-book)：Christoph Molnar年初公开的《可解释的机器学习（Interpretable Machine Learning）》，带你打开机器学习的黑盒子。[在线阅读链接](https://christophm.github.io/interpretable-ml-book/index.html)，[中文版链接](https://github.com/apachecn/interpretable-ml-book-zh)。
 + [《神经网络与深度学习》](http://neuralnetworksanddeeplearning.com/index.html)：神经网络是有史以来最漂亮的编程范例之一。在传统的编程方法中，我们告诉计算机要做什么，把大问题分解成许多小的、精确定义的任务，计算机可以轻松地执行这些任务。相反，在神经网络中，我们不会告诉计算机如何解决我们的问题。相反，它从观测数据中学习，找出自己解决手头问题的方法。
 + [Applied Machine Learning Spring 2020](http://www.cs.columbia.edu/~amueller/comsw4995s20/schedule/)：哥伦比亚大学应用机器学习课程2020，[GitHub](https://github.com/amueller/COMS4995-s20)， [视频](https://www.bilibili.com/video/av86820508)。
 + [《自然语言处理》](https://github.com/jacobeisenstein/gt-nlp-class/blob/master/notes/eisenstein-nlp-notes.pdf)：《自然语言处理》一书pdf
@@ -709,6 +716,7 @@
 + [ILearnDeepLearning.py](https://github.com/SkalskiP/ILearnDeepLearning.py)：包含了与神经网络和深度学习相关的小项目，尝试只使用 NumPy 构建，通过解决简单的分类问题来测试模型，并将其与 Keras 构建的神经网络进行性能比较。推荐等级：:heart::heart:！
 + [CDCS](https://github.com/geekinglcq/CDCS)：CDCS 中国数据竞赛优胜解集锦，GitHub:star:1.6k
 + [PKUSeg](https://github.com/lancopku/PKUSeg-python)：北大开源的一个中文分词工具包，名为PKUSeg，基于Python。工具包的分词准确率，远远超过THULAC和结巴分词这两位重要选手。GitHub:star:4.6k。
++ [JAX](https://github.com/google/jax):JAX由谷歌提出，是TensorFlow的简化库。结合了针对线性代数的编译器XLA，和自动区分本地 Python 和 Numpy 代码的库Autograd，在高性能的机器学习研究中使用。GitHub:star:6.9k
 
 <a class="toc" id ="17"></a>
 # Fine-tuning (模型调参) 🔧
@@ -767,7 +775,9 @@
 + [Playing Games](https://paperswithcode.com/area/playing-games)：深度强化学习的快速发展最直接的应用和体现就在“游戏”领域，目前DRL技术主要在视频帧游戏(Atari)、棋牌游戏(Go)、实时策略游戏、Board 游戏、球类(Football)等游戏中有广泛的研究，然而很多人看了领域大牛、顶级研究机构发的论文，一头雾水，主要原因是一方面自身coding能力不是足够高，另外一方面已发表的论文省略了众多细节，导致无法复现进行研究。该开源项目就是一些强化学习复现的论文及相关代码进行了汇总，从Paper到Coding, 一览深度强化学习挑战34类游戏。
 + [《A Beginner's Guide to Deep Reinforcement Learning》](https://pathmind.com/wiki/deep-reinforcement-learning)：一份简明《深度强化学习初学者指南》实用的教程
 + [《Deep Reinforcement Learning Hands On》](https://github.com/PacktPublishing/Deep-Reinforcement-Learning-Hands-On)：这本书提供了一个实际的方法，通过平衡理论和编码实践的RL。一本书，让你动起手来，但也有大量的知识，如何正确地做，并了解背后发生的事情。这是一本关于 RL 的最佳实践风格书。
-
++ [JAX](https://github.com/google/jax):JAX由谷歌提出，是TensorFlow的简化库。结合了针对线性代数的编译器XLA，和自动区分本地 Python 和 Numpy 代码的库Autograd，在高性能的机器学习研究中使用。GitHub:star:6.9k
++ [HAIKU](https://github.com/deepmind/dm-haiku)：DeepMind发布了Haiku和RLax两个库，都是基于JAX。Haiku是基于JAX的神经网络库，允许用户使用熟悉的面向对象程序设计模型，可完全访问 JAX 的纯函数变换。
++ [RLAX](https://github.com/deepmind/rlax)：RLax是JAX顶层的库，它提供了用于实现强化学习代理的有用构件。它所提供的操作和函数不是完整的算法，而是强化学习特定数学操作的实现。
 
 
 
@@ -905,6 +915,8 @@
 + [TensorFlow/TPU](https://github.com/tensorflow/tpu)：这个存储库是云TPU使用的参考模型和工具的集合，里面实现了大量的模型。GitHub:star:3k。
 + [AttentioNN](https://github.com/zaidalyafeai/AttentioNN)：关于各种 Attention 的 TensorFlow 实现。
 + [TFGAN](https://github.com/tensorflow/gan)：2017 年，谷歌推出了用于训练和评估 生成对抗网络 (Generative Adversarial Networks, GAN) 的轻量级库 TF-GAN。自那时起，TF-GAN 便在大量极具影响力的论文和项目中被广泛应用。
++ [Machine Learning Zero to Hero (Google I/O'19)](https://v.youku.com/v_show/id_XNDE3NjYwMjU2MA==.html?)：机器学习: 从零到一学习 TensorFlow，来自 TensorFlow 团队的 Laurence Moroney 从开发人员的角度，制作一个系列视频，向大家介绍机器学习到底是什么。
++ [Learn Tensorflow 3](https://codelabs.developers.google.com/codelabs/tensorflow-lab3-convolutions/#0)：卷积神经网络学习及如何利用 TensorFlow 构建卷积神经网络
 
 <a class="toc" id ="25"></a>
 # Keras Learning (Keras 学习) 🇰🇷
@@ -1323,7 +1335,7 @@
 
 
 <a class="toc" id ="35"></a>
-# Last Update (更新时间) 🕰 ：2020/02/19
+# Last Update (更新时间) 🕰 ：2020/02/23
 [🔙](#table-of-contents)
 
 
