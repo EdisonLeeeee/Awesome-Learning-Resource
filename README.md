@@ -411,6 +411,7 @@
 + [ Introduction to Artificial Intelligence](https://github.com/glouppe/info8006-introduction-to-ai)：Gilles Louppe Fall2019硬核课程：人工智能导论（Introduction to Artificial Intelligence），722页ppt，本课程的核心内容基于教科书：“人工智能：一种现代的方法”【第三版，作者：罗素 (Stuart J.Russell) / 诺维格 (Peter Norvig)】，某些课程和材料部分改编自加州大学伯克利分校的“人工智能入门”。
 + [微软人工智能教育与学习共建社区](https://github.com/microsoft/ai-edu)：本社区是微软亚洲研究院（Microsoft Research Asia，简称MSRA）人工智能教育团队创立的人工智能教育与学习共建社区。平台开发团队在GitHub上表示，该平台是在教育部指导下，依托于新一代人工智能开放科研教育平台，微软亚洲研究院研发团队和学术合作部将为本社区提供全面支持。
 + [kaggle: Faster Data Science Education](https://www.kaggle.com/learn/overview)：想学Python 、机器学习、数据可视化……你可能会想Coursera上的在线教程，或者吴恩达大名鼎鼎的深度学习视频课，或者一些有名的网上社区，比如fast.ai，Udemy和EdX。但是你可能会因为时间不够就半途而废。Kaggle官网的一系列课程完美地解决了这个问题。只需要几个小时就可以学到最有用的技术。包含课程为：Python，机器学习入门，中极机器学习，数据可视化，Pandas，特征学习，深度学习，SQL入门，SQL进阶，地理空间分析，机器学习可解释性。推荐等级：:heart::heart::heart::heart:！
++ [Introtodeeplearning](http://introtodeeplearning.com/index.html)：MIT 6.S191：全面、公开，还有业界反馈的深度学习课。每周更新一次课程视频，还提供了 PPT 和 Lab Session 的内容。在家闲着没事的你，也可以看看这些资料，感受下 MIT 的熏陶。推荐等级：:heart::heart:！
 + [《Python Tips for Data Scientist》](https://runawayhorse001.github.io/PythonTipsDS/index.html)：Wenqiang Feng, Xu Gao and Upendra Madam三位数据科学家撰写了一本《给数据科学家的Python技能秘籍》，简明扼要，非常实用，使用与数据科学家相关的详细演示代码和示例来共享一些用于数据科学家工作的有用python技巧，值得放在身旁学习查看！推荐等级：:heart::heart::heart::heart:！
 + [CS512 Spring 2020 "Data Mining: Principles and Algorithms"](https://wiki.illinois.edu//wiki/display/cs512)：UIUC韩家炜老师2020年新课：CS512 数据挖掘：原理与算法课程。本课程内容包括:网络概论、信息网络挖掘、序列与图数据挖掘、先进的聚类方法、离群点分析方法、数据流挖掘、时空数据挖掘、文本数据挖掘、Web数据挖掘等。[个人主页](https://hanj.cs.illinois.edu/)。
 + [实验楼](https://www.shiyanlou.com/courses/?course_type=all&tag=Python)：各种语言基础教程及相关项目。
@@ -658,7 +659,7 @@
 + [Jupytext](https://github.com/mwouts/jupytext)：Jupytext，顾名思义，能够把 Jupyter Notebook 的内容转化成纯文本，用你最顺手的 IDE 打开。Jupytext 现在支持的语言还不能覆盖 Jupyter Notebook 的全部，但搞定了最流行的几种。它支持 Jupyter Notebook 和下面这些格式之间的相互转换：Julia 脚本（.jl）、Python 脚本（.py）、R 脚本（.R）、Markdown 文件（.md）、R Markdown 文件（.Rmd）。Jupytext 作者 Marc Wouts 在博客 [Jupytext 1.0 highlights](https://towardsdatascience.com/jupytext-1-0-highlights-a49dca9baa7b) 展示了怎样借助这个工具在 IDE 或者编辑器里来编辑 Jupyter Notebook、进行版本控制。
 + [Marc Wouts](https://medium.com/@marc.wouts)：Jupyter 作者 Marc Wouts 的 Medium 博客主页。
 + [Tf2_course](https://github.com/ageron/tf2_course#starting-jupyter)：官方推荐，用tf.keras和TensorFlow2.0做深度学习任务的Jupyter教程
-
++ [Feature-Engineering-Handbook](https://github.com/YC-Coder-Chen/feature-engineering-handbook)：一份系统的特征工程教程，介绍了如何利用 scikit-learn 处理静态的连续变量，利用 Category Encoders 处理静态的类别变量以及利用 Featuretools 处理常见的时间序列变量。
 
 
 <a class="toc" id ="16"></a>
