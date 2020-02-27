@@ -34,7 +34,7 @@
 + [Dataset (数据集)  📊](#32)
 + [Code-related Toolkit 💻](#33)
 + [Other Unsorted (其它) ❓](#34)
-+ [Last Update (更新时间) 🕰 ：2020/02/23](#35)
++ [Last Update (更新时间) 🕰 ：2020/02/27](#35)
 
 
 # Preface (前言)
@@ -121,8 +121,10 @@
 + [Google Cloud Vision](https://github.com/GoogleCloudPlatform/cloud-vision):Google的VisionAPI，可以用来自己构建一个搜索引擎。
 + [Markdeep](https://casual-effects.com/markdeep/)：Markdeep 是一个用来写纯文本的插件，它能以 Markdown 的语法与渲染方式纯文本，并在网页上展示。同时，除了 Markdown 语法，Markdeep 还额外支持图表、数学方程等扩展能力。只要你有纯文本编辑器，加上一条语句，瞬间它就可以成为 Markdown 编辑器。
 + [Real Time Person Removal](https://github.com/jasonmayes/Real-Time-Person-Removal)：实时人物去除项目，这个项目的神奇之处在于，只需要在网络浏览器中使用 JavaScript，用 200 多行 TensorFlow.js 代码，就可以实时让视频画面中的人物对象从复杂的背景中凭空消失！GitHub:star:2.5k
++ [Generative Inpainting](https://github.com/JiahuiYu/generative_inpainting)：自己的照片有路人甲入镜是常有的事，但有些未免太过抢镜，甚至盖过了主角的风头。P 图高手往往选择自己手动去掉背景里不相干的人，但开发者不想那么麻烦，于是开发了该项目来一键消掉路人甲。GitHub:star:1.6k。​
 
 <a class="toc" id ="4"></a>
+
 # Algorithm (算法) 💡
 [🔙](#table-of-contents)
 
@@ -202,6 +204,7 @@
 + [Building an Incremental Recommender System](https://towardsdatascience.com/building-an-incremental-recommender-system-8836e30afaef)：利用CF Step python库，快速实现增量学习推荐系统，重现了Joao Vinagre等人发表的*“Fast incremental matrix factorization for recommendation with positive-only feedback”的结果
 + [Machine Learning Notes](https://github.com/Sophia-11/Machine-Learning-Notes)：周志华《机器学习》手推笔记
 + [Clear and Creepy Danger of Machine Learning: Hacking Passwords](https://towardsdatascience.com/clear-and-creepy-danger-of-machine-learning-hacking-passwords-a01a7d6076d5)：一位好奇的学者 Tikeswar Naik，通过简单的实验和讨论了机器学习技术的某一潜在滥用情况——使用 ML 来破解密码，希望通过这一介绍能够让更多人保持警惕，并找到减轻或防止滥用的方法。[GitHub](https://github.com/tikeswar/kido)
++ [Ten Tips to Save you Time and Frustration When Programming](https://towardsdatascience.com/ten-tips-to-save-you-time-and-frustration-when-programming-1f5a4b61f390)： Jeff Hale 是 Medium 社区中非常有名的人工智能和技术领域的专栏作家。在这篇文章里，他给所有的编程者提供了 10 个真诚而且实用的建议以及快速解决编程错误的5个步骤。
 
 
 <a class="toc" id ="6"></a>
@@ -340,7 +343,7 @@
 + [The Sucker](https://github.com/onether/the-sucker)：您能在僵尸的猛烈袭击中幸免吗？这款僵尸生存游戏的大小不到13kB。
 + [Dark Forest](https://github.com/progrium/DarkForest)：只用了 10 天就开发完成，这个游戏会让您感到愉悦，当您从黑暗世界战胜恶魔时。
 + [Blood Worm](https://github.com/whitingjp/ld33)：该游戏使您可以控制带有声音效果的蠕虫。
-+ [Micromancer](https://github.com/radmars/ld33)：这是 Ludum Dare 33 的另一个游戏，您将在其中扮演一名死灵法师之王，带领您的亡灵大军奋勇前进。
++ [Micromancer](https://github.com/radmars/ld33)：这是 Ludum Dare 33 的另一个游戏，您将在其中扮演一名死灵法师之王，带领您的亡灵大军奋勇前进。****
 + [Johnny Smiter: Episode Zero](https://github.com/supereggbert/JohnnySmiterEp0)：该游戏将您带入虚拟现实森林，您必须在其中收集符文并避免致命的蜘蛛的攻击。
 
 
@@ -718,6 +721,7 @@
 + [CDCS](https://github.com/geekinglcq/CDCS)：CDCS 中国数据竞赛优胜解集锦，GitHub:star:1.6k
 + [PKUSeg](https://github.com/lancopku/PKUSeg-python)：北大开源的一个中文分词工具包，名为PKUSeg，基于Python。工具包的分词准确率，远远超过THULAC和结巴分词这两位重要选手。GitHub:star:4.6k。
 + [JAX](https://github.com/google/jax):JAX由谷歌提出，是TensorFlow的简化库。结合了针对线性代数的编译器XLA，和自动区分本地 Python 和 Numpy 代码的库Autograd，在高性能的机器学习研究中使用。GitHub:star:6.9k
++ [Trax](https://github.com/google/trax)：Trax 是一个开源项目，它的目的在于帮助我们挖掘并理解高一阶的深度学习模型。谷歌大脑表示，该项目希望 Trax 代码做到非常整洁与直观，并同时令 Reformer 这类高阶深度学习达到最好的效果。GitHub:star:3.4k。[入门简介地址](https://colab.research.google.com/github/google/trax/blob/master/trax/intro.ipynb)。最后，这个项目最重要的还是它的实现代码，我们并不是因为可以直接运行而使用它。相反，我们是因为它的代码直观简洁，能帮助我们一步步更深刻地理解模型而使用它。推荐等级：:heart::heart::heart::heart:！
 
 <a class="toc" id ="17"></a>
 # Fine-tuning (模型调参) 🔧
@@ -1159,6 +1163,7 @@
 [🔙](#table-of-contents)
 
 + [Google Dataset Search](https://toolbox.google.com/datasetsearch): 谷歌提供的数据集搜索工具，可以搜到绝大多数的公开数据集
++ [Open Images V6](https://storage.googleapis.com/openimages/web/index.html)：Open Images是谷歌在2016年推出的大规模图像数据集，包括大约900万张图片，标注了数千个图像类别。目前是第六版，新增了**507444**个局部叙事。[博客介绍](https://ai.googleblog.com/2020/02/open-images-v6-now-featuring-localized.html)
 + [Machine learning datasets](https://www.datasetlist.com/)：这个网站上共收集到了100多个业界最大型的数据集。根据任务类别，这些数据集中又分为三大类：计算机视觉（CV）、自然语言处理（NLP）和音频数据集
 + [Networkrepository](http://networkrepository.com/index.php)：第一个具有实时可视化分析功能的交互式数据和网络数据存储库。里面有许多Graph相关的数据集
 + [LINQS](https://linqs.soe.ucsc.edu/data)：提供了一些Graph结构的数据集
@@ -1288,6 +1293,7 @@
 + [CodeZen](http://codezen.rishimohan.me/)：CodeZen 是一个非常简约的代码转图像工具，就像操作文本编辑器一样简单，能快速将你的源代码导出为具有语法风格的图像。
 + [StarHistory](https://github.com/timqian/star-history)：查看某个项目的 star 的增长趋势，Github:star:1.6k
 + [Pure Bash Bible](https://github.com/dylanaraps/pure-bash-bible)：这是一位澳大利亚的工程师在Github上开源了一本书——《pure bash bible》，本书收集汇总了编写 bash 脚本经常会使用到的一些代码片段，无论是常见和不太常见的方法都可以在这书里找到，通过书中的代码片段，可以删除脚本中的依赖项，并且在大多数情况下可以让程序运行的更快。GitHub:star:23.9k。推荐等级:heart::heart::heart::heart:！
++ [VS Code Debug Visualizer](https://github.com/hediet/vscode-debug-visualizer)：写代码，难免会遇到各种神奇的问题，代码短我们在脑海中「运行」一遍也就差不多能找出原因。但代码要是比较长，错误就会隐藏比较深了，这个时候，不论你是采用 print() 大法，还是善用 assert 语句，或者干脆设置断点，DeBug 总是一条慢慢排除的道路。那么能不能有一种更优雅的 DeBug 方式，以更简洁的信息快速帮我们找到代码的问题所在？这就是 VS Code 最新推出的可视化 DeBug，它能以图的方式快速展示数据结构。但目前遗憾的是它并不支持Python。
 
 
 <a class="toc" id ="34"></a>
@@ -1333,10 +1339,11 @@
 + [Cpp_Primer_Answers](https://github.com/huangmingchuan/Cpp_Primer_Answers)：《C++ Primer 第五版》中文版习题解答
 + [Cpp_Primer_Practice](https://github.com/applenob/Cpp_Primer_Practice)：《C++ Primer 第五版》笔记和课后练习答案
 + [AI Portraits Ars](https://aiportraits.com/)：MIT和IBM沃森联合实验室，发布了这只画师，名叫AI Portraits Ars，可以在线玩耍。但由于生成的画像过于形神兼备，上线即遭网友大规模涌入，不到三天服务器就崩坏了。
++ [SpeedCoder](http://www.speedcoder.net/lessons/py/1/)：你打特殊符号的次数越多，你打字速度就越快。然而，你只要做一件小事就能很大程度上加快这个过程——学习好的触摸打字方式。这是一个练习快速打代码的网站。
 
 
 <a class="toc" id ="35"></a>
-# Last Update (更新时间) 🕰 ：2020/02/23
+# Last Update (更新时间) 🕰 ：2020/02/27
 [🔙](#table-of-contents)
 
 
