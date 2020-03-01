@@ -34,7 +34,7 @@
 + [Dataset (数据集)  📊](#32)
 + [Code-related Toolkit 💻](#33)
 + [Other Unsorted (其它) ❓](#34)
-+ [Last Update (更新时间) 🕰 ：2020/02/27](#35)
++ [Last Update (更新时间) 🕰 ：2020/03/01](#35)
 
 
 # Preface (前言)
@@ -122,6 +122,7 @@
 + [Markdeep](https://casual-effects.com/markdeep/)：Markdeep 是一个用来写纯文本的插件，它能以 Markdown 的语法与渲染方式纯文本，并在网页上展示。同时，除了 Markdown 语法，Markdeep 还额外支持图表、数学方程等扩展能力。只要你有纯文本编辑器，加上一条语句，瞬间它就可以成为 Markdown 编辑器。
 + [Real Time Person Removal](https://github.com/jasonmayes/Real-Time-Person-Removal)：实时人物去除项目，这个项目的神奇之处在于，只需要在网络浏览器中使用 JavaScript，用 200 多行 TensorFlow.js 代码，就可以实时让视频画面中的人物对象从复杂的背景中凭空消失！GitHub:star:2.5k
 + [Generative Inpainting](https://github.com/JiahuiYu/generative_inpainting)：自己的照片有路人甲入镜是常有的事，但有些未免太过抢镜，甚至盖过了主角的风头。P 图高手往往选择自己手动去掉背景里不相干的人，但开发者不想那么麻烦，于是开发了该项目来一键消掉路人甲。GitHub:star:1.6k。​
++ [FaceMaskDetection](https://github.com/AIZOOTech/FaceMaskDetection)：开源人脸口罩检测模型和数据 ，[在线体验链接](https://aizoo.com/face-mask-detection.html)
 
 <a class="toc" id ="4"></a>
 
@@ -453,6 +454,7 @@
 + [Lectures for INFO8010 - Deep Learning](https://github.com/glouppe/info8010-deep-learning)：深度学习课程 PPT，深入探讨深度学习架构的细节，重点是学习这些任务的端到端模型。学生将学习实施、训练和调试自己的神经网络，并对该领域的前沿研究有详细的了解。该课程还将介绍推理方法的最新创新，包括微分推理、对抗性训练和贝叶斯深度学习。作者主页[Gilles Louppe](http://glouppe.github.io/)
 + [《Python Tips for Data Scientist》](https://runawayhorse001.github.io/PythonTipsDS/pythonTipsDS.pdf)：最近Wenqiang Feng, Xu Gao and Upendra Madam三位数据科学家撰写了一本《给数据科学家的Python技能秘籍》，简明扼要，非常实用，使用与数据科学家相关的详细演示代码和示例来共享一些用于数据科学家工作的有用python技巧，值得放在身旁学习查看！
 + [Free Books](https://github.com/ruanyf/free-books)：阮一峰老师在 GitHub 上整理了他平时所发现的一些免费技术书籍。书籍列表包括 Web 开发、人工智能、系统管理等内容，覆盖面颇广
++ [Free Machine Learning Books](https://github.com/whoafridi/Machine-Learning-Books)：免费机器学习书籍下载
 + [《Mastering Large Datasets with Python》](https://www.manning.com/books/mastering-large-datasets-with-python)：《用Python掌握大型数据集》，作者J.T. Wolohan向您介绍了如何使用Python编码的功能影响方法来处理小型项目并对其进行扩展。您将探索有助于清晰性和可伸缩性的方法和内置Python工具，比如高性能并行方法，以及支持高数据吞吐量的分布式技术。本实用教程中丰富的实践练习将为任何大型数据科学项目锁定这些基本技能。
 + [Deep Learning Books)](https://github.com/loveunk/Deep-learning-books)：一些机器学习、深度学习等相关话题的书籍。推荐等级：:heart::heart::heart::heart:！
 + [CS-BOOK](https://github.com/iamshuaidi/CS-Book)：计算机类常用电子书整理，并且附带下载链接，包括Java，Python，Linux，Go，C，C++，数据结构与算法，人工智能，计算机基础，面试，设计模式，数据库，前端等书籍。GitHub:star:1.5k。
@@ -722,6 +724,7 @@
 + [PKUSeg](https://github.com/lancopku/PKUSeg-python)：北大开源的一个中文分词工具包，名为PKUSeg，基于Python。工具包的分词准确率，远远超过THULAC和结巴分词这两位重要选手。GitHub:star:4.6k。
 + [JAX](https://github.com/google/jax):JAX由谷歌提出，是TensorFlow的简化库。结合了针对线性代数的编译器XLA，和自动区分本地 Python 和 Numpy 代码的库Autograd，在高性能的机器学习研究中使用。GitHub:star:6.9k
 + [Trax](https://github.com/google/trax)：Trax 是一个开源项目，它的目的在于帮助我们挖掘并理解高一阶的深度学习模型。谷歌大脑表示，该项目希望 Trax 代码做到非常整洁与直观，并同时令 Reformer 这类高阶深度学习达到最好的效果。GitHub:star:3.4k。[入门简介地址](https://colab.research.google.com/github/google/trax/blob/master/trax/intro.ipynb)。最后，这个项目最重要的还是它的实现代码，我们并不是因为可以直接运行而使用它。相反，我们是因为它的代码直观简洁，能帮助我们一步步更深刻地理解模型而使用它。推荐等级：:heart::heart::heart::heart:！
++ [TensorRT](https://github.com/NVIDIA/TensorRT)：TensorRT是一个C++库，用于NVIDIA GPU和深度学习加速器上的高性能推理。
 
 <a class="toc" id ="17"></a>
 # Fine-tuning (模型调参) 🔧
@@ -815,9 +818,11 @@
 + [Karate Club ](https://github.com/benedekrozemberczki/karateclub)：基于 NetworkX 的无监督图机器学习算法库，GitHub:star:300+。
 + [PyGSP](https://github.com/epfl-lts2/pygsp/tree/b7ca37c0f0eac7bb34167b6a7be0d2d5dbde7662)：Python 图信号处理库，GitHub:star:100+。
 + [Awesome GCN](https://github.com/Jiakui/awesome-gcn)：图卷积神经网络相关资源，GitHub:star:300+。
-
++ [Tf2 GNN](https://github.com/microsoft/tf2-gnn)：微软开源的图神经网络模型实现
++ [GNN papers](https://github.com/thunlp/GNNPapers)：图神经网络必读论文列表
 
 <a class="toc" id ="21"></a>
+
 # Generative Adversarial Networks (GANs) 🤜 🤛
 [🔙](#table-of-contents)
 
@@ -883,6 +888,7 @@
 + [深度学习之TensorFlow工程化项目实战](https://github.com/aianaconda/TensorFlow_Engineering_Implementation)：《深度学习之TensorFlow工程化项目实战》是一本非常全面的、专注于实战的AI图书，兼容TensorFlow 1.x和2.x版本，共75个实例。本书结构清晰、案例丰富、通俗易懂、实用性强。适合对人工智能、TensorFlow感兴趣的读者作为自学教程。
 + [Tensorflow Practice](https://github.com/princewen/tensorflow_practice)：tensorflow 实战练习，包括强化学习、推荐系统、nlp等，GitHub:star:3.6k。​
 + [tflearn](https://github.com/tflearn/tflearn)：基于TensorFlow1.x的高级封装，但是不支持TensorFlow2.x。
++ [Tensorrt](https://github.com/tensorflow/tensorrt)：[Tensorrt](https://github.com/NVIDIA/TensorRT) 的 TensorFlow 集成
 ---
 + [TensorFlow 2.0 迁移指南](https://www.tensorflow.org/guide/migrate)：近期 TensorFlow 2.0正式版已经推出，如果你使用过tensorflow 1.x，这是一个迁移到2.0的官方指南
 + [tf upgrade v2](https://www.tensorflow.org/guide/upgrade)：为了帮助你（自动地）将代码从 keras 更新为 tf.keras，Google 发布了一个名为 tf_upgrade_v2 的脚本。顾名思义，这个脚本可以分析你的代码并报告需要改动的行，该脚本甚至可以替你完成升级过程。
@@ -922,6 +928,7 @@
 + [TFGAN](https://github.com/tensorflow/gan)：2017 年，谷歌推出了用于训练和评估 生成对抗网络 (Generative Adversarial Networks, GAN) 的轻量级库 TF-GAN。自那时起，TF-GAN 便在大量极具影响力的论文和项目中被广泛应用。
 + [Machine Learning Zero to Hero (Google I/O'19)](https://v.youku.com/v_show/id_XNDE3NjYwMjU2MA==.html?)：机器学习: 从零到一学习 TensorFlow，来自 TensorFlow 团队的 Laurence Moroney 从开发人员的角度，制作一个系列视频，向大家介绍机器学习到底是什么。
 + [Learn Tensorflow 3](https://codelabs.developers.google.com/codelabs/tensorflow-lab3-convolutions/#0)：卷积神经网络学习及如何利用 TensorFlow 构建卷积神经网络
++ [LaserTagger](https://github.com/google-research/lasertagger)：LaserTagger是一种文本编辑模型，它预测一系列标记级编辑操作，以将源文本转换为目标文本。
 
 <a class="toc" id ="25"></a>
 # Keras Learning (Keras 学习) 🇰🇷
@@ -990,6 +997,7 @@
 + [Pytorch Handbook](https://github.com/zergtant/pytorch-handbook)：pytorch handbook是一本开源的书籍，目标是帮助那些希望和使用PyTorch进行深度学习开发和研究的朋友快速入门，其中包含的Pytorch教程全部通过测试保证可以成功运行。GitHub:star:10.3k。
 + [Pytorch Examples](https://github.com/jcjohnson/pytorch-examples)：PyTorch 简单项目，GitHub:star:3.4k+。
 + [Learn2learn](https://github.com/learnables/learn2learn)：learn2learn 是一个用于实现元学习的 Pytorch 库，我们只需要加几行高层 API，就能为一般的机器学习流程添加元学习能力。
++ [Pytorch Optimizers](https://github.com/jettify/pytorch-optimizer)：PyTorch 实现的优化器大全。推荐等级：:heart::heart::heart::heart:！
 
 <a class="toc" id ="27"></a>
 # Visualization (可视化) 👀
@@ -1343,7 +1351,7 @@
 
 
 <a class="toc" id ="35"></a>
-# Last Update (更新时间) 🕰 ：2020/02/27
+# Last Update (更新时间) 🕰 ：2020/03/01
 [🔙](#table-of-contents)
 
 
