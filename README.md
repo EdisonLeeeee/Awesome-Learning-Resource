@@ -34,7 +34,7 @@
 + [Dataset (数据集)  📊](#32)
 + [Code-related Toolkit 💻](#33)
 + [Other Unsorted (其它) ❓](#34)
-+ [Last Update (更新时间) 🕰 ：2020/03/01](#35)
++ [Last Update (更新时间) 🕰 ：2020/03/03](#35)
 
 
 # Preface (前言)
@@ -47,9 +47,11 @@
 # Git 👬
 [🔙](#table-of-contents)
 
-+ [Learn Git Branching](https://learngitbranching.js.org/)：一个用于学习 Git 的交互式学习网站，[GitHub](https://github.com/pcottle/learnGitBranching)上收获了:star:10k+
 + [Git](https://git-scm.com/)：Git官方教程
 + [Git Book](https://git-scm.com/book/en/v2)：Git 官方教程电子书。[中文版Git Book链接](https://git-scm.com/book/zh/v2)
++ [Learn Git Branching](https://learngitbranching.js.org/)：一个用于学习 Git 的交互式学习网站，[GitHub](https://github.com/pcottle/learnGitBranching)上收获了:star:10k+
++ [Githug ](https://github.com/Gazler/githug)：它其实是一个命令行工具，但更多的人喜欢称它为一个 Git 游戏，被设计出来的目的是用来练习我们的 git 技能。但是Githug 是运行在 ruby 上的，所以你要装完Git再安装个 ruby[通关攻略](https://www.jianshu.com/p/482b32716bbe)。
++ [Flight rules for Git](https://github.com/k88hudson/git-flight-rules)：Flight rules for Git，翻译过来是 Git 飞行规则，而飞行规则是记录在手册上来之不易的一系列知识，记录了某个事情发生的原因，以及怎样一步步进行处理。因此该项目用于补足你解决问题的能力。除此以外，对一些学习 Git 方面比较好的书籍、教程等都有所推荐。GitHub:star:33.3k。推荐等级：:heart::heart::heart::heart:！
 + [猴子老师Git教程](https://backlog.com/git-tutorial/cn/intro/intro1_1.html)：号称猴子都能懂的Git入门教程
 + [廖雪峰Git教程](https://www.liaoxuefeng.com/wiki/896043488029600)：廖雪峰Git教程，号称史上最浅显易懂的Git教程
 + [Pro Git 第二版](http://bit.ly/2H7A7Lg)：这本书被誉为 Git 学习的圣经，作者是 Scott Chacon 和 Ben Straub。Scott Chacon 在 GitHub 工作，自称 Git 的布道者。你可以在网站上免费阅读这本书，也可以下载他们提供的电子版本
@@ -386,7 +388,7 @@
 + [深度学习，统计学习，数学基础》人工智能算法工程师手册](http://www.huaxiaozhuan.com/)：市面上很多人工智能相关的书籍。大部分的书，面向小白，内容深度不够；小部分教材书或者科研书，内容艰深，又过于复杂。那么有没有，面向算法工程师（程序员）人群的，面向有一定数学基础、算法基础，能够快速上手写代码的人群的人工智能手册呢？有的！而且免费开源，非常有程序员范！《AI算法工程师手册》你值得拥有！推荐等级：:heart::heart:！
 + [The Matrix Calculus You Need For Deep Learning](https://explained.ai/matrix-calculus/index.html)：本文从简单函数求导到多元函数求偏导，再到矩阵的微积分运算，逐层深入，引导我们探索深度学习背后的学习规则与数学基础。本文试图解释理解深度神经网络的训练所需要的所有矩阵演算，本文适用于对神经网络基础有所了解的人，不过即使没有数学基础的同学也不要紧，作者提供了相关数学知识链接。在文末作者提供的参考部分，总结了这里讨论的所有关键矩阵演算规则和术语。
 + [《Introduction to Applied Linear Algebra – Vectors, Matrices, and Least Squares》](http://vmls-book.stanford.edu/)：斯坦福大学Stephen Boyd教授与加州大学Lieven Vandenberghe教授合著的应用线性代数导论：向量、矩阵和最小二乘法。这本书的目的是提供一个介绍向量，矩阵，最小二乘方法，应用线性代数的基本主题。目标是让学生通俗易懂，入门学习。让学习者了解在包括数据拟合、机器学习和人工智能,断层、导航、图像处理、金融、和自动控制系统的应用。是一本不可多得好教材。
-+ [《Pattern Recognition and Machine Learning . Information Science and Statistics》](https://www.microsoft.com/en-us/research/people/cmbishop/#!prml-book)：又名 “PRML”（书名首字母缩写），一本经典好书，以贝叶斯的视角为主，同时其难度可能很不适于缺乏数学基础的入门者。推荐等级：:heart::heart::heart:！
++ [《Pattern Recognition and Machine Learning . Information Science and Statistics》](https://www.microsoft.com/en-us/research/people/cmbishop/#!prml-book)：又名 “PRML”（书名首字母缩写），一本经典好书，以贝叶斯的视角为主，同时其难度可能很不适于缺乏数学基础的入门者。算法实现 [PRML](https://github.com/ctgk/PRML)，GitHub:star:6k+。推荐等级：:heart::heart::heart:！
 + [freeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp)：开放源码代码库和课程。与数百万人一起免费学习编程。网站：https://www.freeCodeCamp.org （一个友好的社区，您可以在这里免费学习编码。它由捐助者支持、非营利组织运营，以帮助数百万忙碌的成年人学习编程技术。这个社区已经帮助 10,000 多人获得了第一份开发人员的工作。这里的全栈 Web 开发课程是完全免费的，并且可以自行调整进度。这里还有数以千计的交互式编码挑战，可帮助您扩展技能。）GitHub 获:star:300k。
 + [free programming books](https://github.com/EbookFoundation/free-programming-books)：免费提供的编程书籍。GitHub获:star:130k。
 + [Awesome](https://github.com/sindresorhus/awesome)：github 上很多的各种 Awesome 系列合集。GitHub 获:star:120k。众所周知，如果想要学习什么知识，只需要在GitHub上搜索"Awesome xxx" 即可获得一大堆相关的学习资源。推荐等级：:heart::heart::heart::heart:！
@@ -725,22 +727,35 @@
 + [JAX](https://github.com/google/jax):JAX由谷歌提出，是TensorFlow的简化库。结合了针对线性代数的编译器XLA，和自动区分本地 Python 和 Numpy 代码的库Autograd，在高性能的机器学习研究中使用。GitHub:star:6.9k
 + [Trax](https://github.com/google/trax)：Trax 是一个开源项目，它的目的在于帮助我们挖掘并理解高一阶的深度学习模型。谷歌大脑表示，该项目希望 Trax 代码做到非常整洁与直观，并同时令 Reformer 这类高阶深度学习达到最好的效果。GitHub:star:3.4k。[入门简介地址](https://colab.research.google.com/github/google/trax/blob/master/trax/intro.ipynb)。最后，这个项目最重要的还是它的实现代码，我们并不是因为可以直接运行而使用它。相反，我们是因为它的代码直观简洁，能帮助我们一步步更深刻地理解模型而使用它。推荐等级：:heart::heart::heart::heart:！
 + [TensorRT](https://github.com/NVIDIA/TensorRT)：TensorRT是一个C++库，用于NVIDIA GPU和深度学习加速器上的高性能推理。
++ [DeepCTR](https://github.com/shenweichen/DeepCTR)：深度学习点击率算法预测包，[PyTorch版本](https://github.com/shenweichen/DeepCTR-Torch)。
 
 <a class="toc" id ="17"></a>
 # Fine-tuning (模型调参) 🔧
 [🔙](#table-of-contents)
 
 + [Autokeras](https://github.com/keras-team/autokeras)：它使用了高效神经架构搜索[ENAS](https://arxiv.org/abs/1802.03268)，只需使用 pip install autokeras 就能快速轻松地安装软件包，然后就能用自己的数据集来执行自己的架构搜索构建思路。相比谷歌 AutoML，两者构建思路类似，但不同的是，AutoKeras 所有代码都已经开源，可供开发者无偿使用。GitHub:star:6.6k。
+
 + [TPOT](https://github.com/EpistasisLab/tpot)：TPOT 是一个 Python 编写的软件包，利用遗传算法行特征选择和算法模型选择，仅需几行代码，就能生成完整的机器学习代码。在机器学习模型开发图中，TPOT 所完成的即通过利用遗传算法，分析数千种可能的组合，为模型、参数找到最佳的组合，从而自动化机器学习中的模型选择及调参部分。GitHub:star:6.7k。
+
 + [Featuretools](https://github.com/FeatureLabs/featuretools)：这是一个用于自动化特性工程的开源 python 框架，它可以帮助开发者从一组相关数据表中自动构造特征。开发者只需要知道数据表的基本结构和它们之间的关系，然后在实体集（一种数据结构）中指明。然后在有了实体集之后，使用一个名为深度特征合成（DFS）的方法，在一个函数调用中构建出数千个特征。[官网](https://www.featuretools.com/)，GitHub:star:4.6k。
+
 + [AdaNet](https://github.com/tensorflow/adanet)：AdaNet 是由谷歌开源的一个轻量级的基于 TensorFlow 框架。AdaNet 易于使用，并能创建高质量的模型，为 ML 实践者节省了用于选择最佳神经网络架构的时间，实现了一种将学习神经架构作为子网络集合的自适应算法。[官方文档](https://adanet.readthedocs.io/en/v0.8.0/)，GitHub:star:3k。
+
 + [NNI (Neural Network Intelligence)](https://aka.ms/nniis)：2018年9月，微软亚洲研究院发布了第一版 NNI (Neural Network Intelligence) ，目前已在 GitHub 上获得 :star:3.8K ，成为最热门的自动机器学习（AutoML）开源项目之一。最新版本的 NNI 对机器学习生命周期的各个环节做了更加全面的支持，包括特征工程、神经网络架构搜索（NAS）、超参调优和模型压缩在内的步骤，你都能使用自动机器学习算法来完成。
+
 + [NNI](https://github.com/microsoft/nni)：有了 AutoML，特征工程、神经架构和超参搜索这些炼金基本功再也不用担心了。作为科技巨头，微软也在 AutoML 上开源了自己的 NNI 库，这个库在 GitHub 上非常流行，长期盘踞在每日项目 Trending 榜，GitHub:star:5.7k。根据 GitHub 项目上的介绍，NNI（Neural Network Intelligence）意图帮助用户使用自动机器学习算法、帮助进行算法加速、实现更好的超参数、神经架构和模型压缩，以及进行平台部署。
+
 + [Keras Tuner](https://github.com/keras-team/keras-tuner)：基于 Keras 的模型调参工具，GitHub:star:1.7k
+
 + [AutoGluon](https://github.com/awslabs/autogluon)：亚马逊AWS推出新的基于mxnet的开源库AutoGluon，只需三行代码，自动生成高性能模型，让调参、神经架构搜索等过程实现自动化，无需研究人员人工决策，大大降低了机器学习模型的使用门槛。[官方文档](https://autogluon.mxnet.io/)。
+
 + [Optuna](https://optuna.org/)：Optuna是一款为机器学习任务设计的自动超参数优化软件框架，是一款按运行定义(define-by-run) 原则设计的优化软件，允许用户动态地调整搜索空间，在同类软件中尤属首创，是下一代超参调优框架的代表。[GitHub](https://github.com/optuna/optuna):star:1.9k,
+
 + [Hyperopt](https://github.com/hyperopt/hyperopt)：分布式异步超参数优化，GitHub:star:4.3k。
+
 + [HungaBunga](https://github.com/ypeleg/HungaBunga)：Hungabunga项目将帮助你比大多数数据科学图书馆更快地找到答案。它贯穿全部的sklearn模型，使用所有可能的超参数，并使用交叉验证对它们进行排序
+
+  
 
 
 <a class="toc" id ="18"></a>
@@ -820,6 +835,9 @@
 + [Awesome GCN](https://github.com/Jiakui/awesome-gcn)：图卷积神经网络相关资源，GitHub:star:300+。
 + [Tf2 GNN](https://github.com/microsoft/tf2-gnn)：微软开源的图神经网络模型实现
 + [GNN papers](https://github.com/thunlp/GNNPapers)：图神经网络必读论文列表
++ [Graph-based NN](https://github.com/sungyongs/graph-based-nn)：总结关于基于图的神经网络和关系网络的重要资料，GitHub:star:700+。​推荐等级：:heart::heart::heart::heart:！
++ [Graph Nets](https://github.com/dsgiitr/graph_nets)：PyTorch 实现的各种图模型代码
++ [Transformers are Graph Neural Networks](https://graphdeeplearning.github.io/post/transformers-are-gnns/)：Transformer和GNN有什么关系？一开始可能并不明显。但是通过这篇文章，你会从GNN的角度看待Transformer的架构，对于原理有更清楚的认知。
 
 <a class="toc" id ="21"></a>
 
@@ -835,6 +853,7 @@
 + [PyTorch-GAN](https://github.com/eriklindernoren/PyTorch-GAN)：用Pytorch 实现的 GAN代码大全，GitHub :star:5k+。
 + [《GANs in Action》](https://www.manning.com/books/gans-in-action)：牛津大学Jakub Langr 撰写了《GANs in Action Deep learning with Generative Adversarial Networks》的著作，囊括了关于GAN的定义、训练、变体等，全面叙述关于当下AI最重要的技术之一GAN的著作，是学习生成式对抗网络非常好的学习图书，是关于GAN的最好的书籍之一。
 + [DiscoGAN PyTorch](https://github.com/carpedm20/DiscoGAN-pytorch)："Learning to Discover Cross-Domain Relations with Generative Adversarial Networks" PyTorch实现
++ [A Review on Generative Adversarial Networks: Algorithms, Theory, and Applications](https://arxiv.org/abs/2001.06937)：史上最全GAN综述2020版：算法、理论及应用。本文是一份出自陶大程、叶杰平老师等大牛之手的 GAN 详细综述，介绍了近年来有关 GAN 模型的相关研究进展，并指出了今后该领域的发展方向。
 
 
 <a class="toc" id ="22"></a>
@@ -998,6 +1017,7 @@
 + [Pytorch Examples](https://github.com/jcjohnson/pytorch-examples)：PyTorch 简单项目，GitHub:star:3.4k+。
 + [Learn2learn](https://github.com/learnables/learn2learn)：learn2learn 是一个用于实现元学习的 Pytorch 库，我们只需要加几行高层 API，就能为一般的机器学习流程添加元学习能力。
 + [Pytorch Optimizers](https://github.com/jettify/pytorch-optimizer)：PyTorch 实现的优化器大全。推荐等级：:heart::heart::heart::heart:！
++ [Pytorch Lightning](https://github.com/PyTorchLightning/pytorch-lightning)：对于PyTorch开发者来说，Google Colab上的TPU资源不能用，恐怕是最遗憾的事情了。Google的云计算资源眼看着不能用，转TensorFlow又是不可能的。现在福利来了，一个叫做Pytorch Lightning的项目，可以让你几乎不修改代码的情况下用上TPU，同时该项目还具有很多原生PyTorch未实现的功能。[Colab演示](https://colab.research.google.com/drive/1-_LKx4HwAxl5M6xPJmqAAu444LTDQoa3#scrollTo=dEeUzX_5aLrX)。
 
 <a class="toc" id ="27"></a>
 # Visualization (可视化) 👀
@@ -1005,6 +1025,7 @@
 
 + [Bokeh](https://github.com/bokeh/bokeh)：一份用 Python 做交互式图形的资源，官方介绍称，它能读取大型数据集或者流数据，以简单快速的方式为网页提供优美、高交互性能的图形,官方提供了一个通过Jupyter使用Bokeh的教程：[Bokeh Tutorial](https://gke.mybinder.org/v2/gh/bokeh/bokeh-notebooks/master?filepath=tutorial%2F00%20-%20Introduction%20and%20Setup.ipynb) 以及 [Quickstart](https://bokeh.pydata.org/en/latest/docs/user_guide/quickstart.html),[Bokeh官网地址](https://bokeh.pydata.org/en/latest/)
 + [Plotly](https://plot.ly/)：Python开源的交互式图形库，GitHub:star:6.1k。
++ [Plotnine](https://github.com/has2k1/plotnine)：Plotnine是Python中图形语法的一种实现，它基于ggplot2。语法允许用户通过显式地将数据映射到构成图的可视对象来组成图。GitHub:star:2.1k​
 + [Cufflinks](https://plot.ly/python/v3/ipython-notebooks/cufflinks/)：Cufflinks 基于 Plotly 做了进一步的包装，可以绘制一个交互式、可缩放、可扩展的全景图呢
 + [Scikit Plot](https://github.com/reiinakano/scikit-plot)：这是另一个机器学习的画图神器，几行代码就能画出高大上的机器学习图，作者当年的博士论文也是靠这个画图的
 + [Effectively Using Matplotlib](https://pbpython.com/effective-matplotlib.html)：如何高效使用 Python 可视化工具 Matplotlib。[GitHub地址](https://github.com/chris1610/pbpython/blob/master/notebooks/Effectively-Using-Matplotlib.ipynb)
@@ -1142,6 +1163,7 @@
 + [Algorithm Interview Notes Chinese](https://github.com/imhuay/Algorithm_Interview_Notes-Chinese)：2018/2019/校招/春招/秋招/算法/机器学习(Machine Learning)/深度学习(Deep Learning)/自然语言处理(NLP)/C/C++/Python/面试笔记 ，GitHub 上 :star:24k
 + [Coding Interview University](https://github.com/jwasham/coding-interview-university)：GitHub:star:100k的项目，原名「Google 面试大学」。这份指南里面包含 Google 相关的介绍视频、面试过程、教学资源，同时也有数据结构、算法、密码学等计算机专业的知识讲解。[中文版指南链接](https://github.com/jwasham/coding-interview-university/blob/master/translations/README-cn.md)，推荐等级：:heart::heart::heart:！
 + [CS-Notes](https://github.com/CyC2018/CS-Notes)：GitHub上:star:70k，Tech Interview Guide 技术面试必备基础知识、Leetcode 题解、Java、C++、Python、后端面试、操作系统、计算机网络、系统设计。[在线阅读链接](https://cyc2018.github.io/CS-Notes)
++ [Tips for interviewing at Google](https://psc-g.github.io/interviews/google/2020/02/25/interviewing-at-google.html)：谷歌大脑高级软件工程研究员、强化学习框架「多巴胺」（Dopamine）作者 Pablo Samuel Castro 分享了他拿到谷歌 offer 的经验。这份「谷歌面经」不仅适用于谷歌的软件工程师职位，对申请其他公司的软件工程师及其他职位（如研究科学家）也有帮助。
 + [Hacking a Google Interview](http://courses.csail.mit.edu/iap/interview/index.php)：谷歌面试编程题及解题技巧（MIT版），重点介绍科技公司在面试时经常出现的计算机科学问题，其中包括时间复杂度、哈希表、二进制树搜索，以及 MIT「算法设计与分析」（MIT 6.046）课程中会出现的内容。但是，大部分时间都会专注于你不会在课堂上学到的内容，例如刁钻的按位逻辑和解决问题的技巧。
 + [A-to-Z-Resources-for-Students](https://github.com/dipakkr/A-to-Z-Resources-for-Students)：GitHub:star:7k，一位国外小哥整理的一份超级全面的计算机学习资源，主要面向人群是学生，但其实上面的内容也可以适用于普通程序员，推荐等级：:heart::heart:！
 + [Awesome-algorithm-interview](https://github.com/lcylmhlcy/Awesome-algorithm-interview)：算法工程师(人工智能cv方向)面试问题及相关资料的网站收集
@@ -1182,6 +1204,7 @@
 + [Multi-label Datasets & Code](http://manikvarma.org/downloads/XC/XMLRepository.html)：这个页面提供了基准数据集和代码，可以用来评估多标签分类算法的性能。
 + [Google Trends](http://www.google.com/trends?q=google&ctab=0&geo=all&date=all&sort=0)：同样来自于Google，使用此工具，你可以搜索关键字并查看相关数据集的各种信息。你可以选择不同的选项，包括要查看的国家（或全球），将其缩小到各个类别，或将搜索范围限制在所有网站、图片、新闻、购物或 YouTube 上。
 + [微软数据集](https://msropendata.com/)：在2018年7月，微软与外界研究社区一起，发布了微软研究开发数据。它包含了云服务器中的数据存储库，致力于促进全球研究社区的协作，并在其中提供了一系列用于已发表研究的数据集内容。
++ [中文NLP数据集搜索](https://www.cluebenchmarks.com/dataSet_search.html)：一项新的中文 NLP 数据搜索项目，它可能是目前最全的中文 NLP 数据集信息收集项目。该项目收集了一百多条中文 NLP 数据信息，并以搜索的形式展示结果。我们只要键入关键词，或者数据集所属的领域等信息，就能找到对应的数据集。[GitHub](https://github.com/CLUEbenchmark/CLUEDatasetSearch)项目地址。
 + [Awesom Public Datasets](https://github.com/awesomedata/awesome-public-datasets)：本数据集列表中，按主题整理了大量的数据集内容，例如：生物学、经济学、教育等。其中列出的大多数数据集都是免费的，但在使用任何数据集之前，均需检查数据集的许可要求。
 + [Amazon数据集](https://registry.opendata.aws/)：这个数据集中包含了不同领域的数据内容，例如：公共交通、生态资源、卫星图像等。同时提供了搜索功能，以帮助用户找到所需的数据集，还有各种数据集的描述信息以及用例，非常易于使用。数据集存储在Amazon Web Services（AWS）资源中，对于使用AWS构建自己机器学习实验的用户来说，传输速度将非常块。
 + [U.S. Census Bureau](https://www.census.gov/)：你可以从这个数据集中获得与人口、经济和地理相关的信息，也可以按主题或搜索进行浏览。如果你需要统计内容，这会是一个很好用的工具。它们有一些很好的可视化效果，你也可以将其嵌入到内容中。
@@ -1351,7 +1374,7 @@
 
 
 <a class="toc" id ="35"></a>
-# Last Update (更新时间) 🕰 ：2020/03/01
+# Last Update (更新时间) 🕰 ：2020/03/03
 [🔙](#table-of-contents)
 
 
