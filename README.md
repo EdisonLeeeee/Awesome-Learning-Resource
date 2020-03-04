@@ -34,7 +34,7 @@
 + [Dataset (数据集)  📊](#32)
 + [Code-related Toolkit 💻](#33)
 + [Other Unsorted (其它) ❓](#34)
-+ [Last Update (更新时间) 🕰 ：2020/03/03](#35)
++ [Last Update (更新时间) 🕰 ：2020/03/04](#35)
 
 
 # Preface (前言)
@@ -157,57 +157,112 @@
 
 
 + [Understanding LSTM Networks](http://colah.github.io/posts/2015-08-Understanding-LSTMs/)：LSTM教程，推荐等级::heart::heart::heart:！
+
 + [Sebastian Raschka](https://sebastianraschka.com/)：一位国外小哥的个人网站，里面有各种机器学习、深度学习的博客及笔记等资源
+
 + [Sebastian Ruder](http://ruder.io/)：DeepMind的一位研究学者的博客，博客内容包括深度学习、机器学习和自然语言处理，对于其中一些知识点例如 [An overview of gradient descent optimization algorithms](http://ruder.io/optimizing-gradient-descent/) 讲解得十分巧妙，推荐等级：:heart::heart:！
+
 + [StackSoft](http://www.statsoft.com/Textbook)：国外一个机器学习相关的博客网站，里面有各种常见的机器学习算法介绍
+
 + [A Visual Guide To Using Bert For The First Time/](https://jalammar.github.io/a-visual-guide-to-using-bert-for-the-first-time/)：BERT小学生级上手教程，从原理到上手全有图示，还能直接在线运行。[代码](https://github.com/jalammar/jalammar.github.io/blob/master/notebooks/bert/A_Visual_Notebook_to_Using_BERT_for_the_First_Time.ipynb)，[Colab](https://colab.research.google.com/github/jalammar/jalammar.github.io/blob/master/notebooks/bert/A_Visual_Notebook_to_Using_BERT_for_the_First_Time.ipynb)，[DistilBERT](https://medium.com/。huggingface/distilbert-8cf3380435b5)。作者博客主页[Jay Alammar](https://jalammar.github.io/)。
+
 + [Recurrent Neural Network Tutorial](http://www.wildml.com/2015/10/recurrent-neural-network-tutorial-part-4-implementing-a-grulstm-rnn-with-python-and-theano/)：RNN 教程，推荐等级::heart::heart::heart:！
+
 + [Recurrent Neural Networks](http://people.idsia.ch/~juergen/rnn.html)：RNN 教程，Juergen Schmidhuber（博客）    
+
 + [The Annotated Transformer](http://nlp.seas.harvard.edu/2018/04/03/attention.html)：Attention is All You Need 论文解读及相关代码实现教程，详细介绍了注意力机制。[相关博客](https://towardsdatascience.com/attn-illustrated-attention-5ec4ad276ee3#ba24)，推荐等级::heart::heart::heart::heart:！
+
 + [The Illustrated Transformer](https://jalammar.github.io/illustrated-transformer/)：这篇文章将带你通过一个self-attention模块了解其中涉及的数学运算。读完本文，你将能够从头开始写一个self-attention模块。作者博客主页[Jay Alammar](https://jalammar.github.io/)。
+
 + [A Gentle Introduction to Graph Neural Networks (Basics, DeepWalk, and GraphSage)](https://towardsdatascience.com/a-gentle-introduction-to-graph-neural-network-basics-deepwalk-and-graphsage-db5d540d50b3)：介绍了图神经网络的概念及其最新进展的博客
+
 + [Hands-on Graph Neural Networks with PyTorch & PyTorch Geometric](https://towardsdatascience.com/hands-on-graph-neural-networks-with-pytorch-pytorch-geometric-359487e221a8)：使用PyTorch和PyTorch Geometric（PyG），构建图形神经网络框架的教程博客。[GitHub地址](https://github.com/khuangaf/Pytorch-Geometric-YooChoose)
+
 + [Seeing What a GAN Cannot Generate](https://www.zhuanzhi.ai/paper/1a6ada6940f38d05a5dcdea60e663ec5)：GAN这个模型，不能生成哪些东西呢？来自MIT的David Bau等人，在ICCV 2019 上的文章《Seeing What a GAN Cannot Generate》，进行了一系列实验，尝试找到问题的答案。[文章主页](http://ganseeing.csail.mit.edu/)，[文章代码地址](https://github.com/davidbau/ganseeing)。
+
 + [Chollet 推特](https://twitter.com/fchollet/status/1105139360226140160)：谷歌深度学习研究员、“Keras之父”François Chollet发表推特，总结了一份TensorFlow 2.0 + Keras做深度学习研究的速成指南。[Google Colab Notebook地址](https://colab.research.google.com/drive/17u-pRZJnKN0gO5XZmq8n5A2bKGrfKEUg#scrollTo=rwREGJ7Wiyl9)
+
 + [Installing Keras For Deep Learning](http://www.pyimagesearch.com/2016/07/18/installing-keras-for-deep-learning/)：安装Keras库进行深度学习，国外一篇比较火的博客，旨在演示如何安装Keras库进行深度学习。
+
 + [Rainbow is All You Need](https://nbviewer.jupyter.org/github/Curt-Park/rainbow-is-all-you-need/tree/master/)：一份用 Jypyter Notebook 写的深度强化学习（Deep Reiforcement Learning）笔记，背景理论、代码实现全都有，手把手教你从 DQN 到Rainbow 。 [GitHub地址](https://github.com/Curt-Park/rainbow-is-all-you-need)，推荐等级：:heart::heart::heart:！
+
 + [TensorFlow 2.0 is Now Available](https://medium.com/tensorflow/tensorflow-2-0-is-now-available-57d706c2a9ab)：官方博客，介绍TensorFlow 2.0
+
 + [TF-2.0-Hacks](https://github.com/sayakpaul/tf-2.0-hacks/tree/master/)：该仓库包含了作者对新发布的TensorFlow 2.0的探索，里面有些相关资料很值得学习。
+
 + [Activation Functions Explained](https://mlfromscratch.com/activation-functions-explained/#/)：优化神经网络;选择正确的激活函数，你的神经网络可以表现得更好。六大激活函数讲解。推荐等级::heart::heart::heart::heart:！
+
 + [Harvardnlp](http://nlp.seas.harvard.edu/code/)：内有大量NLP相关的教程和代码(PyTorch)实现，推荐等级::heart::heart::heart::heart:！
+
 + [From zero to research — An introduction to Meta-learning](https://medium.com/huggingface/from-zero-to-research-an-introduction-to-meta-learning-8e16e677f78a)：关于Meta-Learning 的详细介绍教程和代码实现，推荐等级::heart::heart::heart::heart:！
+
 + [What everyone forgets about Machine Learning](https://towardsdatascience.com/what-everyone-forgets-about-machine-learning-974752543849)：
+
 + [The Will Will Web](https://blog.miniasp.com/)：記載著 Will 在網路世界的學習心得與技術分享
+
 + [Pytorch Internals](http://blog.ezyang.com/2019/05/pytorch-internals/)：万字综述，核心开发者全面解读PyTorch内部机制。推荐等级::heart::heart::heart::heart:！
+
 + [Tutorial on Variational Autoencoders](https://arxiv.org/abs/1606.05908)：一个很棒的教程，深入探讨了构建变分自编码器的细节
+
 + [Variational Autoencoder in TensorFlow](https://jmetzen.github.io/2015-11-27/vae.html)：使用TensorFlow 1.x 实现VAE教程
+
 + [Soumith Chintala](https://github.com/soumith)：Pytorch 创始人 Soumith Chintala 的GitHub主页，有许多值得学习的Pytorch项目。推荐等级::heart::heart::heart::heart:！
+
 + [pytorch-tutorial](https://github.com/yunjey/pytorch-tutorial)：PyTorch Tutorial for Deep Learning Researchers，GitHub :star:15k，推荐等级::heart::heart::heart::heart:！
+
 + [崔庆才个人站点](https://cuiqingcai.com/)：爬虫必看博客网站
+
 + [《Go2-book》](https://github.com/chai2010/go2-book)：《Go2编程指南》开源图书，重点讲解Go2新特性，以及Go1教程中较少涉及的特性
+
 + [知乎：Flask 10天开发一个网站](https://zhuanlan.zhihu.com/p/33038507)：一个Flask写网站的教程
+
 + [Do We Really Need Model Compression?](http://mitchgordon.me/machine/learning/2020/01/13/do-we-really-need-model-compression.html)：探索从零开始训练小模型所涉及的障碍，讨论为什么模型压缩有效，以及两种提高内存效率的训练方法：超参数化界限和一种能够减少或消除对事后模型压缩的需求的优化算法。
+
 + [Tensorflow vs Pytorch](https://github.com/tango4j/tensorflow-vs-pytorch)：用于 TensorFlow 和 PyTorch 的比较指南
+
 + [State Of The Art Shitcode](https://github.com/trekhleb/state-of-the-art-shitcode)：GitHub 上有一个新项目，它描述了「最佳垃圾代码」的十九条关键准则。从变量命名到注释编写。这些准则将指导你写出最亮眼的烂代码。
+
 + [Codelf](https://unbug.github.io/codelf)：变量命名网站 Codelf，可以直接网站上搜索变量命名建议，也可以在自己用的编辑器里安装插件，支持 VS Code、Atom、Sublime Text 和 Chrome。同时，[GitHub](https://github.com/unbug/codelf)的issue里还提供了各种配置教程，目前GitHub:star:9k+。
+
 + [Implement Perceptron Algorithm Scratch Python/](https://machinelearningmastery.com/implement-perceptron-algorithm-scratch-python/)：JasonBrownlee的Machine Learning Mastery系列文章，其中一篇是《如何用Python从头开始实现感知器算法》，[感知机原理](https://www.youtube.com/watch?v=1XkjVl-j8MM)
+
 + [Single-Layer Neural Networks and Gradient Descent](https://sebastianraschka.com/Articles/2015_singlelayer_neurons.html)：SebastianRaschka的博客，单层感知机和梯度下降
+
 + [The Unreasonable Effectiveness of Recurrent Neural Networks](https://karpathy.github.io/2015/05/21/rnn-effectiveness/)：Andrej Karpathy（博客）
+
 + [A Beginner's Guide to LSTMs and Recurrent Neural Networks](https://pathmind.com/wiki/lstm)：初学者的LSTM和RNN指南
+
 + [Building Autoencoder In Pytorch](https://medium.com/@vaibhaw.vipul/building-autoencoder-in-pytorch-34052d1d280c)：利用 CIFAR-10 数据集通过 Pytorch 构建一个简单的卷积自编码器
+
 + [An Introduction to different Types of Convolutions in Deep Learning](https://towardsdatascience.com/types-of-convolutions-in-deep-learning-717013397f4d)：介绍不同类型的卷积神经网络。
+
 + [Matplotlib Tutorial](https://liam.page/2014/09/11/matplotlib-tutorial-zh-cn/)：快速入门Matplotlib教程
+
 + [Transfer Learning With Tensorflow](https://rubikscode.net/2019/11/11/transfer-learning-with-tensorflow-2/)：TensorFlow2 最新迁移学习教程和实战
+
 + [Introducing TensorFlow Datasets](https://medium.com/tensorflow/introducing-tensorflow-datasets-c7f01f7e19f3)：TensorFlow Dataset 库的官方介绍博客。
+
 + [Python Logging Model](https://github.com/zonezoen/blog/tree/master/python/logging_model)：Python 线上环境如何优雅输出log日志
+
 + [床长人工智能教程](https://www.cbedai.net/chichoxian/)：床长人工智能教程，教程涉及到了人工智能的方方面面，从基础原理到现在很火的人脸识别，自动驾驶.，股票预测，金融分析…以及一些小众的特殊应用。
+
 + [Unveiling the Hidden Layers of Neural Networks](https://medium.com/sfu-big-data/unveiling-the-hidden-layers-of-neural-networks-6269615fb8a9)：深度学习黑盒可视化指南，了解神经网络隐藏层的重要性，介绍如何可视化神经网络以及隐藏层的过程。
+
 + [Machine Learning: Step-By-Step](https://towardsdatascience.com/machine-learning-step-by-step-6fbde95c455a)：使用随机森林、PCA和超参数调优的Python机器学习分类的逐步学习指南。
+
 + [Modelling the coronavirus epidemic in a city with Python](https://towardsdatascience.com/modelling-the-coronavirus-epidemic-spreading-in-a-city-with-python-babd14d82fa2)：Python新冠病毒传播建模教程。
-+ [Building an Incremental Recommender System](https://towardsdatascience.com/building-an-incremental-recommender-system-8836e30afaef)：利用CF Step python库，快速实现增量学习推荐系统，重现了Joao Vinagre等人发表的*“Fast incremental matrix factorization for recommendation with positive-only feedback”的结果
+
++ [Building an Incremental Recommender System](https://towardsdatascience.com/building-an-incremental-recommender-system-8836e30afaef)：利用CF Step python库，快速实现增量学习推荐系统，重现了Joao Vinagre等人发表的“Fast incremental matrix factorization for recommendation with positive-only feedback”的结果
+
 + [Machine Learning Notes](https://github.com/Sophia-11/Machine-Learning-Notes)：周志华《机器学习》手推笔记
+
 + [Clear and Creepy Danger of Machine Learning: Hacking Passwords](https://towardsdatascience.com/clear-and-creepy-danger-of-machine-learning-hacking-passwords-a01a7d6076d5)：一位好奇的学者 Tikeswar Naik，通过简单的实验和讨论了机器学习技术的某一潜在滥用情况——使用 ML 来破解密码，希望通过这一介绍能够让更多人保持警惕，并找到减轻或防止滥用的方法。[GitHub](https://github.com/tikeswar/kido)
+
 + [Ten Tips to Save you Time and Frustration When Programming](https://towardsdatascience.com/ten-tips-to-save-you-time-and-frustration-when-programming-1f5a4b61f390)： Jeff Hale 是 Medium 社区中非常有名的人工智能和技术领域的专栏作家。在这篇文章里，他给所有的编程者提供了 10 个真诚而且实用的建议以及快速解决编程错误的5个步骤。
+
++ [Visualizing LSTM Activations in Keras](https://medium.com/@praneet9/visualising-lstm-activations-in-keras-b50206da96ff)：在Keras中构建文本生成模型，还将可视化生成文本时某些单元格正在查看的内容。[GitHub地址](https://github.com/Praneet9/Visualising-LSTM-Activations)
+
+  
 
 
 <a class="toc" id ="6"></a>
@@ -728,8 +783,11 @@
 + [Trax](https://github.com/google/trax)：Trax 是一个开源项目，它的目的在于帮助我们挖掘并理解高一阶的深度学习模型。谷歌大脑表示，该项目希望 Trax 代码做到非常整洁与直观，并同时令 Reformer 这类高阶深度学习达到最好的效果。GitHub:star:3.4k。[入门简介地址](https://colab.research.google.com/github/google/trax/blob/master/trax/intro.ipynb)。最后，这个项目最重要的还是它的实现代码，我们并不是因为可以直接运行而使用它。相反，我们是因为它的代码直观简洁，能帮助我们一步步更深刻地理解模型而使用它。推荐等级：:heart::heart::heart::heart:！
 + [TensorRT](https://github.com/NVIDIA/TensorRT)：TensorRT是一个C++库，用于NVIDIA GPU和深度学习加速器上的高性能推理。
 + [DeepCTR](https://github.com/shenweichen/DeepCTR)：深度学习点击率算法预测包，[PyTorch版本](https://github.com/shenweichen/DeepCTR-Torch)。
++ [Data Science Group](https://dsgiitr.com/)：一个通过机器学习来推动创新的学生组织，内有一些有趣的项目值得学习。
++ [Hashing Deep Learning](https://github.com/keroro824/HashingDeepLearning)：[论文](https://www.cs.rice.edu/~as143/Papers/SLIDE_MLSys.pdf)采用了局部敏感哈希（Locality Sensitive Hashing）算法，并在神经网络中使用了自适应 dropout，在 Amazon-670K 这样的复杂分类数据集上，超一亿参数量的大型神经网络训练时间竟然是 SLIDE + CPU 最快，连 TensorFlow + Tesla V100 都要慢很多。而且从迭代步数上看，它们两者是等价的，表明模型的收敛行为是相同的。
 
 <a class="toc" id ="17"></a>
+
 # Fine-tuning (模型调参) 🔧
 [🔙](#table-of-contents)
 
@@ -836,8 +894,9 @@
 + [Tf2 GNN](https://github.com/microsoft/tf2-gnn)：微软开源的图神经网络模型实现
 + [GNN papers](https://github.com/thunlp/GNNPapers)：图神经网络必读论文列表
 + [Graph-based NN](https://github.com/sungyongs/graph-based-nn)：总结关于基于图的神经网络和关系网络的重要资料，GitHub:star:700+。​推荐等级：:heart::heart::heart::heart:！
-+ [Graph Nets](https://github.com/dsgiitr/graph_nets)：PyTorch 实现的各种图模型代码
++ [Graph Nets](https://github.com/dsgiitr/graph_nets)：PyTorch 实现的各种图模型代码，包括GCN, ChebyNet, GAT, GraphSAGE。[博客地址](https://dsgiitr.com/blogs/)。
 + [Transformers are Graph Neural Networks](https://graphdeeplearning.github.io/post/transformers-are-gnns/)：Transformer和GNN有什么关系？一开始可能并不明显。但是通过这篇文章，你会从GNN的角度看待Transformer的架构，对于原理有更清楚的认知。
++ [Benchmark GNNs](https://github.com/graphdeeplearning/benchmarking-gnns)：图神经网络 GNN-Benchmark，该框架为研究人员提供了方便地添加新数据集和模型的便利。作者团队：南洋理工大学&蒙特利尔大学（Bengio）等。推荐等级：:heart::heart::heart::heart:！
 
 <a class="toc" id ="21"></a>
 
@@ -862,12 +921,13 @@
 
 + [Advertorch](https://github.com/BorealisAI/advertorch)：对抗鲁棒性研究工具，实现了大多数的对抗攻防算法（CV领域）。
 + [Cleverhans](https://github.com/tensorflow/cleverhans)：一个用于构建攻击、构建防御和基准测试的对抗性示例库。
-+ [HackingNeuralNetworks](https://github.com/Kayzaks/HackingNeuralNetworks)：神经网络真的在软件层面上是安全吗？今日的 GitHub 趋势榜上有一个「骇入神经网络指南」项目。作者提供了一系列教学资料和代码，告诉了我们黑客会怎样对神经网络发起攻击。和对抗样本攻击不同，这些攻击都是从软件层面进行的，和使用对抗样本混淆模型能力的攻击不同。[教程文章地址](https://github.com/Kayzaks/HackingNeuralNetworks/blob/master/Article.pdf)。
++ [HackingNeuralNetworks](https://github.com/Kayzaks/HackingNeuralNetworks)：神经网络真的在软件层面上是安全吗？ GitHub 趋势榜上有一个「骇入神经网络指南」项目。作者提供了一系列教学资料和代码，告诉了我们黑客会怎样对神经网络发起攻击。和对抗样本攻击不同，这些攻击都是从软件层面进行的，和使用对抗样本混淆模型能力的攻击不同。[教程文章地址](https://github.com/Kayzaks/HackingNeuralNetworks/blob/master/Article.pdf)。
 + [Papers of Robust ML](https://github.com/rainy1998/nlp-/blob/f62680e9663dc89920bd5dbbf44759e190ffd08c/Papers-of-Robust-ML.md)：Robust-ML的相关论文集
 + [Adversarial-DL](https://github.com/mbs0221/Adversarial-DL)：对抗深度学习的论文集
 + [One Pixel Attack Keras](https://github.com/Hyperparticle/one-pixel-attack-keras)："One pixel attack for fooling deep neural networks"  的Keras实现
 + [Adversarial Robustness Toolbox](https://github.com/IBM/adversarial-robustness-toolbox)：IBM研发的关于对抗攻防机器学习的库，GitHub:star:1.2k。
 + [DeepRobust](DeepRobust)：密歇根州立大学开源的基于PyTorch实现的攻防算法库大全，包含`image`和`Graph`两种领域的攻防算法，目前刚刚开源，值得关注。
++ [Adversarial Lab](https://github.com/dsgiitr/adversarial_lab)：生成并可视化对抗样本的工具。
 + [Must-read Papers on Textual Adversarial Attack and Defense](https://github.com/thunlp/TAADpapers)：清华NLP组的同学们，在GitHub上开源的一个list，名为：文本对抗攻击与防御必读paper列表。
 
 <a class="toc" id ="23"></a>
@@ -1374,7 +1434,7 @@
 
 
 <a class="toc" id ="35"></a>
-# Last Update (更新时间) 🕰 ：2020/03/03
+# Last Update (更新时间) 🕰 ：2020/03/04
 [🔙](#table-of-contents)
 
 
