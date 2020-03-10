@@ -34,7 +34,7 @@
 + [Dataset (数据集)  📊](#32)
 + [Code-related Toolkit 💻](#33)
 + [Other Unsorted (其它) ❓](#34)
-+ [Last Update (更新时间) 🕰 ：2020/03/04](#35)
++ [Last Update (更新时间) 🕰 ：2020/03/10](#35)
 
 
 # Preface (前言)
@@ -122,9 +122,11 @@
 + [EverydayWechat](https://github.com/sfyc23/EverydayWechat)：微信助手：1.每日定时给好友（女友）发送定制消息。2.机器人自动回复好友。3.群助手功能（例如：查询垃圾分类、天气、日历、电影实时票房、快递物流、PM2.5等）。GitHub:star:7k。
 + [Google Cloud Vision](https://github.com/GoogleCloudPlatform/cloud-vision):Google的VisionAPI，可以用来自己构建一个搜索引擎。
 + [Markdeep](https://casual-effects.com/markdeep/)：Markdeep 是一个用来写纯文本的插件，它能以 Markdown 的语法与渲染方式纯文本，并在网页上展示。同时，除了 Markdown 语法，Markdeep 还额外支持图表、数学方程等扩展能力。只要你有纯文本编辑器，加上一条语句，瞬间它就可以成为 Markdown 编辑器。
-+ [Real Time Person Removal](https://github.com/jasonmayes/Real-Time-Person-Removal)：实时人物去除项目，这个项目的神奇之处在于，只需要在网络浏览器中使用 JavaScript，用 200 多行 TensorFlow.js 代码，就可以实时让视频画面中的人物对象从复杂的背景中凭空消失！GitHub:star:2.5k
++ [Real Time Person Removal](https://github.com/jasonmayes/Real-Time-Person-Removal)：实时人物去除项目，这个项目的神奇之处在于，只需要在网络浏览器中使用 JavaScript，用 200 多行 TensorFlow.js 代码，就可以实时让视频画面中的人物对象从复杂的背景中凭空消失！GitHub:star:2.5k。[Demo地址](https://codepen.io/jasonmayes/pen/GRJqgma)，只需要一台能上网的电脑和一个网络摄像头就能体验它。
 + [Generative Inpainting](https://github.com/JiahuiYu/generative_inpainting)：自己的照片有路人甲入镜是常有的事，但有些未免太过抢镜，甚至盖过了主角的风头。P 图高手往往选择自己手动去掉背景里不相干的人，但开发者不想那么麻烦，于是开发了该项目来一键消掉路人甲。GitHub:star:1.6k。​
 + [FaceMaskDetection](https://github.com/AIZOOTech/FaceMaskDetection)：开源人脸口罩检测模型和数据 ，[在线体验链接](https://aizoo.com/face-mask-detection.html)
++ [ChineseOCR_LITE](https://github.com/ouyanghuiyu/chineseocr_lite)：中文OCR开源项目，采用了轻量级的主干网络 PSENet，轻量级的 CRNN 模型和行文本方向分类网络 AngleNet，总体模型只有 17M。支持任意方向文字检测，在识别时会自动判断行文本方向。GitHub:star:1.7k。​
++ [MNIST Clock](https://github.com/dheera/mnist-clock)：MNIST 是计算机视觉中不老的经典，GitHub 作者 Dheera Venkatraman 做了一面钟，里面的数字都是从 MNIST 数据集中采样的。24 小时随机抽万张不同的手写数字，每天都不带重样。
 
 <a class="toc" id ="4"></a>
 
@@ -418,8 +420,9 @@
 + [清华大学计算机系课程攻略](https://github.com/PKUanonym/REKCARC-TSC-UHT)：受浙江大学相关项目启发创立的项目
 + [上海交通大学课程分享](https://github.com/CoolPhilChen/SJTU-Courses/)：上海交大课程学习资料
 + [Mlcourse.ai](https://github.com/Yorko/mlcourse.ai)：mlcourse.ai是OpenDataScience提供的开源机器学习课程。你还可以参加课程中举行的几次Kaggle Inclass比赛。GitHub:star:6.6k。
-+ [李宏毅机器学习(2017)](https://www.bilibili.com/video/av10590361?from=search&seid=9788122699737658334)：B站上李宏毅机器学习的教程视频，已有几十万的播放量，李宏毅的教授水平真心觉得很高，对于机器学习的讲解十分有趣吸引人，思路清晰，适合初学者观看。[课程讲义](http://speech.ee.ntu.edu.tw/~tlkagk/courses_ML17.html)。
 + [Hung-yi Lee](http://speech.ee.ntu.edu.tw/~tlkagk/talk.html)：李宏毅老师的个人主页，内附有他的所有机器学习相关演讲课程
++ [李宏毅机器学习(2017)](https://www.bilibili.com/video/av10590361?from=search&seid=9788122699737658334)：B站上李宏毅机器学习的教程视频，已有几十万的播放量，李宏毅的教授水平真心觉得很高，对于机器学习的讲解十分有趣吸引人，思路清晰，适合初学者观看。[课程讲义](http://speech.ee.ntu.edu.tw/~tlkagk/courses_ML17.html)。
++ [李宏毅机器学习2020](http://speech.ee.ntu.edu.tw/~tlkagk/courses_ML20.html)：李宏毅老师新发布的2020机器学习视频，所有课程都有各种学习资源，视频、PPT、作业一项都不少。与其它只教授机器学习基础内容不同，按照惯例，李宏毅老师还会特别讲解当前最新的算法，并将其作为补充视频上传到网上。而且，李宏毅老师的课程涉及领域非常完整，从有监督、半监督、无监督到强化学习，都会有介绍。在最新的 2020 ML 课程中，他展示了完整的学习路径。推荐等级：❤️❤️❤️❤️！
 + [斯坦福 吴恩达《CS229机器学习》）](https://www.bilibili.com/video/av9912938)：B站上吴恩达老师的机器学习教程，播放量已达到百万。吴恩达的教学视频虽然备受推崇，但其实并不适合作为入门视频，教授内容还是有一定深度的
 + [Coursera ML Py](https://github.com/nsoojin/coursera-ml-py)：吴恩达机器学习课程笔记，Python代码
 + [CourseraML](https://github.com/kaleko/CourseraML)：吴恩达机器学习课程笔记，Jupyter笔记本格式
@@ -500,7 +503,7 @@
 + [《Hands-on Machine Learning with Scikit-Learn and TensorFlow》](https://github.com/ageron/handson-ml)：Scikit‑Learn与TensorFlow机器学习实用指南，通过具体的示例，最少的理论和scikit-learn、TensorFlow这两大工具，作者将构建人工智能系统的概念和工具直观地展示了出来。同样由浅入深循序渐进，从简单的线性回归开始，一路深入到神经网络。
 + [《Understanding Machine Learning: From Theory to Algorithms》](https://www.cse.huji.ac.il/~shais/UnderstandingMachineLearning/toc.html)：深入理解机器学习：从原理到算法，本书讨论了学习的计算复杂度、凸性和稳定性、PAC-贝叶斯方法、压缩界等概念，并介绍了一些重要的算法范式，包括随机梯度下降、神经元网络以及结构化输出。适合有一定基础的高年级本科生和研究生学习，也适合作为IT行业从事数据分析和挖掘的专业人员以及研究人员参考阅读。
 + [《Reinforcement Learning: An Introduction》](http://incompleteideas.net/book/the-book.html)：强化学习简介，本书对强化学习领域的关键思想和算法进行了简明清晰的说明。
-+ [《Deep Learning》](http://www.deeplearningbook.org/)：深度学习，Ian Goodfellow，Yoshua Bengio和Aaron Courville共同撰写。旨在帮助学生和从业人员全面了解机器学习，尤其是深度学习。[讲课](http://www.deeplearningbook.org/lecture_slides.html)，[练习](http://www.deeplearningbook.org/exercises.html)，[其它](http://www.deeplearningbook.org/external.html)
++ [《Deep Learning》](http://www.deeplearningbook.org/)：深度学习，Ian Goodfellow，Yoshua Bengio和Aaron Courville共同撰写。旨在帮助学生和从业人员全面了解机器学习，尤其是深度学习。[讲课](http://www.deeplearningbook.org/lecture_slides.html)，[练习](http://www.deeplearningbook.org/exercises.html)，[其它](http://www.deeplearningbook.org/external.html)。MingchaoZhu 同学基于数学推导和产生原理重新描述了书中的概念，并用Python (numpy 库为主) 复现了书本内容，已在Github上开放： [DeepLearning](https://github.com/MingchaoZhu/DeepLearning)。推荐等级：❤️❤️❤️❤️！
 + [《Machine Learning Yearning》](https://www.deeplearning.ai/machine-learning-yearning/)：吴恩达出品。本书的重点不在于机器学习算法本身，而是如何让机器学习算法工作。[GitHub](https://github.com/amusi/machine-learning-yearning-cn)
 + [《D3 Tips and Tricks》](https://leanpub.com/D3-Tips-and-Tricks)：D3 Tips and Tricks介绍了如何利用d3.js这一工具，实现数据可视化。其中包含50多个可以下载的代码示例。
 + [《An Introduction to Statistical Learning》](http://faculty.marshall.usc.edu/gareth-james/ISL/)：统计学习导论：基于R应用,这本书由南加州大学马歇尔商学院院长Gareth James等人出品，主要面向非数学专业的高年级本科生，硕士生和博士生。该书内容主要由R语言实现，并详细说明了统计学习方法在现实生活中的应用实例。
@@ -836,9 +839,9 @@
 [🔙](#table-of-contents)
 
 + [UCL Course on RL](http://www0.cs.ucl.ac.uk/staff/d.silver/web/Teaching.html)：David Silver 的强化学习课程。
-+ [《Reinforcement Learning: An introduction》](http://incompleteideas.net/book/RLbook2018.pdf)：Richard Sutton 和 Andrew Barto的《强化学习：简介（第二版）》
++ [《Reinforcement Learning: An introduction》](http://incompleteideas.net/book/RLbook2018.pdf)：Richard Sutton 和 Andrew Barto的《强化学习：简介（第二版）》。[书籍主页](http://incompleteideas.net/book/the-book-2nd.html)，[代码地址](http://incompleteideas.net/book/code/code2nd.html)，[课后习题](https://pan.baidu.com/s/14NcCbshyHlWA0YyuEEPPqw)，[David sliver中文字幕视频](https://www.bilibili.com/video/av32149008?p=1)。推荐等级：:heart::heart::heart::heart:！
 + [《Reinforcement Learning》](https://github.com/dennybritz/reinforcement-learning)：Denny Britz 亲自 用 Python，OpenAI Gym 和 TensorFlow 实现了上述两份教材资源的大多数标准强化算法，并把它们都共享了出来，方便大家配合教材食用。在这份万星资源里，每个文件夹都对应着教材的一个或多个章节。除了练习和解决方案之外，每个文件夹下还包含了一系列学习目标，基础概念摘要，以及相关链接。GitHub已收:star:10k+
-+ [Rainbow is All You Need](https://nbviewer.jupyter.org/github/Curt-Park/rainbow-is-all-you-need/tree/master/)：一份用 Jypyter Notebook 写的深度强化学习（Deep Reiforcement Learning）笔记，背景理论、代码实现全都有，手把手教你从 DQN 到Rainbow 。 [GitHub地址](https://github.com/Curt-Park/rainbow-is-all-you-need)，推荐等级：:heart::heart:！
++ [Rainbow is All You Need](https://nbviewer.jupyter.org/github/Curt-Park/rainbow-is-all-you-need/tree/master/)：一份用 Jypyter Notebook 写的深度强化学习（Deep Reiforcement Learning）笔记，背景理论、代码实现全都有，手把手教你从 DQN 到Rainbow 。 [GitHub地址](https://github.com/Curt-Park/rainbow-is-all-you-need)，推荐等级：:heart::heart::heart::heart:！
 + [Pg Is All You Need](https://github.com/MrSyee/pg-is-all-you-need)：手把手教你掌握 Policy Gradients 算法。
 + [Practical_RL](https://github.com/yandexdataschool/Practical_RL)：Github上一份强化学习教程
 + [DeepRL](https://github.com/NeuronDance/DeepRL)：由“深度强化学习实验室(DeepRL-Lab)”创建，希望能够为所有DRL研究者，学习者和爱好者提供一个交流平台。
@@ -939,8 +942,10 @@
 + [Distil*](https://github.com/huggingface/transformers/tree/master/examples/distillation)：包含了用于训练Distill*的原始代码，以及展示如何使用DistilBERT、DistilRoBERTa和DistilGPT2的示例。
 + [Apex](https://github.com/NVIDIA/apex)：在PyTorch中实现简单的混合精度和分布式训练的工具，GitHub:star:3.4k。
 + [Sparse Learning Library](https://github.com/TimDettmers/sparse_learning)：基于PyTorch的稀疏学习库，可以很容易封装任何PyTorch神经网络，以模拟稀疏神经网络的训练。
++ [Model Compression](https://github.com/666DZY666/model-compression)：基于pytorch实现模型压缩，[博客](https://blog.csdn.net/qq_35999634)，[B站](https://space.bilibili.com/88044891?)
 
 <a class="toc" id ="24"></a>
+
 # TensorFlow Learning (TensorFlow 学习) 🇹🇫
 [🔙](#table-of-contents)
 
@@ -1008,8 +1013,11 @@
 + [Machine Learning Zero to Hero (Google I/O'19)](https://v.youku.com/v_show/id_XNDE3NjYwMjU2MA==.html?)：机器学习: 从零到一学习 TensorFlow，来自 TensorFlow 团队的 Laurence Moroney 从开发人员的角度，制作一个系列视频，向大家介绍机器学习到底是什么。
 + [Learn Tensorflow 3](https://codelabs.developers.google.com/codelabs/tensorflow-lab3-convolutions/#0)：卷积神经网络学习及如何利用 TensorFlow 构建卷积神经网络
 + [LaserTagger](https://github.com/google-research/lasertagger)：LaserTagger是一种文本编辑模型，它预测一系列标记级编辑操作，以将源文本转换为目标文本。
++ [TensorFlow Quantum](https://www.tensorflow.org/quantum)：谷歌最新开源的TensorFlow Quantum，专注于处理量子数据，及构建量子-经典混合模型（hybrid quantum-classical models）。类似于TensorFlow ，TFQ 作为一个开源库，将直接降低量子机器学习的门槛，让我们能够快速构建量子机器学习模型。论文：[TensorFlow Quantum:A Software Framework for Quantum Machine Learning](https://arxiv.org/pdf/2003.02989.pdf)
++ [TensorFlow 2.0 Complete Course - Python Neural Networks for Beginners](https://www.youtube.com/watch?v=tPYj3fFJGjk)：TensorFlow2.0机器学习7小时免费视频课程，专为码农服务。推荐等级：:heart::heart::heart::heart:！
 
 <a class="toc" id ="25"></a>
+
 # Keras Learning (Keras 学习) 🇰🇷
 [🔙](#table-of-contents)
 
@@ -1434,7 +1442,7 @@
 
 
 <a class="toc" id ="35"></a>
-# Last Update (更新时间) 🕰 ：2020/03/04
+# Last Update (更新时间) 🕰 ：2020/03/10
 [🔙](#table-of-contents)
 
 
