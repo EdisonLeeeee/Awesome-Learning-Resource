@@ -34,7 +34,7 @@
 + [Dataset (数据集)  📊](#32)
 + [Code-related Toolkit 💻](#33)
 + [Other Unsorted (其它) ❓](#34)
-+ [Last Update (更新时间) 🕰 ：2020/03/11](#35)
++ [Last Update (更新时间) 🕰 ：2020/03/14](#35)
 
 
 # Preface (前言)
@@ -128,6 +128,17 @@
 + [FaceMaskDetection](https://github.com/AIZOOTech/FaceMaskDetection)：开源人脸口罩检测模型和数据 ，[在线体验链接](https://aizoo.com/face-mask-detection.html)
 + [ChineseOCR_LITE](https://github.com/ouyanghuiyu/chineseocr_lite)：中文OCR开源项目，采用了轻量级的主干网络 PSENet，轻量级的 CRNN 模型和行文本方向分类网络 AngleNet，总体模型只有 17M。支持任意方向文字检测，在识别时会自动判断行文本方向。GitHub:star:1.7k。​
 + [MNIST Clock](https://github.com/dheera/mnist-clock)：MNIST 是计算机视觉中不老的经典，GitHub 作者 Dheera Venkatraman 做了一面钟，里面的数字都是从 MNIST 数据集中采样的。24 小时随机抽万张不同的手写数字，每天都不带重样。
++ [streamlit](https://streamlit.io/)：这是一款专为机器学习工程师创建的免费、开源 app 构建框架。这款工具可以在你写 Python 代码的时候，实时更新你的应用。[GitHub](https://github.com/streamlit/streamlit/):star:7.2k。
++ [The book of secret knowledge](https://github.com/trimstray/the-book-of-secret-knowledge)：该存储库是程序开发工作中用得到的材料和工具的集合，它包含了许多有用的信息，每个人都可以在这份清单里找到适合你的工具，它面向系统和网络管理员、DevOps、渗透测试人员和安全研究人员。GitHub:star:31.4k，推荐等级：:heart::heart::heart:！
++ [Joplin](https://github.com/laurent22/joplin)：一个免费的，开源的笔记和待办事项的应用程序，可以处理笔记本组织成的大量笔记。笔记是可搜索的，可以直接从应用程序复制，标记和修改，也可以从自己的文本编辑器进行修改。笔记采用Markdown格式。通过.enex文件从Evernote导出的Notes 可以导入到 Joplin 中，包括格式化内容（转换为Markdown），资源（图像，附件等）和完整的元数据（地理位置，更新时间，创建时间等）。GitHub:star:14.1k
++ [System Design Primer](https://github.com/donnemartin/system-design-primer)：该项目是关于如何设计大型系统，以及如何应对系统设计面试。系统设计是一个很宽泛的话题。在互联网上，关于系统设计原则的资源也是多如牛毛。这个仓库就是这些资源的组织收集，它可以帮助你学习如何构建可扩展的系统。GitHub:star:85.2k，推荐等级：❤️❤️❤️❤️！
++ [Lede](https://github.com/coolsnowwolf/lede)：LEDE是基于OpenWrt的嵌入式Linux发行版，该项目教你如何编译自己需要的 OpenWrt 固件，GitHub:star:8.5k​
++ [Realworld](https://github.com/gothinkster/realworld)：RealWorld应用程序是对Medium.com的完整克隆，已经通过各种各样的前端和后端技术实现。它可以对13个框架进行比较，并且比较的是比其他基准测试更大、更复杂的应用程序的实现。GitHub:star:38.3k
++ [Google research](https://github.com/google-research/google-research)：Google Research是谷歌内部进行各种研究的部门，不过随着AI技术的广泛应用和高重要性，他们决定把两个主要部门结合，致力于解决当今和未来技术的计算机科学问题，该存储库包含Google AI Research发布的代码。GitHub:star:8.5k​
++ [FALdetector](https://github.com/peterwang512/FALdetector)：Adobe发布的“反向PS”利器，知道你修过哪里，还帮你修回去，让你一秒回到P图前。GitHub:star:788
++ [Godot](https://github.com/godotengine/godot)：Godot是一个全新开发的游戏引擎,其功能集类似知名的跨平台游戏引擎Unity，可用于开发PC、主机、移动和Web游戏。GitHub:star:28.6k​
++ [Cxxmatrix](https://github.com/akinomyoga/cxxmatrix)：4行代码在终端再现《黑客帝国》数字雨，还有众多其他语言实现的版本，例如[Python实现](https://github.com/will8211/unimatrix)
++ [COVID-19](https://github.com/CSSEGISandData/COVID-19)：在约翰霍普金斯大学，两位中国博士生和他们的导师一起，开发了一个可视化、可交互的全球疫情地图。这个项目已经发在了《柳叶刀》上，GitHub:star:8.3k​
 
 <a class="toc" id ="4"></a>
 
@@ -152,7 +163,7 @@
 + [Top 5 Data Structure and Algorithm Books for Java Developers](http://javarevisited.blogspot.sg/2016/05/5-free-data-structure-and-algorithm-books-in-java.html#axzz4uXETWjmV)
 + [From 0 to 1: Data Structures & Algorithms in Java](https://click.linksynergy.com/fs-bin/click?id=JVFxdTr9V80&subid=0&offerid=323058.1&type=10&tmpid=14538&RD_PARM1=https%3A%2F%2Fwww.udemy.com%2Ffrom-0-to-1-data-structures%2F)
 + [Data Structure and Algorithms Analysis—Job Interview](https://click.linksynergy.com/fs-bin/click?id=JVFxdTr9V80&subid=0&offerid=323058.1&type=10&tmpid=14538&RD_PARM1=https%3A%2F%2Fwww.udemy.com%2Fdata-structure-and-algorithms-analysis%2F)
-+ [FALdetector](https://github.com/peterwang512/FALdetector)：Adobe发布的“反向PS”利器，知道你修过哪里，还帮你修回去，让你一秒回到P图前。GitHub:star:788
++ [Algorithms](https://github.com/williamfiset/Algorithms)：算法和数据结构是高效代码和良好软件设计的基础。要成为一名优秀的程序员，就需要创建和设计出色的算法。该存储库的目标是演示如何以最简单，最优雅的方式正确实现常见的数据结构和算法。GitHub:star:3.6k，推荐等级：❤️❤️❤️！
 
 <a class="toc" id ="5"></a>
 # Tutorials & Blogs (教程博客) 🗨
@@ -267,10 +278,14 @@
 
 + [Visualizing LSTM Activations in Keras](https://medium.com/@praneet9/visualising-lstm-activations-in-keras-b50206da96ff)：在Keras中构建文本生成模型，还将可视化生成文本时某些单元格正在查看的内容。[GitHub地址](https://github.com/Praneet9/Visualising-LSTM-Activations)
 
++ [科研小白入门指南](https://www.bilibili.com/video/av95344119?rt=V%2FymTlOu4ow%2Fy4xxNWPUZ8sWB1oP1%2FVIIfEq0Mxniy8%3D)：清华本科特奖获得者、清华计算机大四学生高天宇，如何写论文、做实验、与导师相处。[高天宇博客首页](https://gaotianyu.xyz/about/)
+
++ [A half-hour to learn Rust](https://fasterthanli.me/blog/2020/a-half-hour-to-learn-rust/)：据说很多开发者一天入门 Python，两天上手 Go，但到了 Rust 就会发现画风隐约有些不对。它从语法到特性，似乎都要复杂一些。本文介绍的就是 Rust，作者表示，通过解析大量代码，「半个小时」就能入门 Rust。
+
   
 
-
 <a class="toc" id ="6"></a>
+
 # CheatSheets (速查表) 📑
 [🔙](#table-of-contents)
 
@@ -791,6 +806,7 @@
 + [Data Science Group](https://dsgiitr.com/)：一个通过机器学习来推动创新的学生组织，内有一些有趣的项目值得学习。
 + [Hashing Deep Learning](https://github.com/keroro824/HashingDeepLearning)：在[该论文](https://www.cs.rice.edu/~as143/Papers/SLIDE_MLSys.pdf)中采用的局部敏感哈希（Locality Sensitive Hashing）算法，并在神经网络中使用了自适应 dropout，在 Amazon-670K 这样的复杂分类数据集上，超一亿参数量的大型神经网络训练时间竟然是 SLIDE + CPU 最快，连 TensorFlow + Tesla V100 都要慢很多，而且从迭代步数上看，它们两者是等价的，表明模型的收敛行为是相同的。
 + [AutoML-Zero](https://github.com/google-research/google-research/tree/master/automl_zero)：AutoML是一种实现从数据集到机器学习模型的自动化方法，让你无需高深专业知识，就能自动部署ML模型。这一研究来自谷歌大脑的Quoc V.Le大神之手。AutoML-Zero 仅使用基本数学运算为基础，从一段空程序开始，即可自动发现解决机器学习任务的计算机程序。[论文地址](https://arxiv.org/abs/2003.03384)
++ [Neural Tangents](https://ai.googleblog.com/2020/03/fast-and-easy-infinitely-wide-networks.html)：推导有限网络的无限宽度限制需要大量的数学知识，并且必须针对不同研究的体系结构分别进行计算。对工程技术水平的要求也很高。谷歌最新开源的 **Neural Tangents**，旨在解决这个问题，让研究人员能够轻松建立、训练无限宽神经网络。甚至只需要5行代码，就能够打造一个无限宽神经网络模型。这一研究成果已经中了ICLR 2020。戳进Colab链接，即可在线试玩。[论文地址](https://arxiv.org/abs/1912.02803)，[Colab地址](https://colab.research.google.com/github/google/neural-tangents/blob/master/notebooks/neural_tangents_cookbook.ipynb)，[GitHub地址](https://github.com/google/neural-tangents)
 
 <a class="toc" id ="17"></a>
 
@@ -946,6 +962,8 @@
 + [Apex](https://github.com/NVIDIA/apex)：在PyTorch中实现简单的混合精度和分布式训练的工具，GitHub:star:3.4k。
 + [Sparse Learning Library](https://github.com/TimDettmers/sparse_learning)：基于PyTorch的稀疏学习库，可以很容易封装任何PyTorch神经网络，以模拟稀疏神经网络的训练。
 + [Model Compression](https://github.com/666DZY666/model-compression)：基于pytorch实现模型压缩，[博客](https://blog.csdn.net/qq_35999634)，[B站](https://space.bilibili.com/88044891?)
++ [EfficientDet.Pytorch](https://github.com/toandaominh1997/EfficientDet.Pytorch)：EfficientNets是一种新的模型缩放方法，准确率比之前最好的Gpipe提高了0.1%，但是模型更小更快，参数的数量和FLOPS都大大减少，效率提升了10倍。该项目是一个哈佛数学系小哥哥Luke Melas-Kyriazi开源了自己的PyTorch实现，包含与训练模型和Demo。
++ [ALBERT](https://github.com/google-research/ALBERT)：ALBERT模型是BERT的改进版，与最近其他State of the art的模型不同的是，这次是预训练小模型，效果更好、参数更少。GitHub:star:1.8k​
 
 <a class="toc" id ="24"></a>
 
@@ -1018,6 +1036,7 @@
 + [LaserTagger](https://github.com/google-research/lasertagger)：LaserTagger是一种文本编辑模型，它预测一系列标记级编辑操作，以将源文本转换为目标文本。
 + [TensorFlow Quantum](https://www.tensorflow.org/quantum)：谷歌最新开源的TensorFlow Quantum，专注于处理量子数据，及构建量子-经典混合模型（hybrid quantum-classical models）。类似于TensorFlow ，TFQ 作为一个开源库，将直接降低量子机器学习的门槛，让我们能够快速构建量子机器学习模型。论文：[TensorFlow Quantum:A Software Framework for Quantum Machine Learning](https://arxiv.org/pdf/2003.02989.pdf)
 + [TensorFlow 2.0 Complete Course - Python Neural Networks for Beginners](https://www.youtube.com/watch?v=tPYj3fFJGjk)：TensorFlow2.0机器学习7小时免费视频课程，专为码农服务。推荐等级：:heart::heart::heart::heart:！
++ [TensorFlow Certificate](https://www.tensorflow.org/certificate)：TensorFlow官方开发者认证：考试费100美元，5小时完成5个模型
 
 <a class="toc" id ="25"></a>
 
@@ -1446,10 +1465,11 @@
 + [Cpp_Primer_Practice](https://github.com/applenob/Cpp_Primer_Practice)：《C++ Primer 第五版》笔记和课后练习答案
 + [AI Portraits Ars](https://aiportraits.com/)：MIT和IBM沃森联合实验室，发布了这只画师，名叫AI Portraits Ars，可以在线玩耍。但由于生成的画像过于形神兼备，上线即遭网友大规模涌入，不到三天服务器就崩坏了。
 + [SpeedCoder](http://www.speedcoder.net/lessons/py/1/)：你打特殊符号的次数越多，你打字速度就越快。然而，你只要做一件小事就能很大程度上加快这个过程——学习好的触摸打字方式。这是一个练习快速打代码的网站。
-
++ [Halo](https://github.com/halo-dev/halo)： 一个优秀的开源博客发布应用，无论你是想搭建个人博客还是单纯学习，这套开源项目都值的你去细细评味。GitHub:star:13.7k，推荐等级：:heart::heart:
 
 <a class="toc" id ="35"></a>
-# Last Update (更新时间) 🕰 ：2020/03/11
+
+# Last Update (更新时间) 🕰 ：2020/03/14
 [🔙](#table-of-contents)
 
 
