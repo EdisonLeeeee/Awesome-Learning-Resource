@@ -1,6 +1,8 @@
+# Awesome Learning Resource :heart::heart:😎 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+A curated list of awesome learning resources, blogs, books, videos and so on.
+
 <a class="toc" id="table-of-contents"></a>
-# Table of Contents
-+ [Preface (前言)](#1)
+# 👉 Table of Contents 👈
 + [Git 👬](#2)
 + [GitHub 👬](#3)
 + [Algorithm (算法) 💡](#4)
@@ -36,11 +38,6 @@
 + [Other Unsorted (其它) ❓](#34)
 + [Last Update (更新时间) 🕰 ：2020/03/14](#35)
 
-
-# Preface (前言)
-[🔙](#table-of-contents)
-
-主要是用于汇总自己平时收集的一些学习网站、资源以及资料等，便于查看整理，并会不断更新 😋
 
 
 <a class="toc" id ="2"></a>
