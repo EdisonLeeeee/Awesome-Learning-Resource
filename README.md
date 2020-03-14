@@ -754,59 +754,114 @@
 [🔙](#table-of-contents)
 
 + [Numpy Machine Learning](https://github.com/ddbourgin/numpy-ml)：普林斯顿博士后 David Bourgin 最近在GitHub上开源的一个非常剽悍的项目，用 NumPy 手写所有主流 ML 模型，超过 3 万行代码、30 多个模型。推荐等级：:heart::heart::heart:！
+
 + [机器学习原理](https://github.com/shunliz/Machine-Learning)：GitHbu上:star:五百多的小项目，内容都是网上扒来的，前半部分关注数学基础，机器学习和深度学习的理论部分，详尽的公式推导。后半部分关注工程实践和理论应用部分
+
 + [机器学习原理笔记整理](https://shunliz.gitbooks.io/machine-learning/content/)：机器学习原理项目笔记
+
 + [数据竞赛Top解决方案开源整理](https://github.com/Smilexuhc/Data-Competition-TopSolution)：涵盖大量数据竞赛的解题方案代码，适合作为学习机器学习的实践代码参考
+
 + [Librec](https://github.com/guoguibing/librec/tree/3.0.0-beta)：Librec是一个利用Java写的推荐系统库，涵盖了大量推荐系统常用算法
+
 + [Tencent Ml Images](https://github.com/Tencent/tencent-ml-images)：腾讯开源的超大型多标签图像数据集及模型训练代码
+
 + [Homemade Machine Learning](https://github.com/trekhleb/homemade-machine-learning)：GitHub上:star:12k的项目，内容包含大多流行的机器学习算法的Python手工实现，并未使用常见的深度学习框架（TensofFlow等），便于理解算法原理，同时还附有数学原理以及Demo展示，十分适合自学的机器学习，作者博客：[Jack Cui](https://cuijiahua.com/blog/spider/)
+
 + [USF Data Institute](https://medium.com/usf-msds)：USF大学数据研究所主页，上面有许多关于机器学习的博客文章，有空看看十分涨知识
+
 + [Deep Learning Book](http://www.deeplearningbook.org/)：深度学习界的大佬Ian Goodfellow 和 Yoshua Bengio所著的深度学习书。[中文版](https://github.com/exacity/deeplearningbook-chinese)GitHub仓库已获20k+，[PDF下载](https://github.com/exacity/deeplearningbook-chinese/releases/download/v0.5-beta/dlbook_cn_v0.5-beta.pdf)。推荐等级：:heart::heart::heart:！
+
 + [Baidu AI Studio](https://aistudio.baidu.com/aistudio/index)：百度的 AI 工作室，里面有各种机器学习数据集、文章、项目，可用作机器学习实践教程
+
 + [NLP Tutorial](https://github.com/graykode/nlp-tutorial)：一个很赞NLP入门代码练习库（含Pytorch和TensorFlow版本） 
+
 + [10 Minutes to pandas](https://pandas.pydata.org/pandas-docs/stable/getting_started/10min.html)：官方文档，十分钟上手 pandas 教程
+
 + [Numpy developer guide](https://docs.scipy.org/doc/numpy/dev/)：官方学习文档，Numpy 上手指南
+
 + [Pandas 中文文档](https://github.com/teadocs/pandas-cn)：Pandas 官方中文文档的仓库。 [域名访问](https://www.pypandas.cn)。
+
 + [Numpy 中文文档](https://github.com/teadocs/numpy-cn)：Numpy 官方中文文档的仓库。 [域名访问](https://www.numpy.org.cn/)。
+
 + [Matplotlib 中文文档](https://github.com/teadocs/matplotlib-cn)：Matplotlib 官方中文文档的仓库。 [域名访问](https://www.matplotlib.org.cn/)。
+
 + [Scipy developer guide](http://scipy.github.io/devdocs/hacking.html)：官方学习文档，Scipy 上手指南
+
 + [ICME2019 Bytedance Grand Challenge](https://github.com/JiDong-CS/icme2019-bytedance-grand-challenge)：抖音短视频推荐大赛小规模赛道Top8模型代码
+
 + [AI-神经网络基本原理简明教程](https://github.com/microsoft/ai-edu/tree/master/)：GitHub上微软人工智能教育与学习共建社区，微软Xiaowuhu根据自己亲身经历的学习轨迹，归纳出了以下教程，可以帮助小白做到真正的从入门到精通。通过以下循序渐进地学习与动手实践，一方面可以帮助读者深刻理解“深度学习”的基础知识，更好地理解并使用现有框架，另一方面可以助力读者快速学习最新出现的各种神经网络的扩展或者变型，跟上快速发展的AI浪潮
+
 + [Awesome Knowledge Distillation](https://github.com/dkozlov/awesome-knowledge-distillation)：作为模型压缩的一种方法，知识蒸馏能够利用已经训练的一个较复杂的模型，来指导一个较轻量的模型训练，从而在减小模型大小和计算资源的同时，尽量保持原始大模型的准确率的方法。Github上的dkozlov同学，整理了Knowledge Distilling的paper、教程、代码，看完这些资料，你一定有所收获
+
 + [Awesome Machine Learning cn](https://github.com/jobbole/awesome-machine-learning-cn)：机器学习资源大全中文版，包括机器学习领域的框架、库以及软件。GitHub:star:3k
+
 + [Machine Learning Learning Notes](https://github.com/Vay-keen/Machine-learning-learning-notes)：周志华《机器学习》的学习笔记，记录了作者在学习这本书的过程中的理解思路以及一些有助于消化书内容的拓展知识，笔记中参考了许多网上的大牛经典博客以及李航《统计学习》的内容
+
 + [Models – IBM Developer](https://developer.ibm.com/exchanges/models/all/)：IBM开放的预训练深度模型库，目前一共有32个模型，分为可部署和可训练模型两类，涉及18个领域
+
 + [SOTA](https://www.jiqizhixin.com/sota)：机器之心出品的机器学习中state-of-the-art论文和模型搜索工具
+
 + [Machine Learning Road](https://github.com/yanshengjia/ml-road)：一份机器学习资源列表，内容包括课程资源及电子书下载链接。
+
 + [Super-Machine-Learning-Revision-Notes](https://createmomo.github.io/2018/01/23/Super-Machine-Learning-Revision-Notes/#tableofcontents)：一份长约 80 页的学习笔记，旨在总结机器学习的一系列基本概念（如梯度下降、反向传播等），不同的机器学习算法和流行模型，以及一些作者在实践中学到的技巧和经验。
+
 + [Data-Science-Competitions](https://github.com/interviewBubble/Data-Science-Competitions)：一份kaggle竞赛的解决方案，集锦，汇集了多项回归、分类、时序分析、推荐系统、信号处理、语义分割等任务。
+
 + [Analytics Vidnya](https://www.analyticsvidhya.com/blog/category/deep-learning/)：一个国外的网站，有各类深度学习相关的教程，推荐等级：:heart::heart::heart:！
+
 + [Machine Learning: a Probabilistic Perspective](http://people.cs.ubc.ca/~murphyk/MLbook/)：谷歌研究员Kevin Patrick Murphy撰写的经典机器学习图书，由MIT出版社出版，自2012年发行以来就奉为经典机器学习书目。本书内容完整，讲解详细，便于阅读，方便工程使用。最近作者在Github上发布了关于本书的Python代码，更加方便使用！[配套Python代码](https://github.com/probml/pyprobml)。
+
 + [Dataquest.io](https://www.dataquest.io/subscribe/)：Dataquest 提供完整的数据分析师、数据科学家和数据工程师学习路径。其中大量内容，尤其是数据分析师学习路径的内容可以免费获取。如果你资金充足，我强烈建议你付费订阅并学习这些内容。我学了这个课程，从中了解到数据科学的基础知识。数据科学家路径课程花费了我 6 个月时间。每个月的价格从 24.5 美元到 49 美元不等，这取决于你是否购买年费会员。资金充足的话，购买年费会员更划算
+
 + [Amueller](https://github.com/amueller)：如果你已经学完了 Dataquest 上的数据科学课程，那么你应该对使用 Python 执行机器学习的基础知识有了充分了解。如果还没有，这方面也有很多免费资源。我推荐首先从 scikit-learn 开始学起，因为 scikit-learn 是目前最常用的机器学习 Python 库。很幸运，scikit-learn 核心开发者之一 Andreas Mueller 举办了为期两天的 workshop，同时发布了该课程的所有材料，包含幻灯片、课程笔记和 notebook。推荐大家先学习这份资料。
+
 + [Scikit-learn](https://scikit-learn.org/stable/tutorial/basic/tutorial.html)：接下来，我推荐大家学习 scikit-learn 官方文档中的一些教程。之后，大家就可以构建一些实际机器学习应用，学习模型运行背后的理论了。
+
 + [Scikit-learn 贡献指南](https://scikit-learn.org/stable/developers/contributing.html)：scikit-learn 贡献指南旨在促进开发者对 scikit-learn 库的贡献，但它实际上也涉及最佳实践。它包括 GitHub、单元测试、debug 等话题，而且其写作背景是数据科学应用。
+
 + [SpaCy](https://github.com/explosion/spaCy)：spaCy是一个超级有用且灵活的自然语言处理（NLP）库和框架，用于清理文本文档以进行模型创建。与用于类似任务的其他库相比，SpaCy更快。GitHub:star:15.8k。
+
 + [Fast.Ai](https://www.fast.ai/)：要想对深度学习有一个全面的了解，我觉得 fast.ai 是最好的选择，它完全免费且没有广告。该课程包含机器学习导论、深度学习实践、计算线性代数和自然语言处理导论（代码优先）。所有课程都以实践为先，强烈推荐大家学习这些课。深度学习课程[Practical Deep Learning for Coders](https://course.fast.ai/index.html)，推荐等级：:heart::heart::heart:！
+
 + [Super Machine Learning Revision Notes](https://createmomo.github.io/2018/01/23/Super-Machine-Learning-Revision-Notes/#tableofcontents)：一份长约 80 页的学习笔记，旨在总结机器学习的一系列基本概念（如梯度下降、反向传播等），不同的机器学习算法和流行模型，以及一些作者在实践中学到的技巧和经验。推荐等级：:heart::heart:！
+
 + [Machine Learning Course](https://github.com/machinelearningmindset/machine-learning-course)：Python 机器学习在线指南，本项目的目的是通过使用 Python 提供一系列简单而全面的教程来梳理机器学习的最重要方面。Github上:star:6k+。[在线阅读](https://machine-learning-course.readthedocs.io/en/latest/index.html#)，推荐等级：:heart::heart:！
+
 + [Machine Learning Notes](https://wei2624.github.io/machine%20learning/Machine-Learning-Notes/)：一份机器学习的笔记，由哥伦比亚大学研究生张威整理。张威同学本科毕业于加拿大滑铁卢大学电子工程系，曾经联合带队参加 2016 年 IEEE 数字信号处理大赛获得前 10 的名次，也曾在微软亚洲研究院副院长郭百宁老师研究组和首席研究员曾文军老师研究组实习。在哥伦比亚大学，张威同学也担任过《Bayesian Model Machine Learning》这门机器学习进阶课程的助教。[课程地址](http://www.cs.columbia.edu/~blei/fogm/2018F/index.html)。推荐等级：:heart::heart:！
+
 + [Dimensionality Reduction Alo Codes](https://github.com/heucoder/dimensionality_reduction_alo_codes )：网上关于各种降维算法的资料参差不齐，同时大部分不提供源代码。这个 GitHub 项目整理了使用 Python 实现了 11 种经典的数据抽取（数据降维）算法，包括：PCA、LDA、MDS、LLE、TSNE 等，并附有相关资料、展示效果；非常适合机器学习初学者和刚刚入坑数据挖掘的小伙伴。
+
 + [Edwardlib](http://edwardlib.org/)：Edward是一个用于概率建模、推理和评论的Python库。它是使用概率模型进行快速实验和研究的试验台，范围从小数据集上的经典层次模型到大数据集上的复杂深度概率模型。Edward融合了三个领域:贝叶斯统计和机器学习、深度学习和概率编程。
+
 + [OCR-IdentificationIDElement](https://github.com/Mingtzge/2019-CCF-BDCI-OCR-MCZJ-OCR-IdentificationIDElement)：2019CCF-BDCI大赛 最佳创新探索奖获得者 基于OCR身份证要素提取赛题冠军 天晨破晓团队 赛题源码
+
 + [PC-DARTS](https://arxiv.org/abs/1907.05737)：在此论文中，来自上海交通大学和华为诺亚方舟实验室的研究人员提出了一种基于部分通道采样的内存高效的可微网络结构搜索方法方法，能够显著提升可微式搜索的速度和性能。该方法在 CIFAR10 数据集上，只需要 0.1 个 GPU 天（单卡 1.5 小时）就可以完成一次搜索过程，并且达到 2.57% 的测试错误率；即使在 ImageNet 数据集上直接搜索，该方法也只需要 3.8 个 GPU 天（8 卡 11.5 小时），并且在 ImageNet 的移动设定（600M 运算）中达到 24.2%/7.3% 的 top-1/top-5 测试错误率。难得的是，该方法展示出了在不同参数设定下的搜索稳定性，能够很容易地应用于不同的实际场景。[GitHub地址](https://github.com/yuhuixu1993/PC-DARTS)
+
 + [SQLFlow](https://github.com/sql-machine-learning/sqlflow)：开源项目SQLFlow，它是SQL引擎（如MySQL、HIVE等）和机器学习引擎（如TensorFlow、XGBoost等）之间的桥梁。它扩展了SQL语义，使得它能够进行模型训练、预测和解释。GitHub:star:3.5k+
+
 + [ILearnDeepLearning.py](https://github.com/SkalskiP/ILearnDeepLearning.py)：包含了与神经网络和深度学习相关的小项目，尝试只使用 NumPy 构建，通过解决简单的分类问题来测试模型，并将其与 Keras 构建的神经网络进行性能比较。推荐等级：:heart::heart:！
+
 + [CDCS](https://github.com/geekinglcq/CDCS)：CDCS 中国数据竞赛优胜解集锦，GitHub:star:1.6k
+
 + [PKUSeg](https://github.com/lancopku/PKUSeg-python)：北大开源的一个中文分词工具包，名为PKUSeg，基于Python。工具包的分词准确率，远远超过THULAC和结巴分词这两位重要选手。GitHub:star:4.6k。
+
 + [JAX](https://github.com/google/jax):JAX由谷歌提出，是TensorFlow的简化库。结合了针对线性代数的编译器XLA，和自动区分本地 Python 和 Numpy 代码的库Autograd，在高性能的机器学习研究中使用。GitHub:star:6.9k
+
 + [Trax](https://github.com/google/trax)：Trax 是一个开源项目，它的目的在于帮助我们挖掘并理解高一阶的深度学习模型。谷歌大脑表示，该项目希望 Trax 代码做到非常整洁与直观，并同时令 Reformer 这类高阶深度学习达到最好的效果。GitHub:star:3.4k。[入门简介地址](https://colab.research.google.com/github/google/trax/blob/master/trax/intro.ipynb)。最后，这个项目最重要的还是它的实现代码，我们并不是因为可以直接运行而使用它。相反，我们是因为它的代码直观简洁，能帮助我们一步步更深刻地理解模型而使用它。推荐等级：:heart::heart::heart::heart:！
+
 + [TensorRT](https://github.com/NVIDIA/TensorRT)：TensorRT是一个C++库，用于NVIDIA GPU和深度学习加速器上的高性能推理。
+
 + [DeepCTR](https://github.com/shenweichen/DeepCTR)：深度学习点击率算法预测包，[PyTorch版本](https://github.com/shenweichen/DeepCTR-Torch)。
+
 + [Data Science Group](https://dsgiitr.com/)：一个通过机器学习来推动创新的学生组织，内有一些有趣的项目值得学习。
+
 + [Hashing Deep Learning](https://github.com/keroro824/HashingDeepLearning)：在[该论文](https://www.cs.rice.edu/~as143/Papers/SLIDE_MLSys.pdf)中采用的局部敏感哈希（Locality Sensitive Hashing）算法，并在神经网络中使用了自适应 dropout，在 Amazon-670K 这样的复杂分类数据集上，超一亿参数量的大型神经网络训练时间竟然是 SLIDE + CPU 最快，连 TensorFlow + Tesla V100 都要慢很多，而且从迭代步数上看，它们两者是等价的，表明模型的收敛行为是相同的。
+
 + [AutoML-Zero](https://github.com/google-research/google-research/tree/master/automl_zero)：AutoML是一种实现从数据集到机器学习模型的自动化方法，让你无需高深专业知识，就能自动部署ML模型。这一研究来自谷歌大脑的Quoc V.Le大神之手。AutoML-Zero 仅使用基本数学运算为基础，从一段空程序开始，即可自动发现解决机器学习任务的计算机程序。[论文地址](https://arxiv.org/abs/2003.03384)
+
 + [Neural Tangents](https://ai.googleblog.com/2020/03/fast-and-easy-infinitely-wide-networks.html)：推导有限网络的无限宽度限制需要大量的数学知识，并且必须针对不同研究的体系结构分别进行计算。对工程技术水平的要求也很高。谷歌最新开源的 **Neural Tangents**，旨在解决这个问题，让研究人员能够轻松建立、训练无限宽神经网络。甚至只需要5行代码，就能够打造一个无限宽神经网络模型。这一研究成果已经中了ICLR 2020。戳进Colab链接，即可在线试玩。[论文地址](https://arxiv.org/abs/1912.02803)，[Colab地址](https://colab.research.google.com/github/google/neural-tangents/blob/master/notebooks/neural_tangents_cookbook.ipynb)，[GitHub地址](https://github.com/google/neural-tangents)
+
+  
 
 <a class="toc" id ="17"></a>
 
@@ -964,6 +1019,7 @@
 + [Model Compression](https://github.com/666DZY666/model-compression)：基于pytorch实现模型压缩，[博客](https://blog.csdn.net/qq_35999634)，[B站](https://space.bilibili.com/88044891?)
 + [EfficientDet.Pytorch](https://github.com/toandaominh1997/EfficientDet.Pytorch)：EfficientNets是一种新的模型缩放方法，准确率比之前最好的Gpipe提高了0.1%，但是模型更小更快，参数的数量和FLOPS都大大减少，效率提升了10倍。该项目是一个哈佛数学系小哥哥Luke Melas-Kyriazi开源了自己的PyTorch实现，包含与训练模型和Demo。
 + [ALBERT](https://github.com/google-research/ALBERT)：ALBERT模型是BERT的改进版，与最近其他State of the art的模型不同的是，这次是预训练小模型，效果更好、参数更少。GitHub:star:1.8k​
++ [DeepSpeed](https://github.com/microsoft/DeepSpeed)：微软开源的DeepSpeed是一个深度学习优化库，它使分布式培训变得简单、高效和有效。GitHub:star:2.1k​
 
 <a class="toc" id ="24"></a>
 
