@@ -2,6 +2,7 @@
 A curated list of awesome learning resources, blogs, books, videos and so on.
 
 <a class="toc" id="table-of-contents"></a>
+
 # 👉 Table of Contents 👈
 + [Git 👬](#2)
 + [GitHub 👬](#3)
@@ -36,7 +37,7 @@ A curated list of awesome learning resources, blogs, books, videos and so on.
 + [Dataset (数据集)  📊](#32)
 + [Code-related Toolkit 💻](#33)
 + [Other Unsorted (其它) ❓](#34)
-+ [Last Update (更新时间) 🕰 ：2020/03/14](#35)
++ [Last Update (更新时间) 🕰 ：2020/03/19](#35)
 
 
 
@@ -136,6 +137,7 @@ A curated list of awesome learning resources, blogs, books, videos and so on.
 + [Godot](https://github.com/godotengine/godot)：Godot是一个全新开发的游戏引擎,其功能集类似知名的跨平台游戏引擎Unity，可用于开发PC、主机、移动和Web游戏。GitHub:star:28.6k​
 + [Cxxmatrix](https://github.com/akinomyoga/cxxmatrix)：4行代码在终端再现《黑客帝国》数字雨，还有众多其他语言实现的版本，例如[Python实现](https://github.com/will8211/unimatrix)
 + [COVID-19](https://github.com/CSSEGISandData/COVID-19)：在约翰霍普金斯大学，两位中国博士生和他们的导师一起，开发了一个可视化、可交互的全球疫情地图。这个项目已经发在了《柳叶刀》上，GitHub:star:8.3k​
++ [Primg](https://github.com/geonnave/primg)：用质数生成任意ASCII艺术
 
 <a class="toc" id ="4"></a>
 
@@ -241,6 +243,7 @@ A curated list of awesome learning resources, blogs, books, videos and so on.
 + [Python 3 Cheat Sheet](https://perso.limsi.fr/pointal/python:memento)：Python 3 Cheat Sheet 由法国国家科学研究中心（CNRS）的法国机械工程与信息技术实验室（LIMSI）的工程师 Laurent Pointal 总结。这个简单的 Cheat Sheet 专注于从算法/编程开始所必需的语言部分，提供了学生入门所需的一般信息。注意：它不涉及面向对象的编程。[PDF 地址](https://perso.limsi.fr/pointal/_media/python:cours:mementopython3-english.pdf)
 + [Deep Learning cheatsheets for Stanford's CS 230](https://github.com/afshinea/stanford-cs-230-deep-learning)：吴恩达CS230深度学习课小抄，[清单主页](https://stanford.edu/~shervine/teaching/cs-230.html)。
 + [《Python-Knowledge-Handbook》](https://github.com/liyangbit/Python-Knowledge-Handbook)：《Python知识手册》 由 『Python数据之道』出品
++ [Matplotlib Cheatsheet](https://github.com/rougier/matplotlib-cheatsheet)：Matplotlib 3.1 cheat sheet，GitHub:star:1.5k​
 
 
 <a class="toc" id ="7"></a>
@@ -722,7 +725,7 @@ A curated list of awesome learning resources, blogs, books, videos and so on.
 
 + [Pandas 中文文档](https://github.com/teadocs/pandas-cn)：Pandas 官方中文文档的仓库。 [域名访问](https://www.pypandas.cn)。
 
-+ [Numpy 中文文档](https://github.com/teadocs/numpy-cn)：Numpy 官方中文文档的仓库。 [域名访问](https://www.numpy.org.cn/)。
++ [Numpy 中文文档](https://github.com/teadocs/numpy-cn)：Numpy 官方中文文档的仓库。 [域名访问](https://www.numpy.org.cn/)。推荐等级：:heart::heart::heart::heart:！
 
 + [Matplotlib 中文文档](https://github.com/teadocs/matplotlib-cn)：Matplotlib 官方中文文档的仓库。 [域名访问](https://www.matplotlib.org.cn/)。
 
@@ -810,16 +813,28 @@ A curated list of awesome learning resources, blogs, books, videos and so on.
 [🔙](#table-of-contents)
 
 + [Autokeras](https://github.com/keras-team/autokeras)：它使用了高效神经架构搜索[ENAS](https://arxiv.org/abs/1802.03268)，只需使用 pip install autokeras 就能快速轻松地安装软件包，然后就能用自己的数据集来执行自己的架构搜索构建思路。相比谷歌 AutoML，两者构建思路类似，但不同的是，AutoKeras 所有代码都已经开源，可供开发者无偿使用。GitHub:star:6.6k。
+
 + [TPOT](https://github.com/EpistasisLab/tpot)：TPOT 是一个 Python 编写的软件包，利用遗传算法行特征选择和算法模型选择，仅需几行代码，就能生成完整的机器学习代码。在机器学习模型开发图中，TPOT 所完成的即通过利用遗传算法，分析数千种可能的组合，为模型、参数找到最佳的组合，从而自动化机器学习中的模型选择及调参部分。GitHub:star:6.7k。
+
 + [Featuretools](https://github.com/FeatureLabs/featuretools)：这是一个用于自动化特性工程的开源 python 框架，它可以帮助开发者从一组相关数据表中自动构造特征。开发者只需要知道数据表的基本结构和它们之间的关系，然后在实体集（一种数据结构）中指明。然后在有了实体集之后，使用一个名为深度特征合成（DFS）的方法，在一个函数调用中构建出数千个特征。[官网](https://www.featuretools.com/)，GitHub:star:4.6k。
+
 + [AdaNet](https://github.com/tensorflow/adanet)：AdaNet 是由谷歌开源的一个轻量级的基于 TensorFlow 框架。AdaNet 易于使用，并能创建高质量的模型，为 ML 实践者节省了用于选择最佳神经网络架构的时间，实现了一种将学习神经架构作为子网络集合的自适应算法。[官方文档](https://adanet.readthedocs.io/en/v0.8.0/)，GitHub:star:3k。
+
 + [NNI (Neural Network Intelligence)](https://aka.ms/nniis)：2018年9月，微软亚洲研究院发布了第一版 NNI (Neural Network Intelligence) ，目前已在 GitHub 上获得 :star:3.8K ，成为最热门的自动机器学习（AutoML）开源项目之一。最新版本的 NNI 对机器学习生命周期的各个环节做了更加全面的支持，包括特征工程、神经网络架构搜索（NAS）、超参调优和模型压缩在内的步骤，你都能使用自动机器学习算法来完成。
+
 + [NNI](https://github.com/microsoft/nni)：有了 AutoML，特征工程、神经架构和超参搜索这些炼金基本功再也不用担心了。作为科技巨头，微软也在 AutoML 上开源了自己的 NNI 库，这个库在 GitHub 上非常流行，长期盘踞在每日项目 Trending 榜，GitHub:star:5.7k。根据 GitHub 项目上的介绍，NNI（Neural Network Intelligence）意图帮助用户使用自动机器学习算法、帮助进行算法加速、实现更好的超参数、神经架构和模型压缩，以及进行平台部署。
+
 + [Keras Tuner](https://github.com/keras-team/keras-tuner)：基于 Keras 的模型调参工具，GitHub:star:1.7k
+
 + [AutoGluon](https://github.com/awslabs/autogluon)：亚马逊AWS推出新的基于mxnet的开源库AutoGluon，只需三行代码，自动生成高性能模型，让调参、神经架构搜索等过程实现自动化，无需研究人员人工决策，大大降低了机器学习模型的使用门槛。[官方文档](https://autogluon.mxnet.io/)。
+
 + [Optuna](https://optuna.org/)：Optuna是一款为机器学习任务设计的自动超参数优化软件框架，是一款按运行定义(define-by-run) 原则设计的优化软件，允许用户动态地调整搜索空间，在同类软件中尤属首创，是下一代超参调优框架的代表。[GitHub](https://github.com/optuna/optuna):star:1.9k,
+
 + [Hyperopt](https://github.com/hyperopt/hyperopt)：分布式异步超参数优化，GitHub:star:4.3k。
+
 + [HungaBunga](https://github.com/ypeleg/HungaBunga)：Hungabunga项目将帮助你比大多数数据科学图书馆更快地找到答案。它贯穿全部的sklearn模型，使用所有可能的超参数，并使用交叉验证对它们进行排序
+
++ [Auto sklearn](https://github.com/automl/auto-sklearn)：利用scikit-learn 进行自动机器学习，GitHub:star:4.4k。​
 
   
 
@@ -855,7 +870,6 @@ A curated list of awesome learning resources, blogs, books, videos and so on.
     + [OpenSpiel](https://github.com/deepmind/open_spiel)：OpenSpiel 是一系列环境和算法的集合，用于研究一般强化学习和游戏中的搜索/规划。OpenSpiel 的核心实现是基于 C++和 Python 绑定，便于在不同的深度学习框架中采用。该框架包含了一系列游戏组合，允许 DRL 智能体掌握合作和竞争行为。类似地，OpenSpiel 包含了多种 DRL 算法组合，例如：搜索、优化和单一智能体等。OpenSpiel 还包括分析学习动态和其他常见评估指标的工具。游戏和实用程序功能（例如：计算）是用 C++编写的。这些也可以使用 [pybind11](https://pybind11.readthedocs.io/en/stable/) python（2.7 和 3）绑定。
     + [SpriteWorld](https://github.com/deepmind/spriteworld)：SpriteWorld 是一个基于 python 的强化学习环境，它由一个可以自由移动的简单形状的二维竞技场组成。更具体地说，SpriteWorld 是一个二维方形竞技场，有不同数量的彩色 Sprites，可以自由放置和渲染，但不会发生碰撞。SpriteWorld 也可以用于强化学习以外的其他目的。
     + [bsuite](https://github.com/deepmind/bsuite)：DeepMind试图将 bsuite（Behaviour Suite for Reinforcement Learning，强化学习行为套件）打造成为强化学习领域 的 MNIST。具体而言，bsuite 是一系列实验，旨在突出智能体可扩展性的关键点。这些实验都体现了一些基本的问题，例如「探索」或「记忆」，其实验方式可以很容易地进行测试和迭代。
-
 + [Simple Beginner’s guide to Reinforcement Learning & its implementation](https://www.analyticsvidhya.com/blog/2017/01/introduction-to-reinforcement-learning-implementation/?utm_source=blog&utm_medium=7-data-science-projects-github-showcase-your-skills)：强化学习初学者教程，理论与代码实践。另一篇[A Hands-On Introduction to Deep Q-Learning using OpenAI Gym in Python](https://www.analyticsvidhya.com/blog/2019/04/introduction-deep-q-learning-python/?utm_source=blog&utm_medium=7-data-science-projects-github-showcase-your-skills)，推荐等级：:heart::heart::heart:！
 + [Awesome Reinforcement Learning](https://github.com/aikorea/awesome-rl)：强化学习资源大全，Github:star:5k+，推荐等级：:heart::heart::heart:！
 + [21 Deep Learning Videos](https://www.analyticsvidhya.com/blog/2016/12/21-deep-learning-videos-tutorials-courses-on-youtube-from-2016/)：21个强化学习教程视频(YouTube2016)。
@@ -867,6 +881,12 @@ A curated list of awesome learning resources, blogs, books, videos and so on.
 + [JAX](https://github.com/google/jax):JAX由谷歌提出，是TensorFlow的简化库。结合了针对线性代数的编译器XLA，和自动区分本地 Python 和 Numpy 代码的库Autograd，在高性能的机器学习研究中使用。GitHub:star:6.9k
 + [HAIKU](https://github.com/deepmind/dm-haiku)：DeepMind发布了Haiku和RLax两个库，都是基于JAX。Haiku是基于JAX的神经网络库，允许用户使用熟悉的面向对象程序设计模型，可完全访问 JAX 的纯函数变换。
 + [RLAX](https://github.com/deepmind/rlax)：RLax是JAX顶层的库，它提供了用于实现强化学习代理的有用构件。它所提供的操作和函数不是完整的算法，而是强化学习特定数学操作的实现。
++ [IntroRL](https://github.com/zhoubolei/introRL)：香港中文大学（CUHK）信息工程系助理教授周博磊就有了一个大胆的想法，他决定把自己每周的《强化学习》课程用中文在 B 站上进行直播。除了直播和课程视频之外，周博磊还会同步更新课程的代码，使用的编程语言为 Python，深度学习框架则是 TensorFlow 和 PyTorch 皆可（PyTorch 为主）。和常规的课程一样，《强化学习纲要》也会在每节课后留下一些作业。
++ [Introduction to Reinforcement Learning](http://www0.cs.ucl.ac.uk/staff/D.Silver/web/Teaching.html)：David Silver 在 UCL 讲授的强化学习入门课程。没错，就是来自 DeepMind 那个在 Nature 上发表了 DQN 论文，紧接着提出 AlphaGo 和 AlphaGo Zero，从此掀起深度强化学习研究浪潮的 Silver。他的课程深入浅出，在介绍强化学习概念的过程中穿插了很多例子，对初学者非常友好，建议作为第一个观看的入门视频课程。
++ [Deep Reinforcement Learning](https://www.bilibili.com/video/av24724071)：台大李宏毅的强化学习课程
++ [OpenAI Spinning Up](https://openai.com/blog/spinning-up-in-deep-rl/)：从 VPG(Vanilla Policy Gradient) 到 TRPO(Trust Region Policy Optimization)、SAC(Soft Actor-Critic) 均有实现，关键是 OpenAI 出品，代码质量高。
++ [Stable Baselines](https://stable-baselines.readthedocs.io/en/master/)：大量深度强化学习算法优质实现，文档丰富，包含 Colab Notebook，深度强化学习入坑必看 repo。
++ [Pieter Abbeel ](https://people.eecs.berkeley.edu/~pabbeel/)&[Sergey Levine](https://people.eecs.berkeley.edu/~svlevine/)：两位在深度强化学习领域非常有名的科学家——Pieter Abbeel 与 Sergey Levine。他们长期致力于深度强化学习的教学、研究等工作，在其个人主页可以找到很多他们所讲授课程的链接。
 
 
 
@@ -981,6 +1001,8 @@ A curated list of awesome learning resources, blogs, books, videos and so on.
 + [Tensorflow Practice](https://github.com/princewen/tensorflow_practice)：tensorflow 实战练习，包括强化学习、推荐系统、nlp等，GitHub:star:3.6k。​
 + [tflearn](https://github.com/tflearn/tflearn)：基于TensorFlow1.x的高级封装，但是不支持TensorFlow2.x。
 + [Tensorrt](https://github.com/tensorflow/tensorrt)：[Tensorrt](https://github.com/NVIDIA/TensorRT) 的 TensorFlow 集成
++ [Tensorflow Tutorials using Jupyter Notebook](https://github.com/sjchoi86/Tensorflow-101)：使用Jupyter Notebook运行的TensorFlow教程，教程是基于Jupyter Notebook开发环境的Tensorflow教程，Jupyter Notebook是一款非常好用的交互式开发工具，不仅支持40多种编程语言，还可以实时运行代码、共享文档、数据可视化、支持markdown等，适用于机器学习、统计建模数据处理、特征提取等多个领域。
++ [Tensorflow exercise](https://github.com/terryum/TensorFlow_Exercises)：Tensorflow代码练习，一个从易到难的Tensorflow代码练习手册。非常适合学习Tensorflow的小伙伴。
 ---
 + [TensorFlow 2.0 迁移指南](https://www.tensorflow.org/guide/migrate)：近期 TensorFlow 2.0正式版已经推出，如果你使用过tensorflow 1.x，这是一个迁移到2.0的官方指南
 + [tf upgrade v2](https://www.tensorflow.org/guide/upgrade)：为了帮助你（自动地）将代码从 keras 更新为 tf.keras，Google 发布了一个名为 tf_upgrade_v2 的脚本。顾名思义，这个脚本可以分析你的代码并报告需要改动的行，该脚本甚至可以替你完成升级过程。
@@ -1024,6 +1046,9 @@ A curated list of awesome learning resources, blogs, books, videos and so on.
 + [TensorFlow Quantum](https://www.tensorflow.org/quantum)：谷歌最新开源的TensorFlow Quantum，专注于处理量子数据，及构建量子-经典混合模型（hybrid quantum-classical models）。类似于TensorFlow ，TFQ 作为一个开源库，将直接降低量子机器学习的门槛，让我们能够快速构建量子机器学习模型。论文：[TensorFlow Quantum:A Software Framework for Quantum Machine Learning](https://arxiv.org/pdf/2003.02989.pdf)
 + [TensorFlow 2.0 Complete Course - Python Neural Networks for Beginners](https://www.youtube.com/watch?v=tPYj3fFJGjk)：TensorFlow2.0机器学习7小时免费视频课程，专为码农服务。推荐等级：:heart::heart::heart::heart:！
 + [TensorFlow Certificate](https://www.tensorflow.org/certificate)：TensorFlow官方开发者认证：考试费100美元，5小时完成5个模型
++ [Eat tensorflow2 in 30 days](https://github.com/lyhue1991/eat_tensorflow2_in_30_days)：30天吃掉那只 TensorFlow2.0 ，推荐等级：:heart::heart::heart::heart:！
++ [Tensorflow Constrained Optimization](https://github.com/google-research/tensorflow_constrained_optimization)：TensorFlow 约束优化库，可根据多种不同指标（例如，某些特定群体成员的精度、某些国家/地区居民的真阳率 (True Positive)，或者取决于年龄和性别的癌症诊断的召回率）来配置和训练机器学习问题。通过为用户提供最小化和约束指标任意组合的功能，TFCO 可轻松阐述并解决公平性社区尤其是机器学习社区特别关注的诸多问题（例如均衡赔率和预测性平价等）。
++ [EfficientNet-lite](https://github.com/tensorflow/tpu/tree/master/models/official/efficientnet/lite)：EfficientNet-Lite 为边缘设备带来了 EfficientNet 上强大的性能，并且提供五个不同版本，让用户能够根据自己的应用场景灵活地在低延迟与高精度之间选择。
 
 <a class="toc" id ="25"></a>
 
@@ -1456,5 +1481,5 @@ A curated list of awesome learning resources, blogs, books, videos and so on.
 
 <a class="toc" id ="35"></a>
 
-# Last Update (更新时间) 🕰 ：2020/03/14
+# Last Update (更新时间) 🕰 ：2020/03/19
 [🔙](#table-of-contents)
