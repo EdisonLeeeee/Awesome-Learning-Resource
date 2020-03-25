@@ -37,7 +37,7 @@ A curated list of awesome learning resources, blogs, books, videos and so on.
 + [Dataset (数据集)  📊](#32)
 + [Code-related Toolkit 💻](#33)
 + [Other Unsorted (其它) ❓](#34)
-+ [Last Update (更新时间) 🕰 ：2020/03/19](#35)
++ [Last Update (更新时间) 🕰 ：2020/03/25](#35)
 
 
 
@@ -163,8 +163,10 @@ A curated list of awesome learning resources, blogs, books, videos and so on.
 + [From 0 to 1: Data Structures & Algorithms in Java](https://click.linksynergy.com/fs-bin/click?id=JVFxdTr9V80&subid=0&offerid=323058.1&type=10&tmpid=14538&RD_PARM1=https%3A%2F%2Fwww.udemy.com%2Ffrom-0-to-1-data-structures%2F)
 + [Data Structure and Algorithms Analysis—Job Interview](https://click.linksynergy.com/fs-bin/click?id=JVFxdTr9V80&subid=0&offerid=323058.1&type=10&tmpid=14538&RD_PARM1=https%3A%2F%2Fwww.udemy.com%2Fdata-structure-and-algorithms-analysis%2F)
 + [Algorithms](https://github.com/williamfiset/Algorithms)：算法和数据结构是高效代码和良好软件设计的基础。要成为一名优秀的程序员，就需要创建和设计出色的算法。该存储库的目标是演示如何以最简单，最优雅的方式正确实现常见的数据结构和算法。GitHub:star:3.6k，推荐等级：❤️❤️❤️！
++ [Fucking Algorithm](https://github.com/labuladong/fucking-algorithm)：手把手撕LeetCode题目，扒各种算法套路的裤子。GitHub:star:13.4k。
 
 <a class="toc" id ="5"></a>
+
 # Tutorials & Blogs (教程博客) 🗨
 [🔙](#table-of-contents)
 
@@ -677,8 +679,9 @@ A curated list of awesome learning resources, blogs, books, videos and so on.
 
 + [Nbviewer](https://nbviewer.jupyter.org/)： 在线渲染 Jupyter 文件的网页，只需要输入 Github 仓库地址即可。
 + [Nbdev](https://github.com/fastai/nbdev/)：fast.ai 创始研究员 Jeremy Howard 撰文介绍了 fast.ai 最近提出的新型编程环境 nbdev，它基于 Jupyter Notebook 构建，并将 IDE 编辑器的优点带入 Jupyter Notebook，可以在 Notebooks 中开发而不影响整个项目生命周期。[文档](https://github.com/fastai/nbdev/)
-+ [Reviewnb](https://www.reviewnb.com/)：**Code Reviews for Jupyter Notebooks**，Jupyter Notebook 的代码审查工具。介绍博客[Introducing ReviewNB: Code Reviews for Jupyter Notebooks](https://towardsdatascience.com/introducing-reviewnb-visual-diff-for-jupyter-notebooks-6797e6dfa20c)
++ [Reviewnb](https://www.reviewnb.com/)：Code Reviews for Jupyter Notebooks，Jupyter Notebook 的代码审查工具。介绍博客：[Introducing ReviewNB: Code Reviews for Jupyter Notebooks](https://towardsdatascience.com/introducing-reviewnb-visual-diff-for-jupyter-notebooks-6797e6dfa20c)
 + [Polynote](https://github.com/polynote/polynote)：使用类似 Jupyter Notebook 进行数据分析和机器学习是近来较为方便灵活的开发方式，但是 Jupyter Notebook 缺乏对多种语言的原生支持，在管理笔记本内的依赖、数据可视化等方面有所欠缺。近日，NetFlix 公司将其数据分析和机器学习开发工具 Polynote 开源。这一工具支持多语言在一个笔记本程序内运行，还增加了很多新特性，值得尝试使用。推荐等级：:heart:！
++ [Deepnote](https://www.deepnote.com/)：对全世界的 Python 高手而言，Jupyter Notebook 是目前最流行的编程环境，但它也有一些令人难以忍受的缺点。为此，一个位于旧金山的小团队开发了一款名为 Deepnote 的笔记本工具，这是一种云协作、云硬件，上云的 Notebook 编程环境。Pindrop 的高级研究科学家 Anthony Agnone 认为，Deepnote 已经表现出了超越 Jupyter Notebook 的趋势。推荐等级：:heart::heart::heart:！
 + [Awesome JupyterLab](https://github.com/mauhai/awesome-jupyterlab)：Jupyter lab 插件和资源大全列表，GitHub::star:1k。
 + [Awesome Jupyter](https://github.com/adebar/awesome-jupyter)：Jupyter 插件和资源大全列表，GitHub::star:1.4k。
 + [A gallery of interesting Jupyter Notebooks](https://github.com/jupyter/jupyter/wiki/a-gallery-of-interesting-jupyter-notebooks)：有趣的 Jupyter Notebooks 介绍
@@ -805,6 +808,10 @@ A curated list of awesome learning resources, blogs, books, videos and so on.
 
 + [Neural Tangents](https://ai.googleblog.com/2020/03/fast-and-easy-infinitely-wide-networks.html)：推导有限网络的无限宽度限制需要大量的数学知识，并且必须针对不同研究的体系结构分别进行计算。对工程技术水平的要求也很高。谷歌最新开源的 **Neural Tangents**，旨在解决这个问题，让研究人员能够轻松建立、训练无限宽神经网络。甚至只需要5行代码，就能够打造一个无限宽神经网络模型。这一研究成果已经中了ICLR 2020。戳进Colab链接，即可在线试玩。[论文地址](https://arxiv.org/abs/1912.02803)，[Colab地址](https://colab.research.google.com/github/google/neural-tangents/blob/master/notebooks/neural_tangents_cookbook.ipynb)，[GitHub地址](https://github.com/google/neural-tangents)
 
++ [Jittor](https://cg.cs.tsinghua.edu.cn/jittor/)：清华大学开发了一个名为计图（Jittor）的深度学习框架。这一框架有望为深度学习社区提供新的方案，也能够推动深度学习框架国产化的进程。据官网介绍说：「研究团队将神经网络所需的基本算子定义为元算子」，元算子非常底层，通过相互融合可以完成复杂的深度学习计算，体现出了易于使用的特点。并且研发团队表示，采用元算子的 Jittor 已超越 Numpy，能够实现更复杂更高效的操作。[GitHub](https://github.com/Jittor/jittor):star:1k+。
+
++ [MegEngine](https://megengine.org.cn/)：旷视科技在北京发布了新一代人工智能生产平台天元（MegEngine），其「训练推理一体」、「动静合一」、「兼容并包」、「灵活高效」的强大性能或许将为 AI 领域带来新的风向。天元与目前流行的 TensorFlow、PyTorch 相似，旨在让更多的人可以在其基础上构建自己的应用，创造属于自己的价值。[GitHub​](https://github.com/MegEngine/MegEngine):star:600+
+
   
 
 <a class="toc" id ="17"></a>
@@ -886,9 +893,9 @@ A curated list of awesome learning resources, blogs, books, videos and so on.
 + [Deep Reinforcement Learning](https://www.bilibili.com/video/av24724071)：台大李宏毅的强化学习课程
 + [OpenAI Spinning Up](https://openai.com/blog/spinning-up-in-deep-rl/)：从 VPG(Vanilla Policy Gradient) 到 TRPO(Trust Region Policy Optimization)、SAC(Soft Actor-Critic) 均有实现，关键是 OpenAI 出品，代码质量高。
 + [Stable Baselines](https://stable-baselines.readthedocs.io/en/master/)：大量深度强化学习算法优质实现，文档丰富，包含 Colab Notebook，深度强化学习入坑必看 repo。
-+ [Pieter Abbeel ](https://people.eecs.berkeley.edu/~pabbeel/)&[Sergey Levine](https://people.eecs.berkeley.edu/~svlevine/)：两位在深度强化学习领域非常有名的科学家——Pieter Abbeel 与 Sergey Levine。他们长期致力于深度强化学习的教学、研究等工作，在其个人主页可以找到很多他们所讲授课程的链接。
-
-
++ [Pieter Abbeel ](https://people.eecs.berkeley.edu/~pabbeel/)& [Sergey Levine](https://people.eecs.berkeley.edu/~svlevine/)：两位在深度强化学习领域非常有名的科学家——Pieter Abbeel 与 Sergey Levine。他们长期致力于深度强化学习的教学、研究等工作，在其个人主页可以找到很多他们所讲授课程的链接。
++ [SEED RL](https://github.com/google-research/seed_rl)：Scalable and Efficient Deep-RL，即可扩展且高效的深度强化学习。谷歌在最新工作[《SEED RL: Scalable and Efficient Deep-RL with Accelerated Central Inference》](https://openreview.net/pdf?id=rkgvXlrKwH)（为ICLR 2020 Oral 论文）中，提出的一个能够扩展到数千台机器的强化学习架构能够以每秒数百万帧的速度进行训练，计算效率显著提高。
++ [Dreamer](https://github.com/google-research/dreamer)：Google AI 与 DeepMind 联合推出了 Dreamer，这是一种从图像中学习模型并用它来学习远见性（long-sighted）行为的 RL 智能体。通过模型预测的反向传播，Dreamer 能够利用它学得的模型高效地展开行为学习。通过从原始图像中学习计算紧凑模型状态，Dreamer 仅使用一块 GPU 即可以高效地从预测到的并行序列中学习。[GitHub 博客地址](https://dreamrl.github.io)，[论文地址](https://arxiv.org/pdf/1912.01603.pdf)
 
 <a class="toc" id ="20"></a>
 # Graph Learning (图学习) 🗺
@@ -971,6 +978,7 @@ A curated list of awesome learning resources, blogs, books, videos and so on.
 + [EfficientDet.Pytorch](https://github.com/toandaominh1997/EfficientDet.Pytorch)：EfficientNets是一种新的模型缩放方法，准确率比之前最好的Gpipe提高了0.1%，但是模型更小更快，参数的数量和FLOPS都大大减少，效率提升了10倍。该项目是一个哈佛数学系小哥哥Luke Melas-Kyriazi开源了自己的PyTorch实现，包含与训练模型和Demo。
 + [ALBERT](https://github.com/google-research/ALBERT)：ALBERT模型是BERT的改进版，与最近其他State of the art的模型不同的是，这次是预训练小模型，效果更好、参数更少。GitHub:star:1.8k​
 + [DeepSpeed](https://github.com/microsoft/DeepSpeed)：微软开源的DeepSpeed是一个深度学习优化库，它使分布式培训变得简单、高效和有效。GitHub:star:2.1k​
++ [GAN Compression](https://github.com/mit-han-lab/gan-compression)：来自麻省理工学院（MIT）、Adobe、上海交通大学的研究者提出了一种用于压缩条件 GAN 的通用方法。这一新技术在保持视觉保真度的同时，将 pix2pix，CycleGAN 和 GauGAN 等广泛使用的条件 GAN 模型的计算量减少到 1/9~1/21。该方法适用于多种生成器架构、学习目标，配对或非配对设置。[论文地址](https://arxiv.org/pdf/2003.08936v1.pdf)
 
 <a class="toc" id ="24"></a>
 
@@ -1235,6 +1243,7 @@ A curated list of awesome learning resources, blogs, books, videos and so on.
 + [Linggle](https://linggle.com/)：Linggle，英语写作学习搜索引擎，可以帮我们解决一切语言搭配的问题，是我们英文写作的得力助手。
 + [Netspeak](https://netspeak.org/)：帮助你搜索你还不知道的单词，论文写作好帮手之一。
 + [Microsoft Aim Writing](https://aka.ms/zuowen)：亚洲研究院研发升级了以前的作文打分功能，命名为“微软爱写作”（Microsoft Aim Writing）。从小学到到雅思托福的作文都可以改。
++ [《论文是怎样炼成的》](http://dblab.xmu.edu.cn/post/58/)：来自厦门大学林子雨博士的报告《论文是怎样炼成的》，共125页ppt，虽然快有十年之久，但里面干货经典，部分集成周志华老师的PPT 《如何做研究，如何写论文》，至今仍有重大价值。
 
 
 <a class="toc" id ="30"></a>
@@ -1242,24 +1251,48 @@ A curated list of awesome learning resources, blogs, books, videos and so on.
 [🔙](#table-of-contents)
 
 + [MSDN](https://msdn.itellyou.cn/)：十分齐全、靠谱的Windows系统、软件资源下载网站
+
 + [N软网](https://www.nruan.com/)：提供互联网前沿资讯及软件下载
+
 + [DownGit](https://minhaskamal.github.io/DownGit/#/home)：Git文件下载工具，只需输入连接即可下载GitHub上的文件
+
 + [OmegaXYZ](http://www.omegaxyz.com/resource/resource_software/)：既有各种高级语言的教程，也有机器学习的教程，以及各种算法实现，还有提供一些软件资源下载。[GitHub](https://github.com/xyjigsaw)上还有许多关于Python的学习项目
+
 + [视频鱼](http://www.shipinyu.cn/)：一个输入视频网址即可下载视频的网站
+
 + [Awesome Windows](https://github.com/Awesome-Windows/Awesome/blob/master/README-cn.md)：GitHub上:star:9k+的项目，收列了Windows上优质&精选的最佳应用程序及工具
+
 + [Awesome Macos](https://github.com/iCHAIT/awesome-macOS)：GitHub上:star:9k+的项目，为macOS整理了一份很棒的应用程序、软件、工具和亮点的列表
+
 + [Awesome Linux Software](https://github.com/luong-komorebi/Awesome-Linux-Software)：GitHub上:star:10k+的项目与上面两个项目一样，这个清单中也提供了非常多 Linux 软件供参考软性。基于 Linux 本身强大的生态，该清单同时提供了巴西葡萄牙文、中文、西班牙文、泰文等多种语言版本供选择阅读。此外，该项目还提供了一些 Linux 操作系统学习资料，方便开发者进一步探索与 Linux 相关知识，可以说是非常贴心了
+
 + [Library Genesis](http://libgen.is/)：一个电子书网站，可以免费下载外文电子书。
+
 + [IPTV](https://github.com/iptv-org/iptv)：PTV（Internet Protocol Television）即网络协议电视，可通过宽带网络向订阅者推送数字电视节目。直白点说，就是一种可以让你在电脑上看电视的技术。有好心人在 GitHub 上开放了自己汇总整理的，在全球范围内高达 8000+ 的公共的 IPTV 直播源，领域覆盖历史、教育、商业、电影、音乐...基本上你想看啥类型的电视节目都能在上面找到，目前该项目在 GitHub :star: 10k+。
+
 + [Motrix](https://github.com/agalwood/Motrix)：Motrix 号称是一款全能的下载工具，支持 HTTP、FTP、BT、磁力链、百度网盘等资源。除了功能强大，它还是是全平台支持！也就是说不管你是 Windows、macOS 还是 Linux，统统支持！！！目前GitHub获:star:17.2k。
+
 + [Firefox Send](https://send.firefox.com/)：除了开发最广为人知的 FireFox 火狐浏览器以外，Mozilla 也会做一些开源项目，比如 FireFox Send 这个一次性文件传输共享服务。浏览器是 FireFox Send 发挥作用的主战场，虽然是火狐出品，但它支持了 Chrome、Edge、Safari 等几乎所有的主流浏览器如 ，并不局限于 Firefox 自身。另外，FireFox Send 在 iOS、Android 等移动平台上也能直接访问网页使用，支持 PWA，这种基于浏览器的特性使得使用体验几乎没有割裂感。
+
 + [Send Anywhere](https://send-anywhere.com/)：对于一款文件分享服务而言，支持的平台非常重要，因为会直接影响到使用者是否受自己的设备限制。正如它的名字一样，Send Anywhere 在平台支持上十分给力，覆盖面非常广。
+
 + [Filemail](https://www.filemail.com/)：Filemail 是一款协助使用者传输大型文件的网络服务，Filemail 官网给自己的这款服务的描述是「the best way to securely send large files」。
+
 + [WeTransfer](https://wetransfer.com/)：WeTransfer 是一个简单、免费的文件共享网站，一次可以发送多达 2GB 的数据，并且一次共享的文件数量也没有限制。使用 WeTransfer 无需注册或者登陆任何账户，只需输入收件人的电子邮件地址（最多可同时分发给三位）、你的电子邮件地址，即可快速分享。
+
 + [奶牛快传](https://cowtransfer.com/)：奶牛快传创建于2016年，是一款专注于即用即走的在线大文件传输服务，也是目前本土化做的最好的，无论是界面还是操作上都十分地通俗易懂。在上传速度方面，据奶牛快传称，无论是上传还是下载，都没有速度限制，完全依托于用户本地网络的带宽。
 
++ [Alternativeto](https://alternativeto.net/)：有时候会为了找一个软件而头疼不已，这里找那里问，就是为了找一个类似的软件来替代，好不容易找到了，还可能不支持手头上的平台。如果是这样，那么该网站就是一个很好的选择。这个网站支持按照平台来搜索，Windows, Mac, Linux 和Web 等平台都可以。在搜索框中键入软件名字然后按下Enter键. 页面加载后，第一眼就可以看到你搜索的软件，往下一拉，就可以看到一大堆的类似软件，可以通过软件授权类型或系统平台来缩小搜索范围。
+
+  
+
+  作者：伪君子_
+  链接：https://www.jianshu.com/p/f83b2c265674
+  来源：简书
+  著作权归作者所有。商业转载请联系作者获得授权，非商业转载请注明出处。
 
 <a class="toc" id ="31"></a>
+
 # Jobs & Interview (工作面试) 💼
 [🔙](#table-of-contents)
 
@@ -1481,5 +1514,5 @@ A curated list of awesome learning resources, blogs, books, videos and so on.
 
 <a class="toc" id ="35"></a>
 
-# Last Update (更新时间) 🕰 ：2020/03/19
+# Last Update (更新时间) 🕰 ：2020/03/25
 [🔙](#table-of-contents)
