@@ -37,7 +37,7 @@ A curated list of awesome learning resources, blogs, books, videos and so on.
 + [Dataset (数据集)  📊](#32)
 + [Code-related Toolkit 💻](#33)
 + [Other Unsorted (其它) ❓](#34)
-+ [Last Update (更新时间) 🕰 ：2020/03/25](#35)
++ [Last Update (更新时间) 🕰 ：2020/03/31](#35)
 
 
 
@@ -226,8 +226,8 @@ A curated list of awesome learning resources, blogs, books, videos and so on.
 + [Visualizing LSTM Activations in Keras](https://medium.com/@praneet9/visualising-lstm-activations-in-keras-b50206da96ff)：在Keras中构建文本生成模型，还将可视化生成文本时某些单元格正在查看的内容。[GitHub地址](https://github.com/Praneet9/Visualising-LSTM-Activations)
 + [科研小白入门指南](https://www.bilibili.com/video/av95344119?rt=V%2FymTlOu4ow%2Fy4xxNWPUZ8sWB1oP1%2FVIIfEq0Mxniy8%3D)：清华本科特奖获得者、清华计算机大四学生高天宇，如何写论文、做实验、与导师相处。[高天宇博客首页](https://gaotianyu.xyz/about/)
 + [A half-hour to learn Rust](https://fasterthanli.me/blog/2020/a-half-hour-to-learn-rust/)：据说很多开发者一天入门 Python，两天上手 Go，但到了 Rust 就会发现画风隐约有些不对。它从语法到特性，似乎都要复杂一些。本文介绍的就是 Rust，作者表示，通过解析大量代码，「半个小时」就能入门 Rust。
-
-  
++ [12 Amazing Pandas & NumPy Functions](https://towardsdatascience.com/12-amazing-pandas-numpy-functions-22e5671a45b8)：数据和分析工程师 Kunal Dhariwal 为我们介绍了 12 种 Numpy 和 Pandas 函数，这些高效的函数会令数据分析更为容易、便捷
++ [Nuno-faria](https://github.com/nuno-faria)：一个具有创造力的作者主页，开源不少有趣的东西，例如 [Tiler](https://github.com/nuno-faria/tiler)，[Java写的推箱子](https://github.com/nuno-faria/sokoban-game)，[桌面足球](https://github.com/nuno-faria/pixelfoosball)等。
 
 <a class="toc" id ="6"></a>
 
@@ -302,6 +302,10 @@ A curated list of awesome learning resources, blogs, books, videos and so on.
 + [伯乐在线](https://github.com/jobbole/)：伯乐在线翻译组，GitHub上翻译了多个学习资源仓库，内含大量学习资源
 + [Machine Learning](https://www.coursera.org/learn/machine-learning)： Coursera 上开设的另一门机器学习课程，相比于吴恩达的课程更加简单易懂。
 + [Latexstudio](https://www.latexstudio.net/)：Latex 学习网站
++ [SQL学习网](http://sample.jimstone.com.cn/xsql/)：这个网站提供用于练习的两张数据表 user 与 user_ext，并在表的下方提供了表说明跟字段说明，配对的案例相对简单，直接输入运行即可。
++ [SQLFIDDLE](http://sqlfiddle.com/)：这玩意，名字听的我也不知道要表达啥，字面意思是可以随意「摆弄」SQL，打开看能支持多种目前主流的数据库，设计来看属于简洁明了的那种。
++ [SQLBOLT](https://sqlbolt.com/)：一边学习，一边练习，从SQL是什么开始介绍。
++ [W3RESOURCE](https://www.w3resource.com/)：从名字看就猜到可能内容包含不只是SQL的学习，打开看像是一本计算机相关的百科全书，值得大家收藏阅读。
 
 
 
@@ -498,9 +502,10 @@ A curated list of awesome learning resources, blogs, books, videos and so on.
 + [《Structure and Interpretation of Computer Programs》](https://mitpress.mit.edu/sites/default/files/sicp/full-text/book/book.html)：这是曾经 MIT 计算机系本科生的教材，用 Lisp 的一种极简的方言 Scheme 语言作为初学者编程语言 —— 而不是常用的 Java、Python、C，SICP 训练的是大家如何表达。
 + [《The Art of Unix Programming》](http://www.catb.org/~esr/writings/taoup/html/)：Unix 有很多设计的智慧值得学习。
 + [《Paul Graham‘s Essays》](http://www.paulgraham.com/articles.html)：Paul Graham 是硅谷著名的工程师、创业者、和投资人，创办了 Y Combinator，在他的主页上有一系列著名的文章。推荐等级:heart::heart::heart:!
-
++ [《Optimization for Machine Learning》](https://mathematical-tours.github.io/book-sources/optim-ml/OptimML.pdf)：机器学习最优化课程笔记
 
 <a class="toc" id ="11"></a>
+
 # Go Learning (Go 学习) 🇬🇱
 [🔙](#table-of-contents)
 
@@ -560,6 +565,8 @@ A curated list of awesome learning resources, blogs, books, videos and so on.
 + [Awesome Python](https://github.com/vinta/awesome-python)：一个很棒的Python框架、库、软件和资源的列表，GitHub :star:78k。推荐等级:heart::heart::heart::heart:!
 + [Awesome Python in Education ](https://github.com/quobit/awesome-python-in-education#jupyter)：关于Python的学习资源列表。
 + [《Think Python》](https://greenteapress.com/wp/think-python-2e/)：Think Python》是很多计算机初学者的不二入门教材，受到广泛好评。该书原作者是美国 Olin 工程学院的教授 Allen B. Downey，目前该书的原版和中文版本都已免费开源。[中文版地址](https://codingpy.com/books/thinkpython2/index.html)。
++ [Python Tutor](http://www.pythontutor.com/)：Python Tutor 是由 Philip Guo 开发的一个免费教育工具，可帮助学生攻克编程学习中的基础障碍，理解每一行源代码在程序执行时在计算机中的过程。通过这个工具，教师或学生可以直接在 Web 浏览器中编写 Python 代码，并逐步可视化地运行程序。如果你不知道代码在内存中是如何运行的，不妨把它拷贝到Tutor里可视化执行一遍，加深理解。
++ [Skulpt](http://www.skulpt.org/)：Skulpt 是一个用 Javascript 实现的在线 Python 执行环境，它可以让你轻松在浏览器中运行 Python 代码。使用 skulpt 结合 CodeMirror 编辑器即可实现一个基本的在线Python编辑和运行环境。
 
  
 
@@ -812,6 +819,8 @@ A curated list of awesome learning resources, blogs, books, videos and so on.
 
 + [MegEngine](https://megengine.org.cn/)：旷视科技在北京发布了新一代人工智能生产平台天元（MegEngine），其「训练推理一体」、「动静合一」、「兼容并包」、「灵活高效」的强大性能或许将为 AI 领域带来新的风向。天元与目前流行的 TensorFlow、PyTorch 相似，旨在让更多的人可以在其基础上构建自己的应用，创造属于自己的价值。[GitHub​](https://github.com/MegEngine/MegEngine):star:600+
 
++ [MindSpore](https://www.mindspore.cn/)：MindSpore 是华为人工智能解决方案的重要组成部分，与 TensorFlow、PyTorch、PaddlePaddle 等流行深度学习框架对标，旨在大幅度降低 AI 应用开发门槛，让人工智能无处不在。[源码](https://gitee.com/mindspore)
+
   
 
 <a class="toc" id ="17"></a>
@@ -896,6 +905,7 @@ A curated list of awesome learning resources, blogs, books, videos and so on.
 + [Pieter Abbeel ](https://people.eecs.berkeley.edu/~pabbeel/)& [Sergey Levine](https://people.eecs.berkeley.edu/~svlevine/)：两位在深度强化学习领域非常有名的科学家——Pieter Abbeel 与 Sergey Levine。他们长期致力于深度强化学习的教学、研究等工作，在其个人主页可以找到很多他们所讲授课程的链接。
 + [SEED RL](https://github.com/google-research/seed_rl)：Scalable and Efficient Deep-RL，即可扩展且高效的深度强化学习。谷歌在最新工作[《SEED RL: Scalable and Efficient Deep-RL with Accelerated Central Inference》](https://openreview.net/pdf?id=rkgvXlrKwH)（为ICLR 2020 Oral 论文）中，提出的一个能够扩展到数千台机器的强化学习架构能够以每秒数百万帧的速度进行训练，计算效率显著提高。
 + [Dreamer](https://github.com/google-research/dreamer)：Google AI 与 DeepMind 联合推出了 Dreamer，这是一种从图像中学习模型并用它来学习远见性（long-sighted）行为的 RL 智能体。通过模型预测的反向传播，Dreamer 能够利用它学得的模型高效地展开行为学习。通过从原始图像中学习计算紧凑模型状态，Dreamer 仅使用一块 GPU 即可以高效地从预测到的并行序列中学习。[GitHub 博客地址](https://dreamrl.github.io)，[论文地址](https://arxiv.org/pdf/1912.01603.pdf)
++ [Tianshou](https://github.com/thu-ml/tianshou)：训练模型的极速，与 1500 行源代码的精简，清华大学新开源强化学习平台「天授」。天授（Tianshou）是纯 基于 PyTorch 代码的强化学习框架，与目前现有基于 TensorFlow 的强化学习库不同，天授的类继承并不复杂，API 也不是很繁琐。最重要的是，天授的训练速度非常快，我们试用 Pythonic 的 API 就能快速构建与训练 RL 智能体。
 
 <a class="toc" id ="20"></a>
 # Graph Learning (图学习) 🗺
@@ -1131,6 +1141,7 @@ A curated list of awesome learning resources, blogs, books, videos and so on.
 + [PolyGames](https://github.com/facebookincubator/Polygames)：Polygames是Facebook开源的一个研究框架，通过自我游戏的方式来训练深度学习网络。Polygames基于著名的“零学习”概念，即允许代理无需进行任何预先设定的训练，而是通过与环境交互来掌握环境。
 + [PyTorch3D](https://github.com/facebookresearch/pytorch3d)：PyTorch3D是Facebook开源的一个高度模块化和优化的库，具有独特的功能，旨在让使用PyTorch的3D深度学习更容易。PyTorch3D为快速可微的3D数据提供了一组常用的3D操作符和损失函数，以及一个模块化可微绘制API，使研究人员能够立即将这些函数导入当前最先进的深度学习系统。
 + [Hiplot](https://github.com/facebookresearch/hiplot)：HiPlot是Facebook开源的一个交互式可视化工具，它帮助人工智能研究人员发现高维数据中的相关性和模式，并使用平行图和其他图形方式来表示信息。HiPlot使用一种称为平行图的技术，这是一种可视化和过滤高维数据的方便做法。
++ [Efficient-PyTorch](https://github.com/Lyken17/Efficient-PyTorch)：使用PyTorch训练大型数据集的最佳实践
 
 <a class="toc" id ="27"></a>
 # Visualization (可视化) 👀
@@ -1514,5 +1525,5 @@ A curated list of awesome learning resources, blogs, books, videos and so on.
 
 <a class="toc" id ="35"></a>
 
-# Last Update (更新时间) 🕰 ：2020/03/25
+# Last Update (更新时间) 🕰 ：2020/03/31
 [🔙](#table-of-contents)
