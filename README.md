@@ -37,7 +37,7 @@ A curated list of awesome learning resources, blogs, books, videos and so on.
 + [Dataset (数据集)  📊](#32)
 + [Code-related Toolkit 💻](#33)
 + [Other Unsorted (其它) ❓](#34)
-+ [Last Update (更新时间) 🕰 ：2020/03/31](#35)
++ [Last Update (更新时间) 🕰 ：2020/04/03](#35)
 
 
 
@@ -498,11 +498,13 @@ A curated list of awesome learning resources, blogs, books, videos and so on.
 + [Interpretable Ml Book](https://github.com/christophM/interpretable-ml-book)：Christoph Molnar年初公开的《可解释的机器学习（Interpretable Machine Learning）》，带你打开机器学习的黑盒子。[在线阅读链接](https://christophm.github.io/interpretable-ml-book/index.html)，[中文版链接](https://github.com/apachecn/interpretable-ml-book-zh)。
 + [《神经网络与深度学习》](http://neuralnetworksanddeeplearning.com/index.html)：神经网络是有史以来最漂亮的编程范例之一。在传统的编程方法中，我们告诉计算机要做什么，把大问题分解成许多小的、精确定义的任务，计算机可以轻松地执行这些任务。相反，在神经网络中，我们不会告诉计算机如何解决我们的问题。相反，它从观测数据中学习，找出自己解决手头问题的方法。
 + [Applied Machine Learning Spring 2020](http://www.cs.columbia.edu/~amueller/comsw4995s20/schedule/)：哥伦比亚大学应用机器学习课程2020，[GitHub](https://github.com/amueller/COMS4995-s20)， [视频](https://www.bilibili.com/video/av86820508)。
-+ [《自然语言处理》](https://github.com/jacobeisenstein/gt-nlp-class/blob/master/notes/eisenstein-nlp-notes.pdf)：《自然语言处理》一书pdf
++ [《自然语言处理》](https://github.com/jacobeisenstein/gt-nlp-class/blob/master/notes/eisenstein-nlp-notes.pdf)：《自然语言处理》一书 pdf
 + [《Structure and Interpretation of Computer Programs》](https://mitpress.mit.edu/sites/default/files/sicp/full-text/book/book.html)：这是曾经 MIT 计算机系本科生的教材，用 Lisp 的一种极简的方言 Scheme 语言作为初学者编程语言 —— 而不是常用的 Java、Python、C，SICP 训练的是大家如何表达。
 + [《The Art of Unix Programming》](http://www.catb.org/~esr/writings/taoup/html/)：Unix 有很多设计的智慧值得学习。
 + [《Paul Graham‘s Essays》](http://www.paulgraham.com/articles.html)：Paul Graham 是硅谷著名的工程师、创业者、和投资人，创办了 Y Combinator，在他的主页上有一系列著名的文章。推荐等级:heart::heart::heart:!
 + [《Optimization for Machine Learning》](https://mathematical-tours.github.io/book-sources/optim-ml/OptimML.pdf)：机器学习最优化课程笔记
++ [Cambridge Textbooks](https://www.cambridge.org/core/what-we-publish/textbooks)：剑桥大学出版社免费开放了网页版高等教育教材，包含Cambridge Core(剑桥电子期刊和电子图书数据库)中超过700本教材，涵盖21个学科、领域。其中计算机领域提供了25本与计算机相关的高等教材。细分领域包括机器学习、数据科学、网络、编程等，而且教材大部分都特别新！
++ [Electrical Engineering and Computer Science](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/)：麻省理工学院（MIT）近日放出了 2400 门课程资料，其中也包括电气工程和计算机科学系的多门公开课。这个平台上课完全是为了解决自身知识盲区而来，它的各种 quiz、problem sets、project 等一系列辅助配套设施非常完善。线上教学的所有课件、教授所写的补充材料等都能下载下来以便随时复习。
 
 <a class="toc" id ="11"></a>
 
@@ -679,6 +681,7 @@ A curated list of awesome learning resources, blogs, books, videos and so on.
 + [Twitter Scraper](https://github.com/kennethreitz/twitter-scraper)：作者逆向了 Twitter 前端 API，消除了官方 API 速率限制，非常快。
 + [AutoCrawler](https://github.com/YoongiKim/AutoCrawler)：Google，Naver 多进程图像抓取工具（高品质，高速度和可自定义）。
 + [Scrapy Cookbook](https://scrapy-cookbook.readthedocs.io/zh_CN/latest/)：Scrapy中文文档
++ [SourceCodeOfBook](https://github.com/kingname/SourceCodeOfBook)：《Python爬虫开发 从入门到实战》配套源代码
 
 <a class="toc" id ="15"></a>
 # Jupyter Notebook 📔
@@ -701,6 +704,8 @@ A curated list of awesome learning resources, blogs, books, videos and so on.
 + [Marc Wouts](https://medium.com/@marc.wouts)：Jupyter 作者 Marc Wouts 的 Medium 博客主页。
 + [Tf2_course](https://github.com/ageron/tf2_course#starting-jupyter)：官方推荐，用tf.keras和TensorFlow2.0做深度学习任务的Jupyter教程
 + [Feature-Engineering-Handbook](https://github.com/YC-Coder-Chen/feature-engineering-handbook)：一份系统的特征工程教程，介绍了如何利用 scikit-learn 处理静态的连续变量，利用 Category Encoders 处理静态的类别变量以及利用 Featuretools 处理常见的时间序列变量。
++ [Jupyterlab Debugger](https://github.com/jupyterlab/debugger)：首款 Jupyter 官方可视化 Debug 工具，JupyterLab 未来可默认支持 Debug。虽然这只是第一版，但目前已经可以设置常见的断点 Debug，查看各种变量、执行模块等信息。博客文章：[A visual debugger for Jupyter](https://blog.jupyter.org/a-visual-debugger-for-jupyter-914e61716559)。
++ [Binder](https://gke.mybinder.org/)：可以将一个 Git repo 转换为一个交互式 Jupyter notebook 集合。
 
 
 <a class="toc" id ="16"></a>
@@ -820,6 +825,8 @@ A curated list of awesome learning resources, blogs, books, videos and so on.
 + [MegEngine](https://megengine.org.cn/)：旷视科技在北京发布了新一代人工智能生产平台天元（MegEngine），其「训练推理一体」、「动静合一」、「兼容并包」、「灵活高效」的强大性能或许将为 AI 领域带来新的风向。天元与目前流行的 TensorFlow、PyTorch 相似，旨在让更多的人可以在其基础上构建自己的应用，创造属于自己的价值。[GitHub​](https://github.com/MegEngine/MegEngine):star:600+
 
 + [MindSpore](https://www.mindspore.cn/)：MindSpore 是华为人工智能解决方案的重要组成部分，与 TensorFlow、PyTorch、PaddlePaddle 等流行深度学习框架对标，旨在大幅度降低 AI 应用开发门槛，让人工智能无处不在。[源码](https://gitee.com/mindspore)
+
++ [MMT](https://github.com/yxgeee/MMT)：港中文开源无监督学习框架MMT，提供更鲁棒的伪标签，旨在解决更实际的开放集无监督领域自适应问题，ICLR 2020 论文：[《Mutual Mean-Teaching: Pseudo Label Refinery for Unsupervised Domain Adaptation on Person Re-identification》](https://openreview.net/forum?id=rJlnOhVYPS)
 
   
 
@@ -942,6 +949,10 @@ A curated list of awesome learning resources, blogs, books, videos and so on.
 + [Graph Nets](https://github.com/dsgiitr/graph_nets)：PyTorch 实现的各种图模型代码，包括GCN, ChebyNet, GAT, GraphSAGE。[博客地址](https://dsgiitr.com/blogs/)。
 + [Transformers are Graph Neural Networks](https://graphdeeplearning.github.io/post/transformers-are-gnns/)：Transformer和GNN有什么关系？一开始可能并不明显。但是通过这篇文章，你会从GNN的角度看待Transformer的架构，对于原理有更清楚的认知。
 + [Benchmark GNNs](https://github.com/graphdeeplearning/benchmarking-gnns)：图神经网络 GNN-Benchmark，该框架为研究人员提供了方便地添加新数据集和模型的便利。作者团队：南洋理工大学&蒙特利尔大学（Bengio）等。推荐等级：:heart::heart::heart::heart:！
++ [TigerGraph](https://www.tigergraph.com/)：企业用唯一可伸缩的图形数据库，现在可以作为云数据库服务使用
++ [Graph Learn](https://github.com/alibaba/graph-learn)：阿里巴巴开源的简化 GNN 应用的新框架 Graph-Learn。该框架可从实际案例中提取解决方案，应用于推荐系统、反欺骗等多个领域。GL 的可移植性和灵活性对于开发者来说十分友好，在该框架的基础上，开发者可以更轻松地实现 GNN 算法、自定义与图相关的运算符，并且更轻松地拓展现有模块。Container 和物理机上都可以安装 GL。
++ [igraph](https://igraph.org/)：igraph 是一组网络分析工具，集成了网络分析的诸多功能，可以在 R, Python, C/C+ 平台上使用。
++ [Python igraph](https://github.com/igraph/python-igraph)：用于 igraph 的Python接口
 
 <a class="toc" id ="21"></a>
 
@@ -1000,7 +1011,7 @@ A curated list of awesome learning resources, blogs, books, videos and so on.
 + [TensorFlow Course](https://github.com/machinelearningmindset/TensorFlow-Course#why-use-tensorflow)：GitHub上:star:10k+的TensorFlow教程，教程、代码、笔记应有尽有
 + [TensorFlow Example](https://github.com/aymericdamien/TensorFlow-Examples)：GitHub上:star:30k+对初学者友好的TensorFlow教程例子
 + [TensorFlow Example](https://github.com/aymericdamien/TensorFlow-Examples)：GitHub上:star:500+的项目，各种从其他示例重新创建TensorFlow代码的例子
-+ [TensorFlow Models](https://github.com/tensorflow/models)：GitHub上:star:50k+的TensorFlow官方项目，内容包括各种使用TensorFlow写的模型和例子
++ [TensorFlow Models](https://github.com/tensorflow/models)：GitHub上:star:60k+的TensorFlow官方项目，内容包括各种使用TensorFlow写的模型和例子，一共分为两类：官方模型和研究模型。官方模型，是使用TensorFlow的高级API的示例模型的集合。研究模型，是研究人员在TensorFlow中实现的大量模型集合，推荐等级：:heart::heart::heart::heart:！
 + [简单粗暴TensorFlow](https://tf.wiki/)：简单粗暴TensorFlow教程，基于TensorFlow最新的Eager Execution（动态图）模式，力图让具备一定机器学习及Python基础的开发者们快速上手TensorFlow。[GitHub地址](https://github.com/snowkylin/TensorFlow-cn)
 + [深度学习 TensorFlow 教程(中文全集)](https://www.bilibili.com/video/av21099556)：B站上搬运的TensorFlow深度学习教程
 + [CS20SI - TensorFlow for Deep Learning Research](https://www.bilibili.com/video/av15898988/)：B站上搬运的斯坦福新开的TensorFlow课程
@@ -1011,7 +1022,6 @@ A curated list of awesome learning resources, blogs, books, videos and so on.
 + [TfPyth](https://github.com/BlackHC/TfPyTh)：一行代码切换TensorFlow与PyTorch，模型训练也能用俩框架
 + [Float16 Quantization](https://www.tensorflow.org/lite/performance/post_training_quantization)：TensorFlow模型优化工具包又一员新添大将，训练后的半精度浮点量化（float16 quantization）工具，有了它，就能在几乎不损失模型精度的情况下，将模型压缩至一半大小，还能改善CPU和硬件加速器延迟。[Colab链接](https://colab.research.google.com/github/tensorflow/tensorflow/blob/master/tensorflow/lite/g3doc/performance/post_training_float16_quant.ipynb)
 + [TensorFlow Hub](https://www.tensorflow.org/hub)：TensorFlow Hub是一个库，用于发布、发现和使用机器学习模型中可重复利用的部分。[GitHub地址](https://github.com/tensorflow/hub)
-+ [TensorFlow Models](https://github.com/tensorflow/models/)：一个GitHub上的存储库，包含了许多在TensorFlow中实现的模型，一共分为两类：官方模型和研究模型。官方模型，是使用TensorFlow的高级API的示例模型的集合。研究模型，是研究人员在TensorFlow中实现的大量模型集合
 + [Model Zoo](https://modelzoo.co/)：这个平台，由新加坡名为Jing Yu Koh本科生牵头搭建。与上述的几个平台不同，这个平台上提供预训练模型，不仅仅只是完全针对于Pytorch或者TensorFlow，推荐等级：:heart::heart:！
 + [RecQ](https://github.com/Coder-Yu/RecQ)：一个基于TensorFlow写的Python推荐系统框架
 + [Medium](https://github.com/eliorc/Medium)：基于TensorFlow 实现的PCA,t-SNE, AE, node2vec, LSTM算法
@@ -1029,7 +1039,7 @@ A curated list of awesome learning resources, blogs, books, videos and so on.
 + [Models and Datasets](https://www.tensorflow.org/resources/models-datasets)：为了简化TensorFlow 2.0的入门工作，官方发布了几个使用2.0 API的常用ML模型的参考实现
 + [Introduction TensorFlow](https://www.coursera.org/learn/introduction-tensorflow)：免费 TensorFlow 课程
 + [Intro To TensorFlow For Deep Learning Ud187](https://www.udacity.com/course/intro-to-tensorflow-for-deep-learning--ud187)：另一个免费 TensorFlow 课程
-+ [TensorFlow 2.0](https://github.com/tensorflow/tensorflow/releases/tag/v2.0.0)：GitHub上TensorFlow 2.0 源码
++ [TensorFlow 2.0](https://github.com/tensorflow/tensorflow/releases/tag/v2.0.0)：GitHub上 TensorFlow 2.0 源码
 + [Hands-on TensorFlow 2.0](https://storage.googleapis.com/applied-dl/SciPy_Tokyo.pdf)：TensorFlow 2.0 实操教程
 + [TensorFlow 2.0 + Keras Overview for Deep Learning Researchers](https://colab.research.google.com/drive/1UCJt8EYjlzCs1H1d1X0iDGYJsHKwu-NO#scrollTo=88ExjKfCo7aP)：Keras之父出品：Twitter超千赞的TF 2.0 + Keras速成课程。需要翻墙查看。推荐等级：:heart::heart:！
 + [Transformer Chatbot](https://medium.com/tensorflow/a-transformer-chatbot-tutorial-with-tensorflow-2-0-88bf59e66fe2)：【TensorFlow2.0】Transformer聊天机器人教程。[GitHub地址](https://github.com/tensorflow/examples/blob/master/community/en/transformer_chatbot.ipynb)
@@ -1142,6 +1152,9 @@ A curated list of awesome learning resources, blogs, books, videos and so on.
 + [PyTorch3D](https://github.com/facebookresearch/pytorch3d)：PyTorch3D是Facebook开源的一个高度模块化和优化的库，具有独特的功能，旨在让使用PyTorch的3D深度学习更容易。PyTorch3D为快速可微的3D数据提供了一组常用的3D操作符和损失函数，以及一个模块化可微绘制API，使研究人员能够立即将这些函数导入当前最先进的深度学习系统。
 + [Hiplot](https://github.com/facebookresearch/hiplot)：HiPlot是Facebook开源的一个交互式可视化工具，它帮助人工智能研究人员发现高维数据中的相关性和模式，并使用平行图和其他图形方式来表示信息。HiPlot使用一种称为平行图的技术，这是一种可视化和过滤高维数据的方便做法。
 + [Efficient-PyTorch](https://github.com/Lyken17/Efficient-PyTorch)：使用PyTorch训练大型数据集的最佳实践
++ [torchprof](https://github.com/awwong1/torchprof)：用于呈现PyTorch模型细节的库，推荐等级：:heart::heart:！
++ [Pytorch Cifar](https://github.com/kuangliu/pytorch-cifar)：在CIFAR10 数据集上用PyTorch实现的CV模型，GitHub:star:2.7k​
++ [Pytorch Tricks](https://github.com/zxdefying/pytorch_tricks)：使用 `PyTorch` 的过程中总结的一些小trick
 
 <a class="toc" id ="27"></a>
 # Visualization (可视化) 👀
@@ -1202,9 +1215,11 @@ A curated list of awesome learning resources, blogs, books, videos and so on.
 + [PowerBI](https://powerbi.microsoft.com/en-us/)：它是Microsoft在Excel之后推出的BI产品。Power BI可以无缝连接到Excel以创建个性化数据仪表板。
 + [Power Map](https://support.office.com/en-us/article/get-started-with-power-map-88a28df6-8258-40aa-b5cc-577873fb0f4a)：许多工具都有数据地图，例如Echarts，FineReport，Tableau等。在这里，我强烈推荐Power Map 2016.您可以尝试一下。这真是太神奇了。
 + [Hiplot](https://github.com/facebookresearch/hiplot)：HiPlot是一个交互式可视化工具，它帮助人工智能研究人员发现高维数据中的相关性和模式，并使用平行图和其他图形方式来表示信息。HiPlot使用一种称为平行图的技术，这是一种可视化和过滤高维数据的方便做法。
-
++ [Plotnine](https://github.com/has2k1/plotnine)：python数据可视化的新星包：plotnine ，python数据可视化版ggplot2，GitHub:star:2.1k。推荐等级：:heart::heart::heart:！
++ [A communal catalogue reveals Earth’s multiscale microbial diversity](https://www.nature.com/articles/nature24621)：Earth Microbiome Project 基因研究的论文，其数据分析和可视化代码总共加起来上万行，值得学习，[GitHub代码地址](https://github.com/biocore/emp)。推荐等级：:heart::heart::heart:！
 
 <a class="toc" id ="28"></a>
+
 # English Learning (英语学习) 🗣
 [🔙](#table-of-contents)
 
@@ -1220,15 +1235,16 @@ A curated list of awesome learning resources, blogs, books, videos and so on.
 [🔙](#table-of-contents)
 
 + [Google Scholar](https://scholar.google.com/)：谷歌学术
++ [SemanticScholar](https://www.semanticscholar.org/)：如果你还在用 Google Scholar 来检索计算机相关的学术论文，不妨试下这款搜索引擎，相信它能给你带来前所未有的体验。引用斯坦福大学神经生物学家 Andrew Huberman 对此说的一句话：「这将彻底改变整个信息检索引擎的游戏规则」。推荐等级：:heart::heart::heart::heart:！
 + [DBLP](https://dblp.uni-trier.de/)：计算机论文搜索学术库
 + [acronymify](http://acronymify.com/)：取名网站，只需在上面的框中输入您的单词，然后按search生成可能的缩写词列表。
 + [Paperswithcode](https://paperswithcode.com/)：如其名，收录了大量带有源代码的论文，[Github同名项目](https://github.com/zziz/pwc)，推荐等级：:heart::heart::heart::heart:！
 + [ArXiv Sanity](http://www.arxiv-sanity.com/)：类似Paperswithcode，旨在提升获取研究成果的效率与体验
-+ [arXiv Vanity](https://www.arxiv-vanity.com/)arXiv Vanity将来自arXiv的学术论文呈现为响应性网页，这样你就不用眯着眼睛看PDF了
++ [arXiv Vanity](https://www.arxiv-vanity.com/)：Vanity将来自arXiv的学术论文呈现为响应性网页，这样你就不用眯着眼睛看PDF了
 + [易搜搭](http://www.esoda.org/)：专业英文论文写作助手，只需要输入你想表达的中文句子，该网站会检索各种论文找出相似英文表达，使你的英文论文写作不再生硬，推荐等级：:heart::heart::heart::heart:！
 + [Academic Phrasebank](http://www.phrasebank.manchester.ac.uk/)：对于写作新手来说的神器网站，里面按不同条目分类罗列了各种英语表达。推荐等级：:heart::heart::heart::heart:！
 + [Conference List](http://www.conferencelist.info/upcoming.html)：计算机各领域会议的时间表
-+ [AI Conference Deadlines ](https://aideadlin.es/?sub=ML,CV,NLP,RO,SP,DM)：查看各个ai顶会的 Deadline
++ [AI Conference Deadlines ](https://aideadlin.es/?sub=ML,CV,NLP,RO,SP,DM)：查看各个AI顶会的 Deadline
 + [Latex 代码转换器 - Mathpix](https://mathpix.com/)：如果你经常用 latex 编写文档，那你一定得安装下 Mathpix。这款工具能将带数学公式的截图一键转成 latex 代码，帮你省下很多时间，堪称神器！（可惜现在收费了）
 + [Image2LaTeX](https://github.com/blaisewang/img2latex-mathpix)：这一工具的名称是「Image2LaTeX」。顾名思义，这是利用 OCR 技术从图像中提取文字，并转换为 LaTex 代码的工具。无论是 OCR 还是自动转码，速度都是非常快的，准确性也很高。重点是，一个月可以免费使用1000次！(Mathpix 一个月只能免费使用50次)
 + [Grammarly](https://www.grammarly.com)：Grammarly 是一款非常强大的语法改错软件，帮助润色英文表达。
@@ -1255,9 +1271,12 @@ A curated list of awesome learning resources, blogs, books, videos and so on.
 + [Netspeak](https://netspeak.org/)：帮助你搜索你还不知道的单词，论文写作好帮手之一。
 + [Microsoft Aim Writing](https://aka.ms/zuowen)：亚洲研究院研发升级了以前的作文打分功能，命名为“微软爱写作”（Microsoft Aim Writing）。从小学到到雅思托福的作文都可以改。
 + [《论文是怎样炼成的》](http://dblab.xmu.edu.cn/post/58/)：来自厦门大学林子雨博士的报告《论文是怎样炼成的》，共125页ppt，虽然快有十年之久，但里面干货经典，部分集成周志华老师的PPT 《如何做研究，如何写论文》，至今仍有重大价值。
-
++ [RSPapers](https://github.com/hongleizhang/RSPapers)：必读推荐系统论文列表，GitHub:star:2k。​
++ [ACM Digital Library](https://dl.acm.org/)：ACM 数字图书馆，ACM（美国计算机协会）作为全球最大的计算机相关学会，每年都会出版大量计算机科学的专门期刊、举办国际顶会。
++ [如何撰写毕业论文](http://www.nlpr.ia.ac.cn/cip/ZongReportandLecture/Reports/2014.02.27%20Writing.pdf)：一篇来自中国科学院自动化研究所模式识别国家重点实验室宗成庆老师的报告《如何撰写毕业论文》，27页ppt，讲述了毕业论文要注意的各种要点，非常值得我们学习，帮助大家写出更好的论文。宗成庆老师个人主页：http://www.nlpr.ia.ac.cn/cip/english/zong.htm
 
 <a class="toc" id ="30"></a>
+
 # Download (下载) 📥
 [🔙](#table-of-contents)
 
@@ -1525,5 +1544,5 @@ A curated list of awesome learning resources, blogs, books, videos and so on.
 
 <a class="toc" id ="35"></a>
 
-# Last Update (更新时间) 🕰 ：2020/03/31
+# Last Update (更新时间) 🕰 ：2020/04/03
 [🔙](#table-of-contents)
