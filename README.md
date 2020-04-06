@@ -37,7 +37,7 @@ A curated list of awesome learning resources, blogs, books, videos and so on.
 + [Dataset (数据集)  📊](#32)
 + [Code-related Toolkit 💻](#33)
 + [Other Unsorted (其它) ❓](#34)
-+ [Last Update (更新时间) 🕰 ：2020/04/03](#35)
++ [Last Update (更新时间) 🕰 ：2020/04/06](#35)
 
 
 
@@ -873,6 +873,7 @@ A curated list of awesome learning resources, blogs, books, videos and so on.
 + [OpenPose](https://github.com/CMU-Perceptual-Computing-Lab/openpose)：OpenPose 人体姿态识别项目是美国卡耐基梅隆大学（CMU）基于卷积神经网络和监督学习并以 caffe 为框架开发的开源库。它可以实现人体动作、面部表情、手指运动等姿态估计。适用于单人和多人，具有极好的鲁棒性。是世界上首个基于深度学习的实时多人二维姿态估计应用，很多人体姿态估计实例都是基于它实现，如动作采集、3D 试衣、绘画辅助等。GitHub:star:15.9k。
 + [facenet](https://github.com/davidsandberg/facenet)：FaceNet 采用了深度卷积神经网络（CNN）学习将图像映射到欧式空间，也被称为通用人脸识别系统。该系统可从人脸中提取高质量的特征，称为人脸嵌入（face embeddings），可用于训练人脸识别系统，从而实现对人脸的验证。它在 LFW 数据集上测试的准确率达到了 99.63%，在 YouTube Faces DB 数据集上准确率为 95.12%。GitHub:star:10k。
 + [ShuffleNet Series](https://github.com/megvii-model/ShuffleNet-Series)：这是一个计算机视觉项目！shufflenet是一种计算效率极高的卷积神经网络（CNN）结构。它是为计算能力非常有限的移动设备设计的。这个github存储库包括多个shufflenet模型。
++ [AwesomeCV](https://github.com/ahong007007/awesomeCV)：记录state-of-art计算机视觉相关论文。
 
 
 
@@ -1540,9 +1541,14 @@ A curated list of awesome learning resources, blogs, books, videos and so on.
 + [Cpp_Primer_Practice](https://github.com/applenob/Cpp_Primer_Practice)：《C++ Primer 第五版》笔记和课后练习答案
 + [AI Portraits Ars](https://aiportraits.com/)：MIT和IBM沃森联合实验室，发布了这只画师，名叫AI Portraits Ars，可以在线玩耍。但由于生成的画像过于形神兼备，上线即遭网友大规模涌入，不到三天服务器就崩坏了。
 + [SpeedCoder](http://www.speedcoder.net/lessons/py/1/)：你打特殊符号的次数越多，你打字速度就越快。然而，你只要做一件小事就能很大程度上加快这个过程——学习好的触摸打字方式。这是一个练习快速打代码的网站。
-+ [Halo](https://github.com/halo-dev/halo)： 一个优秀的开源博客发布应用，无论你是想搭建个人博客还是单纯学习，这套开源项目都值的你去细细评味。GitHub:star:13.7k，推荐等级：:heart::heart:
++ [Halo](https://github.com/halo-dev/halo)： 一个优秀的开源博客发布应用，无论你是想搭建个人博客还是单纯学习，这套开源项目都值的你去细细评味。GitHub:star:13.7k，推荐等级：:heart::heart:!
++ [bewindoweb](http://www.bewindoweb.com/dwg.php)：某个同学把他大部分能想到的、有用的网站都整理成了书签，其中包括了写论文必备、程序员通用、数据源下载、在线工具网站、设计素材、办公常用、学生常用.......你能想到的，想不到的有用的网站都收集在这里面了，一共100多个，当你需要学习工作的时候，直接去对应的网站找到你想要的东西，大大提升你的效率，推荐等级：:heart::heart::heart::heart:!
++ [User.me](https://uzer.me/)：不需要安装，就可以在线编辑Office，使用PS、Visio、Xmind、Matlab、Jupyter等等大型软件。还有CAD、WPS、SPSS等，有了它，我们的PC上就不需要装那么多软件了。
++ [Office Converter](https://cn.office-converter.com)：office文档格式、视频格式、音频格式、图片格式、电子书格式.......只有你想不到，没有你找不到，有所的格式都可以在这个网站上转换。
++ [谷歌插件网](http://chromecj.com/)：因为一些冲所周知的原因，谷歌浏览器上面很多实用的插件都用不了，但是有了这个网站之后，无需科学上网也可以下载chrome浏览器插件。
++ [freecomputerbooks](http://freecomputerbooks.com)：这是一个专注于计算机、变成、数学、电子工程、软件工程等技术书籍的网站，所有资源均可免费下载。网站的分类做得非常棒，资源也很丰富，还能看到不少2019年新出版的新书。
 
 <a class="toc" id ="35"></a>
 
-# Last Update (更新时间) 🕰 ：2020/04/03
+# Last Update (更新时间) 🕰 ：2020/04/06
 [🔙](#table-of-contents)
