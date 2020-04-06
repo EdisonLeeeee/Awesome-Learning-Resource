@@ -6,7 +6,7 @@ A curated list of awesome learning resources, blogs, books, videos and so on.
 # 👉 Table of Contents 👈
 + [Git 👬](#1)
 + [GitHub 👬](#2)
-+ [Linux ](#3)
++ [Linux 🐧](#3)
 + [Algorithm (算法) 💡](#4)
 + [Tutorials & Blogs (教程博客) 🗨](#5)
 + [CheatSheets (速查表) 📑](#6)
@@ -133,7 +133,7 @@ A curated list of awesome learning resources, blogs, books, videos and so on.
 + [Primg](https://github.com/geonnave/primg)：用质数生成任意ASCII艺术
 
 <a class="toc" id ="3"></a>
-# Linux 
+# Linux 🐧
 [🔙](#table-of-contents)
 
 + [Awesome Linux](https://github.com/aleksandar-todorovic/awesome-linux)：一份让Linux变得更棒的项目和资源列表。
