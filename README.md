@@ -1,4 +1,4 @@
-# Awesome Learning Resource :heart::heart:😎 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+# Awesome Learning Resources :heart::heart:😎 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 A curated list of awesome learning resources, blogs, books, videos and so on.
 
 <a class="toc" id="table-of-contents"></a>
@@ -26,7 +26,7 @@ A curated list of awesome learning resources, blogs, books, videos and so on.
 + [Reinforcement Learning (强化学习) 💪](#20)
 + [Graph Learning (图学习) 🗺](#21)
 + [Generative Adversarial Networks (GANs) 🤜 🤛](#22)
-+ [Adversarial Attack and Defense ⚔🛡](#23)
++ [Adversarial Attack and Defense (对抗攻防) ⚔🛡](#23)
 + [Model Compression (模型压缩) ⚙](#24)
 + [TensorFlow Learning (TensorFlow 学习) 🇹🇫](#25)
 + [Keras Learning (Keras 学习) 🇰🇷](#26)
@@ -39,7 +39,7 @@ A curated list of awesome learning resources, blogs, books, videos and so on.
 + [Dataset (数据集)  📊](#33)
 + [Code-related Toolkit 💻](#34)
 + [Other Unsorted (其它) ❓](#35)
-+ [Last Update (更新时间) 🕰 ：2020/04/10](#36)
++ [Last Update (更新时间) 🕰 ：2020/04/11](#36)
 
 
 
@@ -59,10 +59,11 @@ A curated list of awesome learning resources, blogs, books, videos and so on.
 + [Udacity Git 课程](http://bit.ly/2H5PZhi)：谷歌无人车之父 Sebastian Thrun 创办的 优达学城（Udacity）上面的 免费 Git 课程。这门课程由优达学城与 GitHub 共同制作，介绍进行版本控制的基础知识，重点讲解 Git 版本控制系统以及 GitHub 协作平台
 + [happypeter1983 的 Git 视频教程](http://bit.ly/2Z6rS87)：这份教程就更进阶了一些。讲到了一些高级命令的用法。当然还有其他学习资源。
 + [Oh shit, git!](http://ohshitgit.com/)：这个网站整理了一些 Git 新手在使用 Git 时常会遇到的各种突发状况，并贴心的给出了应对方案。
-+ [gitignore](https://github.com/github/gitignore)：GitHub 官方开源的一个项目，这个项目为开发者编写好特定的 `.gitignore` 规则，做成了模板。开发者只需选择好自己的项目类别，将文件内容复制粘贴放到自己项目里面就可以用了,在上面，你可以找到目前所有主流语言的 .gitignore 模板。[在线生成网站](http://gitignore.io/)
++ [Gitignore](https://github.com/github/gitignore)：GitHub 官方开源的一个项目，这个项目为开发者编写好特定的 `.gitignore` 规则，做成了模板。开发者只需选择好自己的项目类别，将文件内容复制粘贴放到自己项目里面就可以用了,在上面，你可以找到目前所有主流语言的 .gitignore 模板。[在线生成网站](http://gitignore.io/)
 + [Readme Md Generator](https://github.com/kefranabg/readme-md-generator)：一名来自法国的小哥因为饱受重复编写 README 文档的折磨，在 GitHub 上开源了 readme-md-generator 这个工具。从项目名字便可以知道，它一个 README 文档生成器。其主要作用是通过命令行抓取项目的 package.json 和 git 配置信息，自动完成 README 文档的编写操作，Github上已获:star:5k+
 + [Repository Templates](https://github.blog/2019-06-06-generate-new-repositories-with-repository-templates/)：为了避免开发者做一些无用的重复性工作，GitHub 发布的一个新功能 - 模板仓库（repository templates）。这个功能可以将以往创建过的仓库标记成模板（template），这样在你下一次创建仓库的时候，就可以使用这个模板功能，快速生成具有和原仓库一样的目录与文件内容，每个模板仓库在 URL 末端带上 /generate 后，还可以将模板仓库通过链接分享给其他人，其它人在打开链接之后，便可以快速通过这个模板来创建新仓库
-+ [《Beginning Git and GitHub》](https://www.apress.com/gp/book/9781484253120)：Git与Github学习使用指南（Beginning Git and GitHub），[GitHub](https://github.com/Apress/beginning-git-and-github)。
++ [Standard Readme](https://github.com/RichardLitt/standard-readme)：由 RichardLitt 发起的项目，简单直白的告诉读者README 应该写哪些内容，应该如何排版等，GitHub:star:2.8k
++ [《Beginning Git and GitHub》](https://www.apress.com/gp/book/9781484253120)：Git与Github学习使用指南（Beginning Git and GitHub），[GitHub](https://github.com/Apress/beginning-git-and-github)
 
 
 <a class="toc" id ="2"></a>
@@ -70,8 +71,6 @@ A curated list of awesome learning resources, blogs, books, videos and so on.
 [🔙](#table-of-contents)
 
 + [Gitstar Ranking](https://gitstar-ranking.com/repositories)：GitHub顶级项目排行榜
-+ [Gitignore](https://github.com/github/gitignore)：GitHub 提供的各种项目的 gitignore 文件模板，省了自己写了
-+ [Standard Readme](https://github.com/RichardLitt/standard-readme)：由 RichardLitt 发起的项目，简单直白的告诉读者README 应该写哪些内容，应该如何排版等，GitHub:star:2.8k
 + [GitHub Chinese Top Charts](https://github.com/kon9chunkit/GitHub-Chinese-Top-Charts)：Github中文项目排行榜，帮助你发现高分优秀中文项目、更高效地吸收国人的优秀经验成果；榜单每周更新一次。
 + [Lib4dev](http://www.lib4dev.in/)：一个超赞的在线网站，里面汇集了包含所有编程语言的开源项目和库，并可以链接到相对应的 GitHub 上。使用 lib4dev 可以查找任何编程语言的最佳库，它界面简单，基本上所有编程语言的库和开源项目都可以在上面找得到。推荐等级：:heart::heart::heart:！
 + [HelloGithub](https://www.hellogithub.com/)：分享GitHub上有趣，入门级的开源项目
@@ -528,6 +527,7 @@ A curated list of awesome learning resources, blogs, books, videos and so on.
 + [Cpp_Primer_Answers](https://github.com/huangmingchuan/Cpp_Primer_Answers)：《C++ Primer 第五版》中文版习题解答
 + [Cpp_Primer_Practice](https://github.com/applenob/Cpp_Primer_Practice)：《C++ Primer 第五版》笔记和课后练习答案
 + [《Go2-book》](https://github.com/chai2010/go2-book)：《Go2编程指南》开源图书，重点讲解Go2新特性，以及Go1教程中较少涉及的特性
++ [Data Science Notes](https://github.com/fengdu78/Data-Science-Notes)：数据科学的笔记以及资料搜集，GitHub:star:3k​
 
 
 <a class="toc" id ="12"></a>
@@ -789,12 +789,12 @@ A curated list of awesome learning resources, blogs, books, videos and so on.
 + [Jittor](https://cg.cs.tsinghua.edu.cn/jittor/)：清华大学开发了一个名为计图（Jittor）的深度学习框架。这一框架有望为深度学习社区提供新的方案，也能够推动深度学习框架国产化的进程。据官网介绍说：「研究团队将神经网络所需的基本算子定义为元算子」，元算子非常底层，通过相互融合可以完成复杂的深度学习计算，体现出了易于使用的特点。并且研发团队表示，采用元算子的 Jittor 已超越 Numpy，能够实现更复杂更高效的操作。[GitHub](https://github.com/Jittor/jittor):star:1k+。
 + [MegEngine](https://megengine.org.cn/)：旷视科技在北京发布了新一代人工智能生产平台天元（MegEngine），其「训练推理一体」、「动静合一」、「兼容并包」、「灵活高效」的强大性能或许将为 AI 领域带来新的风向。天元与目前流行的 TensorFlow、PyTorch 相似，旨在让更多的人可以在其基础上构建自己的应用，创造属于自己的价值。[GitHub​](https://github.com/MegEngine/MegEngine):star:600+
 + [MindSpore](https://www.mindspore.cn/)：MindSpore 是华为人工智能解决方案的重要组成部分，与 TensorFlow、PyTorch、PaddlePaddle 等流行深度学习框架对标，旨在大幅度降低 AI 应用开发门槛，让人工智能无处不在。[源码](https://gitee.com/mindspore)
-+ [MMT](https://github.com/yxgeee/MMT)：港中文开源无监督学习框架MMT，提供更鲁棒的伪标签，旨在解决更实际的开放集无监督领域自适应问题，ICLR 2020 论文：[《Mutual Mean-Teaching: Pseudo Label Refinery for Unsupervised Domain Adaptation on Person Re-identification》](https://openreview.net/forum?id=rJlnOhVYPS)
-
-  
-
++ [MMT](https://github.com/yxgeee/MMT)：港中文开源无监督学习框架MMT，提供更鲁棒的伪标签，旨在解决更实际的开放集无监督领域自适应问题，ICLR 2020 论文：[《Mutual Mean-Teaching: Pseudo Label Refinery for Unsupervised Domain Adaptation on Person Re-identification》
++ [DaisyRec](https://github.com/AmazingDD/daisyRec)：DaisyRec 是一个Python包，用于物体得分预测与排序，可作为推荐系统基准的多维公平比较工具
++ 
 
 <a class="toc" id ="18"></a>
+
 # Fine-tuning (模型调参) 🔧
 [🔙](#table-of-contents)
 
@@ -822,10 +822,12 @@ A curated list of awesome learning resources, blogs, books, videos and so on.
 
 + [Auto sklearn](https://github.com/automl/auto-sklearn)：利用scikit-learn 进行自动机器学习，GitHub:star:4.4k。​
 
++ [Gradient-Centralization](https://github.com/Yonghongwei/Gradient-Centralization)：阿里达摩院的研究人员另辟蹊径提出了一种新型优化技术——梯度中心化（gradient centralization，GC），该方法通过中心化梯度向量使其达到零均值，从而直接在梯度上执行。研究者开源了论文中所提方法，使用 PyTorch 实现，一行代码即可替换现有优化器。[论文地址](https://arxiv.org/pdf/2004.01461.pdf)
+
   
 
-
 <a class="toc" id ="19"></a>
+
 # Computer Vision (计算机视觉) 👁
 [🔙](#table-of-contents)
 
@@ -918,6 +920,8 @@ A curated list of awesome learning resources, blogs, books, videos and so on.
 + [Graph Learn](https://github.com/alibaba/graph-learn)：阿里巴巴开源的简化 GNN 应用的新框架 Graph-Learn。该框架可从实际案例中提取解决方案，应用于推荐系统、反欺骗等多个领域。GL 的可移植性和灵活性对于开发者来说十分友好，在该框架的基础上，开发者可以更轻松地实现 GNN 算法、自定义与图相关的运算符，并且更轻松地拓展现有模块。Container 和物理机上都可以安装 GL。
 + [Igraph](https://igraph.org/)：igraph 是一组网络分析工具，集成了网络分析的诸多功能，可以在 R, Python, C/C+ 平台上使用。
 + [Python igraph](https://github.com/igraph/python-igraph)：用于 igraph 的Python接口
++ [《Graph Neural Networks - Notes》](https://nihalnayak.github.io/assets/notes/gnn_notes.pdf)：一份简短入门《图神经网络GNN》笔记小册，作者Nihal Nayak
++ [《Graph-Neural-Network-Note》](https://github.com/SivilTaram/Graph-Neural-Network-Note)：一个理解图神经网络的博客，从图(Graph)到图卷积(Graph Convolution): 漫谈图神经网络
 
 
 <a class="toc" id ="22"></a>
@@ -937,7 +941,7 @@ A curated list of awesome learning resources, blogs, books, videos and so on.
 
 
 <a class="toc" id ="23"></a>
-# Adversarial Attack and Defense ⚔🛡
+# Adversarial Attack and Defense (对抗攻防)⚔🛡
 [🔙](#table-of-contents)
 
 + [Advertorch](https://github.com/BorealisAI/advertorch)：对抗鲁棒性研究工具，实现了大多数的对抗攻防算法（CV领域）。
@@ -1053,7 +1057,7 @@ A curated list of awesome learning resources, blogs, books, videos and so on.
 + [Keras-cn](https://keras.io/zh/)：Keras中文官方手册，该中文官方手册是对对Keras英文官方手册最好的还原，适合所有阶段的Keras学习者阅读。
 + [Keras中文文档](https://keras-cn.readthedocs.io/en/latest/)：另一个非官方的Keras中文文档，笔者花了近两年的时间在维护，文档也一直在更新，包含ConvLSTM2D、SimpleRNNCellKeras、GRUCell等最新的内容，非常用心的一份Keras文档。
 + [Deep Learning With Keras Notebooks](https://github.com/erhwenkuo/deep-learning-with-keras-notebooks)：黄海广博士力荐的Keras github项目，这个github的repository主要是博主在学习Keras的一些记录及练习，满满都是干货，建议大家看一下。
-+ [keraschina](http://www.keraschina.com)：磐创AI Keras系列教程总结，从CNN到RNN，以入门、基础为主的讲解，适合小白学习。
++ [Keraschina](http://www.keraschina.com)：磐创AI Keras系列教程总结，从CNN到RNN，以入门、基础为主的讲解，适合小白学习。
 + [Waterloo](https://www.youtube.com/watch?v=Tp3SaRbql4k)：Waterloo大学关于Keras的课程，该视频在YouTube上有很高的播放率，课程质量非常高
 + [CERN](http://cds.cern.ch/record/2157570?ln=en)：CERN使用Keras进行深度学习系列教程，比较详细、权威的一个Keras系列教程视频。
 + [莫烦Keras](https://www.bilibili.com/video/av16910214/)：莫烦Keras视频教程，莫烦老师的视频在B站、YouTube上都有很高的播放量，强烈推荐给大家。
@@ -1118,7 +1122,7 @@ A curated list of awesome learning resources, blogs, books, videos and so on.
 + [PyTorch3D](https://github.com/facebookresearch/pytorch3d)：PyTorch3D是Facebook开源的一个高度模块化和优化的库，具有独特的功能，旨在让使用PyTorch的3D深度学习更容易。PyTorch3D为快速可微的3D数据提供了一组常用的3D操作符和损失函数，以及一个模块化可微绘制API，使研究人员能够立即将这些函数导入当前最先进的深度学习系统。
 + [Hiplot](https://github.com/facebookresearch/hiplot)：HiPlot是Facebook开源的一个交互式可视化工具，它帮助人工智能研究人员发现高维数据中的相关性和模式，并使用平行图和其他图形方式来表示信息。HiPlot使用一种称为平行图的技术，这是一种可视化和过滤高维数据的方便做法。
 + [Efficient-PyTorch](https://github.com/Lyken17/Efficient-PyTorch)：使用PyTorch训练大型数据集的最佳实践
-+ [torchprof](https://github.com/awwong1/torchprof)：用于呈现PyTorch模型细节的库，推荐等级：:heart::heart:！
++ [Torchprof](https://github.com/awwong1/torchprof)：用于呈现PyTorch模型细节的库，推荐等级：:heart::heart:！
 + [Pytorch Cifar](https://github.com/kuangliu/pytorch-cifar)：在CIFAR10 数据集上用PyTorch实现的CV模型，GitHub:star:2.7k​
 + [Pytorch Tricks](https://github.com/zxdefying/pytorch_tricks)：使用 `PyTorch` 的过程中总结的一些小trick
 
@@ -1149,7 +1153,7 @@ A curated list of awesome learning resources, blogs, books, videos and so on.
 + [GraphvizOnline](https://dreampuf.github.io/GraphvizOnline/)：一个可以使用 Graphviz 在线画图的网页工具
 + [Manim - Mathematical Animation Engine](https://github.com/3b1b/manim)：Manim 是解释性数学视频的动画引擎。用于以编程方式创建精确的动画，如 3Blue1Brown 的视频中所展示的样例。
 + [pixelhouse](https://github.com/thoppe/pixelhouse)：一个极简的绘图库，用于在 python 中制作精美的动画。
-+ [render-py](https://github.com/tvytlx/render-py)：一个用 Python 编写的软件 3D 渲染器，旨在让每个人都能轻松理解。
++ [Render py](https://github.com/tvytlx/render-py)：一个用 Python 编写的软件 3D 渲染器，旨在让每个人都能轻松理解。
 + [pyray](https://github.com/ryu577/pyray)：Python 中使用 POV ray 渲染复杂的 3D 对象和场景，动画以及更多普通的香草 Python。
 + [SandDance](https://github.com/microsoft/SandDance)：SandDance 是 Microsoft Research 最受欢迎的数据可视化工具，由微软研究院的可视化和交互式数据分析（VIDA）小组创建，通过提供了触控式的界面，实现使用者和 3D 信息图表进行互动，已经作为 GitHub 上的开源项目重新发布。[在线体验](https://sanddance.js.org/)。
 + [Coblis Color Blindness Simulator](https://www.color-blindness.com/coblis-color-blindness-simulator/)：色盲模拟器，来看看你的配色能否被色盲人群分辨出来，以防颜色设置不妥。
@@ -1157,7 +1161,7 @@ A curated list of awesome learning resources, blogs, books, videos and so on.
 + [Data Color Picker](https://learnui.design/tools/data-color-picker.html)：用于生成两种颜色的渐变，可以自由选择需要多少种颜色过渡。
 + [Chroma.js Color Palette Helper](https://vis4.net/palettes)：可以制作顺序调色板或者发散调色板，根据不同需要调整调色板的渐变过程。
 + [Color Thief](https)：我们知道许多自然情景中的颜色都是让人感到舒服的配色，这款工具就可以帮你把照片中的颜色提取出来。
-+ [Viz Palette](对色盲非常友好的调色工具。)：Viz Palette
++ [Viz Palette](http://projects.susielu.com/viz-palette)：对色盲非常友好的调色工具
 + [Draw.io](https://www.draw.io/)：一免费制图神器来袭！名为draw.io，打开网页就能使用，支持中文版，也不会给你上水印。不只是能让你创建空白图，官方还提供了133个模板，覆盖了商务、工程图、流程图等13个类别。如此神器，好评自然如潮。有人说，这是一个开发人员可以使用的、最有用的100%免费软件工具。推荐等级：:heart::heart::heart:！ [GitHub地址](https://github.com/jgraph/drawio) 以及 [桌面版下载地址](https://github.com/jgraph/drawio-desktop)。
 + [Yellowbrick](https://www.scikit-yb.org/en/latest/)：可视化利器Yellowbrick，这是一款基于sklearn+matplotlib模块构建的更加高级的可视化工具，能够更加方便地完成很多数据探索、分词与展示工作。[中文文档地址](http://www.scikit-yb.org/zh/latest/)
 + [G6](https://github.com/antvis/G6/)：G6 是一个图可视化引擎。它提供了图的绘制、布局、分析、交互、动画等图可视化的基础能力。旨在让关系变得透明，简单。让用户获得关系数据的 Insight。基于 G6，用户可以快速搭建自己的 图分析 或 图编辑 应用。
@@ -1241,6 +1245,7 @@ A curated list of awesome learning resources, blogs, books, videos and so on.
 + [ACM Digital Library](https://dl.acm.org/)：ACM 数字图书馆，ACM（美国计算机协会）作为全球最大的计算机相关学会，每年都会出版大量计算机科学的专门期刊、举办国际顶会。
 + [如何撰写毕业论文](http://www.nlpr.ia.ac.cn/cip/ZongReportandLecture/Reports/2014.02.27%20Writing.pdf)：一篇来自中国科学院自动化研究所模式识别国家重点实验室宗成庆老师的报告《如何撰写毕业论文》，27页ppt，讲述了毕业论文要注意的各种要点，非常值得我们学习，帮助大家写出更好的论文。宗成庆老师个人主页：http://www.nlpr.ia.ac.cn/cip/english/zong.htm
 + [ThuThesis](https://github.com/xueruini/thuthesis)：清华大学的毕业论文模板，它包含了完整的 LaTeX 文件，下载下来并修改内容后，一键就能生成标准的 PDF。该学位论文 LaTeX 模板，包括本科综合论文训练、硕士论文、博士论文以及博士后出站报告。GitHub:star:2.2k，推荐等级：:heart::heart::heart::heart:！
++ [ ThesisUESTC](https://github.com/x-magus/ThesisUESTC)：此项目提供用于排版电子科技大学毕业论文的LaTeX模板类，旨在帮助电子科技大学的毕业生高效地完成毕业论文的写作。模板提供各种方便的命令，自动化地排版论文的各个部分，使毕业论文轻易地满足学校的格式要求。为了支持更好的字体效果，模板基于XeLaTeX编写，并且放弃对CTeX的依赖，使模板更加稳定。
 
 
 <a class="toc" id ="31"></a>
@@ -1284,6 +1289,8 @@ A curated list of awesome learning resources, blogs, books, videos and so on.
 + [Awesome Interview Questions](https://github.com/MaximAbramchuck/awesome-interview-questions)：这个精选的面试题库不仅全，而且对提交的面试题会进行审核，并且会不定期对链接进行审核，提剔除失效链接，GitHub:star:30k+。推荐等级：:heart::heart::heart:！
 + [Interactive Coding Challenges](https://github.com/donnemartin/interactive-coding-challenges)：20个交互式Python编码面试挑战(算法和数据结构)，GitHub:star:19k+。推荐等级：:heart::heart::heart:！
 + [Coding Interviews](https://github.com/shenweichen/coding_interviews)：《剑指Offer》题目汇总&常考题总结(Python实现)
++ [JavaGuide](https://github.com/Snailclimb/JavaGuide)：【Java学习+面试指南】 一份涵盖大部分Java程序员所需要掌握的核心知识。GitHub:star:74.9k，推荐等级：:heart::heart::heart:！
++ [JavaGuide-Interview](https://github.com/Snailclimb/JavaGuide-Interview)：JavaGuide面试突击版
 + [50+ Data Structure and Algorithms Interview Questions for Programmers](https://hackernoon.com/50-data-structure-and-algorithms-interview-questions-for-programmers-b4b1ac61f5b0)：Java语言算法和编程面试题精选TOP50，附解决方案。
 + [955.WLB](https://github.com/formulahendry/955.WLB)：与 996.ICU 相呼应，955 公司白名单。旨在让更多的人逃离 996，加入 955 的行列。GitHub 获:star:20k。
 + [SoftwareArchitect](https://github.com/justinamiller/SoftwareArchitect)：高级架构师 Justin Miller 在 GitHub 上创建项目，介绍自己关于「如何成为更好的软件架构师」的想法。该项目发布一天即获得 1.4k :star:，现在已有 :star:3.8k。
@@ -1450,7 +1457,8 @@ A curated list of awesome learning resources, blogs, books, videos and so on.
 + [Web Develope Roadmap](https://github.com/kamranahmedse/developer-roadmap)：web 开发者学习路线图，GitHub :star:93.2k，推荐等级:heart::heart::heart::heart:！
 + [Let's Build A Simple Interpreter](https://ruslanspivak.com/lsbasi-part1/)：加拿大工程师[Ruslan Spivak](https://ruslanspivak.com/pages/about/)写的如何利用Python自己写一个编译器文章的博客，适合用于学习编译原理。[GitHub代码](https://github.com/rspivak/lsbasi)
 >“如果你不知道编译器是如何工作的，那么你就不知道计算机是如何工作的。 如果你不是100％确定你是否知道编译器是如何工作的，那么你就不知道它们是如何工作的。“ - Steve Yegge 
-+ [Let’s Build A Web Server](https://ruslanspivak.com/lsbaws-part1/)：加拿大工程师[Ruslan Spivak](https://ruslanspivak.com/pages/about/)写的如何利用Python自己写一个网络服务器的博客，适合用于学习Web server。[GitHub代码](https://github.com/rspivak/lsbaws)
++ [Let’s Build A Web Server](https://ruslanspivak.com/lsbaws-part1/)：加拿大工程师 [Ruslan Spivak](https://ruslanspivak.com/pages/about/) 写的如何利用Python自己写一个网络服务器的博客，适合用于学习Web server。[GitHub代码](https://github.com/rspivak/lsbaws)
++ [PowerToys](https://github.com/microsoft/PowerToys)：Microsoft PowerToys是微软官方工具集，它包含了很多实用的系统功能[增强](https://www.iplaysoft.com/tag/增强)小软件，如 TweakUI、[虚拟桌面](https://www.iplaysoft.com/tag/桌面)工具等等，为高级用户调整和简化他们的Windows体验以提高生产力。GitHub:star:17.7k
 + [StackOverFlow](https://stackoverflow.com/)：这个就不用介绍了，应该是世界上最大的问答网站了
 + [Mathematics Stack Exchange](https://math.stackexchange.com/)：Mathematics Stack Exchange是一个类似StackOverFlow的问答网站，主要提供数学问答
 + [Emoji Homepage](http://emojihomepage.com/)：一个Emoji大全的网站，里面有各式各样的Emoji大全，点击想要的Emoji即可复制，用于写文章加入 Emoji 十分方便
@@ -1490,5 +1498,5 @@ A curated list of awesome learning resources, blogs, books, videos and so on.
 
 
 <a class="toc" id ="36"></a>
-# Last Update (更新时间) 🕰 ：2020/04/10
+# Last Update (更新时间) 🕰 ：2020/04/11
 [🔙](#table-of-contents)
