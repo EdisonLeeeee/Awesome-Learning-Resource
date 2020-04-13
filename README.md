@@ -39,7 +39,7 @@ A curated list of awesome learning resources, blogs, books, videos and so on.
 + [Dataset (数据集)  📊](#33)
 + [Code-related Toolkit 💻](#34)
 + [Other Unsorted (其它) ❓](#35)
-+ [Last Update (更新时间) 🕰 ：2020/04/11](#36)
++ [Last Update (更新时间) 🕰 ：2020/04/14](#36)
 
 
 
@@ -557,6 +557,7 @@ A curated list of awesome learning resources, blogs, books, videos and so on.
 
 + [Python Patterns](https://github.com/faif/python-patterns)：如果说算法是一个程序员的九阳神功，那么设计模式就是你的乾坤大挪移。设计模式在日常工作中会经常用到，对于不同的场景会需要用到不同的模式。python-patterns是非常棒的一个项目，如果你可以跟着他一个个学的话，你回头看看昨天写代码，会有种“哪个傻逼写的垃圾代码啊”的错觉。GitHub:star:23.3k。推荐等级：:heart::heart::heart::heart:！
 + [Python Weekly](https://www.pythonweekly.com/)：一份免费的每周通讯，提供与Python相关的最佳手工策划的新闻、文章、新版本、工具和库、事件等，每周都会有更新。推荐等级：:heart::heart::heart:！
++ [GooglePythonStyleGuideCN](https://github.com/shendeguize/GooglePythonStyleGuideCN)：谷歌Python代码风格指南中文翻译，推荐等级：:heart::heart::heart:！
 + [Pycrumbs](https://github.com/kirang89/pycrumbs)：搜集了各种来自互联网的免费Python的资料，你可以收藏后慢慢看，GitHub:star:2.9k。推荐等级：:heart::heart::heart::heart:！
 + [The Python Tutorial](https://docs.python.org/3/tutorial/index.html)：Python官方文档（英文），官方文档无疑是最好学习Python的参考书
 + [Python 教程](https://docs.python.org/zh-cn/3/tutorial/index.html)：Python官方文档（中文），适用于英文不好的人
@@ -791,7 +792,9 @@ A curated list of awesome learning resources, blogs, books, videos and so on.
 + [MindSpore](https://www.mindspore.cn/)：MindSpore 是华为人工智能解决方案的重要组成部分，与 TensorFlow、PyTorch、PaddlePaddle 等流行深度学习框架对标，旨在大幅度降低 AI 应用开发门槛，让人工智能无处不在。[源码](https://gitee.com/mindspore)
 + [MMT](https://github.com/yxgeee/MMT)：港中文开源无监督学习框架MMT，提供更鲁棒的伪标签，旨在解决更实际的开放集无监督领域自适应问题，ICLR 2020 论文：[《Mutual Mean-Teaching: Pseudo Label Refinery for Unsupervised Domain Adaptation on Person Re-identification》
 + [DaisyRec](https://github.com/AmazingDD/daisyRec)：DaisyRec 是一个Python包，用于物体得分预测与排序，可作为推荐系统基准的多维公平比较工具
-+ 
++ [3D Photo Inpainting](https://shihmengli.github.io/3D-Photo-Inpainting/)﻿：来自弗吉尼亚理工大学、台湾清华大学和 Facebook 的研究者提出了一种将单个 RGB-D 输入图像转换为 3D 照片的方法，利用多层表示合成新视图，且新视图包含原始视图中遮挡区域的 hallucinated 颜色和深度结构。[论文地址](https://arxiv.org/pdf/2004.04727.pdf﻿)，[项目地址](https://github.com/vt-vl-lab/3d-photo-inpainting)
++ [Comet.ml](https://www.comet.ml/site/)：Comet.ml 的作用就像GitHub对代码的作用一样，允许数据科学团队自动跟踪他们的数据集、代码更改、实验历史和生产模型，以创建效率、透明性和可重复性。
++ [Comet Examples](https://github.com/comet-ml/comet-examples)：使用 [Comet.ml](https://www.comet.ml/site/) 的机器学习例子代码
 
 <a class="toc" id ="18"></a>
 
@@ -922,6 +925,7 @@ A curated list of awesome learning resources, blogs, books, videos and so on.
 + [Python igraph](https://github.com/igraph/python-igraph)：用于 igraph 的Python接口
 + [《Graph Neural Networks - Notes》](https://nihalnayak.github.io/assets/notes/gnn_notes.pdf)：一份简短入门《图神经网络GNN》笔记小册，作者Nihal Nayak
 + [《Graph-Neural-Network-Note》](https://github.com/SivilTaram/Graph-Neural-Network-Note)：一个理解图神经网络的博客，从图(Graph)到图卷积(Graph Convolution): 漫谈图神经网络
++ [WWW20-Hands-on-Tutorial](https://github.com/dglai/WWW20-Hands-on-Tutorial)：WWW2020 DGL深度图神经网络实战教程本教程的目标有两个。首先，它将概述GNN背后的理论，讨论GNN非常适合的问题类型，并介绍一些最广泛使用的GNN模型体系结构和设计用来解决的问题/应用程序。其次，它将引入深度图库(Deep Graph Library, DGL)，这是一种新的软件框架，简化了高效的基于GNN的训练和推理程序的开发。
 
 
 <a class="toc" id ="22"></a>
@@ -1047,9 +1051,10 @@ A curated list of awesome learning resources, blogs, books, videos and so on.
 + [Eat tensorflow2 in 30 days](https://github.com/lyhue1991/eat_tensorflow2_in_30_days)：30天吃掉那只 TensorFlow2.0 ，推荐等级：:heart::heart::heart::heart:！
 + [Tensorflow Constrained Optimization](https://github.com/google-research/tensorflow_constrained_optimization)：TensorFlow 约束优化库，可根据多种不同指标（例如，某些特定群体成员的精度、某些国家/地区居民的真阳率 (True Positive)，或者取决于年龄和性别的癌症诊断的召回率）来配置和训练机器学习问题。通过为用户提供最小化和约束指标任意组合的功能，TFCO 可轻松阐述并解决公平性社区尤其是机器学习社区特别关注的诸多问题（例如均衡赔率和预测性平价等）。
 + [EfficientNet-lite](https://github.com/tensorflow/tpu/tree/master/models/official/efficientnet/lite)：EfficientNet-Lite 为边缘设备带来了 EfficientNet 上强大的性能，并且提供五个不同版本，让用户能够根据自己的应用场景灵活地在低延迟与高精度之间选择。
-
++ [TFmatch](https://github.com/lzx551402/tfmatch)：基于 TensorFlow 的图像匹配算法库（特征检测+描述）
 
 <a class="toc" id ="26"></a>
+
 # Keras Learning (Keras 学习) 🇰🇷
 [🔙](#table-of-contents)
 
@@ -1148,11 +1153,11 @@ A curated list of awesome learning resources, blogs, books, videos and so on.
 + [Netscope](https://github.com/ethereon/netscope)：caffe的网络结构可视化工具，大名鼎鼎的netscope，由斯坦福AILab的Saumitro Dasgupta开发
 + [Vis Conv](http://scs.ryerson.ca/~aharley/vis/conv/)：一个有意思的画图工具，不是画什么正经图，但是把权重都画出来了
 + [Matplotlib 入门教程](https://wizardforcel.gitbooks.io/matplotlib-intro-tut/content/)：一个私人Matplotlib 入门教程项目
-+ [kepler.gl](https://github.com/keplergl/kepler.gl)：一款强大的开源地理空间分析工具，用于大规模数据集
++ [Kepler.gl](https://github.com/keplergl/kepler.gl)：一款强大的开源地理空间分析工具，用于大规模数据集
 + [Graphviz](http://www.graphviz.org/)：程序员的绘图利器，一个由AT&T实验室启动的开源工具包。Graphviz就是用来处理Dot（一种非常简单的图形描述语言）的工具
 + [GraphvizOnline](https://dreampuf.github.io/GraphvizOnline/)：一个可以使用 Graphviz 在线画图的网页工具
-+ [Manim - Mathematical Animation Engine](https://github.com/3b1b/manim)：Manim 是解释性数学视频的动画引擎。用于以编程方式创建精确的动画，如 3Blue1Brown 的视频中所展示的样例。
-+ [pixelhouse](https://github.com/thoppe/pixelhouse)：一个极简的绘图库，用于在 python 中制作精美的动画。
++ [Manim - Mathematical Animation Engine](https://github.com/3b1b/manim)：Manim 是解释性数学视频的动画引擎。用于以编程方式创建精确的动画，如 3Blue1Brown 的视频中所展示的样例。[教程视频](https://www.bilibili.com/video/BV1W4411Z7Zt)
++ [Pixelhouse](https://github.com/thoppe/pixelhouse)：一个极简的绘图库，用于在 python 中制作精美的动画。
 + [Render py](https://github.com/tvytlx/render-py)：一个用 Python 编写的软件 3D 渲染器，旨在让每个人都能轻松理解。
 + [pyray](https://github.com/ryu577/pyray)：Python 中使用 POV ray 渲染复杂的 3D 对象和场景，动画以及更多普通的香草 Python。
 + [SandDance](https://github.com/microsoft/SandDance)：SandDance 是 Microsoft Research 最受欢迎的数据可视化工具，由微软研究院的可视化和交互式数据分析（VIDA）小组创建，通过提供了触控式的界面，实现使用者和 3D 信息图表进行互动，已经作为 GitHub 上的开源项目重新发布。[在线体验](https://sanddance.js.org/)。
@@ -1246,9 +1251,10 @@ A curated list of awesome learning resources, blogs, books, videos and so on.
 + [如何撰写毕业论文](http://www.nlpr.ia.ac.cn/cip/ZongReportandLecture/Reports/2014.02.27%20Writing.pdf)：一篇来自中国科学院自动化研究所模式识别国家重点实验室宗成庆老师的报告《如何撰写毕业论文》，27页ppt，讲述了毕业论文要注意的各种要点，非常值得我们学习，帮助大家写出更好的论文。宗成庆老师个人主页：http://www.nlpr.ia.ac.cn/cip/english/zong.htm
 + [ThuThesis](https://github.com/xueruini/thuthesis)：清华大学的毕业论文模板，它包含了完整的 LaTeX 文件，下载下来并修改内容后，一键就能生成标准的 PDF。该学位论文 LaTeX 模板，包括本科综合论文训练、硕士论文、博士论文以及博士后出站报告。GitHub:star:2.2k，推荐等级：:heart::heart::heart::heart:！
 + [ ThesisUESTC](https://github.com/x-magus/ThesisUESTC)：此项目提供用于排版电子科技大学毕业论文的LaTeX模板类，旨在帮助电子科技大学的毕业生高效地完成毕业论文的写作。模板提供各种方便的命令，自动化地排版论文的各个部分，使毕业论文轻易地满足学校的格式要求。为了支持更好的字体效果，模板基于XeLaTeX编写，并且放弃对CTeX的依赖，使模板更加稳定。
-
++ [Machine Learning for Big Code and Naturalness](https://ml4code.github.io/)：机器学习论文集代码列表大全
 
 <a class="toc" id ="31"></a>
+
 # Download (下载) 📥
 [🔙](#table-of-contents)
 
@@ -1498,5 +1504,5 @@ A curated list of awesome learning resources, blogs, books, videos and so on.
 
 
 <a class="toc" id ="36"></a>
-# Last Update (更新时间) 🕰 ：2020/04/11
+# Last Update (更新时间) 🕰 ：2020/04/14
 [🔙](#table-of-contents)
