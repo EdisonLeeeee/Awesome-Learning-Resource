@@ -140,9 +140,9 @@ A curated list of awesome learning resources, blogs, books, videos and so on.
 + [Awesome Linux](https://github.com/aleksandar-todorovic/awesome-linux)：一份让Linux变得更棒的项目和资源列表。
 + [Tldr](https://github.com/tldr-pages/tldr)：简化版本的 "Linux man" 可以很详细的为 Linux 命令提供例子说明，GitHub:star:26k​
 + [Kmdr](https://github.com/ediardo/kmdr-cli)：Linux 命令解释工具
-+ [the-art-of-command-line](https://github.com/jlevy/the-art-of-command-line/blob/master/README-zh.md)：本文是作者在 Linux 上工作时，发现的一些命令行使用技巧的摘要。有些技巧非常基础，而另一些则相当复杂，甚至晦涩难懂。这篇文章并不长，但当你能够熟练掌握这里列出的所有技巧时，你就学会了很多关于命令行的东西了。目前Github获:star:60k+。其他相关资源：
-+ [Awesome-shell](https://github.com/alebcay/awesome-shell)：一份精心组织的命令行工具及资源的列表。
-    + [awesome-osx-command-line](https://github.com/herrbischoff/awesome-osx-command-line)：一份针对 OS X 命令行的更深入的指南。
++ [The art of command line](https://github.com/jlevy/the-art-of-command-line/blob/master/README-zh.md)：本文是作者在 Linux 上工作时，发现的一些命令行使用技巧的摘要。有些技巧非常基础，而另一些则相当复杂，甚至晦涩难懂。这篇文章并不长，但当你能够熟练掌握这里列出的所有技巧时，你就学会了很多关于命令行的东西了。目前Github获:star:60k+。其他相关资源：
++ [Awesome shell](https://github.com/alebcay/awesome-shell)：一份精心组织的命令行工具及资源的列表。
+    + [Awesome osx command line](https://github.com/herrbischoff/awesome-osx-command-line)：一份针对 OS X 命令行的更深入的指南。
     + [Strict mode](http://redsymbol.net/articles/unofficial-bash-strict-mode/)：为了编写更好的脚本文件。
     + [shellcheck](https://github.com/koalaman/shellcheck)：一个静态 shell 脚本分析工具，本质上是 bash／sh／zsh 的 lint。
     + [Filenames and Pathnames in Shell](http://www.dwheeler.com/essays/filenames-in-shell.html)：有关如何在 shell 脚本里正确处理文件名的细枝末节。
@@ -174,6 +174,7 @@ A curated list of awesome learning resources, blogs, books, videos and so on.
 + [Data Structure and Algorithms Analysis—Job Interview](https://click.linksynergy.com/fs-bin/click?id=JVFxdTr9V80&subid=0&offerid=323058.1&type=10&tmpid=14538&RD_PARM1=https%3A%2F%2Fwww.udemy.com%2Fdata-structure-and-algorithms-analysis%2F)
 + [Algorithms](https://github.com/williamfiset/Algorithms)：算法和数据结构是高效代码和良好软件设计的基础。要成为一名优秀的程序员，就需要创建和设计出色的算法。该存储库的目标是演示如何以最简单，最优雅的方式正确实现常见的数据结构和算法。GitHub:star:3.6k，推荐等级：❤️❤️❤️！
 + [Fucking Algorithm](https://github.com/labuladong/fucking-algorithm)：手把手撕LeetCode题目，扒各种算法套路的裤子。GitHub:star:13.4k。
++ [Javascript Algorithms](https://github.com/trekhleb/javascript-algorithms)：该库包含多个 JavaScript 常用算法和数据结构示例。每个示例被标注为「入门」或「高级」，以表明难度。此外，该库还包含哈希表、堆区（heap）、队列（queue）、栈区（stack）、math、字符串（strings）、集合（sets）等的示例。GitHub:star:67.4k，推荐等级：❤️❤️❤️！
 
 
 <a class="toc" id ="5"></a>
@@ -843,11 +844,12 @@ A curated list of awesome learning resources, blogs, books, videos and so on.
 + [ShuffleNet Series](https://github.com/megvii-model/ShuffleNet-Series)：这是一个计算机视觉项目！shufflenet是一种计算效率极高的卷积神经网络（CNN）结构。它是为计算能力非常有限的移动设备设计的。这个github存储库包括多个shufflenet模型。
 + [AwesomeCV](https://github.com/ahong007007/awesomeCV)：记录state-of-art计算机视觉相关论文。
 + [Deep Learning Roadmap](https://github.com/machinelearningmindset/deep-learning-roadmap)：深度学习资源，涵盖深度学习的各个方面，包括论文、数据集、课程、图书、博客、教程、框架等。资源的贡献者说，与其他同类资源相比，这份资源更有针对性。GitHub:star:3.7k​
-
++ [Yet Another EfficientDet Pytorch](https://github.com/zylo117/Yet-Another-EfficientDet-Pytorch)：PyTorch版 EfficientDet，比官方TF实现快25倍，GitHub:star:1.4k，推荐等级：:heart::heart::heart::heart:！
 
 
 
 <a class="toc" id ="20"></a>
+
 # Reinforcement Learning (强化学习) 💪
 [🔙](#table-of-contents)
 
@@ -1453,6 +1455,8 @@ A curated list of awesome learning resources, blogs, books, videos and so on.
 + [StarHistory](https://github.com/timqian/star-history)：查看某个项目的 star 的增长趋势，Github:star:1.6k
 + [Pure Bash Bible](https://github.com/dylanaraps/pure-bash-bible)：这是一位澳大利亚的工程师在Github上开源了一本书——《pure bash bible》，本书收集汇总了编写 bash 脚本经常会使用到的一些代码片段，无论是常见和不太常见的方法都可以在这书里找到，通过书中的代码片段，可以删除脚本中的依赖项，并且在大多数情况下可以让程序运行的更快。GitHub:star:23.9k。推荐等级:heart::heart::heart::heart:！
 + [VS Code Debug Visualizer](https://github.com/hediet/vscode-debug-visualizer)：写代码，难免会遇到各种神奇的问题，代码短我们在脑海中「运行」一遍也就差不多能找出原因。但代码要是比较长，错误就会隐藏比较深了，这个时候，不论你是采用 print() 大法，还是善用 assert 语句，或者干脆设置断点，DeBug 总是一条慢慢排除的道路。那么能不能有一种更优雅的 DeBug 方式，以更简洁的信息快速帮我们找到代码的问题所在？这就是 VS Code 最新推出的可视化 DeBug，它能以图的方式快速展示数据结构。但目前遗憾的是它并不支持Python。
++ [Codejar](https://github.com/antonmedv/codejar)：免费的浏览器端代码编辑器CodeJar，优点是轻量级，总体积仅2KB。自动缩进、自动添加右括号引号。因为是在浏览器中使用，所以CodeJar自然也就跨平台，Safari、Chrome、Firefox等浏览器上都能用，iPad和Android平台上的浏览器也能正常使用。
++ [CodeSanbox](https://codesandbox.io/)：全面的在线代码编辑器 CodeSanbox。
 
 
 <a class="toc" id ="35"></a>
@@ -1501,6 +1505,7 @@ A curated list of awesome learning resources, blogs, books, videos and so on.
 + [User.me](https://uzer.me/)：不需要安装，就可以在线编辑Office，使用PS、Visio、Xmind、Matlab、Jupyter等等大型软件。还有CAD、WPS、SPSS等，有了它，我们的PC上就不需要装那么多软件了。
 + [Office Converter](https://cn.office-converter.com)：office文档格式、视频格式、音频格式、图片格式、电子书格式.......只有你想不到，没有你找不到，有所的格式都可以在这个网站上转换。
 + [Squoosh](https://github.com/GoogleChromeLabs/squoosh)：Squoos是 Google 开源发布的一款专门用来压缩图片的在线服务，支持 JPG、PNG、WebP 等格式的极限压缩，它采用谷歌强大的算法，在保障图像质量的前提下最大化压缩图片。GitHub:star:9.7k​
++ [Public APIs](https://github.com/public-apis/public-apis)：该库包含可用于项目和应用的免费 API 列表，覆盖各种主题，如商业、动画、动物、新闻、金融、游戏等。GitHub:star:77.6k，推荐等级：:heart::heart::heart::heart:!
 
 
 <a class="toc" id ="36"></a>
