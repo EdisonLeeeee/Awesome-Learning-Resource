@@ -39,7 +39,7 @@ A curated list of awesome learning resources, blogs, books, videos and so on.
 + [Dataset (数据集)  📊](#33)
 + [Code-related Toolkit 💻](#34)
 + [Other Unsorted (其它) ❓](#35)
-+ [Last Update (更新时间) 🕰 ：2020/04/14](#36)
++ [Last Update (更新时间) 🕰 ：2020/04/18](#36)
 
 
 
@@ -64,9 +64,10 @@ A curated list of awesome learning resources, blogs, books, videos and so on.
 + [Repository Templates](https://github.blog/2019-06-06-generate-new-repositories-with-repository-templates/)：为了避免开发者做一些无用的重复性工作，GitHub 发布的一个新功能 - 模板仓库（repository templates）。这个功能可以将以往创建过的仓库标记成模板（template），这样在你下一次创建仓库的时候，就可以使用这个模板功能，快速生成具有和原仓库一样的目录与文件内容，每个模板仓库在 URL 末端带上 /generate 后，还可以将模板仓库通过链接分享给其他人，其它人在打开链接之后，便可以快速通过这个模板来创建新仓库
 + [Standard Readme](https://github.com/RichardLitt/standard-readme)：由 RichardLitt 发起的项目，简单直白的告诉读者README 应该写哪些内容，应该如何排版等，GitHub:star:2.8k
 + [《Beginning Git and GitHub》](https://www.apress.com/gp/book/9781484253120)：Git与Github学习使用指南（Beginning Git and GitHub），[GitHub](https://github.com/Apress/beginning-git-and-github)
-
++ [CS Visualized: Useful Git Commands](https://dev.to/lydiahallie/cs-visualized-useful-git-commands-37p1)：git merge、git rebase、git reset、git revert、git fetch、git pull、git reflog……你知道这些 git 命令执行的究竟是什么任务吗？如果你还有些分不清楚，那千万不能错过这篇文章。在本文中，熟知 JavaScript、TypeScript、GraphQL、Serverless、AWS、Docker 和 Golang 的 21 岁年轻软件顾问 Lydia Hallie 通过动图形式直观地介绍了这些常用 git 命令的工作过程，包你过目不忘。
 
 <a class="toc" id ="2"></a>
+
 # GitHub 👬
 [🔙](#table-of-contents)
 
@@ -132,6 +133,7 @@ A curated list of awesome learning resources, blogs, books, videos and so on.
 + [Cxxmatrix](https://github.com/akinomyoga/cxxmatrix)：4行代码在终端再现《黑客帝国》数字雨，还有众多其他语言实现的版本，例如[Python实现](https://github.com/will8211/unimatrix)
 + [COVID-19](https://github.com/CSSEGISandData/COVID-19)：在约翰霍普金斯大学，两位中国博士生和他们的导师一起，开发了一个可视化、可交互的全球疫情地图。这个项目已经发在了《柳叶刀》上，GitHub:star:8.3k​
 + [Primg](https://github.com/geonnave/primg)：用质数生成任意ASCII艺术
++ [Self-Driving-Car-in-Video-Games](https://github.com/ikergarcia1996/Self-Driving-Car-in-Video-Games)：一个使用深层神经网络并运用监督学习实现在 Grand Theft Auto V 中自动驾驶的开源项目。项目使用 PyTorch 编写，并使用了 Nvidia 的 Apex 扩展库，支持混合精度训练与推断，最多大约有两倍的速度提升。
 
 <a class="toc" id ="3"></a>
 # Linux 🐧
@@ -315,6 +317,7 @@ A curated list of awesome learning resources, blogs, books, videos and so on.
 + [SQLFIDDLE](http://sqlfiddle.com/)：这玩意，名字听的我也不知道要表达啥，字面意思是可以随意「摆弄」SQL，打开看能支持多种目前主流的数据库，设计来看属于简洁明了的那种。
 + [SQLBOLT](https://sqlbolt.com/)：一边学习，一边练习，从SQL是什么开始介绍。
 + [W3RESOURCE](https://www.w3resource.com/)：从名字看就猜到可能内容包含不只是SQL的学习，打开看像是一本计算机相关的百科全书，值得大家收藏阅读。
++ [Statistics](https://www.britannica.com/science/statistics)：一个非常专业的统计学总结，主要介绍描述性统计学基本知识，统计学的核心知识都在里面，推荐等级：:heart::heart::heart:！
 
 
 
@@ -529,6 +532,7 @@ A curated list of awesome learning resources, blogs, books, videos and so on.
 + [Cpp_Primer_Practice](https://github.com/applenob/Cpp_Primer_Practice)：《C++ Primer 第五版》笔记和课后练习答案
 + [《Go2-book》](https://github.com/chai2010/go2-book)：《Go2编程指南》开源图书，重点讲解Go2新特性，以及Go1教程中较少涉及的特性
 + [Data Science Notes](https://github.com/fengdu78/Data-Science-Notes)：数据科学的笔记以及资料搜集，GitHub:star:3k​
++ [Cobol Programming Course](https://github.com/openmainframeproject/cobol-programming-course)：本项目主要提供一份适合初学者的分章节 COBOL 编程语言课程指南，以及各个章节的源代码。就具体内容而言，本指南主要介绍了如何通过配置有 Zowe 和 Z Open Editor 扩展的 Visual Studio Code 等现代工具，来掌握 COBOL 编程技巧。并且，指南中还讲述了如何来编写、测试、执行和 debug COBOL 程序。GitHub:star:1.1k+​
 
 
 <a class="toc" id ="12"></a>
@@ -796,6 +800,9 @@ A curated list of awesome learning resources, blogs, books, videos and so on.
 + [3D Photo Inpainting](https://shihmengli.github.io/3D-Photo-Inpainting/)﻿：来自弗吉尼亚理工大学、台湾清华大学和 Facebook 的研究者提出了一种将单个 RGB-D 输入图像转换为 3D 照片的方法，利用多层表示合成新视图，且新视图包含原始视图中遮挡区域的 hallucinated 颜色和深度结构。[论文地址](https://arxiv.org/pdf/2004.04727.pdf﻿)，[项目地址](https://github.com/vt-vl-lab/3d-photo-inpainting)
 + [Comet.ml](https://www.comet.ml/site/)：Comet.ml 的作用就像GitHub对代码的作用一样，允许数据科学团队自动跟踪他们的数据集、代码更改、实验历史和生产模型，以创建效率、透明性和可重复性。
 + [Comet Examples](https://github.com/comet-ml/comet-examples)：使用 [Comet.ml](https://www.comet.ml/site/) 的机器学习例子代码
++ [PyCaret](https://github.com/pycaret/pycaret)：一个开源低代码机器学习 Python 库 PyCaret，它支持在「低代码」环境中训练和部署有监督以及无监督的机器学习模型。 PyCaret 库支持数据科学家快速高效地执行端到端实验，与其他开源机器学习库相比，PyCaret 库只需几行代码即可执行复杂的机器学习任务。该库适合有经验的数据科学家、倾向于低代码机器学习解决方案的公民数据科学家，以及编程背景较弱甚至没有的新手。[Notebook 教程](https://www.pycaret.org/tutorial)
+
+
 
 <a class="toc" id ="18"></a>
 
@@ -827,6 +834,8 @@ A curated list of awesome learning resources, blogs, books, videos and so on.
 + [Auto sklearn](https://github.com/automl/auto-sklearn)：利用scikit-learn 进行自动机器学习，GitHub:star:4.4k。​
 
 + [Gradient-Centralization](https://github.com/Yonghongwei/Gradient-Centralization)：阿里达摩院的研究人员另辟蹊径提出了一种新型优化技术——梯度中心化（gradient centralization，GC），该方法通过中心化梯度向量使其达到零均值，从而直接在梯度上执行。研究者开源了论文中所提方法，使用 PyTorch 实现，一行代码即可替换现有优化器。[论文地址](https://arxiv.org/pdf/2004.01461.pdf)
+
++ [Autoflow](https://github.com/auto-flow/autoflow)：自动机器学习工作流建模平台
 
   
 
@@ -1509,5 +1518,5 @@ A curated list of awesome learning resources, blogs, books, videos and so on.
 
 
 <a class="toc" id ="36"></a>
-# Last Update (更新时间) 🕰 ：2020/04/14
+# Last Update (更新时间) 🕰 ：2020/04/18
 [🔙](#table-of-contents)
