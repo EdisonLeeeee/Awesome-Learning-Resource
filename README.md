@@ -43,7 +43,7 @@ A curated list of awesome learning resources, blogs, books, videos and so on.
 + [Dataset (数据集)  📊](#37)
 + [Code-related Toolkit 💻](#38)
 + [Other Unsorted (其它) ❓](#39)
-+ [Last Update (更新时间) 🕰 ：2020/05/22](#40)
++ [Last Update (更新时间) 🕰 ：2020/05/23](#40)
 
 
 <a class="toc" id ="1"></a>
@@ -512,6 +512,7 @@ A curated list of awesome learning resources, blogs, books, videos and so on.
 + [《Mastering Large Datasets with Python》](https://www.manning.com/books/mastering-large-datasets-with-python)：《用Python掌握大型数据集》，作者J.T. Wolohan向您介绍了如何使用Python编码的功能影响方法来处理小型项目并对其进行扩展。您将探索有助于清晰性和可伸缩性的方法和内置Python工具，比如高性能并行方法，以及支持高数据吞吐量的分布式技术。本实用教程中丰富的实践练习将为任何大型数据科学项目锁定这些基本技能。
 + [Deep Learning Books](https://github.com/loveunk/Deep-learning-books)：一些机器学习、深度学习等相关话题的书籍。推荐等级：:heart::heart::heart::heart:！
 + [CS-BOOK](https://github.com/iamshuaidi/CS-Book)：计算机类常用电子书整理，并且附带下载链接，包括Java，Python，Linux，Go，C，C++，数据结构与算法，人工智能，计算机基础，面试，设计模式，数据库，前端等书籍。GitHub:star:1.5k。
++ [CSBook](https://github.com/Jonezhen/CSBook)：另一个计算机电子书仓库
 + [《深度学习实践》](https://www.bilibili.com/video/av88056282/)：旷视研究院和北大数学科学学院机器学习实验室联合出品的中文深度学习课程，不仅有讲课视频、有PPT，而且还免费。
 + [《Grokking-Deep-Learning》](https://github.com/iamtrask/Grokking-Deep-Learning)：《探索深度学习》教会你从头开始建立深度学习神经网络！经验丰富的深度学习专家 Andrew W. Trask 将向你展示了深度学习背后的科学，所以你可以自己摸索并训练神经网络的每一个细节。只使用 Python 及其数学支持库 Numpy，就可以训练自己的神经网络，将文本翻译成不同的语言，甚至像莎士比亚一样写作！完成后，您将准备好掌握深度学习框架。
 + [《The Hundred-Page Machine Learning Book》](http://themlbook.com/wiki/doku.php)：《百页机器学习》，这本书诞生于 LinkedIn 上的一个挑战（Andriy 是一个有影响力的人）。他的书不需要太多的介绍：亚马逊同类产品的畅销书，可能还是这一主题的最好的书面知识总结。
@@ -578,6 +579,8 @@ A curated list of awesome learning resources, blogs, books, videos and so on.
 + [Data Science Group](https://dsgiitr.com/)：一个通过机器学习来推动创新的学生组织，内有一些有趣的项目值得学习。
 + [深度学习](https://atcold.github.io/pytorch-Deep-Learning/)：Yann Lecun在纽约大学开设的2020春季《深度学习》课程，干货满满。推荐等级：:heart::heart::heart::heart:！
 + [Refactoring.guru](https://refactoring.guru/)：这是国外的一个网站，建立的初衷，是帮助开发者以更为简单便捷的方式，迅速掌握各个设计模式的学习。Refactoring Guru 上面共拥有 22 种设计模式及 8 条原则的详细讲解。
++ [CodePen](https://codepen.io/)：CodePen 是一个完全免费的前端代码托管服务。与 GitHub Pages 相比，它最重要的优势有： 即时预览。你甚至可以本地修改并即时预览别人的作品。 支持多种主流预处理器。你从不需要手写生产级别的代码，无论是 Jade 、 LESS 、 Sass ，还是 CoffeeScript 、 es6+（ Babel ），都能尽情使用。专业前端人员都在使用。
++ [Scrimba](https://scrimba.com/)：前端学习网站。关于Scrimba,它不同于传统的视频教学,除了评论就什么也不能做,Scrimba不同,它是音频+编码回放的形式展现,用户能随时暂停,除了编辑同时可以在形似Siri窗口查看视图，总之是非常有创意的编程教学网站,新手去学习,大佬去找灵感!
 
 
 
@@ -1000,6 +1003,8 @@ A curated list of awesome learning resources, blogs, books, videos and so on.
 
 + [Deep Graph Library (DGL)](https://github.com/dmlc/dgl)：在现有DL框架的基础上构建的基于Pytorch的Python包，用于简化对图的深度学习,​推荐等级：:heart::heart::heart:！
 
++ [KDD-2019-Hands-on](https://github.com/dglai/KDD-2019-Hands-on)：KDD 2019 DGL 库教程
+
 + [Pytorch Geometric (PYG)](https://github.com/rusty1s/pytorch_geometric)：近几年来，图神经网络（GNN）在推荐系统、搜索引擎、计算机视觉等领域中都引起了较大的关注。Github有大量开源GNN实现，其中pytorch_geometric是最优秀的实现之一，曾被 Yann LeCun 推荐，GitHub上获:star:6k+，​推荐等级：:heart::heart::heart::heart:！
 
 + [TensorFlow Geometric (TFG)](https://github.com/CrawlScript/tf_geometric)：基于 Tensorflow 的高效友好的图神经网络库，受 [Pytorch Geometric](https://github.com/rusty1s/pytorch_geometric) 启发。一个新开始的项目，GitHub:star:仅十几，但发展前景好。​推荐等级：:heart::heart::heart:！
@@ -1064,6 +1069,10 @@ A curated list of awesome learning resources, blogs, books, videos and so on.
 
 + [Advancements in Graph Neural Networks](https://static.aminer.cn/misc/pdf/graphsage2-mit-nov19.pdf)：图神经网络依然是研究焦点之一。最近在WWW2020的DL4G@WWW2020论坛，斯坦福大学Jure Leskovec副教授介绍了图神经网络研究最新进展，包括GNN表现力、预训练和公开图神经网络基准等。值得关注
 
++ [graphkit-learn](https://github.com/jajupmochi/graphkit-learn)：一个用于 graph kernels, graph edit distances and graph pre-image problem 的 Python 库
+
++ [GraKeL](https://github.com/ysig/GraKeL)：一个用于 graph kernels 的scikit-learn兼容库
+
   
 
 <a class="toc" id ="24"></a>
@@ -1081,6 +1090,8 @@ A curated list of awesome learning resources, blogs, books, videos and so on.
 + [《GANs in Action》](https://www.manning.com/books/gans-in-action)：牛津大学Jakub Langr 撰写了《GANs in Action Deep learning with Generative Adversarial Networks》的著作，囊括了关于GAN的定义、训练、变体等，全面叙述关于当下AI最重要的技术之一GAN的著作，是学习生成式对抗网络非常好的学习图书，是关于GAN的最好的书籍之一。
 + [DiscoGAN PyTorch](https://github.com/carpedm20/DiscoGAN-pytorch)："Learning to Discover Cross-Domain Relations with Generative Adversarial Networks" PyTorch实现
 + [A Review on Generative Adversarial Networks: Algorithms, Theory, and Applications](https://arxiv.org/abs/2001.06937)：史上最全GAN综述2020版：算法、理论及应用。本文是一份出自陶大程、叶杰平老师等大牛之手的 GAN 详细综述，介绍了近年来有关 GAN 模型的相关研究进展，并指出了今后该领域的发展方向。
++ [GAN](https://github.com/YadiraF/GAN)：GAN, DCGAN, WGAN, CGAN, InfoGAN 等各种 GAN 的实现和资源大全，GitHub:star:1.7k​
++ [Keras-GAN](https://github.com/eriklindernoren/Keras-GAN)：Keras 的 GAN 实现版本，GitHub:star:7k​
 
 
 <a class="toc" id ="25"></a>
@@ -1102,6 +1113,7 @@ A curated list of awesome learning resources, blogs, books, videos and so on.
 + [Outlier Detection DataSets (ODDS)](http://odds.cs.stonybrook.edu/)：异常检测数据集
 + [Graph Adversarial Learning Literature](https://github.com/safe-graph/graph-adversarial-learning-literature)：图对抗攻防论文集合
 + [Graph-Adversarial-Learning](https://github.com/gitgiter/Graph-Adversarial-Learning)：图对抗学习论文集合
++ [Adversarial](https://paperswithcode.com/area/adversarial)：Paperswithcode 中关于对抗学习的主题，包含许多具有开源代码的攻防论文
 
 <a class="toc" id ="26"></a>
 
@@ -1391,6 +1403,7 @@ A curated list of awesome learning resources, blogs, books, videos and so on.
 + [Comparxiv](https://github.com/temken/comparxiv)：用一行代码比较 arXiv 预印版本论文之间的差异
 + [Conference List](http://www.conferencelist.info/upcoming.html)：计算机各领域会议的时间表
 + [AI Conference Deadlines ](https://aideadlin.es/?sub=ML,CV,NLP,RO,SP,DM)：查看各个AI顶会的 Deadline
++ [Conference Acceptanc Rate](https://github.com/lixin4ever/Conference-Acceptance-Rate)：查看各个AI顶会论文的接受率，GitHub:star:1.2k​
 + [Latex 代码转换器 - Mathpix](https://mathpix.com/)：如果你经常用 latex 编写文档，那你一定得安装下 Mathpix。这款工具能将带数学公式的截图一键转成 latex 代码，帮你省下很多时间，堪称神器！（可惜现在收费了）
 + [Image2LaTeX](https://github.com/blaisewang/img2latex-mathpix)：这一工具的名称是「Image2LaTeX」。顾名思义，这是利用 OCR 技术从图像中提取文字，并转换为 LaTex 代码的工具。无论是 OCR 还是自动转码，速度都是非常快的，准确性也很高。重点是，一个月可以免费使用1000次！(Mathpix 一个月只能免费使用50次)
 + [Grammarly](https://www.grammarly.com)：Grammarly 是一款非常强大的语法改错软件，帮助润色英文表达。
@@ -1697,8 +1710,9 @@ A curated list of awesome learning resources, blogs, books, videos and so on.
 + [Office Converter](https://cn.office-converter.com)：office文档格式、视频格式、音频格式、图片格式、电子书格式.......只有你想不到，没有你找不到，有所的格式都可以在这个网站上转换。
 + [Squoosh](https://github.com/GoogleChromeLabs/squoosh)：Squoos是 Google 开源发布的一款专门用来压缩图片的在线服务，支持 JPG、PNG、WebP 等格式的极限压缩，它采用谷歌强大的算法，在保障图像质量的前提下最大化压缩图片。GitHub:star:9.7k​
 + [Public APIs](https://github.com/public-apis/public-apis)：该库包含可用于项目和应用的免费 API 列表，覆盖各种主题，如商业、动画、动物、新闻、金融、游戏等。GitHub:star:77.6k，推荐等级：:heart::heart::heart::heart:!
++ [营销号生成器](https://codepen.io/kasei-dis/pen/JjYjwza)：一个挺有意思的营销号内容生成器，一开口就知道是老营销号了
 
 
 <a class="toc" id ="40"></a>
-# Last Update (更新时间) 🕰 ：2020/05/22
+# Last Update (更新时间) 🕰 ：2020/05/23
 [🔙](#table-of-contents)
