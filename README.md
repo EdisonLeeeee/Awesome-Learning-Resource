@@ -44,7 +44,7 @@ A curated list of awesome learning resources, blogs, books, videos and so on.
 + [Dataset (数据集)  📊](#38)
 + [Code-related Toolkit (代码工具) 💻](#39)
 + [Other Unsorted (其它) ❓](#40)
-+ [Update (更新时间) 🕰 ：2020/05/29](#41)
++ [Update (更新时间) 🕰 ：2020/06/10](#41)
 
 
 <a class="toc" id ="1"></a>
@@ -150,7 +150,7 @@ A curated list of awesome learning resources, blogs, books, videos and so on.
 + [Scarpet nn](https://ashutoshbsathe.github.io/scarpet-nn/scarpet-apps/twoclassmnist/)：来自印度小哥开发的新玩法，在《我的世界》里搭建神经网络，运行过程清晰可见。[源代码](https://github.com/ashutoshbsathe/scarpet-nn)
 + [Photo2cartoon](https://github.com/minivision-ai/photo2cartoon)：人像卡通化探索项目，GitHub:star:1k​
 + [QRcp](https://github.com/claudiodangelis/qrcp)：在不离开终端的情况下，通过Wi-Fi扫描二维码，将文件从电脑传输到移动设备。GitHub:star:7k​
-+ 
++ [TNN](https://github.com/Tencent/TNN)：由腾讯优图实验室打造，移动端高性能、轻量级推理框架，同时拥有跨平台、高性能、模型压缩、代码裁剪等众多突出优势。
 
 
 <a class="toc" id ="3"></a>
@@ -1232,13 +1232,12 @@ A curated list of awesome learning resources, blogs, books, videos and so on.
 + [TensorFlow Examples v2.0](https://github.com/aymericdamien/TensorFlow-Examples/tree/master/tensorflow_v2)：GitHub 中:star:30k+项目`TensorFlow examples`的一个子项目，更新了一些2.0的样例
 + [《Deep Learning with TensorFlow book》](https://github.com/dragen1860/Deep-Learning-with-TensorFlow-book)：一本基于TensorFlow 2.0 正式版的中文深度学习开源书，GitHub趋势日榜排名全球第一，已斩获:star:3k+，并且还在不断增长。从目录章节构成来看，理论与编程并不是独立分开，而是随着难度的递增，循序渐进、穿插编排的，除此之外，每个章节里的内容编排也是理论与实战相结合。配套代码，[TensorFlow 2.0 实战案例](https://github.com/dragen1860/TensorFlow-2.x-Tutorials)。推荐等级：:heart::heart::heart:！
 + [简单粗暴TensorFlow 2.0](https://tf.wiki/)：一份全中文教学的快速上手指南，基于Keras和Eager Execution（动态图）模式，北大学霸出品，获得TensorFlow官方认可。其名为，简单粗暴TensorFlow 2.0。[GitHub地址](https://github.com/snowkylin/tensorflow-handbook)，推荐等级：:heart::heart::heart:！
-+ [《Hands On Machine Learning》](https://www.oreilly.com/library/view/hands-on-machine-learning/9781492032632/)：这本书非常棒，可以带你更深入TF2.0，记得要看第二版。GitHub上已获:star:4k+，[代码地址](https://github.com/ageron/handson-ml2)。推荐等级：:heart::heart::heart:！
 + [Tf2 Course](https://github.com/ageron/tf2_course)："Deep Learning with TensorFlow 2 and Keras" 课程笔记
 + [TensorFlow 2.0 中文教程](https://github.com/czy36mengfei/tensorflow2_tutorials_chinese)：该教程主要由tensorflow2.0官方教程的作者个人学习复现笔记整理而来，并借鉴了一些keras构造神经网络的方法，中文讲解，方便喜欢阅读中文教程的朋友。[知乎专栏](https://zhuanlan.zhihu.com/p/59507137)。
 + [Awesome Tensorflow 2](https://github.com/Amin-Tgz/awesome-tensorflow-2)：Tensorflow 2.x资源，如教程，博客，代码和视频。推荐等级：:heart::heart::heart::heart:！
 + [《动手深度学习 (TensorFlow2.0)》](https://github.com/TrickyGo/Dive-into-DL-TensorFlow2.0)：《动手学深度学习》(Dive into Deep Learning) TensorFlow 2.0版本代码实现。[在线阅读地址](https://trickygo.github.io/Dive-into-DL-TensorFlow2.0/#/)。推荐等级：:heart::heart::heart:！
 + [TensorFlow Tutorials](https://www.tensorflow.org/tutorials)：TensorFlow 官方文档示例教程，使用2.0实现了一些经典模型，[GitHub仓库](https://github.com/tensorflow/docs/tree/master/site/en/tutorials)。推荐等级：:heart::heart::heart:！
-+ [《Hands-on Machine Learning with Scikit-Learn, Keras, and TensorFlow, 2nd Edition》](https://www.redhat.com/cms/managed-files/cm-oreilly-chapter-machine-learning-analyst-paper-f20000-201910-en.pdf)：Scikit-Learn，Keras，Tensorflow是机器学习工具链的重要组成部分。本书的作者，根据上述三个机器学习工具箱，融汇贯通成一个个机器学习实例，让即使对人工智能了解不多的程序员也可以使用简单高效的工具来实现机器学习任务。本书Sklearn,Keras与Tensorflow机器学习实用指南(第二版)涵盖大量上述三个工具和机器学习的相关内容。[书内代码](https://github.com/ageron/handson-ml2)
++ [《Hands-on Machine Learning with Scikit-Learn, Keras, and TensorFlow, 2nd Edition》](https://www.redhat.com/cms/managed-files/cm-oreilly-chapter-machine-learning-analyst-paper-f20000-201910-en.pdf)：Scikit-Learn，Keras，Tensorflow是机器学习工具链的重要组成部分。本书的作者，根据上述三个机器学习工具箱，融汇贯通成一个个机器学习实例，让即使对人工智能了解不多的程序员也可以使用简单高效的工具来实现机器学习任务。本书Sklearn,Keras与Tensorflow机器学习实用指南(第二版)涵盖大量上述三个工具和机器学习的相关内容，[书内代码](https://github.com/ageron/handson-ml2)。推荐等级：:heart::heart::heart:！
 + [Tensor2Tensor](https://colab.research.google.com/github/tensorflow/tensor2tensor/blob/master/tensor2tensor/notebooks/hello_t2t.ipynb)：tensor2tensor（t2t）是google基于tensorflow新开源的深度学习库，该库将深度学习所需要的元素（数据集、模型、学习率、超参数等）封装成标准化的统一接口，在使用其做模型训练时可以更加的灵活。GitHub :star: 9.4k。
 + [《Deep Learning Pipeline: Building a Deep Learning Model with TensorFlow》](https://www.oreilly.com/library/view/deep-learning-pipeline/9781484253496/)：根据最新的TensorFlow方法而不是过时的工程概念来构建自己的Pipeline。这本书向你展示了如何为真实的TensorFlow项目建立一个深度学习Pipeline。
 + [《Accelerating training, inference, and ML applications on NVIDIA GPUs》](https://conferences.oreilly.com/tensorflow/tf-ca-2019/public/schedule/detail/79348)：Maggie Zhang，Nathan Luehr，Josh Romero，Pooya Davoodi和Davide Onofrio深入研究了用于加速深度学习训练和推理的通用深度学习和机器学习工作负载的技术。 通过本教程将了解DALI如何消除现实应用中的I/O和数据处理瓶颈，以及自动混合精度（AMP）如何轻松地在Volta GPU上的训练性能提高3倍。 您将看到使用Horovod进行多GPU和多节点扩展的最佳实践。 他们使用深度学习探查器来可视化TensorFlow操作并确定优化机会。 本教程将教读者学习使用TensorRT（TRT）中的INT8量化来部署这些训练过的模型，所有这些都将在TensorFlow框架的新型便捷API中进行。
@@ -1348,6 +1347,7 @@ A curated list of awesome learning resources, blogs, books, videos and so on.
 + [Pytorch Tricks](https://github.com/zxdefying/pytorch_tricks)：使用 `PyTorch` 的过程中总结的一些小trick
 + [Pytorch Deep Learning](https://github.com/Atcold/pytorch-Deep-Learning)：利用PyTorch进行深度学习教程，GitHub:star:2.2k​
 + [PyTorch: AnImperativeStyle,High-Performance Deep LearningLibrary](https://papers.nips.cc/paper/9015-pytorch-an-imperative-style-high-performance-deep-learning-library.pdf)：NeurIPS 2019接收，PyTorch官方论文首次曝光完整设计思路
++ [Transformers Tutorials](https://github.com/abhimishra91/transformers-tutorials)：PyTorch Transformers 教程
 
 
 
@@ -1485,6 +1485,7 @@ A curated list of awesome learning resources, blogs, books, videos and so on.
 + [Paraphrasing Tool](https://paraphrasing-tool.com/)：Paraphrasing-tool是一种在线重述工具，允许用户重新编写文字和修改文章。Paraphrasing-tool的句子输出如上所示。该工具在动词和名词短语的改写方面做得很好，没有任何语法错误。不过某些技术性词语往往被不太常见的词语取代。
 + [CopyTranslator](https://github.com/CopyTranslator/CopyTranslator)：一款开源工具：CopyTranslator。这款工具的最大亮点，就是方便易用，你只需将文本复制到剪贴板，即可快速查看翻译结果，享受所见即所得的快感。工具作者是来自国内的开发者 Elliott Zheng，一开始鼓捣这个工具，主要是为了解决外文 PDF 在网页翻译时，会导致的多余换行和乱码问题。GitHub:star:7.9k​
 + [How we write rebuttals](https://medium.com/@deviparikh/how-we-write-rebuttals-dc84742fece1)：怎么写 Rebuttal 才能让评审和领域主席心服口服？推荐等级：:heart::heart::heart::heart:！
++ [Writing Tips for PhD Theses](https://faculty.chicagobooth.edu/john.cochrane/research/papers/phd_paper_writing.pdf)：博士论文写作技巧
 
 <a class="toc" id ="35"></a>
 
@@ -1761,8 +1762,9 @@ A curated list of awesome learning resources, blogs, books, videos and so on.
 + [Public APIs](https://github.com/public-apis/public-apis)：该库包含可用于项目和应用的免费 API 列表，覆盖各种主题，如商业、动画、动物、新闻、金融、游戏等。GitHub:77.6k，推荐等级：::::!
 + [营销号生成器](https://codepen.io/kasei-dis/pen/JjYjwza)：一个挺有意思的营销号内容生成器，一开口就知道是老营销号了
 + [textshot](https://github.com/ianzhao05/textshot)：一款 GitHub 用户 ianzhao05 刚发布的小工具——textshot，只需要截屏就能实时生成文字，也可以通过此项目大致了解如何对图像中的文本进行识别。推荐等级：:heart::heart::heart:!​
-
++ [nodesign](https://nodesign.dev/)：网站上收集了许多十分便利的 UI 设计工具与设计资源，这网站对于那些不太懂设计的开发者来说，简直是超级福音
 
 <a class="toc" id ="41"></a>
-# Update (更新时间) 🕰 ：2020/05/29
+
+# Update (更新时间) 🕰 ：2020/06/10
 [🔙](#table-of-contents)
