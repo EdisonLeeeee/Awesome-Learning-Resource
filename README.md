@@ -44,7 +44,7 @@ A curated list of awesome learning resources, blogs, books, videos and so on.
 + [Dataset (数据集)  📊](#38)
 + [Code-related Toolkit (代码工具) 💻](#39)
 + [Other Unsorted (其它) ❓](#40)
-+ [Update (更新时间) 🕰 ：2020/06/10](#41)
++ [Update (更新时间) 🕰 ：2020/06/13](#41)
 
 
 <a class="toc" id ="1"></a>
@@ -539,6 +539,10 @@ A curated list of awesome learning resources, blogs, books, videos and so on.
 + [阿西河前端教程](https://www.axihe.com/)：该网站主要是前端教程，涵盖大量前端知识
 + [PowerShell教程](https://www.pstips.net/powershell-online-tutorials)：PowerShell在线中文教程
 + [SQL Bolt](https://sqlbolt.com/)：国外的一个网站，通过简单的交互式练习学习SQL
++ [SQLZOO](https://sqlzoo.net/)：`SQLZOO` 包括了 SQL 学习的教程和参考资料，支持多国语言，每一个语法配套一个教程、一份数据和一个测验，非常适合初学者使用，因为可以一边通过教程学习语法知识，再通过测验巩固。
++ [XUESQL](http://xuesql.cn/)：`xuesql.cn`,一个适合小白学`SQL`的网站，该网站会由浅入深的介绍所有有关 `SQL` 的知识, 每一个章节是一组相关的SQL知识点; 并且会配备一组动手练习任务。
++ [LeetCodeSQL](https://leetcode-cn.com/problemset/database/)：LeetCode 上关于 SQL 的题目
++ [W3Resource](https://www.w3resource.com/sql-exercises/)：SQL 在线刷题网站
 + [Regex101](https://regex101.com/)：一个在线正则表达式学习（转换）网站，还可以将你的正则表达式转换为各种语言的代码
 + [Learn Regex](https://github.com/ziishaned/learn-regex)：无论你使用的是 Python、Java、Perl 还是 Shell，正则表达式是学习主流编程语言几乎绕不开的话题。有了它，就能帮你快速定位到符合筛选条件的文本内容。现在 GitHub 上的有个 24k:star:的项目 learn-regex 解决了初学者的困难。最近这个教程刚完成了汉化工作，还附有在线练习，帮助初学者快速入门正则表达式
 + [Brilliant | Math and Science Done Right](https://brilliant.org)：可以边打游戏边学习，包含数学、物理、逻辑、计算机
@@ -796,6 +800,8 @@ A curated list of awesome learning resources, blogs, books, videos and so on.
 + [Pyforest](https://github.com/8080labs/pyforest)：这是一个免费的Python库，使用Pyforest可在一行代码中导入所有python数据科学库。Pyforest目前可导入包括pandas、numpy、matplotlib等等众多的数据科学库。
 + [Pymatting](https://github.com/pymatting/pymatting)：一键抠图，毛发毕现：这个GitHub项目助你快速PS
 + [PyBoy](https://github.com/Baekalfen/PyBoy)：一个完全用 Python 从头开始编写的 Game Boy 模拟器，并且支持通过 API 编写脚本，GitHub:star:2.7k​
++ [Rich](https://github.com/willmcgugan/rich)：Rich 是一个可用于渲染命令行文本格式的开源 Python 库，支持对终端上的表格、进度条、Markdown、代码高亮、Emoji 表情等不同文本格式添加更为丰富的渲染效果。GitHub:star:7.3k​
++ [Muggle OCR](https://pypi.org/project/muggle-ocr)：基于深度学习的图片验证码的解决方案 - 该项目能够秒杀字符粘连重叠/透视变形/模糊/噪声等各种干扰情况，足以解决市面上绝大多数复杂的验证码场景，目前也被用于其他OCR场景。。[训练项目源码](https://github.com/kerlomz/captcha_trainer)，GitHub:star:1.2k
 
 
 
@@ -940,6 +946,8 @@ A curated list of awesome learning resources, blogs, books, videos and so on.
 + [AwesomeCV](https://github.com/ahong007007/awesomeCV)：记录state-of-art计算机视觉相关论文。
 + [Deep Learning Roadmap](https://github.com/machinelearningmindset/deep-learning-roadmap)：深度学习资源，涵盖深度学习的各个方面，包括论文、数据集、课程、图书、博客、教程、框架等。资源的贡献者说，与其他同类资源相比，这份资源更有针对性。GitHub:star:3.7k​
 + [Yet Another EfficientDet Pytorch](https://github.com/zylo117/Yet-Another-EfficientDet-Pytorch)：PyTorch版 EfficientDet，比官方TF实现快25倍，GitHub:star:1.4k，推荐等级：:heart::heart::heart::heart:！
++ [CVPR2020-Code](https://github.com/amusi/CVPR2020-Code)：CVPR 2020接收论文的开源项目合集，GitHub:star:1.8k​
++ [CVPR 2020 open access](http://openaccess.thecvf.com/CVPR2020.py)：CVPR 2020 接收论文大全
 
 
 
@@ -994,6 +1002,7 @@ A curated list of awesome learning resources, blogs, books, videos and so on.
 + [RSPapers](https://github.com/hongleizhang/RSPapers)：必读推荐系统论文列表，GitHub:star:2k。​
 + [DeepCTR](https://github.com/shenweichen/DeepCTR)：深度学习点击率算法预测包，[PyTorch版本](https://github.com/shenweichen/DeepCTR-Torch)。
 + [RecommenderSystem-Paper](https://github.com/daicoolb/RecommenderSystem-Paper)：该项目收集整理了丰富的推荐系统相关资源，包括推荐系统的文献、工具和框架等，推荐等级：:heart::heart::heart::heart:！
++ [Paperlist for Recommender Systems](https://github.com/mengfeizhang820/Paperlist-for-Recommender-Systems)：推荐系统论文列表
 
 
 
@@ -1050,6 +1059,8 @@ A curated list of awesome learning resources, blogs, books, videos and so on.
 + [Spektral](https://github.com/danielegrattarola/spektral)：Spektral 是一个基于 Keras API 和 TensorFlow 2，用于图深度学习的开源 Python 库。该项目的主要目的是提供一个简单但又不失灵活性的图神经网络（graph neural networks，GNNs) 框架。推荐等级：:heart::heart::heart:！
 
 + [GNN papers](https://github.com/thunlp/GNNPapers)：图神经网络必读论文列表
+
++ [DeepGCN](https://github.com/WMF1997/DeepGCN)：GNN 的论文列表
 
 + [Graph-based NN](https://github.com/sungyongs/graph-based-nn)：总结关于基于图的神经网络和关系网络的重要资料，GitHub:star:700+。​推荐等级：:heart::heart::heart::heart:！
 
@@ -1136,15 +1147,15 @@ A curated list of awesome learning resources, blogs, books, videos and so on.
 + [Papers of Robust ML](https://github.com/rainy1998/nlp-/blob/f62680e9663dc89920bd5dbbf44759e190ffd08c/Papers-of-Robust-ML.md)：Robust-ML的相关论文集
 + [Adversarial-DL](https://github.com/mbs0221/Adversarial-DL)：对抗深度学习的论文集
 + [Adversarial Robustness Toolbox](https://github.com/IBM/adversarial-robustness-toolbox)：IBM研发的关于对抗攻防机器学习的库，GitHub:star:1.2k。
-+ [DeepRobust](DeepRobust)：密歇根州立大学开源的基于PyTorch实现的攻防算法库大全，包含`image`和`Graph`两种领域的攻防算法，目前刚刚开源，值得关注。
++ [DeepRobust](https://github.com/DSE-MSU/DeepRobust)：密歇根州立大学开源的基于PyTorch实现的攻防算法库大全，包含`image`和`Graph`两种领域的攻防算法，值得关注。
 + [Adversarial Lab](https://github.com/dsgiitr/adversarial_lab)：生成并可视化对抗样本的工具。
 + [Must-read Papers on Textual Adversarial Attack and Defense](https://github.com/thunlp/TAADpapers)：清华NLP组的同学们，在GitHub上开源的一个list，名为：文本对抗攻击与防御必读paper列表。
 + [Graph-based Fraud Detection Papers and Resources](https://github.com/safe-graph/graph-fraud-detection-papers)：基于图数据的欺诈检测研究的相关论文，可以了解到该领域最新的进展
 + [DGFraud](https://github.com/safe-graph/DGFraud)：一个用于欺诈检测的深度图工具箱
 + [Awesome Fraud Detection Research Papers](https://github.com/benedekrozemberczki/awesome-fraud-detection-papers)：关于欺诈检测的数据挖掘论文的整理列表
 + [Outlier Detection DataSets (ODDS)](http://odds.cs.stonybrook.edu/)：异常检测数据集
-+ [Graph Adversarial Learning Literature](https://github.com/safe-graph/graph-adversarial-learning-literature)：图对抗攻防论文集合，推荐等级：:heart::heart:！
-+ [Graph-Adversarial-Learning](https://github.com/gitgiter/Graph-Adversarial-Learning)：图对抗学习论文集合
++ [Graph Adversarial Learning Literature](https://github.com/safe-graph/graph-adversarial-learning-literature)：图对抗攻防论文集合，推荐等级：:heart::heart::heart:！
++ [Graph Adversarial Learning](https://github.com/gitgiter/Graph-Adversarial-Learning)：图对抗学习论文集合，推荐等级：:heart::heart::heart::heart:！
 + [Adversarial](https://paperswithcode.com/area/adversarial)：Paperswithcode 中关于对抗学习的主题，包含许多具有开源代码的攻防论文
 + [A Complete List of All (arXiv) Adversarial Example Papers](https://nicholas.carlini.com/writing/2019/all-adversarial-example-papers.html)：汇聚了超多攻防对抗论文，推荐等级：:heart::heart::heart::heart:！
 + [Awesome Graph Attack Papers](https://github.com/ChandlerBang/awesome-graph-attack-papers)：图神经网络攻防论文集合
@@ -1185,6 +1196,7 @@ A curated list of awesome learning resources, blogs, books, videos and so on.
 + [Detectron2](https://github.com/facebookresearch/detectron2)：Detectron2 前身就是鼎鼎大名的 Detectron，其实Detectron可以说是Facebook第一代检测工具箱，目前在github上获得 22.5k :star:！
 + [FaceMaskDetection](https://github.com/AIZOOTech/FaceMaskDetection)：开源人脸口罩检测模型和数据 ，[在线体验链接](https://aizoo.com/face-mask-detection.html)
 + [ChineseOCR_LITE](https://github.com/ouyanghuiyu/chineseocr_lite)：中文OCR开源项目，采用了轻量级的主干网络 PSENet，轻量级的 CRNN 模型和行文本方向分类网络 AngleNet，总体模型只有 17M。支持任意方向文字检测，在识别时会自动判断行文本方向。GitHub:star:1.7k。​
++ [OpenRadar](https://github.com/PreSenseRadar/OpenRadar)：一个用于与雷达数据交互和处理的开源库，专门用于MIMO mmWave雷达
 
 
 <a class="toc" id ="29"></a>
@@ -1511,6 +1523,8 @@ A curated list of awesome learning resources, blogs, books, videos and so on.
 + [MSDN](https://msdn.itellyou.cn/)：十分齐全、靠谱的Windows系统、软件资源下载网站
 + [N软网](https://www.nruan.com/)：提供互联网前沿资讯及软件下载
 + [DownGit](https://minhaskamal.github.io/DownGit/#/home)：Git文件下载工具，只需输入连接即可下载GitHub上的文件
++ [GitHub 文件加速](https://shrill-pond-3e81.hunsh.workers.dev/)：GitHub 文件下载加速
++ [GitHub 代下载服务](http://g.widyun.com/)：GitHub 代下载服务
 + [OmegaXYZ](http://www.omegaxyz.com/resource/resource_software/)：既有各种高级语言的教程，也有机器学习的教程，以及各种算法实现，还有提供一些软件资源下载。[GitHub](https://github.com/xyjigsaw)上还有许多关于Python的学习项目
 + [视频鱼](http://www.shipinyu.cn/)：一个输入视频网址即可下载视频的网站
 + [Awesome Windows](https://github.com/Awesome-Windows/Awesome/blob/master/README-cn.md)：GitHub上:star:9k+的项目，收列了Windows上优质&精选的最佳应用程序及工具
@@ -1711,9 +1725,10 @@ A curated list of awesome learning resources, blogs, books, videos and so on.
 + [VS Code Debug Visualizer](https://github.com/hediet/vscode-debug-visualizer)：写代码，难免会遇到各种神奇的问题，代码短我们在脑海中「运行」一遍也就差不多能找出原因。但代码要是比较长，错误就会隐藏比较深了，这个时候，不论你是采用 print() 大法，还是善用 assert 语句，或者干脆设置断点，DeBug 总是一条慢慢排除的道路。那么能不能有一种更优雅的 DeBug 方式，以更简洁的信息快速帮我们找到代码的问题所在？这就是 VS Code 最新推出的可视化 DeBug，它能以图的方式快速展示数据结构。但目前遗憾的是它并不支持Python。
 + [Codejar](https://github.com/antonmedv/codejar)：免费的浏览器端代码编辑器CodeJar，优点是轻量级，总体积仅2KB。自动缩进、自动添加右括号引号。因为是在浏览器中使用，所以CodeJar自然也就跨平台，Safari、Chrome、Firefox等浏览器上都能用，iPad和Android平台上的浏览器也能正常使用。
 + [CodeSanbox](https://codesandbox.io/)：全面的在线代码编辑器 CodeSanbox。
-
++ [Paste.ubuntu](https://paste.ubuntu.com/)：paste.ubuntu 是一个单纯发布代码的网站，对于复制粘贴容易破坏原本代码美感的情况下，可以把代码放到里面，一键 Paste。有了这个神器，贴代码请大佬调试的时候再也不怕被骂这是什么鬼玩意儿
 
 <a class="toc" id ="40"></a>
+
 # Other Unsorted (其它) ❓
 [🔙](#table-of-contents)
 
@@ -1766,5 +1781,5 @@ A curated list of awesome learning resources, blogs, books, videos and so on.
 
 <a class="toc" id ="41"></a>
 
-# Update (更新时间) 🕰 ：2020/06/10
+# Update (更新时间) 🕰 ：2020/06/13
 [🔙](#table-of-contents)
