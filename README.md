@@ -44,7 +44,7 @@ A curated list of awesome learning resources, blogs, books, videos and so on.
 + [Dataset (数据集)  📊](#38)
 + [Code-related Toolkit (代码工具) 💻](#39)
 + [Other Unsorted (其它) ❓](#40)
-+ [Update (更新时间) 🕰 ：2020/06/13](#41)
++ [Update (更新时间) 🕰 ：2020/06/14](#41)
 
 
 <a class="toc" id ="1"></a>
@@ -183,6 +183,7 @@ A curated list of awesome learning resources, blogs, books, videos and so on.
 + [Tldr](https://github.com/tldr-pages/tldr)：简化版本的 "Linux man" 可以很详细的为 Linux 命令提供例子说明，GitHub:star:26k​
 + [Kmdr](https://github.com/ediardo/kmdr-cli)：Linux 命令解释工具
 + [The art of command line](https://github.com/jlevy/the-art-of-command-line/blob/master/README-zh.md)：本文是作者在 Linux 上工作时，发现的一些命令行使用技巧的摘要。有些技巧非常基础，而另一些则相当复杂，甚至晦涩难懂。这篇文章并不长，但当你能够熟练掌握这里列出的所有技巧时，你就学会了很多关于命令行的东西了。目前Github获:star:60k+。其他相关资源：
++ [《The Linux Command Line》](https://www.programmer-books.com/the-linux-command-line-pdf/)：Linux 命令行必学书籍
 + [Awesome shell](https://github.com/alebcay/awesome-shell)：一份精心组织的命令行工具及资源的列表。
     + [Awesome osx command line](https://github.com/herrbischoff/awesome-osx-command-line)：一份针对 OS X 命令行的更深入的指南。
     + [Strict mode](http://redsymbol.net/articles/unofficial-bash-strict-mode/)：为了编写更好的脚本文件。
@@ -1010,8 +1011,6 @@ A curated list of awesome learning resources, blogs, books, videos and so on.
 # Graph Learning (图学习) 🗺
 [🔙](#table-of-contents)
 
-+ [Innovations in Graph Representation Learning ](https://ai.googleblog.com/2019/06/innovations-in-graph-representation.html)：Google图挖掘团队的两位高级科学家Alessandro Epasto和Bryan Perozzi在Google AI Blog上发表的《Innovations in Graph Representation Learning》，介绍了最新的一些图表示学习成果
-
 + [Awesome Graph Classification](https://github.com/benedekrozemberczki/awesome-graph-classification)：这是一个野心勃勃的项目，涵盖了从深度学习、图形内核、到统计指纹和分解等领域的优秀论文以及对应的Python实现，作者表示会持续更新。GitHub :star:2k+。
 
 + [Awesome Network Embedding](https://github.com/chihming/awesome-network-embedding)：关于 Network Embedding 的相关论文合集，GitHub :star:2k。
@@ -1038,7 +1037,7 @@ A curated list of awesome learning resources, blogs, books, videos and so on.
 
 + [Pytorch Geometric (PYG)](https://github.com/rusty1s/pytorch_geometric)：近几年来，图神经网络（GNN）在推荐系统、搜索引擎、计算机视觉等领域中都引起了较大的关注。Github有大量开源GNN实现，其中pytorch_geometric是最优秀的实现之一，曾被 Yann LeCun 推荐，GitHub上获:star:6k+，​推荐等级：:heart::heart::heart::heart:！
 
-+ [TensorFlow Geometric (TFG)](https://github.com/CrawlScript/tf_geometric)：基于 Tensorflow 的高效友好的图神经网络库，受 [Pytorch Geometric](https://github.com/rusty1s/pytorch_geometric) 启发。一个新开始的项目，GitHub:star:仅十几，但发展前景好。​推荐等级：:heart::heart::heart:！
++ [TensorFlow Geometric (TFG)](https://github.com/CrawlScript/tf_geometric)：基于 Tensorflow 的高效友好的图神经网络库，受 [Pytorch Geometric](https://github.com/rusty1s/pytorch_geometric) 启发。一个新开始的项目。​推荐等级：:heart:!
 
 + [GraphEmbedding](https://github.com/shenweichen/GraphEmbedding)：GraphEmbedding 算法的实现库。
 
@@ -1058,11 +1057,13 @@ A curated list of awesome learning resources, blogs, books, videos and so on.
 
 + [Spektral](https://github.com/danielegrattarola/spektral)：Spektral 是一个基于 Keras API 和 TensorFlow 2，用于图深度学习的开源 Python 库。该项目的主要目的是提供一个简单但又不失灵活性的图神经网络（graph neural networks，GNNs) 框架。推荐等级：:heart::heart::heart:！
 
-+ [GNN papers](https://github.com/thunlp/GNNPapers)：图神经网络必读论文列表
++ [GNN papers](https://github.com/thunlp/GNNPapers)：图神经网络必读论文列表，GitHub:star:7.6k，推荐等级：:heart::heart::heart:！
 
 + [DeepGCN](https://github.com/WMF1997/DeepGCN)：GNN 的论文列表
 
 + [Graph-based NN](https://github.com/sungyongs/graph-based-nn)：总结关于基于图的神经网络和关系网络的重要资料，GitHub:star:700+。​推荐等级：:heart::heart::heart::heart:！
+
++ [LiteratureDL4Graph](https://github.com/DeepGraphLearning/LiteratureDL4Graph)：图深度学习论文，GitHub:star:2.5k，推荐等级：:heart::heart::heart::heart:！
 
 + [Graph Nets](https://github.com/dsgiitr/graph_nets)：PyTorch 实现的各种图模型代码，包括GCN, ChebyNet, GAT, GraphSAGE。[博客地址](https://dsgiitr.com/blogs/)。
 
@@ -1084,9 +1085,9 @@ A curated list of awesome learning resources, blogs, books, videos and so on.
 
 + [Advancements in Graph Neural Networks](https://static.aminer.cn/misc/pdf/graphsage2-mit-nov19.pdf)：图神经网络依然是研究焦点之一。最近在WWW2020的DL4G@WWW2020论坛，斯坦福大学Jure Leskovec副教授介绍了图神经网络研究最新进展，包括GNN表现力、预训练和公开图神经网络基准等。值得关注
 
-+ [graphkit-learn](https://github.com/jajupmochi/graphkit-learn)：一个用于 graph kernels, graph edit distances and graph pre-image problem 的 Python 库
++ [Graphkit Learn](https://github.com/jajupmochi/graphkit-learn)：一个用于 graph kernels, graph edit distances and graph pre-image problem 的 Python 库
 
-+ [GraKeL](https://github.com/ysig/GraKeL)：一个用于 graph kernels 的scikit-learn兼容库
++ [GraKeL](https://github.com/ysig/GraKeL)：一个用于 Graph kernels 的scikit-learn兼容库
 
 + [《Discrete regularity graph Laplacians》](http://helper.ipam.ucla.edu/publications/hjws4/hjws4_15794.pdf)：图机器学习-图拉普拉斯算子的离散正则性
 
@@ -1099,6 +1100,8 @@ A curated list of awesome learning resources, blogs, books, videos and so on.
 + [《图卷积神经网络》][https://atcold.github.io/pytorch-Deep-Learning/en/week13/13-1/]：Yann Lecun在纽约大学开设的2020春季《深度学习》课程，干货满满。最新的一期是来自新加坡南洋理工大学的Xavier Bresson教授的图卷积神经网络课程，共76页PPT，非常硬核干货，讲述了GCN近年来的研究进展，包括经典卷积网络、谱图卷积网、 空间域图卷积网、GCN基准等。现在在课程网站上也放出来笔记，非常基础细致值得学习。
 
 + [《An introduction to machine learning on graphs》](https://conferences.oreilly.com/strata/strata-ny-2019/public/schedule/detail/76557)：《Introduction to graphs and machine learning》（《图机器学习导论》）为我们介绍了图机器学习的动机与发展，包括网络表示学习、图神经网络等图机器学习方法及其在问答、知识图谱等领域的应用。
+
++ [《Innovations in Graph Representation Learning 》](https://ai.googleblog.com/2019/06/innovations-in-graph-representation.html)：Google图挖掘团队的两位高级科学家Alessandro Epasto和Bryan Perozzi在Google AI Blog上发表的《Innovations in Graph Representation Learning》，介绍了最新的一些图表示学习成果
 
 + [《A Gentle Introduction to Deep Learning for Graphs》](https://arxiv.org/abs/1912.12693)：《A Gentle Introduction to Deep Learning for Graphs》是图深度学习领域的教程导论，它倾向于对主流概念和架构的一致和渐进的介绍，而不是对最新文献的阐述。教程在介绍概念和想法时采用了自上而下的方法并保留了清晰的历史观点，为此，导论在第2节中提供了图表示学习的泛化形式，将图表示学习泛化为一种基于局部和迭代的结构化信息处理过程。同时，介绍了架构路线图，整个导论也是围绕该路线图进行开展的。导论聚焦于面向局部和迭代的信息处理过程，因为这些过程与神经网络的体系更为一致。因此，导论会淡化那些基于图谱理论的全局方法（假设有一个固定的邻接矩阵）。
 
@@ -1726,6 +1729,7 @@ A curated list of awesome learning resources, blogs, books, videos and so on.
 + [Codejar](https://github.com/antonmedv/codejar)：免费的浏览器端代码编辑器CodeJar，优点是轻量级，总体积仅2KB。自动缩进、自动添加右括号引号。因为是在浏览器中使用，所以CodeJar自然也就跨平台，Safari、Chrome、Firefox等浏览器上都能用，iPad和Android平台上的浏览器也能正常使用。
 + [CodeSanbox](https://codesandbox.io/)：全面的在线代码编辑器 CodeSanbox。
 + [Paste.ubuntu](https://paste.ubuntu.com/)：paste.ubuntu 是一个单纯发布代码的网站，对于复制粘贴容易破坏原本代码美感的情况下，可以把代码放到里面，一键 Paste。有了这个神器，贴代码请大佬调试的时候再也不怕被骂这是什么鬼玩意儿
++ [App Ideas](https://github.com/florinpop17/app-ideas)：这里面收集了共 86 个可供开发者练习参考的项目创意，其中初级项目 34 个、中级 32 个、高级 20 个。同时，每个项目创意也均附上了较为详实的项目文档，指引开发者一步步完成项目的开发工具。不过代码几乎都是JS的。GitHub:star:22k，推荐等级:heart::heart::heart::heart:！
 
 <a class="toc" id ="40"></a>
 
@@ -1781,5 +1785,5 @@ A curated list of awesome learning resources, blogs, books, videos and so on.
 
 <a class="toc" id ="41"></a>
 
-# Update (更新时间) 🕰 ：2020/06/13
+# Update (更新时间) 🕰 ：2020/06/14
 [🔙](#table-of-contents)
