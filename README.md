@@ -44,7 +44,7 @@ A curated list of awesome learning resources, blogs, books, videos and so on.
 + [Dataset (数据集)  📊](#38)
 + [Code-related Toolkit (代码工具) 💻](#39)
 + [Other Unsorted (其它) ❓](#40)
-+ [Update (更新时间) 🕰 ：2020/06/14](#41)
++ [Update (更新时间) 🕰 ：2020/06/15](#41)
 
 
 <a class="toc" id ="1"></a>
@@ -285,9 +285,10 @@ A curated list of awesome learning resources, blogs, books, videos and so on.
 + [Cnn Explainer](https://github.com/poloclub/cnn-explainer)：华人博士写的卷积网络可视化项目，一个交互式学习神器，把 CNN 的工作过程画得明明白白，帮助萌新轻松入门，GitHub:star:3k​。[网页地址](https://poloclub.github.io/cnn-explainer/)，[Arxiv 地址](https://arxiv.org/abs/2004.15004)
 + [Holoviews](https://github.com/holoviz/holoviews)：Holoviews 可用非常少量的代码完成数据分析和可视化，后端基于Bokeh。GitHub:star:1.6k​
 + [ml-visuals](https://github.com/dair-ai/ml-visuals)：这套模板名叫 ML Visuals，是专为解决神经网络画图问题设计的。ML Visuals 提供了更加专业、美观、恰当的视觉效果和图形，可以帮助机器学习社区改善科学沟通。用户可以在 PPT 或博客中免费使用其中的视觉效果和图形。GitHub:star:1.1k。
-
++ [Origin](https://www.originlab.com/)：Origin是由OriginLab公司开发的一个科学绘图、数据分析软件，支持在Microsoft Windows下运行。因其功能强大且使用方便，在各国科技工作者中使用较为普遍，连诸多外文知名期刊都要求必须Origin出图。推荐等级：:heart::heart::heart::heart:！
 
 <a class="toc" id ="7"></a>
+
 # Tutorials & Blogs (教程博客) 🗨
 [🔙](#table-of-contents)
 
@@ -1012,114 +1013,60 @@ A curated list of awesome learning resources, blogs, books, videos and so on.
 [🔙](#table-of-contents)
 
 + [Awesome Graph Classification](https://github.com/benedekrozemberczki/awesome-graph-classification)：这是一个野心勃勃的项目，涵盖了从深度学习、图形内核、到统计指纹和分解等领域的优秀论文以及对应的Python实现，作者表示会持续更新。GitHub :star:2k+。
-
 + [Awesome Network Embedding](https://github.com/chihming/awesome-network-embedding)：关于 Network Embedding 的相关论文合集，GitHub :star:2k。
-
 + [Awesome Graph Neural Networks](https://github.com/nnzhan/Awesome-Graph-Neural-Networks)：GNN相关论文列表。
-
 + [Graph-based deep learning literature](https://github.com/naganandy/graph-based-deep-learning-literature)： GitHub上的一个项目，作者整理了包含近期基于图的深度学习会议论文
-
 + [Literature of Deep Learning for Graphs](https://github.com/DeepGraphLearning/LiteratureDL4Graph)：GitHub上:star:2k的图神经网络的学习资源，里面整理了大量图深度学习论文，大多数都被顶会收录，数量有上百篇。这份资源最闪亮的地方，就是将这些不同方向已经发表的论文进行了整理，分门别类得放上了论文的标题、作者、关键词和地址链接。
-
 + [Must-read papers and continuous tracking on Graph Neural Network(GNN) progress](https://github.com/jdlc105/Must-read-papers-and-continuous-tracking-on-Graph-Neural-Network-GNN-progress/blob/master/README.md)：Github上的图神经网络必读论文和最新进展列表 
-
 + [Plato](https://github.com/tencent/plato)：腾讯开源的高性能图计算框架 Plato，据介绍，Plato 可满足十亿级节点的超大规模图计算需求，将算法计算时间从「天」级缩短到「分钟」级，性能全面领先于其它主流分布式图计算框架，并且打破了原本动辄需要数百台服务器的资源瓶颈。
-
 + [Machine Learning with Graphs](http://web.stanford.edu/class/cs224w/)：斯坦福大学的最新课程CS224W——图机器学习，主讲人是斯坦福大牛Jure Leskovec，他是斯坦福大学计算机学院的副教授，也是图表示学习方法 node2vec 和 GraphSAGE 作者之一。
-
 + [Graph-based deep learning literature](https://github.com/naganandy/graph-based-deep-learning-literature)：图深度学习的论文集
-
 + [Open Graph Benchmark](http://ogb.stanford.edu)：在 NeurlPS 2019 大会的图表示学习演讲中，Jure Leskovec 宣布开源图神经网络的通用性能评价基准数据集 OGB（Open Graph Benchmark）。通过这一数据集，可以更好地评估模型性能等方面的指标。[图表示学习演讲合集](https://slideslive.com/38921872/graph-representation-learning-3)。
-
 + [Deep Graph Library (DGL)](https://github.com/dmlc/dgl)：在现有DL框架的基础上构建的基于Pytorch的Python包，用于简化对图的深度学习,​推荐等级：:heart::heart::heart:！
-
 + [KDD-2019-Hands-on](https://github.com/dglai/KDD-2019-Hands-on)：KDD 2019 DGL 库教程
-
 + [Pytorch Geometric (PYG)](https://github.com/rusty1s/pytorch_geometric)：近几年来，图神经网络（GNN）在推荐系统、搜索引擎、计算机视觉等领域中都引起了较大的关注。Github有大量开源GNN实现，其中pytorch_geometric是最优秀的实现之一，曾被 Yann LeCun 推荐，GitHub上获:star:6k+，​推荐等级：:heart::heart::heart::heart:！
-
 + [TensorFlow Geometric (TFG)](https://github.com/CrawlScript/tf_geometric)：基于 Tensorflow 的高效友好的图神经网络库，受 [Pytorch Geometric](https://github.com/rusty1s/pytorch_geometric) 启发。一个新开始的项目。​推荐等级：:heart:!
-
 + [GraphEmbedding](https://github.com/shenweichen/GraphEmbedding)：GraphEmbedding 算法的实现库。
-
 + [StellarGraph](https://github.com/stellargraph/stellargraph)：使用tf2.x写的图机器学习算法实现库。
-
 + [Euler](https://github.com/alibaba/euler)：阿里妈妈开源大规模分布式图表征学习框架Euler，面向工业级用户和高级研究者，结合TF/XDL/PyTorch等深度学习基础工具，支持超大规模复杂异构图的模型训练。GitHub:star:2k+
-
 + [GDE](https://github.com/Zymrael/gde)：图神经常微分方程（Graph Neural Ordinary Differential Equations，GDE），GDE 模型的主要目的是，提供一种数据驱动的方法为结构化系统建模，特别是当这个动态过程是非线性时，更是难以用经典的分析方法进行建模。[论文 Graph Neural Ordinary Differential Equations](https://arxiv.org/abs/1911.07532)。
-
 + [Karate Club ](https://github.com/benedekrozemberczki/karateclub)：基于 NetworkX 的无监督图机器学习算法库，GitHub:star:300+。
-
 + [PyGSP](https://github.com/epfl-lts2/pygsp/tree/b7ca37c0f0eac7bb34167b6a7be0d2d5dbde7662)：Python 图信号处理库，GitHub:star:100+。
-
 + [Awesome GCN](https://github.com/Jiakui/awesome-gcn)：图卷积神经网络相关资源，GitHub:star:300+。
-
 + [Tf2 GNN](https://github.com/microsoft/tf2-gnn)：微软开源的图神经网络模型实现
-
 + [Spektral](https://github.com/danielegrattarola/spektral)：Spektral 是一个基于 Keras API 和 TensorFlow 2，用于图深度学习的开源 Python 库。该项目的主要目的是提供一个简单但又不失灵活性的图神经网络（graph neural networks，GNNs) 框架。推荐等级：:heart::heart::heart:！
-
 + [GNN papers](https://github.com/thunlp/GNNPapers)：图神经网络必读论文列表，GitHub:star:7.6k，推荐等级：:heart::heart::heart:！
-
 + [DeepGCN](https://github.com/WMF1997/DeepGCN)：GNN 的论文列表
-
 + [Graph-based NN](https://github.com/sungyongs/graph-based-nn)：总结关于基于图的神经网络和关系网络的重要资料，GitHub:star:700+。​推荐等级：:heart::heart::heart::heart:！
-
 + [LiteratureDL4Graph](https://github.com/DeepGraphLearning/LiteratureDL4Graph)：图深度学习论文，GitHub:star:2.5k，推荐等级：:heart::heart::heart::heart:！
-
 + [Graph Nets](https://github.com/dsgiitr/graph_nets)：PyTorch 实现的各种图模型代码，包括GCN, ChebyNet, GAT, GraphSAGE。[博客地址](https://dsgiitr.com/blogs/)。
-
 + [Transformers are Graph Neural Networks](https://graphdeeplearning.github.io/post/transformers-are-gnns/)：Transformer和GNN有什么关系？一开始可能并不明显。但是通过这篇文章，你会从GNN的角度看待Transformer的架构，对于原理有更清楚的认知。
-
 + [Benchmark GNNs](https://github.com/graphdeeplearning/benchmarking-gnns)：图神经网络 GNN-Benchmark，该框架为研究人员提供了方便地添加新数据集和模型的便利。作者团队：南洋理工大学&蒙特利尔大学（Bengio）等。推荐等级：:heart::heart::heart::heart:！
-
 + [TigerGraph](https://www.tigergraph.com/)：企业用唯一可伸缩的图形数据库，现在可以作为云数据库服务使用
-
 + [Graph Learn](https://github.com/alibaba/graph-learn)：阿里巴巴开源的简化 GNN 应用的新框架 Graph-Learn。该框架可从实际案例中提取解决方案，应用于推荐系统、反欺骗等多个领域。GL 的可移植性和灵活性对于开发者来说十分友好，在该框架的基础上，开发者可以更轻松地实现 GNN 算法、自定义与图相关的运算符，并且更轻松地拓展现有模块。Container 和物理机上都可以安装 GL。
-
 + [Igraph](https://igraph.org/)：igraph 是一组网络分析工具，集成了网络分析的诸多功能，可以在 R, Python, C/C+ 平台上使用。
-
 + [Python igraph](https://github.com/igraph/python-igraph)：用于 igraph 的Python接口
-
 + [WWW20 Hands on Tutorial](https://github.com/dglai/WWW20-Hands-on-Tutorial)：WWW2020 DGL深度图神经网络实战教程本教程的目标有两个。首先，它将概述GNN背后的理论，讨论GNN非常适合的问题类型，并介绍一些最广泛使用的GNN模型体系结构和设计用来解决的问题/应用程序。其次，它将引入深度图库(Deep Graph Library, DGL)，这是一种新的软件框架，简化了高效的基于GNN的训练和推理程序的开发。
-
 + [Graph Learn](https://github.com/alibaba/graph-learn)：阿里巴巴近期开源了面向图神经网络（GNN）的框架Graph-Learn。GL 面向工业场景而设计，为当下主流 GNN 算法提供了基础运行框架。GL 旨在降低 GNN 应用落地的成本，加速整个 GNN 生态的迭代。阿里内部早在几年前就开始了 GNN 相关的探索，从研究到实际落地积累了很多有价值的经验，把这些经验通过 GL 逐渐传递出来，希望能对相关从业者有所帮助。
-
 + [Advancements in Graph Neural Networks](https://static.aminer.cn/misc/pdf/graphsage2-mit-nov19.pdf)：图神经网络依然是研究焦点之一。最近在WWW2020的DL4G@WWW2020论坛，斯坦福大学Jure Leskovec副教授介绍了图神经网络研究最新进展，包括GNN表现力、预训练和公开图神经网络基准等。值得关注
-
 + [Graphkit Learn](https://github.com/jajupmochi/graphkit-learn)：一个用于 graph kernels, graph edit distances and graph pre-image problem 的 Python 库
-
 + [GraKeL](https://github.com/ysig/GraKeL)：一个用于 Graph kernels 的scikit-learn兼容库
-
 + [《Discrete regularity graph Laplacians》](http://helper.ipam.ucla.edu/publications/hjws4/hjws4_15794.pdf)：图机器学习-图拉普拉斯算子的离散正则性
-
 + [《Top Trends of Graph Machine Learning in 2020》](https://towardsdatascience.com/top-trends-of-graph-machine-learning-in-2020-1194175351a3)：2020图机器学习的趋势
-
 + [《Graph Neural Networks - Notes》](https://nihalnayak.github.io/assets/notes/gnn_notes.pdf)：一份简短入门《图神经网络GNN》笔记小册，作者Nihal Nayak
-
 + [《Graph-Neural-Network-Note》](https://github.com/SivilTaram/Graph-Neural-Network-Note)：一个理解图神经网络的博客，从图(Graph)到图卷积(Graph Convolution): 漫谈图神经网络
-
 + [《图卷积神经网络》][https://atcold.github.io/pytorch-Deep-Learning/en/week13/13-1/]：Yann Lecun在纽约大学开设的2020春季《深度学习》课程，干货满满。最新的一期是来自新加坡南洋理工大学的Xavier Bresson教授的图卷积神经网络课程，共76页PPT，非常硬核干货，讲述了GCN近年来的研究进展，包括经典卷积网络、谱图卷积网、 空间域图卷积网、GCN基准等。现在在课程网站上也放出来笔记，非常基础细致值得学习。
-
 + [《An introduction to machine learning on graphs》](https://conferences.oreilly.com/strata/strata-ny-2019/public/schedule/detail/76557)：《Introduction to graphs and machine learning》（《图机器学习导论》）为我们介绍了图机器学习的动机与发展，包括网络表示学习、图神经网络等图机器学习方法及其在问答、知识图谱等领域的应用。
-
 + [《Innovations in Graph Representation Learning 》](https://ai.googleblog.com/2019/06/innovations-in-graph-representation.html)：Google图挖掘团队的两位高级科学家Alessandro Epasto和Bryan Perozzi在Google AI Blog上发表的《Innovations in Graph Representation Learning》，介绍了最新的一些图表示学习成果
-
 + [《A Gentle Introduction to Deep Learning for Graphs》](https://arxiv.org/abs/1912.12693)：《A Gentle Introduction to Deep Learning for Graphs》是图深度学习领域的教程导论，它倾向于对主流概念和架构的一致和渐进的介绍，而不是对最新文献的阐述。教程在介绍概念和想法时采用了自上而下的方法并保留了清晰的历史观点，为此，导论在第2节中提供了图表示学习的泛化形式，将图表示学习泛化为一种基于局部和迭代的结构化信息处理过程。同时，介绍了架构路线图，整个导论也是围绕该路线图进行开展的。导论聚焦于面向局部和迭代的信息处理过程，因为这些过程与神经网络的体系更为一致。因此，导论会淡化那些基于图谱理论的全局方法（假设有一个固定的邻接矩阵）。
-
 + [《Deep Graph Similarity Learning: A Survey》](https://arxiv.org/abs/1912.11615)：在许多将数据表示为图形的领域中，学习图形之间的相似性度量标准被认为是一个关键问题，它可以进一步促进各种学习任务，例如分类，聚类和相似性搜索。最近，人们对深度图相似性学习越来越感兴趣，其中的主要思想是学习一种深度学习模型，该模型将输入图映射到目标空间，以使目标空间中的距离近似于输入空间中的结构距离。在这里，本文提供对深度图相似性学习的现有文献的全面回顾。本文为方法和应用提出了系统的分类法。最后，本文讨论该问题的挑战和未来方向。
-
 + [《Graph-Powered Machine Learning》](https://www.manning.com/books/graph-powered-machine-learning)：图驱动机器学习向您介绍图技术概念，强调图在机器学习和大数据平台中的作用。您将深入了解各种技术，包括数据源建模、算法设计、链接分析、分类和集群。在掌握核心概念之后，您将探索三个端到端项目，它们将演示体系结构、最佳设计实践、优化方法和常见缺陷。作者亚历山德罗·内格罗在构建基于图形的机器学习系统方面的丰富经验在每一章中都有所体现，你可以从他与真实客户合作的实例和具体场景中学习!
-
 + [《Deep Learning with Graph-Structured Representations》](https://pure.uva.nl/ws/files/46900201/Thesis.pdf)：图卷积网络（GCN）的作者 Thomas Kipf 公开了自己178页的博士论文，主题是「使用图结构表示的深度学习」，涵盖从图神经网络到结构发现等一系列深度学习热门话题，是他过去几年图神经网络方向研究的深度汇总。推荐等级：:heart::heart::heart::heart:！
-
 + [《The resurgence of structure in deep neural networks》](https://www.repository.cam.ac.uk/handle/1810/292230)：GAT作者Petar Veličković 剑桥大学博士论文《深层神经网络结构的复兴》。推荐等级：:heart::heart::heart::heart:！
-
 + [《Graph Representation Learning for Algorithmic Reasoning》](https://petar-v.com/talks/Algo-WWW.pdf)：一份来自 DeepMind 研究员、图注意力网络一作 Petar Veličković 在WWW'20 的演讲，为我们介绍了图表征学习在算法推理领域的研究进展。[演讲视频](https://www.youtube.com/watch?v=IPQ6CPoluok)
-
 + [《Graph theory and additive combinatorics》](http://yufeizhao.com/gtac/gtac.pdf)：《图论和加法组合学》的课程笔记，这是一门研究生水平的课程，由Yufei Zhao教授于2019年秋季在麻省理工学院讲授。课堂笔记是由学生根据课堂内容撰写的，并在教授的帮助下进行编辑。[课程网址](http://yufeizhao.com/gtac/)
-
 + [《Learning to Reason with Graph Neural Networks》](https://www.dropbox.com/s/frkdz4hqg36kjg6/GNN_Logic_WWW2.pdf?dl=0)：图神经网络推理。来自佐治亚理工学院和蚂蚁金服的Le Song给了关于图神经网络推理的精炼讲解。探讨了神经网络与广义网络的结合，并利用图神经网络进行广义网络的变分推理。
-
-  
++ [《Introduction to Graph Neural Networks》](https://booksc.xyz/book/81511304/da61a3)：2020新书《图神经网络导论》，清华大学刘知远和周杰老师著作。推荐等级：:heart::heart::heart::heart:！
 
 <a class="toc" id ="25"></a>
 
@@ -1458,7 +1405,7 @@ A curated list of awesome learning resources, blogs, books, videos and so on.
 + [Acronymify](http://acronymify.com/)：取名网站，只需在上面的框中输入您的单词，然后按search生成可能的缩写词列表。
 + [arXiv Vanity](https://www.arxiv-vanity.com/)：Vanity将来自arXiv的学术论文呈现为响应性网页，这样你就不用眯着眼睛看PDF了
 + [易搜搭](http://www.esoda.org/)：专业英文论文写作助手，只需要输入你想表达的中文句子，该网站会检索各种论文找出相似英文表达，使你的英文论文写作不再生硬，推荐等级：:heart::heart::heart::heart:！
-+ [Academic Phrasebank](http://www.phrasebank.manchester.ac.uk/)：对于写作新手来说的神器网站，里面按不同条目分类罗列了各种英语表达。推荐等级：:heart::heart::heart::heart:！
++ [Academic Phrasebank](http://www.phrasebank.manchester.ac.uk/)：对于写作新手来说的神器网站，按不同条目分类罗列了各种英语表达。推荐等级：:heart::heart::heart::heart:！
 + [Comparxiv](https://github.com/temken/comparxiv)：用一行代码比较 arXiv 预印版本论文之间的差异
 + [Conference List](http://www.conferencelist.info/upcoming.html)：计算机各领域会议的时间表
 + [AI Conference Deadlines ](https://aideadlin.es/?sub=ML,CV,NLP,RO,SP,DM)：查看各个AI顶会的 Deadline
@@ -1489,18 +1436,19 @@ A curated list of awesome learning resources, blogs, books, videos and so on.
 + [Netspeak](https://netspeak.org/)：帮助你搜索你还不知道的单词，论文写作好帮手之一。
 + [Microsoft Aim Writing](https://aka.ms/zuowen)：亚洲研究院研发升级了以前的作文打分功能，命名为“微软爱写作”（Microsoft Aim Writing）。从小学到到雅思托福的作文都可以改。
 + [《论文是怎样炼成的》](http://dblab.xmu.edu.cn/post/58/)：来自厦门大学林子雨博士的报告《论文是怎样炼成的》，共125页ppt，虽然快有十年之久，但里面干货经典，部分集成周志华老师的PPT 《如何做研究，如何写论文》，至今仍有重大价值。
++ [《Strategies for writing a research paper》](http://www.scielo.mec.pt/pdf/tms/v11n1/v11n1a01.pdf)：《科研论文撰写策略》
++ [《How we write rebuttals》](https://medium.com/@deviparikh/how-we-write-rebuttals-dc84742fece1)：怎么写 Rebuttal 才能让评审和领域主席心服口服？推荐等级：:heart::heart::heart::heart:！
++ [《Writing Tips for PhD Theses》](https://faculty.chicagobooth.edu/john.cochrane/research/papers/phd_paper_writing.pdf)：博士论文写作技巧
++ [《如何撰写毕业论文》](http://www.nlpr.ia.ac.cn/cip/ZongReportandLecture/Reports/2014.02.27%20Writing.pdf)：一篇来自中国科学院自动化研究所模式识别国家重点实验室宗成庆老师的报告《如何撰写毕业论文》，27页ppt，讲述了毕业论文要注意的各种要点，非常值得我们学习，帮助大家写出更好的论文。宗成庆老师个人主页：http://www.nlpr.ia.ac.cn/cip/english/zong.htm
 + [ACM Digital Library](https://dl.acm.org/)：ACM 数字图书馆，ACM（美国计算机协会）作为全球最大的计算机相关学会，每年都会出版大量计算机科学的专门期刊、举办国际顶会。
-+ [如何撰写毕业论文](http://www.nlpr.ia.ac.cn/cip/ZongReportandLecture/Reports/2014.02.27%20Writing.pdf)：一篇来自中国科学院自动化研究所模式识别国家重点实验室宗成庆老师的报告《如何撰写毕业论文》，27页ppt，讲述了毕业论文要注意的各种要点，非常值得我们学习，帮助大家写出更好的论文。宗成庆老师个人主页：http://www.nlpr.ia.ac.cn/cip/english/zong.htm
 + [ThuThesis](https://github.com/xueruini/thuthesis)：清华大学的毕业论文模板，它包含了完整的 LaTeX 文件，下载下来并修改内容后，一键就能生成标准的 PDF。该学位论文 LaTeX 模板，包括本科综合论文训练、硕士论文、博士论文以及博士后出站报告。GitHub:star:2.2k，推荐等级：:heart::heart::heart::heart:！
 + [ ThesisUESTC](https://github.com/x-magus/ThesisUESTC)：此项目提供用于排版电子科技大学毕业论文的LaTeX模板类，旨在帮助电子科技大学的毕业生高效地完成毕业论文的写作。模板提供各种方便的命令，自动化地排版论文的各个部分，使毕业论文轻易地满足学校的格式要求。为了支持更好的字体效果，模板基于XeLaTeX编写，并且放弃对CTeX的依赖，使模板更加稳定。
 + [Machine Learning for Big Code and Naturalness](https://ml4code.github.io/)：机器学习论文集代码列表大全
-+ [DeepL](https://www.deepl.com/translator)：最近超火的英文翻译软件——Deepl，简直吊打某度、某道、某歌，可能是这个世界上最好的翻译软件了。
++ [DeepL](https://www.deepl.com/translator)：最近超火的英文翻译软件——DeepL，简直吊打某度、某道、某歌，可能是这个世界上最好的翻译软件了。
 + [Quillbot](https://quillbot.com/)：QuillBot Article Rewriter 文章改写工具，经过重新措辞使句子比原始文本短，并且能够在没有引入任何语法错误的情况下保留文本的含义。
 + [REF-N-WRITE](https://www.ref-n-write.com/trial/scholarly-paraphrasing-tool-and-essay-rewriter/)：REF-N-WRITE提供适合于正在处理的文本的学术短语模板列表。这些短语模板是从高质量的科学期刊论文中提取的。该工具提供了许多写作思路，用户可以用来修改措辞并将文本修改为学术上可接受的格式。
 + [Paraphrasing Tool](https://paraphrasing-tool.com/)：Paraphrasing-tool是一种在线重述工具，允许用户重新编写文字和修改文章。Paraphrasing-tool的句子输出如上所示。该工具在动词和名词短语的改写方面做得很好，没有任何语法错误。不过某些技术性词语往往被不太常见的词语取代。
 + [CopyTranslator](https://github.com/CopyTranslator/CopyTranslator)：一款开源工具：CopyTranslator。这款工具的最大亮点，就是方便易用，你只需将文本复制到剪贴板，即可快速查看翻译结果，享受所见即所得的快感。工具作者是来自国内的开发者 Elliott Zheng，一开始鼓捣这个工具，主要是为了解决外文 PDF 在网页翻译时，会导致的多余换行和乱码问题。GitHub:star:7.9k​
-+ [How we write rebuttals](https://medium.com/@deviparikh/how-we-write-rebuttals-dc84742fece1)：怎么写 Rebuttal 才能让评审和领域主席心服口服？推荐等级：:heart::heart::heart::heart:！
-+ [Writing Tips for PhD Theses](https://faculty.chicagobooth.edu/john.cochrane/research/papers/phd_paper_writing.pdf)：博士论文写作技巧
 
 <a class="toc" id ="35"></a>
 
@@ -1785,5 +1733,5 @@ A curated list of awesome learning resources, blogs, books, videos and so on.
 
 <a class="toc" id ="41"></a>
 
-# Update (更新时间) 🕰 ：2020/06/14
+# Update (更新时间) 🕰 ：2020/06/15
 [🔙](#table-of-contents)
