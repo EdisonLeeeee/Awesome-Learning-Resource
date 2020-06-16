@@ -44,7 +44,7 @@ A curated list of awesome learning resources, blogs, books, videos and so on.
 + [Dataset (数据集)  📊](#38)
 + [Code-related Toolkit (代码工具) 💻](#39)
 + [Other Unsorted (其它) ❓](#40)
-+ [Update (更新时间) 🕰 ：2020/06/15](#41)
++ [Update (更新时间) 🕰 ：2020/06/16](#41)
 
 
 <a class="toc" id ="1"></a>
@@ -52,23 +52,44 @@ A curated list of awesome learning resources, blogs, books, videos and so on.
 [🔙](#table-of-contents)
 
 + [Git](https://git-scm.com/)：Git官方教程
+
 + [Git Book](https://git-scm.com/book/en/v2)：Git 官方教程电子书。[中文版Git Book链接](https://git-scm.com/book/zh/v2)
+
 + [Learn Git Branching](https://learngitbranching.js.org/)：一个用于学习 Git 的交互式学习网站，[GitHub](https://github.com/pcottle/learnGitBranching)上收获了:star:10k+
+
 + [Githug ](https://github.com/Gazler/githug)：它其实是一个命令行工具，但更多的人喜欢称它为一个 Git 游戏，被设计出来的目的是用来练习我们的 git 技能。但是Githug 是运行在 ruby 上的，所以你要装完Git再安装个 ruby[通关攻略](https://www.jianshu.com/p/482b32716bbe)。
+
 + [Flight rules for Git](https://github.com/k88hudson/git-flight-rules)：Flight rules for Git，翻译过来是 Git 飞行规则，而飞行规则是记录在手册上来之不易的一系列知识，记录了某个事情发生的原因，以及怎样一步步进行处理。因此该项目用于补足你解决问题的能力。除此以外，对一些学习 Git 方面比较好的书籍、教程等都有所推荐。GitHub:star:33.3k。推荐等级：:heart::heart::heart::heart:！
+
 + [猴子老师Git教程](https://backlog.com/git-tutorial/cn/intro/intro1_1.html)：号称猴子都能懂的Git入门教程
+
 + [廖雪峰Git教程](https://www.liaoxuefeng.com/wiki/896043488029600)：廖雪峰Git教程，号称史上最浅显易懂的Git教程
+
 + [Pro Git 第二版](http://bit.ly/2H7A7Lg)：这本书被誉为 Git 学习的圣经，作者是 Scott Chacon 和 Ben Straub。Scott Chacon 在 GitHub 工作，自称 Git 的布道者。你可以在网站上免费阅读这本书，也可以下载他们提供的电子版本
+
 + [git-recipes](http://bit.ly/2Z4jw0M)：童仲毅 (`geeeeeeeeek@github`) 对很多英文资料进行翻译、整理的集合教程。包含入门基础、进阶知识和应用范例。这些英文资料主要包括 GitHub 竞争者 Bitbucket 的 Git 教程
+
 + [Udacity Git 课程](http://bit.ly/2H5PZhi)：谷歌无人车之父 Sebastian Thrun 创办的 优达学城（Udacity）上面的 免费 Git 课程。这门课程由优达学城与 GitHub 共同制作，介绍进行版本控制的基础知识，重点讲解 Git 版本控制系统以及 GitHub 协作平台
+
 + [happypeter1983 的 Git 视频教程](http://bit.ly/2Z6rS87)：这份教程就更进阶了一些。讲到了一些高级命令的用法。当然还有其他学习资源。
+
 + [Oh shit, git!](http://ohshitgit.com/)：这个网站整理了一些 Git 新手在使用 Git 时常会遇到的各种突发状况，并贴心的给出了应对方案。
+
 + [Gitignore](https://github.com/github/gitignore)：GitHub 官方开源的一个项目，这个项目为开发者编写好特定的 `.gitignore` 规则，做成了模板。开发者只需选择好自己的项目类别，将文件内容复制粘贴放到自己项目里面就可以用了,在上面，你可以找到目前所有主流语言的 .gitignore 模板。[在线生成网站](http://gitignore.io/)
+
 + [Readme Md Generator](https://github.com/kefranabg/readme-md-generator)：一名来自法国的小哥因为饱受重复编写 README 文档的折磨，在 GitHub 上开源了 readme-md-generator 这个工具。从项目名字便可以知道，它一个 README 文档生成器。其主要作用是通过命令行抓取项目的 package.json 和 git 配置信息，自动完成 README 文档的编写操作，Github上已获:star:5k+
+
 + [Repository Templates](https://github.blog/2019-06-06-generate-new-repositories-with-repository-templates/)：为了避免开发者做一些无用的重复性工作，GitHub 发布的一个新功能 - 模板仓库（repository templates）。这个功能可以将以往创建过的仓库标记成模板（template），这样在你下一次创建仓库的时候，就可以使用这个模板功能，快速生成具有和原仓库一样的目录与文件内容，每个模板仓库在 URL 末端带上 /generate 后，还可以将模板仓库通过链接分享给其他人，其它人在打开链接之后，便可以快速通过这个模板来创建新仓库
+
 + [Standard Readme](https://github.com/RichardLitt/standard-readme)：由 RichardLitt 发起的项目，简单直白的告诉读者README 应该写哪些内容，应该如何排版等，GitHub:star:2.8k
+
 + [《Beginning Git and GitHub》](https://www.apress.com/gp/book/9781484253120)：Git与Github学习使用指南（Beginning Git and GitHub），[GitHub](https://github.com/Apress/beginning-git-and-github)
+
 + [CS Visualized: Useful Git Commands](https://dev.to/lydiahallie/cs-visualized-useful-git-commands-37p1)：git merge、git rebase、git reset、git revert、git fetch、git pull、git reflog……你知道这些 git 命令执行的究竟是什么任务吗？如果你还有些分不清楚，那千万不能错过这篇文章。在本文中，熟知 JavaScript、TypeScript、GraphQL、Serverless、AWS、Docker 和 Golang 的 21 岁年轻软件顾问 Lydia Hallie 通过动图形式直观地介绍了这些常用 git 命令的工作过程，包你过目不忘。
+
++ [Git Draw](https://github.com/ben174/git-draw)：允许自定义绘制 github热图的项目，GitHub:star:2k​
+
++ [Gitfiti](https://github.com/gelstudios/gitfiti)：自定义GitHub热图，GitHub:star:5.8k​
 
   
 
@@ -583,6 +604,7 @@ A curated list of awesome learning resources, blogs, books, videos and so on.
 + [BeginnersBook](https://beginnersbook.com/)：这个网站上面包含了很多编程语言的免费教程，文档写得通俗易懂，也有很多代码练习，可以直接跟着练。
 + [LeetCode](https://leetcode-cn.com/)：正所谓 「熟刷习题三百道，不会做题也会吹」 说的是数据结构和算法刷题的重要性，那么刷题上哪里刷呢？LeetCode无疑是最好的选择之一。推荐等级：:heart::heart::heart::heart:！
 + [LintCode](https://www.lintcode.com/)：LintCode和LeetCode类似，也是一个刷题的OJ网站，而且还提供闯关式的阶梯训练以及国内外知名大厂的笔试面试真题。
++ [Awesome Time Series](https://github.com/cuge1995/awesome-time-series)：时间序列预测相关的比赛、论文、会议、代码、理论资源以及数据集
 
 
 
@@ -932,9 +954,10 @@ A curated list of awesome learning resources, blogs, books, videos and so on.
 + [Determined AI](https://determined.ai/developers/)：这款深度学习训练平台，是由多年从事实践领域的专家，耗费三年时间构建完成的，他们的目标是帮助深度学习团队更快地训练模型，轻松共享GPU资源并有效协作。Determined使深度学习工程师可以集中精力大规模构建和训练模型，而无需担心DevOps，或者为常见任务（如容错或实验跟踪）编写代码。
 + [fitlog](https://github.com/fastnlp/fitlog)：fitlog是一款在深度学习训练中用于辅助用户记录日志和管理代码的工具，由复旦大学邱锡鹏教授的实验室出品。[中文文档](https://fitlog.readthedocs.io/zh/latest/)
 + [Runx](https://github.com/NVIDIA/runx)：NVIDIA 推出的一款专门用于记录深度学习调 (lian) 参 (dan) 的工具，用来方便深度炼丹师记录各种实验数据。
-
++ [CVPR 2020 Tutorial](https://hangzhang.org/CVPR2020/)：CVPR 2020 Tutorial：自动化深度学习教程和介绍，推荐等级：:heart::heart:!​
 
 <a class="toc" id ="21"></a>
+
 # Computer Vision (计算机视觉) 👁
 [🔙](#table-of-contents)
 
@@ -1465,6 +1488,7 @@ A curated list of awesome learning resources, blogs, books, videos and so on.
 + [Data-Science-Competitions](https://github.com/interviewBubble/Data-Science-Competitions)：一份kaggle竞赛的解决方案，集锦，汇集了多项回归、分类、时序分析、推荐系统、信号处理、语义分割等任务。
 + [CDCS](https://github.com/geekinglcq/CDCS)：CDCS 中国数据竞赛优胜解集锦，GitHub:star:1.6k
 + [AutoDL](https://github.com/DeepWisdom/AutoDL)：NeurIPS-AutoDL 总决赛冠军解决方案，开源代码基于 Full-AutoML 系统自动设计出的共性解并加以改造
++ [kaggle-CrowdFlower](https://github.com/ChenglongChen/kaggle-CrowdFlower)：Kaggle 搜索结果相关性比赛第一名解决方案
 
 
 <a class="toc" id ="36"></a>
@@ -1496,6 +1520,7 @@ A curated list of awesome learning resources, blogs, books, videos and so on.
 + [Portableapps](https://portableapps.com/)：软件下载网站
 + [BaiduPCS-Go](https://github.com/iikira/BaiduPCS-Go/)：百度网盘客户端 - Go语言编写，支持Windows、Mac、Linux、Android、iOS五大系统，可在命令行操作百度云。GitHub:star:23.9k​
 + [Baidupcs-web](https://github.com/liuzhuoling2011/baidupcs-web)：基于BaiduPCS-Go, 可以让你高效的使用百度云，GitHub:star:6.4k
++ [magnetW](https://github.com/xiandanin/magnetW)：磁力链接聚合搜索，支持在 Windows 与 macOS 上运行，可以用来寻找电影资源。GitHub:star:8.4k
 
 
 
@@ -1733,5 +1758,5 @@ A curated list of awesome learning resources, blogs, books, videos and so on.
 
 <a class="toc" id ="41"></a>
 
-# Update (更新时间) 🕰 ：2020/06/15
+# Update (更新时间) 🕰 ：2020/06/16
 [🔙](#table-of-contents)
