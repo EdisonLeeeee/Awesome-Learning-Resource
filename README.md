@@ -44,7 +44,7 @@ A curated list of awesome learning resources, blogs, books, videos and so on.
 + [Dataset (数据集)  📊](#38)
 + [Code-related Toolkit (代码工具) 💻](#39)
 + [Other Unsorted (其它) ❓](#40)
-+ [Update (更新时间) 🕰 ：2020/06/16](#41)
++ [Update (更新时间) 🕰 ：2020/06/17](#41)
 
 
 <a class="toc" id ="1"></a>
@@ -1090,6 +1090,7 @@ A curated list of awesome learning resources, blogs, books, videos and so on.
 + [《Graph theory and additive combinatorics》](http://yufeizhao.com/gtac/gtac.pdf)：《图论和加法组合学》的课程笔记，这是一门研究生水平的课程，由Yufei Zhao教授于2019年秋季在麻省理工学院讲授。课堂笔记是由学生根据课堂内容撰写的，并在教授的帮助下进行编辑。[课程网址](http://yufeizhao.com/gtac/)
 + [《Learning to Reason with Graph Neural Networks》](https://www.dropbox.com/s/frkdz4hqg36kjg6/GNN_Logic_WWW2.pdf?dl=0)：图神经网络推理。来自佐治亚理工学院和蚂蚁金服的Le Song给了关于图神经网络推理的精炼讲解。探讨了神经网络与广义网络的结合，并利用图神经网络进行广义网络的变分推理。
 + [《Introduction to Graph Neural Networks》](https://booksc.xyz/book/81511304/da61a3)：2020新书《图神经网络导论》，清华大学刘知远和周杰老师著作。推荐等级：:heart::heart::heart::heart:！
++ [Learning Representations via Graph-structured Networks](https://xiaolonw.github.io/graphnnv2/)：CVPR2020-Tutorial，视觉的图网络结构表示学习
 
 <a class="toc" id ="25"></a>
 
@@ -1463,6 +1464,7 @@ A curated list of awesome learning resources, blogs, books, videos and so on.
 + [《How we write rebuttals》](https://medium.com/@deviparikh/how-we-write-rebuttals-dc84742fece1)：怎么写 Rebuttal 才能让评审和领域主席心服口服？推荐等级：:heart::heart::heart::heart:！
 + [《Writing Tips for PhD Theses》](https://faculty.chicagobooth.edu/john.cochrane/research/papers/phd_paper_writing.pdf)：博士论文写作技巧
 + [《如何撰写毕业论文》](http://www.nlpr.ia.ac.cn/cip/ZongReportandLecture/Reports/2014.02.27%20Writing.pdf)：一篇来自中国科学院自动化研究所模式识别国家重点实验室宗成庆老师的报告《如何撰写毕业论文》，27页ppt，讲述了毕业论文要注意的各种要点，非常值得我们学习，帮助大家写出更好的论文。宗成庆老师个人主页：http://www.nlpr.ia.ac.cn/cip/english/zong.htm
++ [How to write a good review?](https://sites.google.com/view/making-reviews-great-again/)：如何写好一篇论文？CVPR2020的Workshop的举办了“How to write a good review?”，重点讲解。MIT计算机大牛Bill Freeman教授关于国际会议如何组织、筛选paper以及写好一篇顶级会议论文的PPT。文中还列举了关于论文写作的若干实用资源。Freeman教授表示一篇高质量论文是要经过多次修改才能写成的，重点在于开始。
 + [ACM Digital Library](https://dl.acm.org/)：ACM 数字图书馆，ACM（美国计算机协会）作为全球最大的计算机相关学会，每年都会出版大量计算机科学的专门期刊、举办国际顶会。
 + [ThuThesis](https://github.com/xueruini/thuthesis)：清华大学的毕业论文模板，它包含了完整的 LaTeX 文件，下载下来并修改内容后，一键就能生成标准的 PDF。该学位论文 LaTeX 模板，包括本科综合论文训练、硕士论文、博士论文以及博士后出站报告。GitHub:star:2.2k，推荐等级：:heart::heart::heart::heart:！
 + [ ThesisUESTC](https://github.com/x-magus/ThesisUESTC)：此项目提供用于排版电子科技大学毕业论文的LaTeX模板类，旨在帮助电子科技大学的毕业生高效地完成毕业论文的写作。模板提供各种方便的命令，自动化地排版论文的各个部分，使毕业论文轻易地满足学校的格式要求。为了支持更好的字体效果，模板基于XeLaTeX编写，并且放弃对CTeX的依赖，使模板更加稳定。
@@ -1758,5 +1760,5 @@ A curated list of awesome learning resources, blogs, books, videos and so on.
 
 <a class="toc" id ="41"></a>
 
-# Update (更新时间) 🕰 ：2020/06/16
+# Update (更新时间) 🕰 ：2020/06/17
 [🔙](#table-of-contents)
