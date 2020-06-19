@@ -47,50 +47,31 @@ Awesome lists about all kinds of interesting topics.
 + [Dataset (数据集)  📊](#40)
 + [Coding Toolkit (代码工具) 💻](#41)
 + [Others (其它) ❓](#42)
-+ [Update (更新时间) 🕰 ：2020/06/17](#43)
++ [Update (更新时间) 🕰 ：2020/06/19](#43)
 
 
 # Git 👬
 [🔙](#table-of-contents)
 
 + [Git](https://git-scm.com/)：Git官方教程
-
 + [Git Book](https://git-scm.com/book/en/v2)：Git 官方教程电子书。[中文版Git Book链接](https://git-scm.com/book/zh/v2)
-
 + [Learn Git Branching](https://learngitbranching.js.org/)：一个用于学习 Git 的交互式学习网站，[GitHub](https://github.com/pcottle/learnGitBranching)上收获了:star:10k+
-
 + [Githug ](https://github.com/Gazler/githug)：它其实是一个命令行工具，但更多的人喜欢称它为一个 Git 游戏，被设计出来的目的是用来练习我们的 git 技能。但是Githug 是运行在 ruby 上的，所以你要装完Git再安装个 ruby[通关攻略](https://www.jianshu.com/p/482b32716bbe)。
-
 + [Flight rules for Git](https://github.com/k88hudson/git-flight-rules)：Flight rules for Git，翻译过来是 Git 飞行规则，而飞行规则是记录在手册上来之不易的一系列知识，记录了某个事情发生的原因，以及怎样一步步进行处理。因此该项目用于补足你解决问题的能力。除此以外，对一些学习 Git 方面比较好的书籍、教程等都有所推荐。GitHub:star:33.3k。推荐等级：:heart::heart::heart::heart:！
-
 + [猴子老师Git教程](https://backlog.com/git-tutorial/cn/intro/intro1_1.html)：号称猴子都能懂的Git入门教程
-
 + [廖雪峰Git教程](https://www.liaoxuefeng.com/wiki/896043488029600)：廖雪峰Git教程，号称史上最浅显易懂的Git教程
-
 + [Pro Git 第二版](http://bit.ly/2H7A7Lg)：这本书被誉为 Git 学习的圣经，作者是 Scott Chacon 和 Ben Straub。Scott Chacon 在 GitHub 工作，自称 Git 的布道者。你可以在网站上免费阅读这本书，也可以下载他们提供的电子版本
-
 + [git-recipes](http://bit.ly/2Z4jw0M)：童仲毅 (`geeeeeeeeek@github`) 对很多英文资料进行翻译、整理的集合教程。包含入门基础、进阶知识和应用范例。这些英文资料主要包括 GitHub 竞争者 Bitbucket 的 Git 教程
-
 + [Udacity Git 课程](http://bit.ly/2H5PZhi)：谷歌无人车之父 Sebastian Thrun 创办的 优达学城（Udacity）上面的 免费 Git 课程。这门课程由优达学城与 GitHub 共同制作，介绍进行版本控制的基础知识，重点讲解 Git 版本控制系统以及 GitHub 协作平台
-
 + [happypeter1983 的 Git 视频教程](http://bit.ly/2Z6rS87)：这份教程就更进阶了一些。讲到了一些高级命令的用法。当然还有其他学习资源。
-
 + [Oh shit, git!](http://ohshitgit.com/)：这个网站整理了一些 Git 新手在使用 Git 时常会遇到的各种突发状况，并贴心的给出了应对方案。
-
 + [Gitignore](https://github.com/github/gitignore)：GitHub 官方开源的一个项目，这个项目为开发者编写好特定的 `.gitignore` 规则，做成了模板。开发者只需选择好自己的项目类别，将文件内容复制粘贴放到自己项目里面就可以用了,在上面，你可以找到目前所有主流语言的 .gitignore 模板。[在线生成网站](http://gitignore.io/)
-
 + [Readme Md Generator](https://github.com/kefranabg/readme-md-generator)：一名来自法国的小哥因为饱受重复编写 README 文档的折磨，在 GitHub 上开源了 readme-md-generator 这个工具。从项目名字便可以知道，它一个 README 文档生成器。其主要作用是通过命令行抓取项目的 package.json 和 git 配置信息，自动完成 README 文档的编写操作，Github上已获:star:5k+
-
 + [Repository Templates](https://github.blog/2019-06-06-generate-new-repositories-with-repository-templates/)：为了避免开发者做一些无用的重复性工作，GitHub 发布的一个新功能 - 模板仓库（repository templates）。这个功能可以将以往创建过的仓库标记成模板（template），这样在你下一次创建仓库的时候，就可以使用这个模板功能，快速生成具有和原仓库一样的目录与文件内容，每个模板仓库在 URL 末端带上 /generate 后，还可以将模板仓库通过链接分享给其他人，其它人在打开链接之后，便可以快速通过这个模板来创建新仓库
-
 + [Standard Readme](https://github.com/RichardLitt/standard-readme)：由 RichardLitt 发起的项目，简单直白的告诉读者README 应该写哪些内容，应该如何排版等，GitHub:star:2.8k
-
 + [《Beginning Git and GitHub》](https://www.apress.com/gp/book/9781484253120)：Git与Github学习使用指南（Beginning Git and GitHub），[GitHub](https://github.com/Apress/beginning-git-and-github)
-
 + [CS Visualized: Useful Git Commands](https://dev.to/lydiahallie/cs-visualized-useful-git-commands-37p1)：git merge、git rebase、git reset、git revert、git fetch、git pull、git reflog……你知道这些 git 命令执行的究竟是什么任务吗？如果你还有些分不清楚，那千万不能错过这篇文章。在本文中，熟知 JavaScript、TypeScript、GraphQL、Serverless、AWS、Docker 和 Golang 的 21 岁年轻软件顾问 Lydia Hallie 通过动图形式直观地介绍了这些常用 git 命令的工作过程，包你过目不忘。
-
 + [Git Draw](https://github.com/ben174/git-draw)：允许自定义绘制 github热图的项目，GitHub:star:2k​
-
 + [Gitfiti](https://github.com/gelstudios/gitfiti)：自定义GitHub热图，GitHub:star:5.8k​
 + [Git Commit emoji](https://github.com/liuchengxu/git-commit-emoji-cn)：执行 git commit 时使用 emoji 为本次提交打上一个 "标签", 使得此次 commit 的主要工作得以凸现，也能够使得其在整个提交历史中易于区分与查找。GitHub:star:1.5k
 
@@ -1788,5 +1769,5 @@ Awesome lists about all kinds of interesting topics.
 
 
 <a class="toc" id ="43"></a>
-# Update (更新时间) 🕰 ：2020/06/17
+# Update (更新时间) 🕰 ：2020/06/19
 [🔙](#table-of-contents)
