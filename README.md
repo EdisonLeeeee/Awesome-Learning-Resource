@@ -1,6 +1,4 @@
-# Awesome Learning Resources :heart:😎
-[![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
-Awesome lists about all kinds of interesting topics.
+# Awesome Learning Resources :heart:😎 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
 <a class="toc" id="table-of-contents"></a>
 
@@ -12,44 +10,46 @@ Awesome lists about all kinds of interesting topics.
 + [Math (数学) 📐](#5)
 + [Algorithm (算法) 💡](#6)
 + [CheatSheets (速查表) 📑](#7)
-+ [Courses (学习课程) 🎓](#8)
-+ [Books (书籍资料) 📚](#9)
-+ [Visualization (可视化) 👀](#10)
-+ [Tutorials & Blogs (教程博客) 🗨](#11)
-+ [Learning (Resource) Websites (学习资源网站) 💻](#12)
-+ [Learn by Game (寓教于乐) 👾](#13)
-+ [C/C++ Learning (C/C++ 学习) 🇨🇱](#14)
-+ [Go Learning (Go 学习) 🇬🇱](#15)
-+ [Jupyter Notebook 📔](#16)
-+ [Python Learning (Python 学习) 🐍](#17)
-+ [Python Projects (Python 项目) 👨‍💻](#18)
-+ [Python Crawler (Python 爬虫) 🕷](#19)
-+ [Machine Learning (机器学习) 🤖](#20)
-+ [Auto Machine Learning (自动机器学习) 🔧](#21)
-+ [Computer Vision (计算机视觉) 👁](#22)
-+ [Reinforcement Learning (强化学习) 💪](#23)
-+ [Recommender System (推荐系统) 🎞](#24)
-+ [Graph Learning (图学习) 🗺](#25)
-+ [Generative Adversarial Networks (GANs) 🤜 🤛](#26)
-+ [Adversarial Attack and Defense (对抗攻防)⚔🛡](#27)
-+ [Model Compression (模型压缩) ⚙](#28)
-+ [Object Detection (目标检测) 🔎](#29)
-+ [TensorFlow Learning (TensorFlow 学习) 🇹🇫](#30)
-+ [Keras Learning (Keras 学习) 🇰🇷](#31)
-+ [PyTorch Learning (PyTorch 学习) 🇵🇹](#32)
-+ [English Learning (英语学习) 🗣](#33)
-+ [Papers With Codes (开源论文) 🔖](#34)
-+ [Paper-Related (论文相关) 📝](#35)
-+ [Competition (比赛项目) 🏇](#36)
-+ [Download (下载) 📥](#37)
-+ [Software/Application (软件/应用) 🌈 ](#38)
-+ [Jobs & Interview (工作面试) 💼](#39)
-+ [Dataset (数据集)  📊](#40)
-+ [Coding Toolkit (代码工具) 💻](#41)
-+ [Others (其它) ❓](#42)
-+ [Update (更新时间) 🕰 ：2020/06/19](#43)
++ [Awesome ✨](#8)
++ [Courses (学习课程) 🎓](#9)
++ [Books (书籍资料) 📚](#10)
++ [Visualization (可视化) 👀](#11)
++ [Tutorials & Blogs (教程博客) 🗨](#12)
++ [Learning (Resource) Websites (学习资源网站) 💻](#13)
++ [Learn by Game (寓教于乐) 👾](#14)
++ [C/C++ Learning (C/C++ 学习) 🇨🇱](#15)
++ [Go Learning (Go 学习) 🇬🇱](#16)
++ [Jupyter Notebook 📔](#17)
++ [Python Learning (Python 学习) 🐍](#18)
++ [Python Projects (Python 项目) 👨‍💻](#19)
++ [Python Crawler (Python 爬虫) 🕷](#20)
++ [Machine Learning (机器学习) 🤖](#21)
++ [Auto Machine Learning (自动机器学习) 🔧](#22)
++ [Computer Vision (计算机视觉) 👁](#23)
++ [Reinforcement Learning (强化学习) 💪](#24)
++ [Recommender System (推荐系统) 🎞](#25)
++ [Graph Learning (图学习) 🗺](#26)
++ [Generative Adversarial Networks (GANs) 🤜 🤛](#27)
++ [Adversarial Attack and Defense (对抗攻防)⚔🛡](#28)
++ [Model Compression (模型压缩) ⚙](#29)
++ [Object Detection (目标检测) 🔎](#30)
++ [TensorFlow Learning (TensorFlow 学习) 🇹🇫](#31)
++ [Keras Learning (Keras 学习) 🇰🇷](#32)
++ [PyTorch Learning (PyTorch 学习) 🇵🇹](#33)
++ [English Learning (英语学习) 🗣](#34)
++ [Papers With Codes (开源论文) 🔖](#35)
++ [Paper-Related (论文相关) 📝](#36)
++ [Competition (比赛项目) 🏇](#37)
++ [Download (下载) 📥](#38)
++ [Software/Application (软件/应用) 🌈 ](#39)
++ [Jobs & Interview (工作面试) 💼](#40)
++ [Dataset (数据集)  📊](#41)
++ [Coding Toolkit (代码工具) 💻](#42)
++ [Others (其它) ❓](#43)
++ [Update (更新时间) 🕰 ：2020/06/21](#44)
 
 
+<a class="toc" id ="1"></a>
 # Git 👬
 [🔙](#table-of-contents)
 
@@ -92,6 +92,7 @@ Awesome lists about all kinds of interesting topics.
 + [GitHub 帮助](https://help.github.com/cn#dotcom)：GitHub官方中文帮助文档，全球最大的开源网站GitHub是每个程序员必须接触的，学习它的使用百利而无一害，同时也适合学习Git
 + [GitHub Help](https://help.github.com/en)：GitHub官方英文帮助文档，由于中文文档是从英文文档翻译而来，可能有些内容不是最新，英语好的人应该看英文文档，才能实时获取最新内容
 + [emoji markup](https://gist.github.com/rxaviers/7360908)：GitHub emoji 表情大全，GitHub:star:7.5k
++ [Super Linter](https://github.com/github/super-linter)：GitHub Services DevOps Engineering 团队正式开源了一个代码库：Super Linter。当你把这个代码库搭配 GitHub Actions 一同使用后，便可保证代码风格与文档的一致性。如此一来，就能极大降低代码审查成本，顺带提升整个项目的代码质量。这款插件主要具备以下几项核心功能：防止将破坏性代码上传到主分支；构建多种语言的编码最佳实践；构建代码布局与代码格式指南；自动化流程，简化代码审查工作。GitHub:star:3.2k​
 + [GitHub Protips: Tips, tricks, hacks, and secrets from Lee Reilly](https://github.blog/2020-04-09-github-protips-tips-tricks-hacks-and-secrets-from-lee-reilly/?utm_source=wechat_session&utm_medium=social&utm_oi=986032804718800896#9-a-numbers-game)：GitHub 使用提示、技巧、黑科技和秘密
 + [MkDocs](https://github.com/mkdocs/mkdocs)：可用于快速创建项目文档的开源神器：MkDocs。该项目创建自 2014 年，目前 GitHub 上参与维护开发，给项目提交贡献的开发者，共有 100 多名，这款工具希望能帮助开发者以更加快速、便捷的方式来创建项目文档，并为其生成更加简洁直观的静态站点。开发者还贴心的针对国内开发者提供了[中文文档](https://markdown-docs-zh.readthedocs.io/zh_CN/latest/)。GitHub:star:10.1k。推荐等级：:heart::heart::heart::heart:！
 + [GitHub Cli](https://cli.github.com/)：GitHub 官方新发布了新命令行工具「GitHub CLI」，该工具能无缝对接 GitHub，把 GitHub 的操作体验，都搬到命令行中。[开源地址](https://github.com/cli/cli)，目前GitHub:star:5k+。
@@ -260,11 +261,53 @@ Awesome lists about all kinds of interesting topics.
 
 
 <a class="toc" id ="8"></a>
+# Awesome ✨
+[🔙](#table-of-contents)
+
++ [Awesome](https://github.com/sindresorhus/awesome)：github 上很多的各种 Awesome 系列合集。GitHub 获:star:120k。众所周知，如果想要学习什么知识，只需要在GitHub上搜索"Awesome xxx" 即可获得一大堆相关的学习资源。推荐等级：:heart::heart::heart::heart:！
++ [Awesome JupyterLab](https://github.com/mauhai/awesome-jupyterlab)：Jupyter lab 插件和资源大全列表，GitHub::star:1k。
++ [Awesome Jupyter](https://github.com/adebar/awesome-jupyter)：Jupyter 插件和资源大全列表，GitHub::star:1.4k。
++ [Awesome Machine Learning Jupyter Notebooks For Colab](https://github.com/toxtli/awesome-machine-learning-jupyter-notebooks-for-colab)：机器学习和深度学习教程的列表，以Jupyter笔记本格式运行在谷歌Colab上，推荐等级：:heart::heart:！
++ [Awesome Python cn](https://github.com/jobbole/awesome-python-cn)：Python资源大全中文版，包括：Web框架、网络爬虫、模板引擎、数据库、数据可视化、图片处理等，由伯乐在线持续更新。GitHub:star:15k，推荐等级：:heart::heart::heart:！
++ [Awesome Python](https://github.com/vinta/awesome-python)：一个很棒的Python框架、库、软件和资源的列表，GitHub :star:78k。推荐等级:heart::heart::heart::heart:!
++ [Awesome Python in Education](https://github.com/quobit/awesome-python-in-education#jupyter)：关于Python的学习资源列表。
++ [Awesome Python Applications](https://github.com/mahmoud/awesome-python-applications)：181 个 Python 开源项目，涵盖了 15 个领域。GitHub:star:10.8k，推荐等级:heart::heart::heart::heart:!
++ [Awesome Spider](https://github.com/facert/awesome-spider)：GitHub上:star:8k+的项目，收集了各种爬虫的Python实现代码，推荐等级：:heart::heart::heart:！
++ [Awesome Knowledge Distillation](https://github.com/dkozlov/awesome-knowledge-distillation)：作为模型压缩的一种方法，知识蒸馏能够利用已经训练的一个较复杂的模型，来指导一个较轻量的模型训练，从而在减小模型大小和计算资源的同时，尽量保持原始大模型的准确率的方法。Github上的dkozlov同学，整理了Knowledge Distilling的paper、教程、代码，看完这些资料，你一定有所收获
++ [Awesome Machine Learning cn](https://github.com/jobbole/awesome-machine-learning-cn)：机器学习资源大全中文版，包括机器学习领域的框架、库以及软件。GitHub:star:3k
++ [Awesome Time Series](https://github.com/cuge1995/awesome-time-series)：时间序列预测相关的比赛、论文、会议、代码、理论资源以及数据集
++ [AwesomeCV](https://github.com/ahong007007/awesomeCV)：记录state-of-art计算机视觉相关论文。
++ [Awesome Reinforcement Learning](https://github.com/aikorea/awesome-rl)：强化学习资源大全，Github:star:5k+，推荐等级：:heart::heart::heart:！
++ [Awesome Graph Classification](https://github.com/benedekrozemberczki/awesome-graph-classification)：这是一个野心勃勃的项目，涵盖了从深度学习、图形内核、到统计指纹和分解等领域的优秀论文以及对应的Python实现，作者表示会持续更新。GitHub :star:2k+。
++ [Awesome Network Embedding](https://github.com/chihming/awesome-network-embedding)：关于 Network Embedding 的相关论文合集，GitHub :star:2k。
++ [Awesome Graph Neural Networks](https://github.com/nnzhan/Awesome-Graph-Neural-Networks)：GNN相关论文列表。
++ [Awesome GCN](https://github.com/Jiakui/awesome-gcn)：图卷积神经网络相关资源，GitHub:star:300+。
++ [Awesome Fraud Detection Research Papers](https://github.com/benedekrozemberczki/awesome-fraud-detection-papers)：关于欺诈检测的数据挖掘论文的整理列表
++ [Awesome Graph Attack Papers](https://github.com/ChandlerBang/awesome-graph-attack-papers)：图神经网络攻防论文集合
++ [Awesome-model-compression-and-acceleration](https://github.com/memoiry/Awesome-model-compression-and-acceleration)：模型压缩论文大全，GitHub:star:467​
++ [Awesome Knowledge Distillation](https://github.com/dkozlov/awesome-knowledge-distillation)：作为模型压缩的一种方法，知识蒸馏能够利用已经训练的一个较复杂的模型，来指导一个较轻量的模型训练，从而在减小模型大小和计算资源的同时，尽量保持原始大模型的准确率的方法。Github上的dkozlov同学，整理了Knowledge Distilling的paper、教程、代码，看完这些资料，你一定有所收获
++ [Awesome TensorFlow](https://github.com/jtoy/awesome-tensorflow)：TensorFlow中的教程和 ML 项目的集合，GitHub:star:14k
++ [Awesome Tensorflow 2](https://github.com/Amin-Tgz/awesome-tensorflow-2)：Tensorflow 2.x资源，如教程，博客，代码和视频。推荐等级：:heart::heart::heart::heart:！
++ [Awesome Pytorch list](https://github.com/bharathgs/Awesome-pytorch-list)：GitHub上一个:star:9k+的项目，收集了GitHub上PyTorch相关内容以及不同的模型实现、帮助文档、教程，使用PyTorch的学习。[中文版](https://github.com/xavier-zy/Awesome-pytorch-list-CNVersion)。推荐等级：:heart::heart::heart::heart:！
++ [Awesome Papers](https://github.com/murufeng/awesome-papers)：机器学习，深度学习，自然语言处理，计算机视觉方面的顶级期刊会议论文集
++ [Awesome Windows](https://github.com/Awesome-Windows/Awesome/blob/master/README-cn.md)：GitHub上:star:9k+的项目，收列了Windows上优质&精选的最佳应用程序及工具
++ [Awesome Macos](https://github.com/iCHAIT/awesome-macOS)：GitHub上:star:9k+的项目，为macOS整理了一份很棒的应用程序、软件、工具和亮点的列表
++ [Awesome Google Colab](https://github.com/firmai/awesome-google-colab)：GitHub上的一个新项目，Colab资源汇总。作者还自己建了[非官方的colab网站](https://www.google-colab.com/)，收集了大量学习资源。同时上面还有很多GitHub相关[技术教程汇总](https://www.google-colab.com/github/)。推荐等级：:heart::heart::heart:！
++ [Awesome-algorithm-interview](https://github.com/lcylmhlcy/Awesome-algorithm-interview)：算法工程师(人工智能cv方向)面试问题及相关资料的网站收集
++ [Awesome Interview Questions](https://github.com/MaximAbramchuck/awesome-interview-questions)：这个精选的面试题库不仅全，而且对提交的面试题会进行审核，并且会不定期对链接进行审核，提剔除失效链接，GitHub:star:30k+。推荐等级：:heart::heart::heart:！
++ [Awesom Public Datasets](https://github.com/awesomedata/awesome-public-datasets)：本数据集列表中，按主题整理了大量的数据集内容，例如：生物学、经济学、教育等。其中列出的大多数数据集都是免费的，但在使用任何数据集之前，均需检查数据集的许可要求。
++ [Awesome-Cybersecurity-Datasets](https://github.com/shramos/Awesome-Cybersecurity-Datasets#network-traffic)：网络安全数据集列表大全。
++ [Fontawesome](https://fontawesome.com/)：字体和图标库，[GitHub](https://github.com/FortAwesome/Font-Awesome):star:66k+。
++ [Awesome Linux](https://github.com/aleksandar-todorovic/awesome-linux)：一份让Linux变得更棒的项目和资源列表。
++ [Awesome shell](https://github.com/alebcay/awesome-shell)：一份精心组织的命令行工具及资源的列表。
++ [Awesome osx command line](https://github.com/herrbischoff/awesome-osx-command-line)：一份针对 OS X 命令行的更深入的指南。
+
+
+<a class="toc" id ="9"></a>
 # Courses (学习课程) 🎓
 [🔙](#table-of-contents)
 
 + [CS231n: Convolutional Neural Networks for Visual Recognition](http://cs231n.github.io/)：斯坦福CS课程CS231：卷积网络视觉识别笔记
-+ [Awesome](https://github.com/sindresorhus/awesome)：github 上很多的各种 Awesome 系列合集。GitHub 获:star:120k。众所周知，如果想要学习什么知识，只需要在GitHub上搜索"Awesome xxx" 即可获得一大堆相关的学习资源。推荐等级：:heart::heart::heart::heart:！
 + [计算机科学速成课](https://github.com/1c7/crash-course-computer-science-chinese)：翻译自[Youtube](https://www.youtube.com/playlist?list=PL8dPuuaLjXtNlUrzyH5r6jN9ulIgZBpdo)上的计算机科学速成课，可在B站上观看中文版（带中英字幕）
 + [北大课程资源](https://github.com/lib-pku/libpku)：北京大学课程资料民间整理
 + [中国科学技术大学课程资源](https://github.com/USTC-Resource/USTC-Course)：收录中国科学技术大学众多课程资源的笔记，总结，经验等学生原创内容
@@ -327,7 +370,7 @@ Awesome lists about all kinds of interesting topics.
 
 
 
-<a class="toc" id ="9"></a>
+<a class="toc" id ="10"></a>
 # Books (书籍资料) 📚
 [🔙](#table-of-contents)
 
@@ -416,7 +459,7 @@ Awesome lists about all kinds of interesting topics.
 
 
 
-<a class="toc" id ="10"></a>
+<a class="toc" id ="11"></a>
 # Visualization (可视化) 👀
 [🔙](#table-of-contents)
 
@@ -485,7 +528,7 @@ Awesome lists about all kinds of interesting topics.
 + [Origin](https://www.originlab.com/)：Origin是由OriginLab公司开发的一个科学绘图、数据分析软件，支持在Microsoft Windows下运行。因其功能强大且使用方便，在各国科技工作者中使用较为普遍，连诸多外文知名期刊都要求必须Origin出图。推荐等级：:heart::heart::heart::heart:！
 
 
-<a class="toc" id ="11"></a>
+<a class="toc" id ="12"></a>
 # Tutorials & Blogs (教程博客) 🗨
 [🔙](#table-of-contents)
 
@@ -551,7 +594,7 @@ Awesome lists about all kinds of interesting topics.
 + [Data Cleaning in Python: the Ultimate Guide (2020)](https://towardsdatascience.com/data-cleaning-in-python-the-ultimate-guide-2020-c63b88bf0a0d)：数据缺失、混乱、重复怎么办？最全数据清洗指南让你所向披靡
 
 
-<a class="toc" id ="12"></a>
+<a class="toc" id ="13"></a>
 # Learning (Resource) Websites (学习资源网站) 💻
 [🔙](#table-of-contents)
 
@@ -609,14 +652,14 @@ Awesome lists about all kinds of interesting topics.
 + [LintCode](https://www.lintcode.com/)：LintCode和LeetCode类似，也是一个刷题的OJ网站，而且还提供闯关式的阶梯训练以及国内外知名大厂的笔试面试真题。
 + [Learn SQL](https://www.codecademy.com/learn/learn-sql)：想成为数据科学家，SQL 是必不可少的一项技能，因为抽取数据是数据建模的基础流程之一。这通常需要对数据库运行 SQL query。如果你没有学完上述 [Dataquest.io](https://www.dataquest.io/subscribe/) 数据科学课程，那么这里有一些免费资源可供选择。Codeacamdemy 有一门 SQL 入门课程，这门课实践性很强，学习过程中你可以在浏览器内进行编程。如果你还想了解基于云的数据库查询，那么 Google Cloud BigQuery 是不错的选择。它有免费试用方案，你可以免费尝试 query、大量公共数据集，以及阅读[官方文档](https://cloud.google.com/bigquery/docs/tutorials)。
 + [Learn-R](https://www.codecademy.com/learn/learn-r)：要想成为全面的数据科学家，只学 Python 还不够。推荐大家学习一门 R 语言入门课程。Codeacademy 就有一门免费入门课程。
++ [30 Days Of JavaScript](https://github.com/Asabeneh/30DaysOfJavaScript)：这个项目主要面向JavaScript初学者，通过这30天，你将学会使用JavaScript开发移动应用程序、游戏、桌面应用程序。GitHub:star:1.8k​
++ [30 Days Of Python](https://github.com/Asabeneh/30-Days-Of-Python)：这个项目主要教你如何利用30天的时间，学习Python编程所需的编程基础，每一天都包含几个主题，其中充满了易于理解的文字介绍，还举了大量的真实示例，最主要的是还有许多实践练习需要你去完成。
 
 
 
 
 
-
-
-<a class="toc" id ="13"></a>
+<a class="toc" id ="14"></a>
 # Learn by Game (寓教于乐) 👾
 [🔙](#table-of-contents)
 
@@ -675,7 +718,7 @@ Awesome lists about all kinds of interesting topics.
 + [Free Python Games](https://github.com/grantjenks/free-python-games)：一行代码就能进入使用Python开发的小游戏快乐玩耍！同时这个项目也可以作为学习资料，学习编程游戏，GitHub:star:1k，推荐等级：:heart::heart::heart:！
 
 
-<a class="toc" id ="14"></a>
+<a class="toc" id ="15"></a>
 # C/C++ Learning (C/C++ 学习) 🇨🇱
 [🔙](#table-of-contents)
 
@@ -699,7 +742,7 @@ Awesome lists about all kinds of interesting topics.
 
 
 
-<a class="toc" id ="15"></a>
+<a class="toc" id ="16"></a>
 # Go Learning (Go 学习) 🇬🇱
 [🔙](#table-of-contents)
 
@@ -717,7 +760,7 @@ Awesome lists about all kinds of interesting topics.
 + [Gopl-zh](https://github.com/golang-china/gopl-zh)：Go语言圣经中文版，建议初学者先从该项目学起。
 + [《Go2-book》](https://github.com/chai2010/go2-book)：《Go2编程指南》开源图书，重点讲解Go2新特性，以及Go1教程中较少涉及的特性
 
-<a class="toc" id ="16"></a>
+<a class="toc" id ="17"></a>
 # Jupyter Notebook 📔
 [🔙](#table-of-contents)
 
@@ -742,7 +785,7 @@ Awesome lists about all kinds of interesting topics.
 + [Binder](https://gke.mybinder.org/)：可以将一个 Git repo 转换为一个交互式 Jupyter notebook 集合。
 
 
-<a class="toc" id ="17"></a>
+<a class="toc" id ="18"></a>
 # Python Learning (Python 学习) 🐍
 [🔙](#table-of-contents)
 
@@ -767,7 +810,6 @@ Awesome lists about all kinds of interesting topics.
 + [知乎：哪些Python库让你相见恨晚？](https://www.zhihu.com/question/24590883)：知乎上的一个问题，下面许多大佬介绍了各种各样的Python库，一方面方便Python的使用，另一方面通过这些库可以更好地学习Python
 + [Practical Business Python](https://pbpython.com/)：该网站旨在收集和传播关于如何在业务环境中更有效地使用python的想法，包括不少文章教程和代码。[GitHub地址](https://github.com/chris1610/pbpython)
 + [Develop with Python on Windows](https://docs.microsoft.com/zh-cn/windows/python/)：在 Windows 上做 Python 开发太痛苦？微软最近发布了一系列官方教程，这些教程将指导使用者如何设置开发环境、是否在原生 Windows 或 Windows Subsystem for Linux (WSL) 系统上安装自己的工具，以及如何集成 VS Code、Git 等工具
-+ [Awesome Python cn](https://github.com/jobbole/awesome-python-cn)：Python资源大全中文版，包括：Web框架、网络爬虫、模板引擎、数据库、数据可视化、图片处理等，由伯乐在线持续更新。GitHub:star:15k，推荐等级：:heart::heart::heart:！
 + [30 Seconds of Python](https://github.com/30-seconds/30-seconds-of-python)：一组有用的Python代码片段，可以在30秒或更少的时间内理解它们。
 + [Intro to Python Development](https://channel9.msdn.com/Series/Intro-to-Python-Development)：微软出品，文科生也能学得懂的Python免费入门视频。[代码地址](https://github.com/microsoft/c9-python-getting-started)
 + [Python Tutorials Home](https://data-flair.training/blogs/python-tutorials-home/)：data-flair上推出的一个240多个的Python编程入门课程
@@ -780,15 +822,17 @@ Awesome lists about all kinds of interesting topics.
 + [Python Small Examples](https://github.com/jackzhenguo/python-small-examples)：Python小例子、小Demo一网打尽。Python基础、Web开发、数据科学、机器学习、TensorFlow、Pytorch，你能想到的基于Python的小Demo都在这里。在线[网页版](https://python-small-examples.readthedocs.io/en/latest/)
 + [《Classic Computer Science Problems in Python》](https://www.manning.com/books/classic-computer-science-problems-in-python)：这本书不是对Python的介绍。相反，这本书假设您已经是一名中级或高级的Python程序员。尽管这本书需要Python3.7，但我们并不认为它能够精通最新版本的Python的每一个方面。事实上，这本书的内容是建立在这样一个假设上的：它将作为学习材料，帮助读者达到这样的掌握。另一方面，这本书不适合完全不熟悉Python的读者。
 + [Awesome Python](https://github.com/vinta/awesome-python)：一个很棒的Python框架、库、软件和资源的列表，GitHub :star:78k。推荐等级:heart::heart::heart::heart:!
-+ [Awesome Python in Education ](https://github.com/quobit/awesome-python-in-education#jupyter)：关于Python的学习资源列表。
++ [Awesome Python cn](https://github.com/jobbole/awesome-python-cn)：Python资源大全中文版，包括：Web框架、网络爬虫、模板引擎、数据库、数据可视化、图片处理等，由伯乐在线持续更新。GitHub:star:15k，推荐等级：:heart::heart::heart:！
++ [Awesome Python in Education](https://github.com/quobit/awesome-python-in-education#jupyter)：关于Python的学习资源列表。
 + [《Think Python》](https://greenteapress.com/wp/think-python-2e/)：Think Python》是很多计算机初学者的不二入门教材，受到广泛好评。该书原作者是美国 Olin 工程学院的教授 Allen B. Downey，目前该书的原版和中文版本都已免费开源。[中文版地址](https://codingpy.com/books/thinkpython2/index.html)。
 + [Python Tutor](http://www.pythontutor.com/)：Python Tutor 是由 Philip Guo 开发的一个免费教育工具，可帮助学生攻克编程学习中的基础障碍，理解每一行源代码在程序执行时在计算机中的过程。通过这个工具，教师或学生可以直接在 Web 浏览器中编写 Python 代码，并逐步可视化地运行程序。如果你不知道代码在内存中是如何运行的，不妨把它拷贝到Tutor里可视化执行一遍，加深理解。
 + [Skulpt](http://www.skulpt.org/)：Skulpt 是一个用 Javascript 实现的在线 Python 执行环境，它可以让你轻松在浏览器中运行 Python 代码。使用 skulpt 结合 CodeMirror 编辑器即可实现一个基本的在线Python编辑和运行环境。
++ [《Python code for Artificial Intelligence: Foundations of Computational agents》](https://artint.info/AIPython/)：《人工智能Python代码》，本书的Python代码旨在演示第二版《计算agent的基础》人工智能中的一些算法，其中包含并解释了书中的所有代码。
 
  
 
 
-<a class="toc" id ="18"></a>
+<a class="toc" id ="19"></a>
 # Python Projects (Python 项目) 👨‍💻
 [🔙](#table-of-contents)
 
@@ -859,7 +903,7 @@ Awesome lists about all kinds of interesting topics.
 
 
 
-<a class="toc" id ="19"></a>
+<a class="toc" id ="20"></a>
 # Python Crawler (Python 爬虫) 🕷
 [🔙](#table-of-contents)
 
@@ -883,7 +927,7 @@ Awesome lists about all kinds of interesting topics.
 
 
 
-<a class="toc" id ="20"></a>
+<a class="toc" id ="21"></a>
 # Machine Learning (机器学习) 🤖
 [🔙](#table-of-contents)
 
@@ -901,7 +945,6 @@ Awesome lists about all kinds of interesting topics.
 + [Numpy 中文文档](https://github.com/teadocs/numpy-cn)：Numpy 官方中文文档的仓库。 [域名访问](https://www.numpy.org.cn/)。推荐等级：:heart::heart::heart::heart:！
 + [Matplotlib 中文文档](https://github.com/teadocs/matplotlib-cn)：Matplotlib 官方中文文档的仓库。 [域名访问](https://www.matplotlib.org.cn/)。
 + [Scipy developer guide](http://scipy.github.io/devdocs/hacking.html)：官方学习文档，Scipy 上手指南
-+ [Awesome Knowledge Distillation](https://github.com/dkozlov/awesome-knowledge-distillation)：作为模型压缩的一种方法，知识蒸馏能够利用已经训练的一个较复杂的模型，来指导一个较轻量的模型训练，从而在减小模型大小和计算资源的同时，尽量保持原始大模型的准确率的方法。Github上的dkozlov同学，整理了Knowledge Distilling的paper、教程、代码，看完这些资料，你一定有所收获
 + [Awesome Machine Learning cn](https://github.com/jobbole/awesome-machine-learning-cn)：机器学习资源大全中文版，包括机器学习领域的框架、库以及软件。GitHub:star:3k
 + [Machine Learning Learning Notes](https://github.com/Vay-keen/Machine-learning-learning-notes)：周志华《机器学习》的学习笔记，记录了作者在学习这本书的过程中的理解思路以及一些有助于消化书内容的拓展知识，笔记中参考了许多网上的大牛经典博客以及李航《统计学习》的内容
 + [Models – IBM Developer](https://developer.ibm.com/exchanges/models/all/)：IBM开放的预训练深度模型库，目前一共有32个模型，分为可部署和可训练模型两类，涉及18个领域
@@ -936,11 +979,13 @@ Awesome lists about all kinds of interesting topics.
 + [Vaex](https://github.com/vaexio/vaex)：Vaex 是一个开源的 DataFrame 库（类似于Pandas），对和你硬盘空间一样大小的表格数据集，它可以有效进行可视化、探索、分析甚至进行实践机器学习。有了 Vaex，你可以在短短几秒内遍历超过 10 亿行数据，计算各种统计、聚合并产出信息图表，这一切都能在你的笔记本电脑上完成。它免费且开源。GitHub:star:3.5k
 + [DeepFaceLab](https://github.com/iperov/DeepFaceLab)：全新“全栈”Deepfake软件，它以一个软件的形式，把各类Deepfake功能都打包在了一起。关键是，效果更清晰，肉眼都可见。GitHub:star:15.1k
 + [Awesome Time Series](https://github.com/cuge1995/awesome-time-series)：时间序列预测相关的比赛、论文、会议、代码、理论资源以及数据集
++ [Neoml](https://github.com/neoml-lib/neoml)：Neoml 是一个端到端的机器学习框架，允许您构建、训练和部署机器学习模型。 该框架被 ABBYY 工程师用于计算机视觉和自然语言处理任务，包括图像预处理、分类、文档布局分析、 OCR 以及从结构化和非结构化文档中提取数据。
++ [Advanced Deep Learning for Computer vision](https://dvl.in.tum.de/teaching/adl4cv-ss20/)： 慕尼黑工业大学发布的《高级深度学习》课程。重点介绍计算机视觉的前沿深度学习技术，重点介绍统计学背景、递归神经网络(RNNs)和生成模型(GANs)。课程的一部分是一个贯穿整个学期的项目，深入学习现代DL方法。
 
 
 
 
-<a class="toc" id ="21"></a>
+<a class="toc" id ="22"></a>
 # Auto Machine Learning (自动机器学习) 🔧
 [🔙](#table-of-contents)
 
@@ -965,7 +1010,7 @@ Awesome lists about all kinds of interesting topics.
 + [CVPR 2020 Tutorial](https://hangzhang.org/CVPR2020/)：CVPR 2020 Tutorial：自动化深度学习教程和介绍，推荐等级：:heart::heart:!​
 
 
-<a class="toc" id ="22"></a>
+<a class="toc" id ="23"></a>
 # Computer Vision (计算机视觉) 👁
 [🔙](#table-of-contents)
 
@@ -985,7 +1030,7 @@ Awesome lists about all kinds of interesting topics.
 
 
 
-<a class="toc" id ="23"></a>
+<a class="toc" id ="24"></a>
 # Reinforcement Learning (强化学习) 💪
 [🔙](#table-of-contents)
 
@@ -1024,7 +1069,7 @@ Awesome lists about all kinds of interesting topics.
 + [acme](https://github.com/deepmind/acme)：DeepMind 发布的一种新型分布式强化学习框架「Acme」，Acme 是一款用于构建可读、高效、研究型强化学习算法的框架，核心理念在于实现对强化学习智能体的简单描述，使得智能体在各种规模下运行，包括分布式智能体。研究者在设计 Acme 的过程中也充分考虑到了不同规模智能体之间的差异，并弥合了大中小型实验之间的差别。DeepMind 研究者表示：「我们的目标是使得学界和工业界开发的各种强化学习算法更轻松地复制和推广到整个机器学习社区。」[论文地址](https://arxiv.org/abs/2006.00979)
 
 
-<a class="toc" id ="24"></a>
+<a class="toc" id ="25"></a>
 # Recommender System (推荐系统) 🎞
 [🔙](#table-of-contents)
 
@@ -1039,7 +1084,7 @@ Awesome lists about all kinds of interesting topics.
 
 
 
-<a class="toc" id ="25"></a>
+<a class="toc" id ="26"></a>
 # Graph Learning (图学习) 🗺
 [🔙](#table-of-contents)
 
@@ -1101,7 +1146,7 @@ Awesome lists about all kinds of interesting topics.
 + [Learning Representations via Graph-structured Networks](https://xiaolonw.github.io/graphnnv2/)：CVPR2020-Tutorial，视觉的图网络结构表示学习
 
 
-<a class="toc" id ="26"></a>
+<a class="toc" id ="27"></a>
 # Generative Adversarial Networks (GANs) 🤜 🤛
 [🔙](#table-of-contents)
 
@@ -1119,7 +1164,7 @@ Awesome lists about all kinds of interesting topics.
 + [Keras-GAN](https://github.com/eriklindernoren/Keras-GAN)：Keras 的 GAN 实现版本，GitHub:star:7k​
 
 
-<a class="toc" id ="27"></a>
+<a class="toc" id ="28"></a>
 # Adversarial Attack and Defense (对抗攻防)⚔🛡
 [🔙](#table-of-contents)
 
@@ -1143,7 +1188,7 @@ Awesome lists about all kinds of interesting topics.
 + [Awesome Graph Attack Papers](https://github.com/ChandlerBang/awesome-graph-attack-papers)：图神经网络攻防论文集合
 
 
-<a class="toc" id ="28"></a>
+<a class="toc" id ="29"></a>
 # Model Compression (模型压缩) ⚙
 [🔙](#table-of-contents)
 
@@ -1162,8 +1207,10 @@ Awesome lists about all kinds of interesting topics.
 + [A Simple Dictionary Learning Implementation](https://github.com/google-research/google-research/tree/master/dictionary_learning)：谷歌开源， 基于 OMP 的字典学习实现，类似的，有 [Scikit 的实现](https://scikit-learn.org/stable/modules/generated/sklearn.decomposition.DictionaryLearning.html)。
 + [Gradient Based Pruning](https://drive.google.com/file/d/1TeuWJ-clTa30andouyYNYn4Vh1bHMC2J/view)：基于梯度的剪枝介绍
 + [Awesome-model-compression-and-acceleration](https://github.com/memoiry/Awesome-model-compression-and-acceleration)：模型压缩论文大全，GitHub:star:467​
++ [Awesome Knowledge Distillation](https://github.com/dkozlov/awesome-knowledge-distillation)：作为模型压缩的一种方法，知识蒸馏能够利用已经训练的一个较复杂的模型，来指导一个较轻量的模型训练，从而在减小模型大小和计算资源的同时，尽量保持原始大模型的准确率的方法。Github上的dkozlov同学，整理了Knowledge Distilling的paper、教程、代码，看完这些资料，你一定有所收获
 
-<a class="toc" id ="29"></a>
+
+<a class="toc" id ="30"></a>
 # Object Detection (目标检测) 🔎
 [🔙](#table-of-contents)
 
@@ -1181,7 +1228,7 @@ Awesome lists about all kinds of interesting topics.
 + [OpenRadar](https://github.com/PreSenseRadar/OpenRadar)：一个用于与雷达数据交互和处理的开源库，专门用于MIMO mmWave雷达
 
 
-<a class="toc" id ="30"></a>
+<a class="toc" id ="31"></a>
 # TensorFlow Learning (TensorFlow 学习) 🇹🇫
 [🔙](#table-of-contents)
 
@@ -1261,7 +1308,7 @@ Awesome lists about all kinds of interesting topics.
 + [TF-AGENTS](https://github.com/tensorflow/agents)：作为一款优秀的强化学习框架 TF-AGENTS 可以让强化学习的工程师和科学家在设计、实现以及测试新的强化学习算法时更加的方便与快捷。同时，由于对代码结构的精心设计，在实际使用它时也有利于提高使用者的产品迭代速度。不仅仅如此，TF-AGENTS 还提供了基础的测试与基准测试部分帮助大家快速上手与构建“第一个强化学习”程序。GitHub:star:1.4k​
 
 
-<a class="toc" id ="31"></a>
+<a class="toc" id ="32"></a>
 # Keras Learning (Keras 学习) 🇰🇷
 [🔙](#table-of-contents)
 
@@ -1302,7 +1349,7 @@ Awesome lists about all kinds of interesting topics.
 + [Keras Ocr](https://github.com/faustomorales/keras-ocr)：Keras作者François Chollet近期在Twitter上推荐了Github上的一个基于tf.keras的OCR项目Keras-OCR。该项目开箱即用，可直接执行OCR，也提供了端到端训练的流水线。
 + [Deep Learning with Keras Notebooks](https://github.com/erhwenkuo/deep-learning-with-keras-notebooks)：使用 Keras 进行深度学习的 notebook 中文教程，GitHub:star:1.9k。推荐等级：:heart::heart::heart:！
 
-<a class="toc" id ="32"></a>
+<a class="toc" id ="33"></a>
 # PyTorch Learning (PyTorch 学习) 🇵🇹
 [🔙](#table-of-contents)
 
@@ -1340,13 +1387,14 @@ Awesome lists about all kinds of interesting topics.
 + [Pytorch Cifar](https://github.com/kuangliu/pytorch-cifar)：在CIFAR10 数据集上用PyTorch实现的CV模型，GitHub:star:2.7k​
 + [Pytorch Tricks](https://github.com/zxdefying/pytorch_tricks)：使用 `PyTorch` 的过程中总结的一些小trick
 + [Pytorch Deep Learning](https://github.com/Atcold/pytorch-Deep-Learning)：利用PyTorch进行深度学习教程，GitHub:star:2.2k​
-+ [PyTorch: AnImperativeStyle,High-Performance Deep LearningLibrary](https://papers.nips.cc/paper/9015-pytorch-an-imperative-style-high-performance-deep-learning-library.pdf)：NeurIPS 2019接收，PyTorch官方论文首次曝光完整设计思路
++ [PyTorch: An Imperative Style, High-Performance Deep LearningLibrary](https://papers.nips.cc/paper/9015-pytorch-an-imperative-style-high-performance-deep-learning-library.pdf)：NeurIPS 2019接收，PyTorch官方论文首次曝光完整设计思路
 + [Transformers Tutorials](https://github.com/abhimishra91/transformers-tutorials)：PyTorch Transformers 教程
++ [MMF](https://github.com/facebookresearch/mmf)：Pytorch多模态框架MMF，MMF随附了最新的视觉和语言预训练模型，大量现成的标准数据集，通用层和模型组件以及训练+推理实用程序。MMF还被多个Facebook产品团队用于多模式理解用例，因为它有助于快速将研究推向生产。GitHub:star:3.6k​
 
 
 
 
-<a class="toc" id ="33"></a>
+<a class="toc" id ="34"></a>
 # English Learning (英语学习) 🗣
 [🔙](#table-of-contents)
 
@@ -1356,7 +1404,7 @@ Awesome lists about all kinds of interesting topics.
 + [Chinese Programmer Wrong Pronunciation](https://github.com/shimohq/chinese-programmer-wrong-pronunciation)：GitHub上一个:star:近10k的英语学习项目，收集了中国程序员容易发音错误的单词
 
 
-<a class="toc" id ="34"></a>
+<a class="toc" id ="35"></a>
 # Papers With Codes (开源论文) 🔖
 [🔙](#table-of-contents)
 
@@ -1427,7 +1475,7 @@ Awesome lists about all kinds of interesting topics.
 
 
 
-<a class="toc" id ="35"></a>
+<a class="toc" id ="36"></a>
 # Paper-Related (论文相关) 📝
 [🔙](#table-of-contents)
 
@@ -1484,7 +1532,7 @@ Awesome lists about all kinds of interesting topics.
 + [CopyTranslator](https://github.com/CopyTranslator/CopyTranslator)：一款开源工具：CopyTranslator。这款工具的最大亮点，就是方便易用，你只需将文本复制到剪贴板，即可快速查看翻译结果，享受所见即所得的快感。工具作者是来自国内的开发者 Elliott Zheng，一开始鼓捣这个工具，主要是为了解决外文 PDF 在网页翻译时，会导致的多余换行和乱码问题。GitHub:star:7.9k​
 
 
-<a class="toc" id ="36"></a>
+<a class="toc" id ="37"></a>
 # Competition (比赛项目) 🏇
 [🔙](#table-of-contents)
 
@@ -1501,7 +1549,7 @@ Awesome lists about all kinds of interesting topics.
 + [kaggle-CrowdFlower](https://github.com/ChenglongChen/kaggle-CrowdFlower)：Kaggle 搜索结果相关性比赛第一名解决方案
 
 
-<a class="toc" id ="37"></a>
+<a class="toc" id ="38"></a>
 # Download (下载) 📥
 [🔙](#table-of-contents)
 
@@ -1521,7 +1569,7 @@ Awesome lists about all kinds of interesting topics.
 + [Baidupcs-web](https://github.com/liuzhuoling2011/baidupcs-web)：基于BaiduPCS-Go, 可以让你高效的使用百度云，GitHub:star:6.4k
 + [magnetW](https://github.com/xiandanin/magnetW)：磁力链接聚合搜索，支持在 Windows 与 macOS 上运行，可以用来寻找电影资源。GitHub:star:8.4k
 
-<a class="toc" id ="38"></a>
+<a class="toc" id ="39"></a>
 # Software/Application (软件/应用) 🌈 
 [🔙](#table-of-contents)
 
@@ -1549,9 +1597,10 @@ Awesome lists about all kinds of interesting topics.
 + [Google Colab](https://colab.research.google.com/notebooks/welcome.ipynb)：Google Colab是帮你快速了解Python代码的利器，你可以直接在上面运行一些好玩好用的Jupyter Notebook项目。对于初学机器学习的人，即使你没有很好的硬件，也可以利用谷歌的免费资源来跑程序。同时上面还有很多GitHub相关[技术教程汇总](https://www.google-colab.com/github/)。推荐等级：:heart::heart:！
 + [Awesome Google Colab](https://github.com/firmai/awesome-google-colab)：GitHub上的一个新项目，Colab资源汇总。作者还自己建了[非官方的colab网站](https://www.google-colab.com/)，收集了大量学习资源。同时上面还有很多GitHub相关[技术教程汇总](https://www.google-colab.com/github/)。推荐等级：:heart::heart::heart:！
 + [Xg2xg](https://github.com/jhuangtw-dev/xg2xg)：前 Google 工程师出品，最佳开发工具大全，这份清单中列出的开源软件，不仅解决了硅谷大厂前员工的难处，也能为其他所有码农解除困惑。在这套大全的指导下，任何一个工程师，都能获得类似在谷歌内部写代码的体验。目前Github上获:star:7k+。推荐等级：:heart::heart::heart:！
++ [合集网](https://www.heji.ltd/)：一个名叫合集网的资源网站，上面不仅有软件、应用的合集，还有很多在线资源。
 
 
-<a class="toc" id ="39"></a>
+<a class="toc" id ="40"></a>
 # Jobs & Interview (工作面试) 💼
 [🔙](#table-of-contents)
 
@@ -1588,7 +1637,7 @@ Awesome lists about all kinds of interesting topics.
 
 
 
-<a class="toc" id ="40"></a>
+<a class="toc" id ="41"></a>
 # Dataset (数据集)  📊
 [🔙](#table-of-contents)
 
@@ -1600,7 +1649,6 @@ Awesome lists about all kinds of interesting topics.
 + [LINQS](https://linqs.soe.ucsc.edu/data)：提供了一些Graph结构的数据集
 + [Network Repository](http://networkrepository.com/index.php)：一个交互式科学网络数据仓库，里面含有大量的图结构数据集
 + [Stanford Network Analysis Project](http://snap.stanford.edu/)：斯坦福开放的图相关数据集。
-+ [Awesome Public Datasets](https://github.com/awesomedata/awesome-public-datasets)：GitHub上一个列举了大量公开数据集的仓库，已获:star:30k
 + [KONECT](http://konect.uni-koblenz.de/)：一个收集所有类型的大型网络数据集以进行网络科学和相关领域的研究的项目
 + [Multi-label Datasets & Code](http://manikvarma.org/downloads/XC/XMLRepository.html)：这个页面提供了基准数据集和代码，可以用来评估多标签分类算法的性能。
 + [Google Trends](http://www.google.com/trends?q=google&ctab=0&geo=all&date=all&sort=0)：同样来自于Google，使用此工具，你可以搜索关键字并查看相关数据集的各种信息。你可以选择不同的选项，包括要查看的国家（或全球），将其缩小到各个类别，或将搜索范围限制在所有网站、图片、新闻、购物或 YouTube 上。
@@ -1689,7 +1737,7 @@ Awesome lists about all kinds of interesting topics.
 
 
 
-<a class="toc" id ="41"></a>
+<a class="toc" id ="42"></a>
 # Coding Toolkit (代码工具) 💻
 [🔙](#table-of-contents)
 
@@ -1730,9 +1778,10 @@ Awesome lists about all kinds of interesting topics.
 + [CodeSanbox](https://codesandbox.io/)：全面的在线代码编辑器 CodeSanbox。
 + [Paste.ubuntu](https://paste.ubuntu.com/)：paste.ubuntu 是一个单纯发布代码的网站，对于复制粘贴容易破坏原本代码美感的情况下，可以把代码放到里面，一键 Paste。有了这个神器，贴代码请大佬调试的时候再也不怕被骂这是什么鬼玩意儿
 + [App Ideas](https://github.com/florinpop17/app-ideas)：这里面收集了共 86 个可供开发者练习参考的项目创意，其中初级项目 34 个、中级 32 个、高级 20 个。同时，每个项目创意也均附上了较为详实的项目文档，指引开发者一步步完成项目的开发工具。不过代码几乎都是JS的。GitHub:star:22k，推荐等级:heart::heart::heart::heart:！
++ [VSCode Rainbow Fart](https://saekiraku.github.io/vscode-rainbow-fart/#/zh/)：VSCode Rainbow Fart 是一个在你编程时持续夸你写的牛逼的扩展，可以根据代码关键字播放贴近代码意义的真人语音。
 
 
-<a class="toc" id ="42"></a>
+<a class="toc" id ="43"></a>
 # Others (其它) ❓
 [🔙](#table-of-contents)
 
@@ -1768,6 +1817,6 @@ Awesome lists about all kinds of interesting topics.
 + [Marketing-for-Engineers](https://github.com/LisaDziuba/Marketing-for-Engineers)：该项目是由来自乌克兰的一名小姐姐 Lisa Dziuba 所创立，目的在于帮助工程师解决产品上线后所面临后的市场营销难题，GitHub:star:10.2k，​推荐等级:heart::heart::heart:!
 
 
-<a class="toc" id ="43"></a>
-# Update (更新时间) 🕰 ：2020/06/19
+<a class="toc" id ="44"></a>
+# Update (更新时间) 🕰 ：2020/06/21
 [🔙](#table-of-contents)
