@@ -46,7 +46,7 @@
 + [Dataset (数据集)  📊](#41)
 + [Coding Toolkit (代码工具) 💻](#42)
 + [Others (其它) ❓](#43)
-+ [Update (更新时间) 🕰 ：2020/06/21](#44)
++ [Update (更新时间) 🕰 ：2020/06/22](#44)
 
 
 <a class="toc" id ="1"></a>
@@ -290,6 +290,7 @@
 + [Awesome Tensorflow 2](https://github.com/Amin-Tgz/awesome-tensorflow-2)：Tensorflow 2.x资源，如教程，博客，代码和视频。推荐等级：:heart::heart::heart::heart:！
 + [Awesome Pytorch list](https://github.com/bharathgs/Awesome-pytorch-list)：GitHub上一个:star:9k+的项目，收集了GitHub上PyTorch相关内容以及不同的模型实现、帮助文档、教程，使用PyTorch的学习。[中文版](https://github.com/xavier-zy/Awesome-pytorch-list-CNVersion)。推荐等级：:heart::heart::heart::heart:！
 + [Awesome Papers](https://github.com/murufeng/awesome-papers)：机器学习，深度学习，自然语言处理，计算机视觉方面的顶级期刊会议论文集
++ [Awesome RecSys](https://github.com/scnu-dil/awesome-RecSys)：推荐系统必读文献
 + [Awesome Windows](https://github.com/Awesome-Windows/Awesome/blob/master/README-cn.md)：GitHub上:star:9k+的项目，收列了Windows上优质&精选的最佳应用程序及工具
 + [Awesome Macos](https://github.com/iCHAIT/awesome-macOS)：GitHub上:star:9k+的项目，为macOS整理了一份很棒的应用程序、软件、工具和亮点的列表
 + [Awesome Google Colab](https://github.com/firmai/awesome-google-colab)：GitHub上的一个新项目，Colab资源汇总。作者还自己建了[非官方的colab网站](https://www.google-colab.com/)，收集了大量学习资源。同时上面还有很多GitHub相关[技术教程汇总](https://www.google-colab.com/github/)。推荐等级：:heart::heart::heart:！
@@ -1081,10 +1082,15 @@
 + [DeepCTR](https://github.com/shenweichen/DeepCTR)：深度学习点击率算法预测包，[PyTorch版本](https://github.com/shenweichen/DeepCTR-Torch)。
 + [RecommenderSystem-Paper](https://github.com/daicoolb/RecommenderSystem-Paper)：该项目收集整理了丰富的推荐系统相关资源，包括推荐系统的文献、工具和框架等，推荐等级：:heart::heart::heart::heart:！
 + [Paperlist for Recommender Systems](https://github.com/mengfeizhang820/Paperlist-for-Recommender-Systems)：推荐系统论文列表
++ [Awesome RecSys](https://github.com/scnu-dil/awesome-RecSys)：推荐系统必读文献
++ [xmall](https://github.com/Exrick/xmall)：基于SOA架构的分布式电商购物商城 前后端分离。GitHub:star:5.4k​
++ [litemall](https://github.com/linlinjava/litemall)：一个小商城。litemall = Spring Boot后端 + Vue管理员前端 + 微信小程序用户前端 + Vue用户移动端。GitHub:star:13.3k
++ [mall](https://github.com/macrozheng/mall)：mall项目是一套电商系统，包括前台商城系统及后台管理系统，基于SpringBoot+MyBatis实现，采用Docker容器化部署。 前台商城系统包含首页门户、商品推荐、商品搜索、商品展示、购物车、订单流程、会员中心、客户服务、帮助中心等模块。 后台管理系统包含商品管理、订单管理、会员管理、促销管理、运营管理、内容管理、统计报表、财务管理、权限管理、设置等模块。GitHub:star:36.4k​
 
 
 
 <a class="toc" id ="26"></a>
+
 # Graph Learning (图学习) 🗺
 [🔙](#table-of-contents)
 
@@ -1316,6 +1322,7 @@
 + [Keras-cn](https://keras.io/zh/)：Keras中文官方手册，该中文官方手册是对对Keras英文官方手册最好的还原，适合所有阶段的Keras学习者阅读。
 + [Keras中文文档](https://keras-cn.readthedocs.io/en/latest/)：另一个非官方的Keras中文文档，笔者花了近两年的时间在维护，文档也一直在更新，包含ConvLSTM2D、SimpleRNNCellKeras、GRUCell等最新的内容，非常用心的一份Keras文档。
 + [Keras examples](https://keras.io/examples/)：Keras 官网的一些代码样例
++ [Benchmarking Keras and PyTorch Pre-Trained Models](https://github.com/cgnorthcutt/benchmarking-keras-pytorch)：使用PyTorch和Keras对模型复现比较
 + [Deep Learning With Keras Notebooks](https://github.com/erhwenkuo/deep-learning-with-keras-notebooks)：黄海广博士力荐的Keras github项目，这个github的repository主要是博主在学习Keras的一些记录及练习，满满都是干货，建议大家看一下。
 + [Keraschina](http://www.keraschina.com)：磐创AI Keras系列教程总结，从CNN到RNN，以入门、基础为主的讲解，适合小白学习。
 + [Waterloo](https://www.youtube.com/watch?v=Tp3SaRbql4k)：Waterloo大学关于Keras的课程，该视频在YouTube上有很高的播放率，课程质量非常高
@@ -1390,6 +1397,10 @@
 + [PyTorch: An Imperative Style, High-Performance Deep LearningLibrary](https://papers.nips.cc/paper/9015-pytorch-an-imperative-style-high-performance-deep-learning-library.pdf)：NeurIPS 2019接收，PyTorch官方论文首次曝光完整设计思路
 + [Transformers Tutorials](https://github.com/abhimishra91/transformers-tutorials)：PyTorch Transformers 教程
 + [MMF](https://github.com/facebookresearch/mmf)：Pytorch多模态框架MMF，MMF随附了最新的视觉和语言预训练模型，大量现成的标准数据集，通用层和模型组件以及训练+推理实用程序。MMF还被多个Facebook产品团队用于多模式理解用例，因为它有助于快速将研究推向生产。GitHub:star:3.6k​
++ [Poutyne](https://github.com/GRAAL-Research/poutyne)：类似Keras的PyTorch框架
++ [Pytorch2keras](https://github.com/nerox8664/pytorch2keras)：Pytorch to Keras的转换库
++ [Benchmarking Keras and PyTorch Pre-Trained Models](https://github.com/cgnorthcutt/benchmarking-keras-pytorch)：使用PyTorch和Keras对模型复现比较
++ [Torchkeras](https://github.com/lyhue1991/torchkeras)：使用类似Keras的方法训练PyTorch模型
 
 
 
@@ -1470,6 +1481,8 @@
 
 + [MXNET](https://github.com/tensorflow/tpu/tree/master/models/official/mnasnet/mixnet)：谷歌大脑提出 MixNet 轻量级网络，论文：[《MixConv: Mixed Depthwise Convolutional Kernels》](https://arxiv.org/abs/1907.09595)
 
++ [SIREN: Implicit Neural Representations with Periodic Activation Functions](https://vsitzmann.github.io/siren/)：这项研究提出利用周期性激活函数处理隐式神经表示，由此构建的正弦表示网络（sinusoidal representation network，SIREN）非常适合表示复杂的自然信号及其导数。[YouTube 讲解视频](https://www.youtube.com/watch?v=Q5g3p9Zwjrk&feature=youtu.be)，推荐等级：:heart::heart::heart::heart:！
+
   
 
 
@@ -1547,6 +1560,7 @@
 + [CDCS](https://github.com/geekinglcq/CDCS)：CDCS 中国数据竞赛优胜解集锦，GitHub:star:1.6k
 + [AutoDL](https://github.com/DeepWisdom/AutoDL)：NeurIPS-AutoDL 总决赛冠军解决方案，开源代码基于 Full-AutoML 系统自动设计出的共性解并加以改造
 + [kaggle-CrowdFlower](https://github.com/ChenglongChen/kaggle-CrowdFlower)：Kaggle 搜索结果相关性比赛第一名解决方案
++ [KDD_CUP_2020_Debiasing_Rush](https://github.com/xuetf/KDD_CUP_2020_Debiasing_Rush)：Rush团队在KDD CUP 2020的Debiasing赛道中的解决方案，此次比赛是典型的序列推荐场景中的纠偏问题，即：debiasing of next-item-prediction。模型构建的过程中要重点考虑行为序列和蕴含在序列中的时间信息，位置信息和长短期偏好等。
 
 
 <a class="toc" id ="38"></a>
@@ -1810,7 +1824,7 @@
 + [User.me](https://uzer.me/)：不需要安装，就可以在线编辑Office，使用PS、Visio、Xmind、Matlab、Jupyter等等大型软件。还有CAD、WPS、SPSS等，有了它，我们的PC上就不需要装那么多软件了。
 + [Office Converter](https://cn.office-converter.com)：office文档格式、视频格式、音频格式、图片格式、电子书格式.......只有你想不到，没有你找不到，有所的格式都可以在这个网站上转换。
 + [Squoosh](https://github.com/GoogleChromeLabs/squoosh)：Squoos是 Google 开源发布的一款专门用来压缩图片的在线服务，支持 JPG、PNG、WebP 等格式的极限压缩，它采用谷歌强大的算法，在保障图像质量的前提下最大化压缩图片。GitHub:star:9.7k​
-+ [Public APIs](https://github.com/public-apis/public-apis)：该库包含可用于项目和应用的免费 API 列表，覆盖各种主题，如商业、动画、动物、新闻、金融、游戏等。GitHub:77.6k，推荐等级：::::!
++ [Public APIs](https://github.com/public-apis/public-apis)：该库包含可用于项目和应用的免费 API 列表，覆盖各种主题，如商业、动画、动物、新闻、金融、游戏等。GitHub:77.6k，推荐等级：:heart::heart::heart:!
 + [营销号生成器](https://codepen.io/kasei-dis/pen/JjYjwza)：一个挺有意思的营销号内容生成器，一开口就知道是老营销号了
 + [textshot](https://github.com/ianzhao05/textshot)：一款 GitHub 用户 ianzhao05 刚发布的小工具——textshot，只需要截屏就能实时生成文字，也可以通过此项目大致了解如何对图像中的文本进行识别。推荐等级：:heart::heart::heart:!​
 + [nodesign](https://nodesign.dev/)：网站上收集了许多十分便利的 UI 设计工具与设计资源，这网站对于那些不太懂设计的开发者来说，简直是超级福音
@@ -1818,5 +1832,5 @@
 
 
 <a class="toc" id ="44"></a>
-# Update (更新时间) 🕰 ：2020/06/21
+# Update (更新时间) 🕰 ：2020/06/22
 [🔙](#table-of-contents)
