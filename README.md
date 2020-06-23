@@ -46,7 +46,7 @@
 + [Dataset (数据集)  📊](#41)
 + [Coding Toolkit (代码工具) 💻](#42)
 + [Others (其它) ❓](#43)
-+ [Update (更新时间) 🕰 ：2020/06/22](#44)
++ [Update (更新时间) 🕰 ：2020/06/23](#44)
 
 
 <a class="toc" id ="1"></a>
@@ -187,7 +187,8 @@
 + [Docker-cheat-sheet](https://github.com/wsargent/docker-cheat-sheet)：Docker Cheatsheet，GitHub:star:18.4k​
 + [Docker Practice](https://github.com/yeasy/docker_practice)：Docker——从入门到实践，GitHub:star:17k
 + [《Docker入门实战》](https://yuedu.baidu.com/ebook/d817967416fc700abb68fca1###)：《Docker入门实战》是由国内Docker社区DocKOne.io推出的刊物，旨在帮助国内爱好者学习使用Docker。
-+ [Docker 中文指南]()：Docker中文文档
++ [Docker 中文指南](https://github.com/widuu/chinese_docker)：Docker中文文档
++ [Docker library docs](https://github.com/docker-library/docs)：Docker官方库文档，GitHub:star:3.4k​
 
 
 
@@ -302,6 +303,7 @@
 + [Awesome Linux](https://github.com/aleksandar-todorovic/awesome-linux)：一份让Linux变得更棒的项目和资源列表。
 + [Awesome shell](https://github.com/alebcay/awesome-shell)：一份精心组织的命令行工具及资源的列表。
 + [Awesome osx command line](https://github.com/herrbischoff/awesome-osx-command-line)：一份针对 OS X 命令行的更深入的指南。
++ [Awesome Self-supervised Learning](https://github.com/jason718/awesome-self-supervised-learning)：自监督学习资源，GitHub:star:2.3k​
 
 
 <a class="toc" id ="9"></a>
@@ -593,9 +595,10 @@
 + [Things I Wished More Developers Knew About Databases](https://medium.com/@rakyll/things-i-wished-more-developers-knew-about-databases-2d0178464f78)：谷歌云工程师 Jaana Dogan 总结了 17 条数据库经验教训，希望为刚接触数据库的小白提供一份避坑指南。
 + [Keras 文本分类](https://colab.research.google.com/drive/1XcMJqKcTLjduIqjysRd1jGdRaKdetc3X)：文本分类 Keras 教程，这个例子展示了如何从原始文本(utf-8字符的字符串)开始进行文本分类。演示了IMDB情感分类数据集(未经处理的版本)的工作流程。
 + [Data Cleaning in Python: the Ultimate Guide (2020)](https://towardsdatascience.com/data-cleaning-in-python-the-ultimate-guide-2020-c63b88bf0a0d)：数据缺失、混乱、重复怎么办？最全数据清洗指南让你所向披靡
-
++ [Build and Deploy your Machine Learning Application with Docker](https://dev.to/aminu_israel/build-and-deploy-your-machine-learning-application-with-docker-5322)：将深度模型API并打包成docker镜像
 
 <a class="toc" id ="13"></a>
+
 # Learning (Resource) Websites (学习资源网站) 💻
 [🔙](#table-of-contents)
 
@@ -1068,9 +1071,10 @@
 + [Dreamer](https://github.com/google-research/dreamer)：Google AI 与 DeepMind 联合推出了 Dreamer，这是一种从图像中学习模型并用它来学习远见性（long-sighted）行为的 RL 智能体。通过模型预测的反向传播，Dreamer 能够利用它学得的模型高效地展开行为学习。通过从原始图像中学习计算紧凑模型状态，Dreamer 仅使用一块 GPU 即可以高效地从预测到的并行序列中学习。[GitHub 博客地址](https://dreamrl.github.io)，[论文地址](https://arxiv.org/pdf/1912.01603.pdf)
 + [Tianshou](https://github.com/thu-ml/tianshou)：训练模型的极速，与 1500 行源代码的精简，清华大学新开源强化学习平台「天授」。天授（Tianshou）是纯 基于 PyTorch 代码的强化学习框架，与目前现有基于 TensorFlow 的强化学习库不同，天授的类继承并不复杂，API 也不是很繁琐。最重要的是，天授的训练速度非常快，我们试用 Pythonic 的 API 就能快速构建与训练 RL 智能体。
 + [acme](https://github.com/deepmind/acme)：DeepMind 发布的一种新型分布式强化学习框架「Acme」，Acme 是一款用于构建可读、高效、研究型强化学习算法的框架，核心理念在于实现对强化学习智能体的简单描述，使得智能体在各种规模下运行，包括分布式智能体。研究者在设计 Acme 的过程中也充分考虑到了不同规模智能体之间的差异，并弥合了大中小型实验之间的差别。DeepMind 研究者表示：「我们的目标是使得学界和工业界开发的各种强化学习算法更轻松地复制和推广到整个机器学习社区。」[论文地址](https://arxiv.org/abs/2006.00979)
-
++ [2048-gym](https://github.com/FelipeMarcelino/2048-gym)：利用强化学习玩2048，一个足够有趣，又不太复杂的强化学习案例。类似项目：[2048](https://github.com/aszczepanski/2048)，[mcts 2048](https://github.com/thomasahle/mcts-2048/)。相关论文：[《Mastering 2048 with Delayed Temporal Coherence Learning, Multi-Stage Weight Promotion, Redundant Encoding and Carousel Shaping》](https://arxiv.org/abs/1604.05085)，[《Playing Game 2048 with Deep Convolutional Neural Networks Trained by Supervised Learning》](https://www.jstage.jst.go.jp/article/ipsjjip/27/0/27_340/_pdf)
 
 <a class="toc" id ="25"></a>
+
 # Recommender System (推荐系统) 🎞
 [🔙](#table-of-contents)
 
@@ -1150,6 +1154,7 @@
 + [《Learning to Reason with Graph Neural Networks》](https://www.dropbox.com/s/frkdz4hqg36kjg6/GNN_Logic_WWW2.pdf?dl=0)：图神经网络推理。来自佐治亚理工学院和蚂蚁金服的Le Song给了关于图神经网络推理的精炼讲解。探讨了神经网络与广义网络的结合，并利用图神经网络进行广义网络的变分推理。
 + [《Introduction to Graph Neural Networks》](https://booksc.xyz/book/81511304/da61a3)：2020新书《图神经网络导论》，清华大学刘知远和周杰老师著作。推荐等级：:heart::heart::heart::heart:！
 + [Learning Representations via Graph-structured Networks](https://xiaolonw.github.io/graphnnv2/)：CVPR2020-Tutorial，视觉的图网络结构表示学习
++ [Knowledge-Graph-Publications](https://github.com/wds-seu/Knowledge-Graph-Publications)：知识图谱顶会文献集锦
 
 
 <a class="toc" id ="27"></a>
@@ -1192,6 +1197,7 @@
 + [Adversarial](https://paperswithcode.com/area/adversarial)：Paperswithcode 中关于对抗学习的主题，包含许多具有开源代码的攻防论文
 + [A Complete List of All (arXiv) Adversarial Example Papers](https://nicholas.carlini.com/writing/2019/all-adversarial-example-papers.html)：汇聚了超多攻防对抗论文，推荐等级：:heart::heart::heart::heart:！
 + [Awesome Graph Attack Papers](https://github.com/ChandlerBang/awesome-graph-attack-papers)：图神经网络攻防论文集合
++ [《Adversarial Self-Supervised Contrastive Learning》](https://arxiv.org/abs/2006.07589)：对抗式自监督的对比学习，能够对未标记数据进行攻击
 
 
 <a class="toc" id ="29"></a>
@@ -1482,6 +1488,20 @@
 + [MXNET](https://github.com/tensorflow/tpu/tree/master/models/official/mnasnet/mixnet)：谷歌大脑提出 MixNet 轻量级网络，论文：[《MixConv: Mixed Depthwise Convolutional Kernels》](https://arxiv.org/abs/1907.09595)
 
 + [SIREN: Implicit Neural Representations with Periodic Activation Functions](https://vsitzmann.github.io/siren/)：这项研究提出利用周期性激活函数处理隐式神经表示，由此构建的正弦表示网络（sinusoidal representation network，SIREN）非常适合表示复杂的自然信号及其导数。[YouTube 讲解视频](https://www.youtube.com/watch?v=Q5g3p9Zwjrk&feature=youtu.be)，推荐等级：:heart::heart::heart::heart:！
+
++ [AdamP](https://github.com/clovaai/AdamP)：改进基于 Momentum 的优化器，论文[《Slowing Down the Weight Norm Increase in Momentum-based Optimizers》](https://arxiv.org/abs/2006.08217)
+
++ [ReVAE](https://github.com/thwjoy/revae-demo)：提出一种新颖的VAE模型，即冲参数化的VAE，可有效学习有意义的数据表征形式。论文[《Rethinking Semi-Supervised Learning in VAEs》](https://arxiv.org/abs/2006.10102)
+
++ [DeeperGCN](https://www.deepgcns.org/)：训练更深度的GCN。论文：[《DeeperGCN: All You Need to Train Deeper GCNs》](https://arxiv.org/abs/2006.07739)
+
++ [EDropout](https://github.com/sparsifai/edropout)：dropout 新方法，基于 energy 的dropout，论文：[《Energy-based Dropout and Pruning of Deep Neural Networks》](https://arxiv.org/abs/2006.04270)
+
++ [2SReLU](https://gitlab.com/thomio/2srelu)：新颖的非线性激活函数，论文：[《Image classification in frequency domain with 2SReLU: a second harmonics superposition activation function》](https://arxiv.org/abs/2006.10853)
+
++ GradAug：用于神经网络的新正则方法，梯度增强。论文：[《GradAug: A New Regularization Method for Deep Neural Networks》](https://arxiv.org/abs/2006.07989)
+
++ GCN-SSL：图卷积网络的自监督训练。论文[《Self-supervised Training of Graph Convolutional Networks》](https://arxiv.org/abs/2006.02380)
 
   
 
@@ -1832,5 +1852,5 @@
 
 
 <a class="toc" id ="44"></a>
-# Update (更新时间) 🕰 ：2020/06/22
+# Update (更新时间) 🕰 ：2020/06/23
 [🔙](#table-of-contents)
