@@ -46,7 +46,7 @@
 + [Dataset (数据集)  📊](#41)
 + [Coding Toolkit (代码工具) 💻](#42)
 + [Others (其它) ❓](#43)
-+ [Update (更新时间) 🕰 ：2020/06/23](#44)
++ [Update (更新时间) 🕰 ：2020/06/26](#44)
 
 
 <a class="toc" id ="1"></a>
@@ -189,6 +189,10 @@
 + [《Docker入门实战》](https://yuedu.baidu.com/ebook/d817967416fc700abb68fca1###)：《Docker入门实战》是由国内Docker社区DocKOne.io推出的刊物，旨在帮助国内爱好者学习使用Docker。
 + [Docker 中文指南](https://github.com/widuu/chinese_docker)：Docker中文文档
 + [Docker library docs](https://github.com/docker-library/docs)：Docker官方库文档，GitHub:star:3.4k​
++ [Docker slim](https://github.com/docker-slim/docker-slim)：Docker-slim 工具使用静态和动态分析方法来为你臃肿的镜像瘦身，具体使用可查看[examples](https://github.com/docker-slim/examples)。GitHub:star:8.8k。
++ [Ctop](https://github.com/bcicen/ctop)：Ctop 是一个简单的工具，它能够提供多个容器的实时指标视图。GitHub:star:10.1k​
++ [Docker-gc](https://github.com/spotify/docker-gc)：Docker 镜像垃圾回收，Docker-gc 工具通过删除不需要的容器和镜像来帮你清理 Docker 主机。它会删除存在超过一个小时的所有容器。此外，它还删除不属于任何留置容器的镜像。GitHub:star:5.1k
++ [Watchtower](https://github.com/containrrr/watchtower)：Watchtower 监视运行容器并监视这些容器最初启动时的镜像有没有变动。当 Watchtower 检测到一个镜像已经有变动时，它会使用新镜像自动重新启动相应的容器。GitHub:star:6k
 
 
 
@@ -258,6 +262,7 @@
 + [Deep Learning cheatsheets for Stanford's CS 230](https://github.com/afshinea/stanford-cs-230-deep-learning)：吴恩达CS230深度学习课小抄，[清单主页](https://stanford.edu/~shervine/teaching/cs-230.html)。
 + [Matplotlib Cheatsheet](https://github.com/rougier/matplotlib-cheatsheet)：Matplotlib 3.1 cheat sheet，GitHub:star:1.5k​
 + [Docker-cheat-sheet](https://github.com/wsargent/docker-cheat-sheet)：Docker Cheatsheet，GitHub:star:18.4k​
++ [Awesome Cheatsheet](https://github.com/vaputa/awesome-cheatsheet)：速查表资源大全
 
 
 
@@ -304,6 +309,9 @@
 + [Awesome shell](https://github.com/alebcay/awesome-shell)：一份精心组织的命令行工具及资源的列表。
 + [Awesome osx command line](https://github.com/herrbischoff/awesome-osx-command-line)：一份针对 OS X 命令行的更深入的指南。
 + [Awesome Self-supervised Learning](https://github.com/jason718/awesome-self-supervised-learning)：自监督学习资源，GitHub:star:2.3k​
++ [Awesome MATLAB](https://github.com/mikecroucher/awesome-MATLAB)：MATLAB 资源
++ [Awesome matlab](https://github.com/uhub/awesome-matlab)：MATLAB 资源
++ [Awesome Cheatsheet](https://github.com/vaputa/awesome-cheatsheet)：速查表资源大全
 
 
 <a class="toc" id ="9"></a>
@@ -529,6 +537,7 @@
 + [Holoviews](https://github.com/holoviz/holoviews)：Holoviews 可用非常少量的代码完成数据分析和可视化，后端基于Bokeh。GitHub:star:1.6k​
 + [ml-visuals](https://github.com/dair-ai/ml-visuals)：这套模板名叫 ML Visuals，是专为解决神经网络画图问题设计的。ML Visuals 提供了更加专业、美观、恰当的视觉效果和图形，可以帮助机器学习社区改善科学沟通。用户可以在 PPT 或博客中免费使用其中的视觉效果和图形。GitHub:star:1.1k。
 + [Origin](https://www.originlab.com/)：Origin是由OriginLab公司开发的一个科学绘图、数据分析软件，支持在Microsoft Windows下运行。因其功能强大且使用方便，在各国科技工作者中使用较为普遍，连诸多外文知名期刊都要求必须Origin出图。推荐等级：:heart::heart::heart::heart:！
++ [Gnuplot](http://www.gnuplot.info/)： Gnuplot是一个可移植的命令行驱动的图形绘制实用程序，适用于Linux、OS/2、MS Windows、OSX、vm和许多其他平台。
 
 
 <a class="toc" id ="12"></a>
@@ -563,6 +572,7 @@
 + [Variational Autoencoder in TensorFlow](https://jmetzen.github.io/2015-11-27/vae.html)：使用TensorFlow 1.x 实现VAE教程
 + [Soumith Chintala](https://github.com/soumith)：Pytorch 创始人 Soumith Chintala 的GitHub主页，有许多值得学习的Pytorch项目。推荐等级::heart::heart::heart::heart:！
 + [Pytorch Tutorial](https://github.com/yunjey/pytorch-tutorial)：PyTorch 深度学习教程，GitHub :star:15k，推荐等级::heart::heart::heart::heart:！
++ [Machinelearningplus](https://www.machinelearningplus.com/)：机器学习教程博客网站，内含练习（例如Numpy习题）及解答，推荐等级::heart::heart::heart:！
 + [崔庆才个人站点](https://cuiqingcai.com/)：爬虫必看博客网站
 + [知乎：Flask 10天开发一个网站](https://zhuanlan.zhihu.com/p/33038507)：一个Flask写网站的教程
 + [Do We Really Need Model Compression?](http://mitchgordon.me/machine/learning/2020/01/13/do-we-really-need-model-compression.html)：探索从零开始训练小模型所涉及的障碍，讨论为什么模型压缩有效，以及两种提高内存效率的训练方法：超参数化界限和一种能够减少或消除对事后模型压缩的需求的优化算法。
@@ -903,6 +913,7 @@
 + [Rich](https://github.com/willmcgugan/rich)：Rich 是一个可用于渲染命令行文本格式的开源 Python 库，支持对终端上的表格、进度条、Markdown、代码高亮、Emoji 表情等不同文本格式添加更为丰富的渲染效果。GitHub:star:7.3k​
 + [Muggle OCR](https://pypi.org/project/muggle-ocr)：基于深度学习的图片验证码的解决方案 - 该项目能够秒杀字符粘连重叠/透视变形/模糊/噪声等各种干扰情况，足以解决市面上绝大多数复杂的验证码场景，目前也被用于其他OCR场景。。[训练项目源码](https://github.com/kerlomz/captcha_trainer)，GitHub:star:1.2k
 + [OpenSelfSup](https://github.com/open-mmlab/OpenSelfSup)：香港中文大学多媒体实验室（MMLab）和南洋理工大学的研究者开源的一套统一的自监督学习代码库 OpenSelfSup。
++ [PyDebloatX](https://github.com/Teraskull/PyDebloatX)：开源神器，让你一键卸载 Windows 默认程序。
 
 
 
@@ -1071,6 +1082,7 @@
 + [Dreamer](https://github.com/google-research/dreamer)：Google AI 与 DeepMind 联合推出了 Dreamer，这是一种从图像中学习模型并用它来学习远见性（long-sighted）行为的 RL 智能体。通过模型预测的反向传播，Dreamer 能够利用它学得的模型高效地展开行为学习。通过从原始图像中学习计算紧凑模型状态，Dreamer 仅使用一块 GPU 即可以高效地从预测到的并行序列中学习。[GitHub 博客地址](https://dreamrl.github.io)，[论文地址](https://arxiv.org/pdf/1912.01603.pdf)
 + [Tianshou](https://github.com/thu-ml/tianshou)：训练模型的极速，与 1500 行源代码的精简，清华大学新开源强化学习平台「天授」。天授（Tianshou）是纯 基于 PyTorch 代码的强化学习框架，与目前现有基于 TensorFlow 的强化学习库不同，天授的类继承并不复杂，API 也不是很繁琐。最重要的是，天授的训练速度非常快，我们试用 Pythonic 的 API 就能快速构建与训练 RL 智能体。
 + [acme](https://github.com/deepmind/acme)：DeepMind 发布的一种新型分布式强化学习框架「Acme」，Acme 是一款用于构建可读、高效、研究型强化学习算法的框架，核心理念在于实现对强化学习智能体的简单描述，使得智能体在各种规模下运行，包括分布式智能体。研究者在设计 Acme 的过程中也充分考虑到了不同规模智能体之间的差异，并弥合了大中小型实验之间的差别。DeepMind 研究者表示：「我们的目标是使得学界和工业界开发的各种强化学习算法更轻松地复制和推广到整个机器学习社区。」[论文地址](https://arxiv.org/abs/2006.00979)
++ [NLE](https://github.com/facebookresearch/nle)：Facebook研究人员发布的基于NetHack的学习环境，这是一个对强化学习智能体的鲁棒性和泛化性进行基准测试的研究工具。研究人员指出，它可以测试当前最先进人工智能的泛化极限。
 + [2048-gym](https://github.com/FelipeMarcelino/2048-gym)：利用强化学习玩2048，一个足够有趣，又不太复杂的强化学习案例。类似项目：[2048](https://github.com/aszczepanski/2048)，[mcts 2048](https://github.com/thomasahle/mcts-2048/)。相关论文：[《Mastering 2048 with Delayed Temporal Coherence Learning, Multi-Stage Weight Promotion, Redundant Encoding and Carousel Shaping》](https://arxiv.org/abs/1604.05085)，[《Playing Game 2048 with Deep Convolutional Neural Networks Trained by Supervised Learning》](https://www.jstage.jst.go.jp/article/ipsjjip/27/0/27_340/_pdf)
 
 <a class="toc" id ="25"></a>
@@ -1542,6 +1554,7 @@
 + [SwiftLaTeX](https://github.com/SwiftLaTeX/SwiftLaTeX)：一个名为 SwiftLaTeX 的可视化编辑器。该项目最大的亮点在于：你编写的 LaTeX 代码能够立刻展示实际的效果，所见即所得。这个编辑器还是基于浏览器的，还支持云文件存储。[在线体验版本](https://www.swiftlatex.com/oauth/login_oauth?type=sandbox)。
 + [Face Detection](https://github.com/jiankangdeng/handbook)：人脸识别方面的相关论文合集。
 + [NeurIPS 2019 Notes](https://david-abel.github.io/notes/neurips_2019.pdf)：布朗大学的博士生 David Abel 公开了他的 NeurIPS 2019 参会笔记，他从深度学习理论、强化学习、博弈论和元学习等主题出发记载参会的一些亮点与主要内容。[个人主页](https://david-abel.github.io/)
++ [KDD 2020](https://www.kdd.org/kdd2020/accepted-papers)：KDD 2020 接收论文，推荐等级：:heart::heart::heart::heart:！
 + [Awesome Papers](https://github.com/murufeng/awesome-papers)：机器学习，深度学习，自然语言处理，计算机视觉方面的顶级期刊会议论文集
 + [Tableconvert](https://tableconvert.com/)：在线表格转换工具，实现将 EXCEL, CSV, URL, HTML, JSON, MARKDOWN 格式的文件转换为 Markdown, CSV/TSV, JSON, XML, YAML, SQL, HTML 表格，LaTex 表格， Plain Text 表格等格式。
 + [AsciiMath](http://asciimath.org/)：在浏览器中编辑你想要的数学公式，支持在浏览器中直接编辑和前端代码中实现。
@@ -1812,10 +1825,10 @@
 + [CodeSanbox](https://codesandbox.io/)：全面的在线代码编辑器 CodeSanbox。
 + [Paste.ubuntu](https://paste.ubuntu.com/)：paste.ubuntu 是一个单纯发布代码的网站，对于复制粘贴容易破坏原本代码美感的情况下，可以把代码放到里面，一键 Paste。有了这个神器，贴代码请大佬调试的时候再也不怕被骂这是什么鬼玩意儿
 + [App Ideas](https://github.com/florinpop17/app-ideas)：这里面收集了共 86 个可供开发者练习参考的项目创意，其中初级项目 34 个、中级 32 个、高级 20 个。同时，每个项目创意也均附上了较为详实的项目文档，指引开发者一步步完成项目的开发工具。不过代码几乎都是JS的。GitHub:star:22k，推荐等级:heart::heart::heart::heart:！
-+ [VSCode Rainbow Fart](https://saekiraku.github.io/vscode-rainbow-fart/#/zh/)：VSCode Rainbow Fart 是一个在你编程时持续夸你写的牛逼的扩展，可以根据代码关键字播放贴近代码意义的真人语音。
-
++ [VSCode Rainbow Fart](https://saekiraku.github.io/vscode-rainbow-fart/#/zh/)：VSCode Rainbow Fart 是一个在你编程时持续夸你写的牛逼的扩展，可以根据代码关键字播放贴近代码意义的真人语音。后续其他程序员推出了扩展语音包 [Kugimiya Rainbow Fart](https://github.com/zthxxx/kugimiya-rainbow-fart)：傲娇钉宫，鞭写鞭骂 - 钉宫理惠。
 
 <a class="toc" id ="43"></a>
+
 # Others (其它) ❓
 [🔙](#table-of-contents)
 
@@ -1852,5 +1865,5 @@
 
 
 <a class="toc" id ="44"></a>
-# Update (更新时间) 🕰 ：2020/06/23
+# Update (更新时间) 🕰 ：2020/06/26
 [🔙](#table-of-contents)
