@@ -46,7 +46,7 @@
 + [Dataset (数据集)  📊](#41)
 + [Coding Toolkit (代码工具) 💻](#42)
 + [Others (其它) ❓](#43)
-+ [Update (更新时间) 🕰 ：2020/06/26](#44)
++ [Update (更新时间) 🕰 ：2020/06/27](#44)
 
 
 <a class="toc" id ="1"></a>
@@ -157,13 +157,17 @@
 + [Scarpet nn](https://ashutoshbsathe.github.io/scarpet-nn/scarpet-apps/twoclassmnist/)：来自印度小哥开发的新玩法，在《我的世界》里搭建神经网络，运行过程清晰可见。[源代码](https://github.com/ashutoshbsathe/scarpet-nn)
 + [Photo2cartoon](https://github.com/minivision-ai/photo2cartoon)：人像卡通化探索项目，GitHub:star:1k​
 + [QRcp](https://github.com/claudiodangelis/qrcp)：在不离开终端的情况下，通过Wi-Fi扫描二维码，将文件从电脑传输到移动设备。GitHub:star:7k​
-+ [TNN](https://github.com/Tencent/TNN)：由腾讯优图实验室打造，移动端高性能、轻量级推理框架，同时拥有跨平台、高性能、模型压缩、代码裁剪等众多突出优势。
++ [Ventoy](https://github.com/ventoy/Ventoy)：Ventoy是一个制作可启动U盘的开源工具。有了Ventoy你就无需反复地格式化U盘，你只需要把ISO文件拷贝到U盘里面就可以启动了，无需其他操作。你可以一次性拷贝很多个不同类型的ISO文件，在启动时Ventoy会显示一个菜单来选择。无差异支持Legacy BIOS和UEFI模式。目前已经测试了各类超过260+ 个ISO文件。GitHub:star:5.7k​
++ [PowerToys](https://github.com/microsoft/PowerToys)：PowerToys是微软开发者开发的免费实用工具集，可以用于高级用户调整和简化Windows操作，以提高效率。其最早出现在Windows 95中，但并不受微软官方支持，对其测试也不够彻底。到了Windows XP时代，所有进入Windows的应用都需要进行安全审查，于是PowerToys便消失了。最近，微软宣布以官方名义重启该项目。GitHub:star:28.3k​
 
 
 
 
 <a class="toc" id ="3"></a>
 # Linux 🐧
+
+
+
 [🔙](#table-of-contents)
 
 + [Awesome Linux](https://github.com/aleksandar-todorovic/awesome-linux)：一份让Linux变得更棒的项目和资源列表。
@@ -914,6 +918,7 @@
 + [Muggle OCR](https://pypi.org/project/muggle-ocr)：基于深度学习的图片验证码的解决方案 - 该项目能够秒杀字符粘连重叠/透视变形/模糊/噪声等各种干扰情况，足以解决市面上绝大多数复杂的验证码场景，目前也被用于其他OCR场景。。[训练项目源码](https://github.com/kerlomz/captcha_trainer)，GitHub:star:1.2k
 + [OpenSelfSup](https://github.com/open-mmlab/OpenSelfSup)：香港中文大学多媒体实验室（MMLab）和南洋理工大学的研究者开源的一套统一的自监督学习代码库 OpenSelfSup。
 + [PyDebloatX](https://github.com/Teraskull/PyDebloatX)：开源神器，让你一键卸载 Windows 默认程序。
++ [Jukebox](https://github.com/openai/jukebox)：Jukebox是一款可自动生成音乐的机器学习框架，由OpenAI推出，它可以生成各种风格的歌曲，从teenybop和乡村音乐到嘻哈音乐和重金属音乐。GitHub:star:2.7k​
 
 
 
@@ -996,11 +1001,13 @@
 + [Awesome Time Series](https://github.com/cuge1995/awesome-time-series)：时间序列预测相关的比赛、论文、会议、代码、理论资源以及数据集
 + [Neoml](https://github.com/neoml-lib/neoml)：Neoml 是一个端到端的机器学习框架，允许您构建、训练和部署机器学习模型。 该框架被 ABBYY 工程师用于计算机视觉和自然语言处理任务，包括图像预处理、分类、文档布局分析、 OCR 以及从结构化和非结构化文档中提取数据。
 + [Advanced Deep Learning for Computer vision](https://dvl.in.tum.de/teaching/adl4cv-ss20/)： 慕尼黑工业大学发布的《高级深度学习》课程。重点介绍计算机视觉的前沿深度学习技术，重点介绍统计学背景、递归神经网络(RNNs)和生成模型(GANs)。课程的一部分是一个贯穿整个学期的项目，深入学习现代DL方法。
-
++ [DeepLearning-500-questions](https://github.com/scutan90/DeepLearning-500-questions)：深度学习500问，以问答形式对常用的概率知识、线性代数、机器学习、深度学习、计算机视觉等热点问题进行阐述，以帮助自己及有需要的读者。GitHub:star:38.3k，推荐等级：:heart::heart::heart::heart:！
++ [TNN](https://github.com/Tencent/TNN)：由腾讯优图实验室打造，移动端高性能、轻量级推理框架，同时拥有跨平台、高性能、模型压缩、代码裁剪等众多突出优势。
 
 
 
 <a class="toc" id ="22"></a>
+
 # Auto Machine Learning (自动机器学习) 🔧
 [🔙](#table-of-contents)
 
@@ -1419,6 +1426,7 @@
 + [Pytorch2keras](https://github.com/nerox8664/pytorch2keras)：Pytorch to Keras的转换库
 + [Benchmarking Keras and PyTorch Pre-Trained Models](https://github.com/cgnorthcutt/benchmarking-keras-pytorch)：使用PyTorch和Keras对模型复现比较
 + [Torchkeras](https://github.com/lyhue1991/torchkeras)：使用类似Keras的方法训练PyTorch模型
++ [Eat PyTorch in 20 Days](https://github.com/lyhue1991/eat_pytorch_in_20_days)：[《30天吃掉那只TensorFlow2》](https://github.com/lyhue1991/eat_tensorflow2_in_30_days)的作者发布的又一个学习项目，这次是《20天吃掉那只PyTorch》。推荐等级：❤️❤️❤️❤️！
 
 
 
@@ -1462,6 +1470,8 @@
 + [RAdam](https://github.com/LiyuanLucasLiu/RAdam)：Radam是Adam的一个新变种，它可以校正自适应学习率的方差。这个版本带来了对Vanilla Adam优化器的一个实质性的改进，该优化器确实存在差异问题。GitHub:star:2k。
 
 + [LookAhead](https://github.com/alphadl/lookahead.pytorch)：图灵奖得主Hinton的团队同样在优化器上下了功夫，对SGD进行改进，提出了一种新的优化器LookAhead，在各种深度学习任务上实现了更快的收敛。
+
++ [AdaX](https://github.com/switchablenorms/AdaX)：一个比Adam更优秀，带”长期记忆“的优化器，论文：[《AdaX: Adaptive Gradient Descent with Exponential Long Term Memory》](https://arxiv.org/abs/2004.09740)
 
 + [Ranger](https://github.com/lessw2020/Ranger-Deep-Learning-Optimizer?source=post_page)：将RAdam和LookAhead结合在一起，RAdam的效果又进一步优化了，这一协同组合命名为Ranger。
 
@@ -1679,6 +1689,7 @@
 + [Upwork](https://www.upwork.com/)：国外接项目外包平台，upwork 前身为 Elance-oDesk，与 freelancer 一样，该平台上也为多种不同行业提供服务，而不仅局限于软件外包。诸如微软、Airbnb 等知名企业，都跟 upwork 有过合作。
 + [Freelancer](http://freelancer.com)：国外接项目外包平台，目前是全球影响力最大的自由职业与众包平台，公司创办于 2010 年，总部位于澳大利亚悉尼，员工遍布 240+ 个国家，拥有 4000+ 万的雇主与自由职业者。从软件设计、开发、测试到营销、会计、法律服务，你都能在上面找到对应的合作方，其业务覆盖范围不可谓不广
 + [Fiverr](https://www.fiverr.com/)：国外接项目外包平台，同 freelancer 一样，Fiverr 也创建于 2010 年，不同的是，该公司经营业务较小，主打写作、翻译、图形设计、视频剪辑、软件编程。
++ [InternetArchitect](https://github.com/bjmashibing/InternetArchitect)：年薪百万互联网架构师课程文档及源码(公开部分)，GitHub:star:2.5k​
 
 
 
@@ -1865,5 +1876,5 @@
 
 
 <a class="toc" id ="44"></a>
-# Update (更新时间) 🕰 ：2020/06/26
+# Update (更新时间) 🕰 ：2020/06/27
 [🔙](#table-of-contents)
