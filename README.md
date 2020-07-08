@@ -46,7 +46,7 @@
 + [Dataset (数据集)  📊](#41)
 + [Coding Toolkit (代码工具) 💻](#42)
 + [Others (其它) ❓](#43)
-+ [Update (更新时间) 🕰 ：2020/06/27](#44)
++ [Update (更新时间) 🕰 ：2020/07/08](#44)
 
 
 <a class="toc" id ="1"></a>
@@ -88,6 +88,7 @@
 + [HelloGithub](https://www.hellogithub.com/)：分享GitHub上有趣，入门级的开源项目
 + [GitHubDaily ](https://github.com/GitHubDaily/GitHubDaily)：每日不定时推送一批 GitHub 上优秀的开源项目给开发者, 帮助开发者们发现当下最火的开源项目
 + [PyHubWeekly](https://github.com/Jackpopc/PyHubWeekly)：PyHubWeekly是一个精选Github上优质Python小工具的项目，宗旨：每周更新一次；精选GitHub上优质Python项目
++ [onedev](https://github.com/theonedev/onedev)：OneDev 是一个开源的一体化的 DevOps 平台，一款简单易用的 GitLab 替代品。GitHub:star:3.2k​
 + [GitHub漫游指南](https://github.com/phodal/github)：关于如何在Github上如何构建一个好的项目。、研究用户的行为、找到一些感兴趣项目的指南。推荐等级：:heart::heart::heart:！
 + [GitHub 帮助](https://help.github.com/cn#dotcom)：GitHub官方中文帮助文档，全球最大的开源网站GitHub是每个程序员必须接触的，学习它的使用百利而无一害，同时也适合学习Git
 + [GitHub Help](https://help.github.com/en)：GitHub官方英文帮助文档，由于中文文档是从英文文档翻译而来，可能有些内容不是最新，英语好的人应该看英文文档，才能实时获取最新内容
@@ -159,6 +160,7 @@
 + [QRcp](https://github.com/claudiodangelis/qrcp)：在不离开终端的情况下，通过Wi-Fi扫描二维码，将文件从电脑传输到移动设备。GitHub:star:7k​
 + [Ventoy](https://github.com/ventoy/Ventoy)：Ventoy是一个制作可启动U盘的开源工具。有了Ventoy你就无需反复地格式化U盘，你只需要把ISO文件拷贝到U盘里面就可以启动了，无需其他操作。你可以一次性拷贝很多个不同类型的ISO文件，在启动时Ventoy会显示一个菜单来选择。无差异支持Legacy BIOS和UEFI模式。目前已经测试了各类超过260+ 个ISO文件。GitHub:star:5.7k​
 + [PowerToys](https://github.com/microsoft/PowerToys)：PowerToys是微软开发者开发的免费实用工具集，可以用于高级用户调整和简化Windows操作，以提高效率。其最早出现在Windows 95中，但并不受微软官方支持，对其测试也不够彻底。到了Windows XP时代，所有进入Windows的应用都需要进行安全审查，于是PowerToys便消失了。最近，微软宣布以官方名义重启该项目。GitHub:star:28.3k​
++ [Eyepetizer](https://github.com/VIPyinzhiwei/Eyepetizer)：一个高颜值的APP项目，基于 Kotlin 语言 开发，采用 Jetpack + Coroutines + Retrofit  实现的 MVVM 架构。项目的源码恰到好处，特别适合复用和学习，源码简单易懂容易上手，而且最大程度遵守了官方的一些开发规范建议，并吸取了第三方开发规范经验。
 
 
 
@@ -201,6 +203,7 @@
 
 
 <a class="toc" id ="5"></a>
+
 # Math (数学) 📐
 [🔙](#table-of-contents)
 
@@ -220,9 +223,10 @@
 + [Professor Bingsheng He](http://maths.nju.edu.cn/~hebma/)：南方科技大学何炳生教授个人主页，有许多数学讲解文章
 + [Mathigon](https://mathigon.org/)：一本来自未来的教科书。Mathigon 提供交互式学习方式、个性化学习服务和故事化的教学内容，试图改变原本枯燥的数学学习方式，为数学学习过程注入活力，保护和提升学习者的好奇心、创造力和想象力。推荐等级：:heart::heart::heart:！
 + [penrose](https://github.com/penrose/penrose)：卡内基梅隆大学开发的一款新工具，你只需要描述一些数学关系或输入数学表达式，该软件就能自动帮你画图，从而将抽象的数学公式转化为直观的图。GitHub:star:3k，[论文地址](http://penrose.ink/media/Penrose_SIGGRAPH2020.pdf)
-
++ [Essentials of Mathematical Methods](https://github.com/yangyutu/EssentialMath)：这个开源项目是基于深度学习，机器学习以及数据建模的数学笔记。1800 页，33 章数学方法精要笔记。推荐等级：:heart::heart::heart:！
 
 <a class="toc" id ="6"></a>
+
 # Algorithm (算法) 💡
 [🔙](#table-of-contents)
 
@@ -267,6 +271,7 @@
 + [Matplotlib Cheatsheet](https://github.com/rougier/matplotlib-cheatsheet)：Matplotlib 3.1 cheat sheet，GitHub:star:1.5k​
 + [Docker-cheat-sheet](https://github.com/wsargent/docker-cheat-sheet)：Docker Cheatsheet，GitHub:star:18.4k​
 + [Awesome Cheatsheet](https://github.com/vaputa/awesome-cheatsheet)：速查表资源大全
++ [Devhints](https://devhints.io/)：这个网站里面收集了非常多技术类型的速查表，你能很轻松的从上面找到具体某项技术的快捷命令与基础语法，用上之后，相信能大幅提升开发效率。除此之外，该网站上还提供了 Linux、VSCode、Vue、Go、Python、Ruby 等诸多语言与开发者工具的速查表。推荐等级：:heart::heart::heart::heart:！
 
 
 
@@ -486,6 +491,7 @@
 + [Effectively Using Matplotlib](https://pbpython.com/effective-matplotlib.html)：如何高效使用 Python 可视化工具 Matplotlib。[GitHub地址](https://github.com/chris1610/pbpython/blob/master/notebooks/Effectively-Using-Matplotlib.ipynb)
 + [Matplotlib Gallery](https://matplotlib.org/gallery.html#lines_bars_and_markers)：一个Matplotlib图表库网站，里面有各式各样好看的图表及Python实现代码，可以帮你画出更好的图表以及快速上手学习Python中的Matplotlib库
 + [SciencePlots](https://github.com/garrettj403/SciencePlots)：科学论文画图风格的 Matplotlib style 库，安装和使用十分简单，推荐等级：❤️❤️❤️！
++ [Ipyplot](https://github.com/karolzak/ipyplot)：Jupyter 画图库，推荐等级：❤️❤️❤️！
 + [ECharts Gallery](https://gallery.echartsjs.com/explore.html#sort=rank~timeframe=all~author=all)：由百度开源的数据可视化工具，基于JavaScript编写，一个强大的，交互式的图表和浏览器可视化库，凭借着良好的交互性，精巧的图表设计，得到了众多开发者的认可
 + [PyCharts](https://pyecharts.org/#/)：Echarts 是一个由百度开源的数据可视化，凭借着良好的交互性，精巧的图表设计，得到了众多开发者的认可。而 Python 是一门富有表达力的语言，很适合用于数据处理。当数据分析遇上数据可视化时，pyecharts 诞生了。简而言之，这是一个类似Matplotlib，可以利用Python画图的工具库
 + [Draw Convnet](https://github.com/gwding/draw_convnet)：画卷积神经网络(ConvNet)结构图的Python脚本
@@ -542,6 +548,8 @@
 + [ml-visuals](https://github.com/dair-ai/ml-visuals)：这套模板名叫 ML Visuals，是专为解决神经网络画图问题设计的。ML Visuals 提供了更加专业、美观、恰当的视觉效果和图形，可以帮助机器学习社区改善科学沟通。用户可以在 PPT 或博客中免费使用其中的视觉效果和图形。GitHub:star:1.1k。
 + [Origin](https://www.originlab.com/)：Origin是由OriginLab公司开发的一个科学绘图、数据分析软件，支持在Microsoft Windows下运行。因其功能强大且使用方便，在各国科技工作者中使用较为普遍，连诸多外文知名期刊都要求必须Origin出图。推荐等级：:heart::heart::heart::heart:！
 + [Gnuplot](http://www.gnuplot.info/)： Gnuplot是一个可移植的命令行驱动的图形绘制实用程序，适用于Linux、OS/2、MS Windows、OSX、vm和许多其他平台。
++ [Sweetviz](https://github.com/fbdesignpro/sweetviz)：一个基于Python编写的数据分析软件，只要掌握3种函数用法，一行Python代码就能实现数据集可视化、分析与比较。
++ [Flourish](https://flourish.studio/)：一个更加美观、易用、强大的数据可视化工具。
 
 
 <a class="toc" id ="12"></a>
@@ -610,6 +618,7 @@
 + [Keras 文本分类](https://colab.research.google.com/drive/1XcMJqKcTLjduIqjysRd1jGdRaKdetc3X)：文本分类 Keras 教程，这个例子展示了如何从原始文本(utf-8字符的字符串)开始进行文本分类。演示了IMDB情感分类数据集(未经处理的版本)的工作流程。
 + [Data Cleaning in Python: the Ultimate Guide (2020)](https://towardsdatascience.com/data-cleaning-in-python-the-ultimate-guide-2020-c63b88bf0a0d)：数据缺失、混乱、重复怎么办？最全数据清洗指南让你所向披靡
 + [Build and Deploy your Machine Learning Application with Docker](https://dev.to/aminu_israel/build-and-deploy-your-machine-learning-application-with-docker-5322)：将深度模型API并打包成docker镜像
++ [Daksh Trehan](https://medium.com/@dakshtrehan)：Medium上一位数据科学爱好者的博客，里面博客的质量都非常高。
 
 <a class="toc" id ="13"></a>
 
@@ -845,7 +854,9 @@
 + [《Think Python》](https://greenteapress.com/wp/think-python-2e/)：Think Python》是很多计算机初学者的不二入门教材，受到广泛好评。该书原作者是美国 Olin 工程学院的教授 Allen B. Downey，目前该书的原版和中文版本都已免费开源。[中文版地址](https://codingpy.com/books/thinkpython2/index.html)。
 + [Python Tutor](http://www.pythontutor.com/)：Python Tutor 是由 Philip Guo 开发的一个免费教育工具，可帮助学生攻克编程学习中的基础障碍，理解每一行源代码在程序执行时在计算机中的过程。通过这个工具，教师或学生可以直接在 Web 浏览器中编写 Python 代码，并逐步可视化地运行程序。如果你不知道代码在内存中是如何运行的，不妨把它拷贝到Tutor里可视化执行一遍，加深理解。
 + [Skulpt](http://www.skulpt.org/)：Skulpt 是一个用 Javascript 实现的在线 Python 执行环境，它可以让你轻松在浏览器中运行 Python 代码。使用 skulpt 结合 CodeMirror 编辑器即可实现一个基本的在线Python编辑和运行环境。
++ [Ipyplot](https://github.com/karolzak/ipyplot)：Jupyter 画图库，推荐等级：❤️❤️❤️！
 + [《Python code for Artificial Intelligence: Foundations of Computational agents》](https://artint.info/AIPython/)：《人工智能Python代码》，本书的Python代码旨在演示第二版《计算agent的基础》人工智能中的一些算法，其中包含并解释了书中的所有代码。
++ [Magic Python](https://github.com/iswbm/magic-python)：《Python 黑魔法指南》，带你玩不一样的 Python
 
  
 
@@ -952,6 +963,7 @@
 [🔙](#table-of-contents)
 
 + [Numpy Machine Learning](https://github.com/ddbourgin/numpy-ml)：普林斯顿博士后 David Bourgin 最近在GitHub上开源的一个非常剽悍的项目，用 NumPy 手写所有主流 ML 模型，超过 3 万行代码、30 多个模型。推荐等级：:heart::heart::heart:！
++ [Reddit](https://www.reddit.com/r/MachineLearning/)：Reddit 上机器学习的讨论板块，类似的有 [DeepLearning](https://www.reddit.com/r/deeplearning/) 板块。推荐等级：:heart::heart::heart::heart:！
 + [机器学习原理](https://github.com/shunliz/Machine-Learning)：GitHbu上:star:五百多的小项目，内容都是网上扒来的，前半部分关注数学基础，机器学习和深度学习的理论部分，详尽的公式推导。后半部分关注工程实践和理论应用部分
 + [机器学习原理笔记整理](https://shunliz.gitbooks.io/machine-learning/content/)：机器学习原理项目笔记
 + [Homemade Machine Learning](https://github.com/trekhleb/homemade-machine-learning)：GitHub上:star:12k的项目，内容包含大多流行的机器学习算法的Python手工实现，并未使用常见的深度学习框架（TensofFlow等），便于理解算法原理，同时还附有数学原理以及Demo展示，十分适合自学的机器学习，作者博客：[Jack Cui](https://cuijiahua.com/blog/spider/)
@@ -1003,6 +1015,7 @@
 + [Advanced Deep Learning for Computer vision](https://dvl.in.tum.de/teaching/adl4cv-ss20/)： 慕尼黑工业大学发布的《高级深度学习》课程。重点介绍计算机视觉的前沿深度学习技术，重点介绍统计学背景、递归神经网络(RNNs)和生成模型(GANs)。课程的一部分是一个贯穿整个学期的项目，深入学习现代DL方法。
 + [DeepLearning-500-questions](https://github.com/scutan90/DeepLearning-500-questions)：深度学习500问，以问答形式对常用的概率知识、线性代数、机器学习、深度学习、计算机视觉等热点问题进行阐述，以帮助自己及有需要的读者。GitHub:star:38.3k，推荐等级：:heart::heart::heart::heart:！
 + [TNN](https://github.com/Tencent/TNN)：由腾讯优图实验室打造，移动端高性能、轻量级推理框架，同时拥有跨平台、高性能、模型压缩、代码裁剪等众多突出优势。
++ [TextHero](https://texthero.org/)：号称「从小白到大神」的Texthero的工具包。快速优雅地处理你的NLP数据集，不仅编写界面友好美观，而且功能全面，预处理、表征、可视化样样精通。
 
 
 
@@ -1048,6 +1061,7 @@
 + [Yet Another EfficientDet Pytorch](https://github.com/zylo117/Yet-Another-EfficientDet-Pytorch)：PyTorch版 EfficientDet，比官方TF实现快25倍，GitHub:star:1.4k，推荐等级：:heart::heart::heart::heart:！
 + [CVPR2020-Code](https://github.com/amusi/CVPR2020-Code)：CVPR 2020接收论文的开源项目合集，GitHub:star:1.8k​
 + [CVPR 2020 open access](http://openaccess.thecvf.com/CVPR2020.py)：CVPR 2020 接收论文大全
++ [ImageProcessing-Python](https://github.com/eastmountyxz/ImageProcessing-Python)：该资源为作者在CSDN的撰写Python图像处理文章的支撑，主要是Python实现图像处理、图像识别、图像分类等算法代码实现。
 
 
 
@@ -1174,6 +1188,7 @@
 + [《Introduction to Graph Neural Networks》](https://booksc.xyz/book/81511304/da61a3)：2020新书《图神经网络导论》，清华大学刘知远和周杰老师著作。推荐等级：:heart::heart::heart::heart:！
 + [Learning Representations via Graph-structured Networks](https://xiaolonw.github.io/graphnnv2/)：CVPR2020-Tutorial，视觉的图网络结构表示学习
 + [Knowledge-Graph-Publications](https://github.com/wds-seu/Knowledge-Graph-Publications)：知识图谱顶会文献集锦
++ [OpenHINE](https://github.com/BUPTDM/OpenHINE)：为了方便大家对异质信息网络表示学习（HINE）开展相关的实验或研究，北京邮电大学 DMGroup 的研究人员在 GitHub 上发布了 HINE 训练和测试框架 OpenHINE。
 
 
 <a class="toc" id ="27"></a>
@@ -1337,6 +1352,7 @@
 + [EfficientNet-lite](https://github.com/tensorflow/tpu/tree/master/models/official/efficientnet/lite)：EfficientNet-Lite 为边缘设备带来了 EfficientNet 上强大的性能，并且提供五个不同版本，让用户能够根据自己的应用场景灵活地在低延迟与高精度之间选择。
 + [TFmatch](https://github.com/lzx551402/tfmatch)：基于 TensorFlow 的图像匹配算法库（特征检测+描述）
 + [TF-AGENTS](https://github.com/tensorflow/agents)：作为一款优秀的强化学习框架 TF-AGENTS 可以让强化学习的工程师和科学家在设计、实现以及测试新的强化学习算法时更加的方便与快捷。同时，由于对代码结构的精心设计，在实际使用它时也有利于提高使用者的产品迭代速度。不仅仅如此，TF-AGENTS 还提供了基础的测试与基准测试部分帮助大家快速上手与构建“第一个强化学习”程序。GitHub:star:1.4k​
++ [TensorNetwork](https://github.com/google/TensorNetwork)：TensorNetwork 是 19 年 6 月发布的一个开源库，用于简化张量网络中的计算。[示例代码](https://colab.research.google.com/github/google/TensorNetwork/blob/master/colabs/Tensor_Networks_in_Neural_Networks.ipynb)，GitHub:star:1.3k。相关论文：Khrulkov et al. 的论文：https://arxiv.org/abs/1901.10787。Ma et al. 的：论文https://arxiv.org/abs/1906.09777。Lebedev et al. 的论文：https://arxiv.org/abs/1412.6553。此论文：https://arxiv.org/abs/cond-mat/0406440
 
 
 <a class="toc" id ="32"></a>
@@ -1402,7 +1418,7 @@
 + [SpeedTorch](https://github.com/Santosh-Gupta/SpeedTorch)：机器学习中，有一个限制速度的环节，那就是从 CPU 到 GPU 之间的张量迁移。很多计算只能在 CPU 上进行，然后迁移到 GPU 进行后续的训练工作，因此迁移中如果速度太慢，则会拖累整个模型的训练效率。近日，有一位开发者开源了针对 PyTorch 的 CPU->GPU 迁移工具，相比原版加速了 110 倍之多。
 + [《动手深度学习》](https://github.com/d2l-ai/d2l-zh)：动手深度学习(Dive into Deep Learning)一书仓库，Github :star:10k+。面向中文读者、能运行、可讨论。英文版即伯克利“深度学习导论”教材。[原书地址](https://zh.d2l.ai/)，[课程B站视频](https://space.bilibili.com/209599371/channel/detail?cid=23541)，[官网](http://zh.d2l.ai/index.html)。推荐等级：:heart::heart::heart:！
 + [《动手学深度学习 (PyTorch)》](https://github.com/ShusenTang/Dive-into-DL-PyTorch)：该项目将《动手学深度学习》(Dive into Deep Learning)原书中的MXNet实现改为PyTorch实现，[在线版本](http://tangshusen.me/Dive-into-DL-PyTorch/#/)。然而，源项目由于写的是 Markdown ,公式和代码显示不太方便阅读。一位中国海洋大学大三学生将上面 PyTorch 版本的《动手深度学习》编译成完整的 PDF 文件。方便大家阅读以及解决 GitHub 上公式显示不全的问题。GitHub 地址 [Dive-into-DL-PyTorch.pdf](https://github.com/OUCMachineLearning/OUCML/blob/master/BOOK/Dive-into-DL-PyTorch.pdf)。推荐等级：:heart::heart::heart:！
-+ [《Deep Learning With Pytorch》](https://pytorch.org/deep-learning-with-pytorch-thank-you)：Pytorch官网Pytorch.org最近发布了一本开源书深度学习《Deep Learning with PyTorch》，共141页pdf，限时开放，涵盖了深度学习和Pytorch库的介绍，预训练网络，张量，学习机制，数据神经网络学习。书里面有详实的代码，是入门学习Pytorch深度学习必备器物，不得不看！[GitHub仓库代码](https://github.com/deep-learning-with-pytorch/dlwpt-code)。推荐等级：:heart::heart:！
++ [《Deep Learning With Pytorch》](https://pytorch.org/assets/deep-learning/Deep-Learning-with-PyTorch.pdf)：PyTorch 终于发布了该书的免费版本。全书约 500 页，包含 15 个章节，内容详实，图文并茂，涵盖了深度学习和Pytorch库的介绍，预训练网络，张量，学习机制，数据神经网络学习。书里面有详实的代码，是入门学习Pytorch深度学习必备器物，不得不看！该书还有[讨论论坛](https://livebook.manning.com/#!/book/deep-learning-with-pytorch/discussion)，以及[配套代码](https://github.com/deep-learning-with-pytorch/dlwpt-code)。推荐等级：:heart::heart::heart::heart:！
 + [PyTorch: An Imperative Style, High-PerformanceDeep Learning Library](https://papers.nips.cc/paper/9015-pytorch-an-imperative-style-high-performance-deep-learning-library.pdf)：NIPS 2019接收为poster的论文，由PyTorch 开发项目组发表，完整且系统地介绍了 PyTorch 本身。推荐等级：:heart::heart::heart:！
 + [高效入门pytorch视频教程](https://www.bilibili.com/video/av78848066?p=1&share_medium=android&share_source=copy_link&bbid=PQ05DmoLags-WjsNcQ1xinfoc&ts=1576063595154)：南开大学王老师强烈推荐的《高效入门pytorch视频教程》（33集完整版），推荐等级：:heart::heart::heart:！
 + [Pytorch Playground](https://github.com/aaron-xichen/pytorch-playground)：Pytorch中的基本预训练模型和数据集(MNIST、SVHN、CIFAR10、CIFAR100、STL10、AlexNet、VGG16、VGG19、ResNet、Inception、SqueezeNet)，GitHub:star:1.9k
@@ -1524,6 +1540,8 @@
 + GradAug：用于神经网络的新正则方法，梯度增强。论文：[《GradAug: A New Regularization Method for Deep Neural Networks》](https://arxiv.org/abs/2006.07989)
 
 + GCN-SSL：图卷积网络的自监督训练。论文[《Self-supervised Training of Graph Convolutional Networks》](https://arxiv.org/abs/2006.02380)
+
++ [EDA_GNN](https://github.com/peizhaoli05/EDA_GNN)：基于图卷积GNN的多目标跟踪算法，论文：[《Graph Neural Based End-to-end Data Association Framework for Online Multiple-Object Tracking》](https://arxiv.org/abs/1907.05315)
 
   
 
@@ -1876,5 +1894,5 @@
 
 
 <a class="toc" id ="44"></a>
-# Update (更新时间) 🕰 ：2020/06/27
+# Update (更新时间) 🕰 ：2020/07/08
 [🔙](#table-of-contents)
