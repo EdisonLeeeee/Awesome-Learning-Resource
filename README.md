@@ -46,7 +46,7 @@
 + [Dataset (数据集)  📊](#41)
 + [Coding Toolkit (代码工具) 💻](#42)
 + [Others (其它) ❓](#43)
-+ [Update (更新时间) 🕰 ：2020/07/08](#44)
++ [Update (更新时间) 🕰 ：2020/07/09](#44)
 
 
 <a class="toc" id ="1"></a>
@@ -618,7 +618,7 @@
 + [Keras 文本分类](https://colab.research.google.com/drive/1XcMJqKcTLjduIqjysRd1jGdRaKdetc3X)：文本分类 Keras 教程，这个例子展示了如何从原始文本(utf-8字符的字符串)开始进行文本分类。演示了IMDB情感分类数据集(未经处理的版本)的工作流程。
 + [Data Cleaning in Python: the Ultimate Guide (2020)](https://towardsdatascience.com/data-cleaning-in-python-the-ultimate-guide-2020-c63b88bf0a0d)：数据缺失、混乱、重复怎么办？最全数据清洗指南让你所向披靡
 + [Build and Deploy your Machine Learning Application with Docker](https://dev.to/aminu_israel/build-and-deploy-your-machine-learning-application-with-docker-5322)：将深度模型API并打包成docker镜像
-+ [Daksh Trehan](https://medium.com/@dakshtrehan)：Medium上一位数据科学爱好者的博客，里面博客的质量都非常高。
++ [Daksh Trehan](https://medium.com/@dakshtrehan)：Medium上一位外国数据分析博主，写的博客的质量都非常高。
 
 <a class="toc" id ="13"></a>
 
@@ -1015,6 +1015,7 @@
 + [Advanced Deep Learning for Computer vision](https://dvl.in.tum.de/teaching/adl4cv-ss20/)： 慕尼黑工业大学发布的《高级深度学习》课程。重点介绍计算机视觉的前沿深度学习技术，重点介绍统计学背景、递归神经网络(RNNs)和生成模型(GANs)。课程的一部分是一个贯穿整个学期的项目，深入学习现代DL方法。
 + [DeepLearning-500-questions](https://github.com/scutan90/DeepLearning-500-questions)：深度学习500问，以问答形式对常用的概率知识、线性代数、机器学习、深度学习、计算机视觉等热点问题进行阐述，以帮助自己及有需要的读者。GitHub:star:38.3k，推荐等级：:heart::heart::heart::heart:！
 + [TNN](https://github.com/Tencent/TNN)：由腾讯优图实验室打造，移动端高性能、轻量级推理框架，同时拥有跨平台、高性能、模型压缩、代码裁剪等众多突出优势。
++ [Tengine Lite](https://github.com/OAID/Tengine/tree/tengine-lite)：Tengine Lite 由 OPEN AI LAB 主导开发，该项目实现了深度学习神经网络模型在嵌入式设备上快速、高效部署。为实现众多 AIoT 应用中跨平台部署，本项目基于原有 Tengine 项目使用 C 语言进行重构，针对嵌入式设备资源有限的特点进行深度框架裁剪。同时采用完全分离的前后端设计，利于 CPU、GPU、NPU 等异构计算单元快速移植和部署。同时兼容 Tengine 框架原有 API 和 模型格式 tmfile，降低评估、迁移成本。GitHub:star:1.4k​
 + [TextHero](https://texthero.org/)：号称「从小白到大神」的Texthero的工具包。快速优雅地处理你的NLP数据集，不仅编写界面友好美观，而且功能全面，预处理、表征、可视化样样精通。
 
 
@@ -1105,6 +1106,7 @@
 + [acme](https://github.com/deepmind/acme)：DeepMind 发布的一种新型分布式强化学习框架「Acme」，Acme 是一款用于构建可读、高效、研究型强化学习算法的框架，核心理念在于实现对强化学习智能体的简单描述，使得智能体在各种规模下运行，包括分布式智能体。研究者在设计 Acme 的过程中也充分考虑到了不同规模智能体之间的差异，并弥合了大中小型实验之间的差别。DeepMind 研究者表示：「我们的目标是使得学界和工业界开发的各种强化学习算法更轻松地复制和推广到整个机器学习社区。」[论文地址](https://arxiv.org/abs/2006.00979)
 + [NLE](https://github.com/facebookresearch/nle)：Facebook研究人员发布的基于NetHack的学习环境，这是一个对强化学习智能体的鲁棒性和泛化性进行基准测试的研究工具。研究人员指出，它可以测试当前最先进人工智能的泛化极限。
 + [2048-gym](https://github.com/FelipeMarcelino/2048-gym)：利用强化学习玩2048，一个足够有趣，又不太复杂的强化学习案例。类似项目：[2048](https://github.com/aszczepanski/2048)，[mcts 2048](https://github.com/thomasahle/mcts-2048/)。相关论文：[《Mastering 2048 with Delayed Temporal Coherence Learning, Multi-Stage Weight Promotion, Redundant Encoding and Carousel Shaping》](https://arxiv.org/abs/1604.05085)，[《Playing Game 2048 with Deep Convolutional Neural Networks Trained by Supervised Learning》](https://www.jstage.jst.go.jp/article/ipsjjip/27/0/27_340/_pdf)
++ [RLs](https://github.com/StepNeverStop/RLs)：Tensorflow2.0实现29种深度强化学习算法大汇总
 
 <a class="toc" id ="25"></a>
 
@@ -1123,6 +1125,7 @@
 + [xmall](https://github.com/Exrick/xmall)：基于SOA架构的分布式电商购物商城 前后端分离。GitHub:star:5.4k​
 + [litemall](https://github.com/linlinjava/litemall)：一个小商城。litemall = Spring Boot后端 + Vue管理员前端 + 微信小程序用户前端 + Vue用户移动端。GitHub:star:13.3k
 + [mall](https://github.com/macrozheng/mall)：mall项目是一套电商系统，包括前台商城系统及后台管理系统，基于SpringBoot+MyBatis实现，采用Docker容器化部署。 前台商城系统包含首页门户、商品推荐、商品搜索、商品展示、购物车、订单流程、会员中心、客户服务、帮助中心等模块。 后台管理系统包含商品管理、订单管理、会员管理、促销管理、运营管理、内容管理、统计报表、财务管理、权限管理、设置等模块。GitHub:star:36.4k​
++ [RecSys](https://github.com/qcymkxyc/RecSys)：项亮的《推荐系统实践》的代码实现以及结果展示分析
 
 
 
@@ -1254,9 +1257,10 @@
 + [Gradient Based Pruning](https://drive.google.com/file/d/1TeuWJ-clTa30andouyYNYn4Vh1bHMC2J/view)：基于梯度的剪枝介绍
 + [Awesome-model-compression-and-acceleration](https://github.com/memoiry/Awesome-model-compression-and-acceleration)：模型压缩论文大全，GitHub:star:467​
 + [Awesome Knowledge Distillation](https://github.com/dkozlov/awesome-knowledge-distillation)：作为模型压缩的一种方法，知识蒸馏能够利用已经训练的一个较复杂的模型，来指导一个较轻量的模型训练，从而在减小模型大小和计算资源的同时，尽量保持原始大模型的准确率的方法。Github上的dkozlov同学，整理了Knowledge Distilling的paper、教程、代码，看完这些资料，你一定有所收获
-
++ [Model Compression](https://github.com/666DZY666/model-compression)：基于pytorch实现模型压缩
 
 <a class="toc" id ="30"></a>
+
 # Object Detection (目标检测) 🔎
 [🔙](#table-of-contents)
 
@@ -1353,6 +1357,7 @@
 + [TFmatch](https://github.com/lzx551402/tfmatch)：基于 TensorFlow 的图像匹配算法库（特征检测+描述）
 + [TF-AGENTS](https://github.com/tensorflow/agents)：作为一款优秀的强化学习框架 TF-AGENTS 可以让强化学习的工程师和科学家在设计、实现以及测试新的强化学习算法时更加的方便与快捷。同时，由于对代码结构的精心设计，在实际使用它时也有利于提高使用者的产品迭代速度。不仅仅如此，TF-AGENTS 还提供了基础的测试与基准测试部分帮助大家快速上手与构建“第一个强化学习”程序。GitHub:star:1.4k​
 + [TensorNetwork](https://github.com/google/TensorNetwork)：TensorNetwork 是 19 年 6 月发布的一个开源库，用于简化张量网络中的计算。[示例代码](https://colab.research.google.com/github/google/TensorNetwork/blob/master/colabs/Tensor_Networks_in_Neural_Networks.ipynb)，GitHub:star:1.3k。相关论文：Khrulkov et al. 的论文：https://arxiv.org/abs/1901.10787。Ma et al. 的：论文https://arxiv.org/abs/1906.09777。Lebedev et al. 的论文：https://arxiv.org/abs/1412.6553。此论文：https://arxiv.org/abs/cond-mat/0406440
++ [RLs](https://github.com/StepNeverStop/RLs)：Tensorflow2.0实现29种深度强化学习算法大汇总
 
 
 <a class="toc" id ="32"></a>
@@ -1894,5 +1899,5 @@
 
 
 <a class="toc" id ="44"></a>
-# Update (更新时间) 🕰 ：2020/07/08
+# Update (更新时间) 🕰 ：2020/07/09
 [🔙](#table-of-contents)
