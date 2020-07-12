@@ -46,7 +46,7 @@
 + [Dataset (数据集)  📊](#41)
 + [Coding Toolkit (代码工具) 💻](#42)
 + [Others (其它) ❓](#43)
-+ [Update (更新时间) 🕰 ：2020/07/11](#44)
++ [Update (更新时间) 🕰 ：2020/07/12](#44)
 
 
 <a class="toc" id ="1"></a>
@@ -685,6 +685,8 @@
 
 + [Daksh Trehan](https://medium.com/@dakshtrehan)：Medium上一位外国数据分析博主，写的博客的质量都非常高。
 
++ [Hairstyle Transfer — Semantic Editing GAN Latent Code](https://medium.com/swlh/hairstyle-transfer-semantic-editing-gan-latent-code-b3a6ccf91e82)：使用GAN进行发型改变教程博客。
+
   
 
 <a class="toc" id ="13"></a>
@@ -1280,13 +1282,14 @@
 + [GAN](https://github.com/YadiraF/GAN)：GAN, DCGAN, WGAN, CGAN, InfoGAN 等各种 GAN 的实现和资源大全，GitHub:star:1.7k​
 + [Keras-GAN](https://github.com/eriklindernoren/Keras-GAN)：Keras 的 GAN 实现版本，GitHub:star:7k​
 
-
 <a class="toc" id ="28"></a>
+
 # Adversarial Attack and Defense (对抗攻防)⚔🛡
 [🔙](#table-of-contents)
 
 + [Advertorch](https://github.com/BorealisAI/advertorch)：对抗鲁棒性研究工具，实现了大多数的对抗攻防算法（CV领域）。
 + [Cleverhans](https://github.com/tensorflow/cleverhans)：一个用于构建攻击、构建防御和基准测试的对抗性示例库。
++ [AdvBox](https://github.com/advboxes/AdvBox)：百度开源的 AdvBox是一款支持PaddlePaddle、Caffe2以及TensorFlow的针对深度学习模型生成对抗样本的工具包。
 + [HackingNeuralNetworks](https://github.com/Kayzaks/HackingNeuralNetworks)：神经网络真的在软件层面上是安全吗？ GitHub 趋势榜上有一个「骇入神经网络指南」项目。作者提供了一系列教学资料和代码，告诉了我们黑客会怎样对神经网络发起攻击。和对抗样本攻击不同，这些攻击都是从软件层面进行的，和使用对抗样本混淆模型能力的攻击不同。[教程文章地址](https://github.com/Kayzaks/HackingNeuralNetworks/blob/master/Article.pdf)。
 + [Papers of Robust ML](https://github.com/rainy1998/nlp-/blob/f62680e9663dc89920bd5dbbf44759e190ffd08c/Papers-of-Robust-ML.md)：Robust-ML的相关论文集
 + [Adversarial-DL](https://github.com/mbs0221/Adversarial-DL)：对抗深度学习的论文集
@@ -1536,11 +1539,8 @@
 [🔙](#table-of-contents)
 
 + [Paperswithcode](https://paperswithcode.com/)：如其名，收录了大量带有源代码的论文，[Github同名项目](https://github.com/zziz/pwc)，推荐等级：:heart::heart::heart::heart:！
-
 + [Releasing Research Code](https://github.com/paperswithcode/releasing-research-code)：如何恰当地提交代码，才能既保证研究的可复现性，又能扩大传播？近日，PapersWithCode 发布了机器学习代码完整性自查清单。目前，该清单已成为 NeurIPS 2020 代码提交流程的一部分。
-
 + [ArXiv Sanity](http://www.arxiv-sanity.com/)：类似Paperswithcode，旨在提升获取研究成果的效率与体验
-
 + NeurIPS 2019（具备代码完整性的项目）：
 
   - https://github.com/kakaobrain/fast-autoaugment
@@ -1548,81 +1548,47 @@
   - https://github.com/eth-sri/eran
   - https://github.com/NVlabs/selfsupervised-denoising
   - https://github.com/facebookresearch/FixRes
-
 + [PC-DARTS](https://arxiv.org/abs/1907.05737)：在此论文中，来自上海交通大学和华为诺亚方舟实验室的研究人员提出了一种基于部分通道采样的内存高效的可微网络结构搜索方法方法，能够显著提升可微式搜索的速度和性能。该方法在 CIFAR10 数据集上，只需要 0.1 个 GPU 天（单卡 1.5 小时）就可以完成一次搜索过程，并且达到 2.57% 的测试错误率；即使在 ImageNet 数据集上直接搜索，该方法也只需要 3.8 个 GPU 天（8 卡 11.5 小时），并且在 ImageNet 的移动设定（600M 运算）中达到 24.2%/7.3% 的 top-1/top-5 测试错误率。难得的是，该方法展示出了在不同参数设定下的搜索稳定性，能够很容易地应用于不同的实际场景。[GitHub地址](https://github.com/yuhuixu1993/PC-DARTS)
-
 + [Hashing Deep Learning](https://github.com/keroro824/HashingDeepLearning)：在[该论文](https://www.cs.rice.edu/~as143/Papers/SLIDE_MLSys.pdf)中采用的局部敏感哈希（Locality Sensitive Hashing）算法，并在神经网络中使用了自适应 dropout，在 Amazon-670K 这样的复杂分类数据集上，超一亿参数量的大型神经网络训练时间竟然是 SLIDE + CPU 最快，连 TensorFlow + Tesla V100 都要慢很多，而且从迭代步数上看，它们两者是等价的，表明模型的收敛行为是相同的。
-
 + [Neural Tangents](https://ai.googleblog.com/2020/03/fast-and-easy-infinitely-wide-networks.html)：推导有限网络的无限宽度限制需要大量的数学知识，并且必须针对不同研究的体系结构分别进行计算。对工程技术水平的要求也很高。谷歌最新开源的 **Neural Tangents**，旨在解决这个问题，让研究人员能够轻松建立、训练无限宽神经网络。甚至只需要5行代码，就能够打造一个无限宽神经网络模型。这一研究成果已经中了ICLR 2020。戳进Colab链接，即可在线试玩。[论文地址](https://arxiv.org/abs/1912.02803)，[Colab地址](https://colab.research.google.com/github/google/neural-tangents/blob/master/notebooks/neural_tangents_cookbook.ipynb)，[GitHub地址](https://github.com/google/neural-tangents)
-
 + [One Pixel Attack Keras](https://github.com/Hyperparticle/one-pixel-attack-keras)："One pixel attack for fooling deep neural networks"  的Keras实现
-
 + [RAdam](https://github.com/LiyuanLucasLiu/RAdam)：Radam是Adam的一个新变种，它可以校正自适应学习率的方差。这个版本带来了对Vanilla Adam优化器的一个实质性的改进，该优化器确实存在差异问题。GitHub:star:2k。
-
 + [LookAhead](https://github.com/alphadl/lookahead.pytorch)：图灵奖得主Hinton的团队同样在优化器上下了功夫，对SGD进行改进，提出了一种新的优化器LookAhead，在各种深度学习任务上实现了更快的收敛。
-
 + [AdaX](https://github.com/switchablenorms/AdaX)：一个比Adam更优秀，带”长期记忆“的优化器，论文：[《AdaX: Adaptive Gradient Descent with Exponential Long Term Memory》](https://arxiv.org/abs/2004.09740)
-
 + [Ranger](https://github.com/lessw2020/Ranger-Deep-Learning-Optimizer?source=post_page)：将RAdam和LookAhead结合在一起，RAdam的效果又进一步优化了，这一协同组合命名为Ranger。
-
 + [Real Time Voice Cloning](https://github.com/CorentinJ/Real-Time-Voice-Cloning)：实时语音克隆，相关论文：[《Transfer Learning from Speaker Verification to Multispeaker Text-To-Speech Synthesis》](https://arxiv.org/abs/1806.04558)
-
 + [UGATIT](https://github.com/taki0112/UGATIT)：图像翻译，相关论文：[《U-GAT-IT: Unsupervised Generative Attentional Networks with Adaptive Layer-Instance Normalization for Image-to-Image Translation》](https://arxiv.org/abs/1907.10830)
-
 + [Dlrm](https://github.com/facebookresearch/dlrm)：推荐系统，相关论文：[《Deep Learning Recommendation Model for Personalization and Recommendation Systems》](https://arxiv.org/abs/1906.00091)
-
 + [TecoGAN](https://github.com/thunil/TecoGAN)：生成式对抗网络，相关论文：[《Learning Temporal Coherence via Self-Supervision for GAN-based Video Generation》](https://arxiv.org/abs/1811.09393)
-
 + [Megatron-LM](https://github.com/NVIDIA/Megatron-LM)：语言模型
-
 + [TensorNetwork](https://github.com/google/tensornetwork)：张量网络，相关论文：[《TensorNetwork for Machine Learning》](https://arxiv.org/abs/1906.06329)
-
 + [Python_autocomplete](https://github.com/vpj/python_autocomplete)：代码自动补全
-
 + [Buffalo](https://github.com/kakao/buffalo)：推荐系统
-
 + [Realistic-Neural-Talking-Head-Models](https://github.com/vincent-thevenin/Realistic-Neural-Talking-Head-Models)：图像生成，相关论文：[《Few-Shot Adversarial Learning of Realistic Neural Talking Head Models》](https://arxiv.org/abs/1905.08233)
-
 + [BigBiGAN](https://github.com/SreeHarshaNelaturu/BigBiGAN)：DeepMind开源最牛无监督学习BigBiGAN预训练模型，开源代码可以在TF Hub上找到。[论文地址](https://arxiv.org/pdf/1907.02544.pdf)以及[预训练模型地址](https://tfhub.dev/s?publisher=deepmind&q=bigbigan)，[示例使用](https://t.co/ixQZJaABRJ?amp=1)。
-
 + [DRAW](https://hackernoon.com/understanding-a-recurrent-neural-network-for-image-generation-7e2f83wdg)：最近，谷歌 DeepMInd 发表论文( DRAW: A Recurrent Neural Network For Image Generation），提出了一个用于图像生成的递归神经网络，该系统大大提高了 MNIST 上生成模型的质量。为更加深入了解 DRAW， Eric Jang 用 158 行 Python 代码实现该系统的思路，详细阐述了 DRAW 的概念、架构和优势等。[代码地址](https://github.com/shugert/DRAW)
-
 + [MMT](https://github.com/yxgeee/MMT)：港中文开源无监督学习框架MMT，提供更鲁棒的伪标签，旨在解决更实际的开放集无监督领域自适应问题，ICLR 2020 论文：[《Mutual Mean-Teaching: Pseudo Label Refinery for Unsupervised Domain Adaptation on Person Re-identification》
-
 + [3D Photo Inpainting](https://shihmengli.github.io/3D-Photo-Inpainting/)﻿：来自弗吉尼亚理工大学、台湾清华大学和 Facebook 的研究者提出了一种将单个 RGB-D 输入图像转换为 3D 照片的方法，利用多层表示合成新视图，且新视图包含原始视图中遮挡区域的 hallucinated 颜色和深度结构。[论文地址](https://arxiv.org/pdf/2004.04727.pdf﻿)，[项目地址](https://github.com/vt-vl-lab/3d-photo-inpainting)
-
 + [Disout](https://github.com/huawei-noah/Disout)：华为诺亚实验室开源Disout算法，直接对标谷歌申请专利的Dropout算法。在多项任务上，华为的新算法都超过了Dropout。比如，在ImageNet上训练的ResNet-50可以达到78.76%的准确率，而谷歌Dropout系列方法仅为76.8%。这一算法背后的论文，已被AAAI 2020收录，[论文地址](https://www.aaai.org/Papers/AAAI/2020GB/AAAI-TangY.402.pdf)
-
 + [Consistent Video Depth Estimation](https://arxiv.org/abs/2004.15021)：来自华盛顿大学和Facebook的最新单目深度估计算法，完美重建3D场景，画面毫无违和感，已中SIGGRAPH 2020。[项目地址](https://roxanneluo.github.io/Consistent-Video-Depth-Estimation/)
-
 + [fairseq](https://github.com/pytorch/fairseq)：来自 Facebook 的研究者提出了一种新的模型量化压缩技术 Quant-Noise，可对模型进行极致压缩，同时在实际应用部署时保持高性能。[论文地址](https://arxiv.org/abs/2004.07320)
-
 + [MXNET](https://github.com/tensorflow/tpu/tree/master/models/official/mnasnet/mixnet)：谷歌大脑提出 MixNet 轻量级网络，论文：[《MixConv: Mixed Depthwise Convolutional Kernels》](https://arxiv.org/abs/1907.09595)
-
 + [SIREN: Implicit Neural Representations with Periodic Activation Functions](https://vsitzmann.github.io/siren/)：这项研究提出利用周期性激活函数处理隐式神经表示，由此构建的正弦表示网络（sinusoidal representation network，SIREN）非常适合表示复杂的自然信号及其导数。[YouTube 讲解视频](https://www.youtube.com/watch?v=Q5g3p9Zwjrk&feature=youtu.be)，推荐等级：:heart::heart::heart::heart:！
-
 + [AdamP](https://github.com/clovaai/AdamP)：改进基于 Momentum 的优化器，论文[《Slowing Down the Weight Norm Increase in Momentum-based Optimizers》](https://arxiv.org/abs/2006.08217)
-
 + [ReVAE](https://github.com/thwjoy/revae-demo)：提出一种新颖的VAE模型，即冲参数化的VAE，可有效学习有意义的数据表征形式。论文[《Rethinking Semi-Supervised Learning in VAEs》](https://arxiv.org/abs/2006.10102)
-
 + [DeeperGCN](https://www.deepgcns.org/)：训练更深度的GCN。论文：[《DeeperGCN: All You Need to Train Deeper GCNs》](https://arxiv.org/abs/2006.07739)
-
 + [EDropout](https://github.com/sparsifai/edropout)：dropout 新方法，基于 energy 的dropout，论文：[《Energy-based Dropout and Pruning of Deep Neural Networks》](https://arxiv.org/abs/2006.04270)
-
 + [2SReLU](https://gitlab.com/thomio/2srelu)：新颖的非线性激活函数，论文：[《Image classification in frequency domain with 2SReLU: a second harmonics superposition activation function》](https://arxiv.org/abs/2006.10853)
-
 + GradAug：用于神经网络的新正则方法，梯度增强。论文：[《GradAug: A New Regularization Method for Deep Neural Networks》](https://arxiv.org/abs/2006.07989)
-
 + GCN-SSL：图卷积网络的自监督训练。论文[《Self-supervised Training of Graph Convolutional Networks》](https://arxiv.org/abs/2006.02380)
-
 + [EDA_GNN](https://github.com/peizhaoli05/EDA_GNN)：基于图卷积GNN的多目标跟踪算法，论文：[《Graph Neural Based End-to-end Data Association Framework for Online Multiple-Object Tracking》](https://arxiv.org/abs/1907.05315)
-
-  
-
++ [SPConv](https://github.com/qiulinzhang/SPConv.pytorch)：北邮&南开大学开源的SPConv——精度更高、速度更快的卷积。论文：[《Split to Be Slim: An Overlooked Redundancy in Vanilla Convolution》](https://arxiv.org/abs/2006.12085)
++ [SC-FEGAN](https://github.com/run-youngjoo/SC-FEGAN)：人脸编辑生成对抗网络。论文：[《SC-FEGAN: Face Editing Generative Adversarial Network with User's Sketch and Color》](https://arxiv.org/abs/1902.06838)
 
 
 
 <a class="toc" id ="36"></a>
+
 # Paper-Related (论文相关) 📝
 [🔙](#table-of-contents)
 
@@ -1968,5 +1934,5 @@
 
 
 <a class="toc" id ="44"></a>
-# Update (更新时间) 🕰 ：2020/07/11
+# Update (更新时间) 🕰 ：2020/07/12
 [🔙](#table-of-contents)
