@@ -37,8 +37,8 @@
 + [Keras Learning (Keras 学习) 🇰🇷](#32)
 + [PyTorch Learning (PyTorch 学习) 🇵🇹](#33)
 + [English Learning (英语学习) 🗣](#34)
-+ [Papers With Codes (开源论文) 🔖](#35)
-+ [Paper-Related (论文相关) 📝](#36)
++ [Papers & Codes (论文&代码) 🔖](#35)
++ [Paper Toolkit (论文工具) 📝](#36)
 + [Competition (比赛项目) 🏇](#37)
 + [Download (下载) 📥](#38)
 + [Software/Application (软件/应用) 🌈 ](#39)
@@ -46,7 +46,7 @@
 + [Dataset (数据集)  📊](#41)
 + [Coding Toolkit (代码工具) 💻](#42)
 + [Others (其它) ❓](#43)
-+ [Update (更新时间) 🕰 ：2020/07/12](#44)
++ [Update (更新时间) 🕰 ：2020/07/14](#44)
 
 
 <a class="toc" id ="1"></a>
@@ -90,8 +90,16 @@
 + [PyHubWeekly](https://github.com/Jackpopc/PyHubWeekly)：PyHubWeekly是一个精选Github上优质Python小工具的项目，宗旨：每周更新一次；精选GitHub上优质Python项目
 + [onedev](https://github.com/theonedev/onedev)：OneDev 是一个开源的一体化的 DevOps 平台，一款简单易用的 GitLab 替代品。GitHub:star:3.2k​
 + [GitHub漫游指南](https://github.com/phodal/github)：关于如何在Github上如何构建一个好的项目。、研究用户的行为、找到一些感兴趣项目的指南。推荐等级：:heart::heart::heart:！
++ [Github Trending Repos](https://github.com/vitalets/github-trending-repos)：通过GitHub本地通知，跟踪你喜欢的编程语言的GitHub趋势库，GitHub:star:2k。推荐等级：:heart::heart::heart:！
 + [GitHub 帮助](https://help.github.com/cn#dotcom)：GitHub官方中文帮助文档，全球最大的开源网站GitHub是每个程序员必须接触的，学习它的使用百利而无一害，同时也适合学习Git
 + [GitHub Help](https://help.github.com/en)：GitHub官方英文帮助文档，由于中文文档是从英文文档翻译而来，可能有些内容不是最新，英语好的人应该看英文文档，才能实时获取最新内容
++ GitHub README
+  + [Building a self-updating profile README for GitHub](https://simonwillison.net/2020/Jul/10/self-updating-profile-readme/)：GitHub 发布的新特性，用户可直接在 GitHub 个人页中添加 README 介绍，用于展示更加详细的个人信息。Django 与 Datasette 的作者 Simon Willison 就用了短短 150 行代码，来实时更新其个人页的 README 信息。每次运行脚本时，会将项目的最新发行版、博客文章、Datasette API 等内容更新到个人主页上，这样别人就可以第一时间了解他的最新工作近态。
+  + [Sorxrob](https://github.com/sorxrob)：使用了类似 Friendster 的社交模板，从关注者中随机选出 8 个用户，每个一小时更新一次个人页的 README 信息。
+  + [EliteDaMyth](https://github.com/EliteDaMyth/EliteDaMyth)：作者是印度那边一个 17 岁的学生，在他的 GitHub 页面中，用递归的方式在 README 中层层嵌套自己的个人页，效果让人眼前一亮！
+  + [waka-readme](https://github.com/athul/waka-readme)：每周在 README 中更新各种编程语言在工作中的具体占比时间。你的技术堆栈、常用语言、编码状态让人一目了然。
+  + [Github Readme Stats](https://github.com/anuraghazra/github-readme-stats)：自动给你的 GitHub 信息生成统计报告，其中包括项目 Star 数、代码提交次数、项目贡献次数、PR 数、Issue 数等数据。
+  + [Awesome Profiles](https://github.com/kautukkundan/Awesome-Profile-README-templates)：里面收集了非常多能让人眼前一亮的 README 模板，有很多是无需配合 GitHub Action，直接把 Markdown 复制粘贴一下就能用。GitHub:star:1.6k​
 + [emoji markup](https://gist.github.com/rxaviers/7360908)：GitHub emoji 表情大全，GitHub:star:7.5k
 + [Super Linter](https://github.com/github/super-linter)：GitHub Services DevOps Engineering 团队正式开源了一个代码库：Super Linter。当你把这个代码库搭配 GitHub Actions 一同使用后，便可保证代码风格与文档的一致性。如此一来，就能极大降低代码审查成本，顺带提升整个项目的代码质量。这款插件主要具备以下几项核心功能：防止将破坏性代码上传到主分支；构建多种语言的编码最佳实践；构建代码布局与代码格式指南；自动化流程，简化代码审查工作。GitHub:star:3.2k​
 + [GitHub Protips: Tips, tricks, hacks, and secrets from Lee Reilly](https://github.blog/2020-04-09-github-protips-tips-tricks-hacks-and-secrets-from-lee-reilly/?utm_source=wechat_session&utm_medium=social&utm_oi=986032804718800896#9-a-numbers-game)：GitHub 使用提示、技巧、黑科技和秘密
@@ -516,6 +524,7 @@
 + [SandDance](https://github.com/microsoft/SandDance)：SandDance 是 Microsoft Research 最受欢迎的数据可视化工具，由微软研究院的可视化和交互式数据分析（VIDA）小组创建，通过提供了触控式的界面，实现使用者和 3D 信息图表进行互动，已经作为 GitHub 上的开源项目重新发布。[在线体验](https://sanddance.js.org/)。
 + [Coblis Color Blindness Simulator](https://www.color-blindness.com/coblis-color-blindness-simulator/)：色盲模拟器，来看看你的配色能否被色盲人群分辨出来，以防颜色设置不妥。
 + [ColorBrewer](http://colorbrewer2.org)：这个工具的配色非常经典，几乎就是office里的默认配色。
++ [Palettable](https://github.com/jiffyclub/palettable)：一个Python绘图专用的调色板，提供了从美术角度来讲的精美配色。推荐等级：:heart::heart::heart::heart:！
 + [Data Color Picker](https://learnui.design/tools/data-color-picker.html)：用于生成两种颜色的渐变，可以自由选择需要多少种颜色过渡。
 + [Chroma.js Color Palette Helper](https://vis4.net/palettes)：可以制作顺序调色板或者发散调色板，根据不同需要调整调色板的渐变过程。
 + [Color Thief](https)：我们知道许多自然情景中的颜色都是让人感到舒服的配色，这款工具就可以帮你把照片中的颜色提取出来。
@@ -553,9 +562,10 @@
 + [Gnuplot](http://www.gnuplot.info/)： Gnuplot是一个可移植的命令行驱动的图形绘制实用程序，适用于Linux、OS/2、MS Windows、OSX、vm和许多其他平台。
 + [Sweetviz](https://github.com/fbdesignpro/sweetviz)：一个基于Python编写的数据分析软件，只要掌握3种函数用法，一行Python代码就能实现数据集可视化、分析与比较。
 + [Flourish](https://flourish.studio/)：一个更加美观、易用、强大的数据可视化工具。
-
++ [Gramm](https://github.com/piermorel/gramm)：MATLAB 的高级绘图工具。推荐等级：:heart::heart:!
 
 <a class="toc" id ="12"></a>
+
 # Tutorials & Blogs (教程博客) 🗨
 [🔙](#table-of-contents)
 
@@ -860,7 +870,7 @@
 # Jupyter Notebook 📔
 [🔙](#table-of-contents)
 
-+ [Nbviewer](https://nbviewer.jupyter.org/)： 在线渲染 Jupyter 文件的网页，只需要输入 Github 仓库地址即可。
++ [Nbviewer](https://nbviewer.jupyter.org/)： 在线渲染 Jupyter 文件的网页，只需要输入 Github 仓库地址即可。里面也含有一些Python代码示例。
 + [Nbdev](https://github.com/fastai/nbdev/)：fast.ai 创始研究员 Jeremy Howard 撰文介绍了 fast.ai 最近提出的新型编程环境 nbdev，它基于 Jupyter Notebook 构建，并将 IDE 编辑器的优点带入 Jupyter Notebook，可以在 Notebooks 中开发而不影响整个项目生命周期。[文档](https://github.com/fastai/nbdev/)
 + [Reviewnb](https://www.reviewnb.com/)：Code Reviews for Jupyter Notebooks，Jupyter Notebook 的代码审查工具。介绍博客：[Introducing ReviewNB: Code Reviews for Jupyter Notebooks](https://towardsdatascience.com/introducing-reviewnb-visual-diff-for-jupyter-notebooks-6797e6dfa20c)
 + [Polynote](https://github.com/polynote/polynote)：使用类似 Jupyter Notebook 进行数据分析和机器学习是近来较为方便灵活的开发方式，但是 Jupyter Notebook 缺乏对多种语言的原生支持，在管理笔记本内的依赖、数据可视化等方面有所欠缺。近日，NetFlix 公司将其数据分析和机器学习开发工具 Polynote 开源。这一工具支持多语言在一个笔记本程序内运行，还增加了很多新特性，值得尝试使用。推荐等级：:heart:！
@@ -1197,6 +1207,7 @@
 + [litemall](https://github.com/linlinjava/litemall)：一个小商城。litemall = Spring Boot后端 + Vue管理员前端 + 微信小程序用户前端 + Vue用户移动端。GitHub:star:13.3k
 + [mall](https://github.com/macrozheng/mall)：mall项目是一套电商系统，包括前台商城系统及后台管理系统，基于SpringBoot+MyBatis实现，采用Docker容器化部署。 前台商城系统包含首页门户、商品推荐、商品搜索、商品展示、购物车、订单流程、会员中心、客户服务、帮助中心等模块。 后台管理系统包含商品管理、订单管理、会员管理、促销管理、运营管理、内容管理、统计报表、财务管理、权限管理、设置等模块。GitHub:star:36.4k​
 + [RecSys](https://github.com/qcymkxyc/RecSys)：项亮的《推荐系统实践》的代码实现以及结果展示分析
++ [**MI**crosoft **N**ews **D**ataset (MIND)](https://msnews.github.io/) ：微软发布的大规模新闻推荐数据集MIND
 
 
 
@@ -1217,7 +1228,7 @@
 + [Open Graph Benchmark](http://ogb.stanford.edu)：在 NeurlPS 2019 大会的图表示学习演讲中，Jure Leskovec 宣布开源图神经网络的通用性能评价基准数据集 OGB（Open Graph Benchmark）。通过这一数据集，可以更好地评估模型性能等方面的指标。[图表示学习演讲合集](https://slideslive.com/38921872/graph-representation-learning-3)。
 + [Deep Graph Library (DGL)](https://github.com/dmlc/dgl)：在现有DL框架的基础上构建的基于Pytorch的Python包，用于简化对图的深度学习,​推荐等级：:heart::heart::heart:！
 + [KDD-2019-Hands-on](https://github.com/dglai/KDD-2019-Hands-on)：KDD 2019 DGL 库教程
-+ [Pytorch Geometric (PYG)](https://github.com/rusty1s/pytorch_geometric)：近几年来，图神经网络（GNN）在推荐系统、搜索引擎、计算机视觉等领域中都引起了较大的关注。Github有大量开源GNN实现，其中pytorch_geometric是最优秀的实现之一，曾被 Yann LeCun 推荐，GitHub上获:star:6k+，​推荐等级：:heart::heart::heart::heart:！
++ [Pytorch Geometric (PYG)](https://github.com/rusty1s/pytorch_geometric)：近几年来，图神经网络（GNN）在推荐系统、搜索引擎、计算机视觉等领域中都引起了较大的关注。Github有大量开源GNN实现，其中pytorch geometric是最优秀的实现之一，曾被 Yann LeCun 推荐，GitHub上获:star:6k+，论文：[《Fast Graph Representation Learning with PyTorch Geometric》](https://arxiv.org/abs/1903.02428)，推荐等级：:heart::heart::heart::heart:！
 + [TensorFlow Geometric (TFG)](https://github.com/CrawlScript/tf_geometric)：基于 Tensorflow 的高效友好的图神经网络库，受 [Pytorch Geometric](https://github.com/rusty1s/pytorch_geometric) 启发。一个新开始的项目。​推荐等级：:heart:!
 + [GraphEmbedding](https://github.com/shenweichen/GraphEmbedding)：GraphEmbedding 算法的实现库。
 + [StellarGraph](https://github.com/stellargraph/stellargraph)：使用tf2.x写的图机器学习算法实现库。
@@ -1535,7 +1546,7 @@
 
 
 <a class="toc" id ="35"></a>
-# Papers With Codes (开源论文) 🔖
+# Papers & Codes (论文&代码) 🔖
 [🔙](#table-of-contents)
 
 + [Paperswithcode](https://paperswithcode.com/)：如其名，收录了大量带有源代码的论文，[Github同名项目](https://github.com/zziz/pwc)，推荐等级：:heart::heart::heart::heart:！
@@ -1548,6 +1559,10 @@
   - https://github.com/eth-sri/eran
   - https://github.com/NVlabs/selfsupervised-denoising
   - https://github.com/facebookresearch/FixRes
+- [Paper Digest: ICML 2020 Highlights](https://www.paperdigest.org/2020/07/icml-2020-highlights/)：为了帮助社区快速查找会议上的工作，Paper Digest团队处理所有被接受的论文，并为每篇论文生成一个亮点总结(通常是主要主题)。鼓励读者阅读这些机器生成的要点/摘要，以快速获得每篇论文的主要思想，推荐等级：:heart::heart::heart::heart:！
++ [NeurIPS 2019 Notes](https://david-abel.github.io/notes/neurips_2019.pdf)：布朗大学的博士生 David Abel 公开了他的 NeurIPS 2019 参会笔记，他从深度学习理论、强化学习、博弈论和元学习等主题出发记载参会的一些亮点与主要内容。[个人主页](https://david-abel.github.io/)。，推荐等级：:heart::heart::heart::heart:！
++ [KDD 2020](https://www.kdd.org/kdd2020/accepted-papers)：KDD 2020 接收论文，推荐等级：:heart::heart::heart::heart:！
++ [NLP-Conferences-Code](https://github.com/yizhen20133868/NLP-Conferences-Code)：记录NLP相关顶会(如ACL、EMNLP、NAACL、COLING、AAAI、IJCAI)的论文开源项目合集
 + [PC-DARTS](https://arxiv.org/abs/1907.05737)：在此论文中，来自上海交通大学和华为诺亚方舟实验室的研究人员提出了一种基于部分通道采样的内存高效的可微网络结构搜索方法方法，能够显著提升可微式搜索的速度和性能。该方法在 CIFAR10 数据集上，只需要 0.1 个 GPU 天（单卡 1.5 小时）就可以完成一次搜索过程，并且达到 2.57% 的测试错误率；即使在 ImageNet 数据集上直接搜索，该方法也只需要 3.8 个 GPU 天（8 卡 11.5 小时），并且在 ImageNet 的移动设定（600M 运算）中达到 24.2%/7.3% 的 top-1/top-5 测试错误率。难得的是，该方法展示出了在不同参数设定下的搜索稳定性，能够很容易地应用于不同的实际场景。[GitHub地址](https://github.com/yuhuixu1993/PC-DARTS)
 + [Hashing Deep Learning](https://github.com/keroro824/HashingDeepLearning)：在[该论文](https://www.cs.rice.edu/~as143/Papers/SLIDE_MLSys.pdf)中采用的局部敏感哈希（Locality Sensitive Hashing）算法，并在神经网络中使用了自适应 dropout，在 Amazon-670K 这样的复杂分类数据集上，超一亿参数量的大型神经网络训练时间竟然是 SLIDE + CPU 最快，连 TensorFlow + Tesla V100 都要慢很多，而且从迭代步数上看，它们两者是等价的，表明模型的收敛行为是相同的。
 + [Neural Tangents](https://ai.googleblog.com/2020/03/fast-and-easy-infinitely-wide-networks.html)：推导有限网络的无限宽度限制需要大量的数学知识，并且必须针对不同研究的体系结构分别进行计算。对工程技术水平的要求也很高。谷歌最新开源的 **Neural Tangents**，旨在解决这个问题，让研究人员能够轻松建立、训练无限宽神经网络。甚至只需要5行代码，就能够打造一个无限宽神经网络模型。这一研究成果已经中了ICLR 2020。戳进Colab链接，即可在线试玩。[论文地址](https://arxiv.org/abs/1912.02803)，[Colab地址](https://colab.research.google.com/github/google/neural-tangents/blob/master/notebooks/neural_tangents_cookbook.ipynb)，[GitHub地址](https://github.com/google/neural-tangents)
@@ -1584,12 +1599,13 @@
 + [EDA_GNN](https://github.com/peizhaoli05/EDA_GNN)：基于图卷积GNN的多目标跟踪算法，论文：[《Graph Neural Based End-to-end Data Association Framework for Online Multiple-Object Tracking》](https://arxiv.org/abs/1907.05315)
 + [SPConv](https://github.com/qiulinzhang/SPConv.pytorch)：北邮&南开大学开源的SPConv——精度更高、速度更快的卷积。论文：[《Split to Be Slim: An Overlooked Redundancy in Vanilla Convolution》](https://arxiv.org/abs/2006.12085)
 + [SC-FEGAN](https://github.com/run-youngjoo/SC-FEGAN)：人脸编辑生成对抗网络。论文：[《SC-FEGAN: Face Editing Generative Adversarial Network with User's Sketch and Color》](https://arxiv.org/abs/1902.06838)
++ [《Self-Supervised GAN Compression》](https://arxiv.org/abs/2007.01491)：NVIDIA 提出的自监督GAN模型压缩方法。
 
 
 
 <a class="toc" id ="36"></a>
 
-# Paper-Related (论文相关) 📝
+# Paper Toolkit (论文工具) 📝
 [🔙](#table-of-contents)
 
 + [Google Scholar](https://scholar.google.com/)：谷歌学术
@@ -1621,8 +1637,6 @@
 + [Sci-Hub](https://sci-hub.tw/)：对于科研民工们，肯定很多人接触过sci-hub这个网站，一个很神奇的免费下载文献的网站。
 + [SwiftLaTeX](https://github.com/SwiftLaTeX/SwiftLaTeX)：一个名为 SwiftLaTeX 的可视化编辑器。该项目最大的亮点在于：你编写的 LaTeX 代码能够立刻展示实际的效果，所见即所得。这个编辑器还是基于浏览器的，还支持云文件存储。[在线体验版本](https://www.swiftlatex.com/oauth/login_oauth?type=sandbox)。
 + [Face Detection](https://github.com/jiankangdeng/handbook)：人脸识别方面的相关论文合集。
-+ [NeurIPS 2019 Notes](https://david-abel.github.io/notes/neurips_2019.pdf)：布朗大学的博士生 David Abel 公开了他的 NeurIPS 2019 参会笔记，他从深度学习理论、强化学习、博弈论和元学习等主题出发记载参会的一些亮点与主要内容。[个人主页](https://david-abel.github.io/)
-+ [KDD 2020](https://www.kdd.org/kdd2020/accepted-papers)：KDD 2020 接收论文，推荐等级：:heart::heart::heart::heart:！
 + [Awesome Papers](https://github.com/murufeng/awesome-papers)：机器学习，深度学习，自然语言处理，计算机视觉方面的顶级期刊会议论文集
 + [Tableconvert](https://tableconvert.com/)：在线表格转换工具，实现将 EXCEL, CSV, URL, HTML, JSON, MARKDOWN 格式的文件转换为 Markdown, CSV/TSV, JSON, XML, YAML, SQL, HTML 表格，LaTex 表格， Plain Text 表格等格式。
 + [AsciiMath](http://asciimath.org/)：在浏览器中编辑你想要的数学公式，支持在浏览器中直接编辑和前端代码中实现。
@@ -1848,6 +1862,7 @@
 + [The Best Public Datasets for Machine Learning and Data Science](https://medium.com/towards-artificial-intelligence/the-50-best-public-datasets-for-machine-learning-d80e9f030279)：上述的大部分资料都来自于该网址，经过数小时的网络搜集，作者为高质量和多样化的机器学习数据集创建了一个伟大的备忘单。
 + [开源数据集（机器之心整理）](https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2650748057&idx=2&sn=edff081f094b9f410d26e2ad8ebefa02&chksm=871af0e7b06d79f146a47ed084b9af92a09234c7d9b908e38eaf63b1da3ce0162083d0b4b5f7&mpshare=1&scene=24&srcid=0905I7FwP0u7usXkSPJtmw8B#rd)：skymind.ai 发布的一份非常全面的开源数据集。内容包括生物识别、自然图像以及深度学习图像等数据集，经机器之心整理。
 + [Awesome-Cybersecurity-Datasets](https://github.com/shramos/Awesome-Cybersecurity-Datasets#network-traffic)：网络安全数据集列表大全。
++ [**MI**crosoft **N**ews **D**ataset (MIND)](https://msnews.github.io/) ：微软发布的大规模新闻推荐数据集MIND
 
 
 
@@ -1932,7 +1947,7 @@
 + [nodesign](https://nodesign.dev/)：网站上收集了许多十分便利的 UI 设计工具与设计资源，这网站对于那些不太懂设计的开发者来说，简直是超级福音
 + [Marketing-for-Engineers](https://github.com/LisaDziuba/Marketing-for-Engineers)：该项目是由来自乌克兰的一名小姐姐 Lisa Dziuba 所创立，目的在于帮助工程师解决产品上线后所面临后的市场营销难题，GitHub:star:10.2k，​推荐等级:heart::heart::heart:!
 
-
 <a class="toc" id ="44"></a>
-# Update (更新时间) 🕰 ：2020/07/12
+
+# Update (更新时间) 🕰 ：2020/07/14
 [🔙](#table-of-contents)
