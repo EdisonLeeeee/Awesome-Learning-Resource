@@ -1,8 +1,9 @@
 # Awesome Learning Resources :heart:😎 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
-
+[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
+[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com)
 <a class="toc" id="table-of-contents"></a>
 
-# 👉 Table of Contents 👈
+### 👉 Table of Contents 👈
 + [Git 👬](#1)
 + [GitHub :octocat:](#2)
 + [Linux 🐧](#3)
@@ -46,7 +47,7 @@
 + [Dataset (数据集)  📊](#41)
 + [Coding Toolkit (代码工具) 💻](#42)
 + [Others (其它) ❓](#43)
-+ [Update (更新时间) 🕰 ：2020/07/14](#44)
++ [Update (更新时间) 🕰 ：2020/07/20](#44)
 
 
 <a class="toc" id ="1"></a>
@@ -54,26 +55,48 @@
 [🔙](#table-of-contents)
 
 + [Git](https://git-scm.com/)：Git官方教程
+
 + [Git Book](https://git-scm.com/book/en/v2)：Git 官方教程电子书。[中文版Git Book链接](https://git-scm.com/book/zh/v2)
+
 + [Learn Git Branching](https://learngitbranching.js.org/)：一个用于学习 Git 的交互式学习网站，[GitHub](https://github.com/pcottle/learnGitBranching)上收获了:star:10k+
+
 + [Githug ](https://github.com/Gazler/githug)：它其实是一个命令行工具，但更多的人喜欢称它为一个 Git 游戏，被设计出来的目的是用来练习我们的 git 技能。但是Githug 是运行在 ruby 上的，所以你要装完Git再安装个 ruby[通关攻略](https://www.jianshu.com/p/482b32716bbe)。
+
 + [Flight rules for Git](https://github.com/k88hudson/git-flight-rules)：Flight rules for Git，翻译过来是 Git 飞行规则，而飞行规则是记录在手册上来之不易的一系列知识，记录了某个事情发生的原因，以及怎样一步步进行处理。因此该项目用于补足你解决问题的能力。除此以外，对一些学习 Git 方面比较好的书籍、教程等都有所推荐。GitHub:star:33.3k。推荐等级：:heart::heart::heart::heart:！
+
 + [猴子老师Git教程](https://backlog.com/git-tutorial/cn/intro/intro1_1.html)：号称猴子都能懂的Git入门教程
+
 + [廖雪峰Git教程](https://www.liaoxuefeng.com/wiki/896043488029600)：廖雪峰Git教程，号称史上最浅显易懂的Git教程
+
 + [Pro Git 第二版](http://bit.ly/2H7A7Lg)：这本书被誉为 Git 学习的圣经，作者是 Scott Chacon 和 Ben Straub。Scott Chacon 在 GitHub 工作，自称 Git 的布道者。你可以在网站上免费阅读这本书，也可以下载他们提供的电子版本
+
 + [git-recipes](http://bit.ly/2Z4jw0M)：童仲毅 (`geeeeeeeeek@github`) 对很多英文资料进行翻译、整理的集合教程。包含入门基础、进阶知识和应用范例。这些英文资料主要包括 GitHub 竞争者 Bitbucket 的 Git 教程
+
 + [Udacity Git 课程](http://bit.ly/2H5PZhi)：谷歌无人车之父 Sebastian Thrun 创办的 优达学城（Udacity）上面的 免费 Git 课程。这门课程由优达学城与 GitHub 共同制作，介绍进行版本控制的基础知识，重点讲解 Git 版本控制系统以及 GitHub 协作平台
+
 + [happypeter1983 的 Git 视频教程](http://bit.ly/2Z6rS87)：这份教程就更进阶了一些。讲到了一些高级命令的用法。当然还有其他学习资源。
+
 + [Oh shit, git!](http://ohshitgit.com/)：这个网站整理了一些 Git 新手在使用 Git 时常会遇到的各种突发状况，并贴心的给出了应对方案。
+
 + [Gitignore](https://github.com/github/gitignore)：GitHub 官方开源的一个项目，这个项目为开发者编写好特定的 `.gitignore` 规则，做成了模板。开发者只需选择好自己的项目类别，将文件内容复制粘贴放到自己项目里面就可以用了,在上面，你可以找到目前所有主流语言的 .gitignore 模板。[在线生成网站](http://gitignore.io/)
+
 + [Readme Md Generator](https://github.com/kefranabg/readme-md-generator)：一名来自法国的小哥因为饱受重复编写 README 文档的折磨，在 GitHub 上开源了 readme-md-generator 这个工具。从项目名字便可以知道，它一个 README 文档生成器。其主要作用是通过命令行抓取项目的 package.json 和 git 配置信息，自动完成 README 文档的编写操作，Github上已获:star:5k+
+
 + [Repository Templates](https://github.blog/2019-06-06-generate-new-repositories-with-repository-templates/)：为了避免开发者做一些无用的重复性工作，GitHub 发布的一个新功能 - 模板仓库（repository templates）。这个功能可以将以往创建过的仓库标记成模板（template），这样在你下一次创建仓库的时候，就可以使用这个模板功能，快速生成具有和原仓库一样的目录与文件内容，每个模板仓库在 URL 末端带上 /generate 后，还可以将模板仓库通过链接分享给其他人，其它人在打开链接之后，便可以快速通过这个模板来创建新仓库
+
 + [Standard Readme](https://github.com/RichardLitt/standard-readme)：由 RichardLitt 发起的项目，简单直白的告诉读者README 应该写哪些内容，应该如何排版等，GitHub:star:2.8k
+
 + [《Beginning Git and GitHub》](https://www.apress.com/gp/book/9781484253120)：Git与Github学习使用指南（Beginning Git and GitHub），[GitHub](https://github.com/Apress/beginning-git-and-github)
+
 + [CS Visualized: Useful Git Commands](https://dev.to/lydiahallie/cs-visualized-useful-git-commands-37p1)：git merge、git rebase、git reset、git revert、git fetch、git pull、git reflog……你知道这些 git 命令执行的究竟是什么任务吗？如果你还有些分不清楚，那千万不能错过这篇文章。在本文中，熟知 JavaScript、TypeScript、GraphQL、Serverless、AWS、Docker 和 Golang 的 21 岁年轻软件顾问 Lydia Hallie 通过动图形式直观地介绍了这些常用 git 命令的工作过程，包你过目不忘。
+
 + [Git Draw](https://github.com/ben174/git-draw)：允许自定义绘制 github热图的项目，GitHub:star:2k​
+
 + [Gitfiti](https://github.com/gelstudios/gitfiti)：自定义GitHub热图，GitHub:star:5.8k​
+
 + [Git Commit emoji](https://github.com/liuchengxu/git-commit-emoji-cn)：执行 git commit 时使用 emoji 为本次提交打上一个 "标签", 使得此次 commit 的主要工作得以凸现，也能够使得其在整个提交历史中易于区分与查找。GitHub:star:1.5k
+
++ [Gitqlite](https://github.com/augmentable-dev/gitqlite)：通过为 GitHub 项目创建一张虚拟的 SQLite 数据库表，进而达到能直接用数据库查询语句，快速检索 Git 仓库中的内容，其中包括 Git 提交记录、作者名称、邮箱、文件历史记录等内容。开发者可根据自己的开发需求编写数据库查询语句，快速从 Git 仓库中提取精准信息。GitHub:star:1.3k
 
   
 
@@ -169,6 +192,9 @@
 + [Ventoy](https://github.com/ventoy/Ventoy)：Ventoy是一个制作可启动U盘的开源工具。有了Ventoy你就无需反复地格式化U盘，你只需要把ISO文件拷贝到U盘里面就可以启动了，无需其他操作。你可以一次性拷贝很多个不同类型的ISO文件，在启动时Ventoy会显示一个菜单来选择。无差异支持Legacy BIOS和UEFI模式。目前已经测试了各类超过260+ 个ISO文件。GitHub:star:5.7k​
 + [PowerToys](https://github.com/microsoft/PowerToys)：PowerToys是微软开发者开发的免费实用工具集，可以用于高级用户调整和简化Windows操作，以提高效率。其最早出现在Windows 95中，但并不受微软官方支持，对其测试也不够彻底。到了Windows XP时代，所有进入Windows的应用都需要进行安全审查，于是PowerToys便消失了。最近，微软宣布以官方名义重启该项目。GitHub:star:28.3k​
 + [Eyepetizer](https://github.com/VIPyinzhiwei/Eyepetizer)：一个高颜值的APP项目，基于 Kotlin 语言 开发，采用 Jetpack + Coroutines + Retrofit  实现的 MVVM 架构。项目的源码恰到好处，特别适合复用和学习，源码简单易懂容易上手，而且最大程度遵守了官方的一些开发规范建议，并吸取了第三方开发规范经验。
++ [tsunami-security-scanner](https://github.com/google/tsunami-security-scanner)：谷歌专门为大型企业网络开源的一个漏洞扫描神器，主要用于数千个甚至数百万个物联网组成的企业系统。GitHub:star:5.3k​
++ [Bigheads](https://bigheads.io/)：BigHeads是一个头像生成工具，通过设置将表情，服装，发型和颜色，可以组合成成千上万个角色头像。
++ [MS-Lumos](https://github.com/microsoft/MS-Lumos)：Lumos是一个Python库，用于网络应用程序中的度量回归的自动检测与诊断。
 
 
 
@@ -905,6 +931,7 @@
 + [《Python最佳实践指南》](https://pythonguidecn.readthedocs.io/zh/latest/)：Python漫游指南（中文版）
 + [《Dive Into Python 3》](http://diveintopython3.problemsolving.io/)：深入 Python3（英文版），网上大多人推荐的Python学习书
 + [《深入 Python3》](http://www.ttlsa.com/docs/dive-into-python3/)：深入 Python3（中文版）
++ [《Python One-Liners》](https://pdfget.com/pdf-epub-python-one-liners-download/)：【2020新书】《“一行”Python：如何写出专业的Python代码》
 + [Learn Python](https://github.com/xianhu/LearnPython)：GitHub上一个:star:3k+的中文项目，以撸代码的形式学习Python，以Python代码加上注释作为教程，内容十分详细
 + [Python 100 Days](https://github.com/jackfrued/Python-100-Days)：GitHub上一个:star:40k+的中文项目，带你100天从新手到大师
 + [Learn Python Programming](https://www.programiz.com/python-programming)：[Programiz](https://www.programiz.com/) 的 Python 教程
@@ -1271,6 +1298,7 @@
 + [《Graph theory and additive combinatorics》](http://yufeizhao.com/gtac/gtac.pdf)：《图论和加法组合学》的课程笔记，这是一门研究生水平的课程，由Yufei Zhao教授于2019年秋季在麻省理工学院讲授。课堂笔记是由学生根据课堂内容撰写的，并在教授的帮助下进行编辑。[课程网址](http://yufeizhao.com/gtac/)
 + [《Learning to Reason with Graph Neural Networks》](https://www.dropbox.com/s/frkdz4hqg36kjg6/GNN_Logic_WWW2.pdf?dl=0)：图神经网络推理。来自佐治亚理工学院和蚂蚁金服的Le Song给了关于图神经网络推理的精炼讲解。探讨了神经网络与广义网络的结合，并利用图神经网络进行广义网络的变分推理。
 + [《Introduction to Graph Neural Networks》](https://booksc.xyz/book/81511304/da61a3)：2020新书《图神经网络导论》，清华大学刘知远和周杰老师著作。推荐等级：:heart::heart::heart::heart:！
++ [《Towards a Theory of Vector Embeddings of Structured Data》](https://sigmod2020.org/pods_keynote.shtml)：RWTH Aachen大学的计算机科学教授ACM Fellow Martin Grohe教授发表了《X2vec： 构建结构数据的向量嵌入理论》报告，非常干货！
 + [Learning Representations via Graph-structured Networks](https://xiaolonw.github.io/graphnnv2/)：CVPR2020-Tutorial，视觉的图网络结构表示学习
 + [Knowledge-Graph-Publications](https://github.com/wds-seu/Knowledge-Graph-Publications)：知识图谱顶会文献集锦
 + [OpenHINE](https://github.com/BUPTDM/OpenHINE)：为了方便大家对异质信息网络表示学习（HINE）开展相关的实验或研究，北京邮电大学 DMGroup 的研究人员在 GitHub 上发布了 HINE 训练和测试框架 OpenHINE。
@@ -1531,6 +1559,7 @@
 + [Benchmarking Keras and PyTorch Pre-Trained Models](https://github.com/cgnorthcutt/benchmarking-keras-pytorch)：使用PyTorch和Keras对模型复现比较
 + [Torchkeras](https://github.com/lyhue1991/torchkeras)：使用类似Keras的方法训练PyTorch模型
 + [Eat PyTorch in 20 Days](https://github.com/lyhue1991/eat_pytorch_in_20_days)：[《30天吃掉那只TensorFlow2》](https://github.com/lyhue1991/eat_tensorflow2_in_30_days)的作者发布的又一个学习项目，这次是《20天吃掉那只PyTorch》。推荐等级：❤️❤️❤️❤️！
++ [fairscale](https://github.com/facebookresearch/fairscale)：Facebook最新开源的一个用于高性能和大规模训练的PyTorch扩展库。
 
 
 
@@ -1562,7 +1591,9 @@
 - [Paper Digest: ICML 2020 Highlights](https://www.paperdigest.org/2020/07/icml-2020-highlights/)：为了帮助社区快速查找会议上的工作，Paper Digest团队处理所有被接受的论文，并为每篇论文生成一个亮点总结(通常是主要主题)。鼓励读者阅读这些机器生成的要点/摘要，以快速获得每篇论文的主要思想，推荐等级：:heart::heart::heart::heart:！
 + [NeurIPS 2019 Notes](https://david-abel.github.io/notes/neurips_2019.pdf)：布朗大学的博士生 David Abel 公开了他的 NeurIPS 2019 参会笔记，他从深度学习理论、强化学习、博弈论和元学习等主题出发记载参会的一些亮点与主要内容。[个人主页](https://david-abel.github.io/)。，推荐等级：:heart::heart::heart::heart:！
 + [KDD 2020](https://www.kdd.org/kdd2020/accepted-papers)：KDD 2020 接收论文，推荐等级：:heart::heart::heart::heart:！
++ [AAAI-20 Accepted Paper List](https://aaai.org/Conferences/AAAI-20/wp-content/uploads/2020/01/AAAI-20-Accepted-Paper-List.pdf)：AAAI2020 论文收录大全
 + [NLP-Conferences-Code](https://github.com/yizhen20133868/NLP-Conferences-Code)：记录NLP相关顶会(如ACL、EMNLP、NAACL、COLING、AAAI、IJCAI)的论文开源项目合集
++ [IJCAI 2020](https://www.ijcai.org/Proceedings/2020/)：IJCAI 2020 接收论文
 + [PC-DARTS](https://arxiv.org/abs/1907.05737)：在此论文中，来自上海交通大学和华为诺亚方舟实验室的研究人员提出了一种基于部分通道采样的内存高效的可微网络结构搜索方法方法，能够显著提升可微式搜索的速度和性能。该方法在 CIFAR10 数据集上，只需要 0.1 个 GPU 天（单卡 1.5 小时）就可以完成一次搜索过程，并且达到 2.57% 的测试错误率；即使在 ImageNet 数据集上直接搜索，该方法也只需要 3.8 个 GPU 天（8 卡 11.5 小时），并且在 ImageNet 的移动设定（600M 运算）中达到 24.2%/7.3% 的 top-1/top-5 测试错误率。难得的是，该方法展示出了在不同参数设定下的搜索稳定性，能够很容易地应用于不同的实际场景。[GitHub地址](https://github.com/yuhuixu1993/PC-DARTS)
 + [Hashing Deep Learning](https://github.com/keroro824/HashingDeepLearning)：在[该论文](https://www.cs.rice.edu/~as143/Papers/SLIDE_MLSys.pdf)中采用的局部敏感哈希（Locality Sensitive Hashing）算法，并在神经网络中使用了自适应 dropout，在 Amazon-670K 这样的复杂分类数据集上，超一亿参数量的大型神经网络训练时间竟然是 SLIDE + CPU 最快，连 TensorFlow + Tesla V100 都要慢很多，而且从迭代步数上看，它们两者是等价的，表明模型的收敛行为是相同的。
 + [Neural Tangents](https://ai.googleblog.com/2020/03/fast-and-easy-infinitely-wide-networks.html)：推导有限网络的无限宽度限制需要大量的数学知识，并且必须针对不同研究的体系结构分别进行计算。对工程技术水平的要求也很高。谷歌最新开源的 **Neural Tangents**，旨在解决这个问题，让研究人员能够轻松建立、训练无限宽神经网络。甚至只需要5行代码，就能够打造一个无限宽神经网络模型。这一研究成果已经中了ICLR 2020。戳进Colab链接，即可在线试玩。[论文地址](https://arxiv.org/abs/1912.02803)，[Colab地址](https://colab.research.google.com/github/google/neural-tangents/blob/master/notebooks/neural_tangents_cookbook.ipynb)，[GitHub地址](https://github.com/google/neural-tangents)
@@ -1600,6 +1631,7 @@
 + [SPConv](https://github.com/qiulinzhang/SPConv.pytorch)：北邮&南开大学开源的SPConv——精度更高、速度更快的卷积。论文：[《Split to Be Slim: An Overlooked Redundancy in Vanilla Convolution》](https://arxiv.org/abs/2006.12085)
 + [SC-FEGAN](https://github.com/run-youngjoo/SC-FEGAN)：人脸编辑生成对抗网络。论文：[《SC-FEGAN: Face Editing Generative Adversarial Network with User's Sketch and Color》](https://arxiv.org/abs/1902.06838)
 + [《Self-Supervised GAN Compression》](https://arxiv.org/abs/2007.01491)：NVIDIA 提出的自监督GAN模型压缩方法。
++ [TrojanNet](https://github.com/trx14/TrojanNet)：美国德州农工大学的研究人员提出一种新型木马攻击模型，无需修改训练数据集，也无需重新训练模型，即可快速完成木马植入，并发动稳健的攻击。目前，这项研究已被 KDD 2020 会议接收。论文：[《An Embarrassingly Simple Approach for Trojan Attack in Deep Neural Networks》](https://arxiv.org/pdf/2006.08131.pdf)
 
 
 
@@ -1727,6 +1759,8 @@
 + [Awesome Google Colab](https://github.com/firmai/awesome-google-colab)：GitHub上的一个新项目，Colab资源汇总。作者还自己建了[非官方的colab网站](https://www.google-colab.com/)，收集了大量学习资源。同时上面还有很多GitHub相关[技术教程汇总](https://www.google-colab.com/github/)。推荐等级：:heart::heart::heart:！
 + [Xg2xg](https://github.com/jhuangtw-dev/xg2xg)：前 Google 工程师出品，最佳开发工具大全，这份清单中列出的开源软件，不仅解决了硅谷大厂前员工的难处，也能为其他所有码农解除困惑。在这套大全的指导下，任何一个工程师，都能获得类似在谷歌内部写代码的体验。目前Github上获:star:7k+。推荐等级：:heart::heart::heart:！
 + [合集网](https://www.heji.ltd/)：一个名叫合集网的资源网站，上面不仅有软件、应用的合集，还有很多在线资源。
++ [创造者日报](https://creatorsdaily.com/)：创造者日报的产品分类非常细致，有好几十种。基本上涵盖了互联网、科技类的方方面面。网站应用、效率、Chrome、视频、游戏、导航网站、阅读等等。推荐等级：:heart::heart::heart:！
++ [新趣集](https://xinquji.com/)：在这个网站上，每天都会更新一些上传者发现的各种互联网产品，比如游戏、网站、开发者工具、各类软件等等。推荐等级：:heart::heart::heart:！
 
 
 <a class="toc" id ="40"></a>
@@ -1949,5 +1983,5 @@
 
 <a class="toc" id ="44"></a>
 
-# Update (更新时间) 🕰 ：2020/07/14
+# Update (更新时间) 🕰 ：2020/07/20
 [🔙](#table-of-contents)
