@@ -47,7 +47,7 @@
 + [Dataset (数据集)  📊](#41)
 + [Coding Toolkit (代码工具) 💻](#42)
 + [Others (其它) ❓](#43)
-+ [Update (更新时间) 🕰 ：2020/07/20](#44)
++ [Update (更新时间) 🕰 ：2020/07/27](#44)
 
 
 <a class="toc" id ="1"></a>
@@ -195,11 +195,12 @@
 + [tsunami-security-scanner](https://github.com/google/tsunami-security-scanner)：谷歌专门为大型企业网络开源的一个漏洞扫描神器，主要用于数千个甚至数百万个物联网组成的企业系统。GitHub:star:5.3k​
 + [Bigheads](https://bigheads.io/)：BigHeads是一个头像生成工具，通过设置将表情，服装，发型和颜色，可以组合成成千上万个角色头像。
 + [MS-Lumos](https://github.com/microsoft/MS-Lumos)：Lumos是一个Python库，用于网络应用程序中的度量回归的自动检测与诊断。
-
++ [AgoraLive](https://github.com/AgoraIO-Usecase/AgoraLive)：一个新的开源项目，它实现了单主播直播、多人连麦直播、PK 直播、虚拟主播，四种现在社交直播领域最成熟的场景。
 
 
 
 <a class="toc" id ="3"></a>
+
 # Linux 🐧
 
 
@@ -414,6 +415,9 @@
 + [Lectures for INFO8010 - Deep Learning](https://github.com/glouppe/info8010-deep-learning)：深度学习课程 PPT，深入探讨深度学习架构的细节，重点是学习这些任务的端到端模型。学生将学习实施、训练和调试自己的神经网络，并对该领域的前沿研究有详细的了解。该课程还将介绍推理方法的最新创新，包括微分推理、对抗性训练和贝叶斯深度学习。作者主页[Gilles Louppe](http://glouppe.github.io/)
 + [Electrical Engineering and Computer Science](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/)：麻省理工学院（MIT）近日放出了 2400 门课程资料，其中也包括电气工程和计算机科学系的多门公开课。这个平台上课完全是为了解决自身知识盲区而来，它的各种 quiz、problem sets、project 等一系列辅助配套设施非常完善。线上教学的所有课件、教授所写的补充材料等都能下载下来以便随时复习。
 + [More Python for Beginners](https://www.youtube.com/playlist?list=PLlrxD0HtieHiXd-nEby-TMCoUNwhbLUnj)：微软退出的 Python 学习课程，该课程将研究一些Python中级知识，诸如lambda和面向对象的编程等。这一系列课程共有**20**个视频，每个视频时长在**2-15**分钟不等。
++ [微软官方 Python 初级教程](https://www.bilibili.com/video/BV1nE41127zQ)：由微软的高级项目经理 Christopher Harrison、以及 AI Gaming 的开发经理 Susan Ibach 共同讲解的《微软官方 Python 初级教程》。这个课程主要分为 44 集，内容主要面向初级开发者，着重介绍 Python 安装流程、在 VSCode 中安装 Python 扩展、基础知识（注释、字符串、日期、错误类型、循环、函数、模块、变量、API）的应用。
++ [微软官方 Python 进阶教程](https://www.bilibili.com/video/BV1WT4y137cD)：该课程共分为 20 集，内容包含 Python 的格式化、类、继承、文件系统管理、异步编程等核心知识，让你了解 Python 的进阶使用技巧。
++ [微软官方 Python 高阶教程](https://www.bilibili.com/video/BV1qa4y1Y7CD)：在这个教程里面，将由前两个初中级课程的老师接着担任，带你感受 Python 在当下最流行的技术应用领域 - 机器学习中的实际应用。你将从这里面学到 Jupyter Notebooks、Anaconda、Pandas、DataFrame 的使用技巧，手把手带你玩转数据科学，感受 Python 的高阶用法。
 + [Even More Python for Beginners: Data Tools](https://www.youtube.com/playlist?list=PLlrxD0HtieHhHnCUVtR8UHS7eLl33zfJ-)：它将带你使用Python进入数据科学和机器学习。虽然课程里面不会讨论选择算法或构建模型的问题，但是会重点介绍Jupyter Notebooks，这是数据科学家最喜欢的工具之一。
 + [微软人工智能教育与学习共建社区](https://github.com/microsoft/ai-edu)：本社区是微软亚洲研究院（Microsoft Research Asia，简称MSRA）人工智能教育团队创立的人工智能教育与学习共建社区。平台开发团队在GitHub上表示，该平台是在教育部指导下，依托于新一代人工智能开放科研教育平台，微软亚洲研究院研发团队和学术合作部将为本社区提供全面支持。
 + [AI-神经网络基本原理简明教程](https://github.com/microsoft/ai-edu/tree/master/)：GitHub上微软人工智能教育与学习共建社区，微软Xiaowuhu根据自己亲身经历的学习轨迹，归纳出了以下教程，可以帮助小白做到真正的从入门到精通。通过以下循序渐进地学习与动手实践，一方面可以帮助读者深刻理解“深度学习”的基础知识，更好地理解并使用现有框架，另一方面可以助力读者快速学习最新出现的各种神经网络的扩展或者变型，跟上快速发展的AI浪潮
@@ -422,6 +426,7 @@
 + [Amueller](https://github.com/amueller)：如果你已经学完了 Dataquest 上的数据科学课程，那么你应该对使用 Python 执行机器学习的基础知识有了充分了解。如果还没有，这方面也有很多免费资源。我推荐首先从 scikit-learn 开始学起，因为 scikit-learn 是目前最常用的机器学习 Python 库。很幸运，scikit-learn 核心开发者之一 Andreas Mueller 举办了为期两天的 workshop，同时发布了该课程的所有材料，包含幻灯片、课程笔记和 notebook。推荐大家先学习这份资料。
 + [《CSE 291: Domain Adaptation in Computer Vision》](http://cseweb.ucsd.edu/~mkchandraker/classes/CSE291/Winter2020/a)：来自加州大学圣地亚哥分校《计算机视觉中的领域自适应》课程，还有一些优秀的学习资源。推荐等级::heart::heart::heart:！
 + [The Machine Learning Summer School](http://mlss.tuebingen.mpg.de/2020/schedule.html)：机器学习暑期学校(MLSS)系列开始于2002年，致力于传播统计机器学习和推理的现代方法。今年因新冠疫情在线举行，从6月28号到7月10号讲述了众多机器学习主题。推荐来自DeepMind Shakir Mohamed博士讲述《贝叶斯推断》，125页ppt系统性讲述了贝叶斯推断基础知识和最新进展，非常干货。
++ [Harvard College CS50](https://cs50.harvard.edu/college/2020/fall/#:~:text=Harvard%20Colleg)：哈佛大学 CS50 2020 秋季课程即将面世，在家也可以共享「撕书教授」David Malan 的 4k 超高清神课了。推荐等级::heart::heart::heart:！
 
 
 
@@ -1123,6 +1128,7 @@
 + [TNN](https://github.com/Tencent/TNN)：由腾讯优图实验室打造，移动端高性能、轻量级推理框架，同时拥有跨平台、高性能、模型压缩、代码裁剪等众多突出优势。
 + [Tengine Lite](https://github.com/OAID/Tengine/tree/tengine-lite)：Tengine Lite 由 OPEN AI LAB 主导开发，该项目实现了深度学习神经网络模型在嵌入式设备上快速、高效部署。为实现众多 AIoT 应用中跨平台部署，本项目基于原有 Tengine 项目使用 C 语言进行重构，针对嵌入式设备资源有限的特点进行深度框架裁剪。同时采用完全分离的前后端设计，利于 CPU、GPU、NPU 等异构计算单元快速移植和部署。同时兼容 Tengine 框架原有 API 和 模型格式 tmfile，降低评估、迁移成本。GitHub:star:1.4k​
 + [TextHero](https://texthero.org/)：号称「从小白到大神」的Texthero的工具包。快速优雅地处理你的NLP数据集，不仅编写界面友好美观，而且功能全面，预处理、表征、可视化样样精通。
++ [The Super Duper NLP Repo](https://notebooks.quantumstat.com/)：181个NLP教程合集，Colab一键直达，无需环境配置，此外还有481个文本数据集，推荐等级：:heart::heart::heart::heart:！
 
 
 
@@ -1150,6 +1156,7 @@
 + [fitlog](https://github.com/fastnlp/fitlog)：fitlog是一款在深度学习训练中用于辅助用户记录日志和管理代码的工具，由复旦大学邱锡鹏教授的实验室出品。[中文文档](https://fitlog.readthedocs.io/zh/latest/)
 + [Runx](https://github.com/NVIDIA/runx)：NVIDIA 推出的一款专门用于记录深度学习调 (lian) 参 (dan) 的工具，用来方便深度炼丹师记录各种实验数据。
 + [CVPR 2020 Tutorial](https://hangzhang.org/CVPR2020/)：CVPR 2020 Tutorial：自动化深度学习教程和介绍，推荐等级：:heart::heart:!​
++ [talos](https://github.com/autonomio/talos)：基于Keras的超参数搜索库。Talos通过完全自动化超参数调优和模型评估，从根本上改变了普通的Keras工作流。Talos完全使用Keras功能，不需要学习新的语法或模板。GitHub:star:1.3k，​推荐等级：:heart::heart:!
 
 
 <a class="toc" id ="23"></a>
@@ -1252,7 +1259,7 @@
 + [Plato](https://github.com/tencent/plato)：腾讯开源的高性能图计算框架 Plato，据介绍，Plato 可满足十亿级节点的超大规模图计算需求，将算法计算时间从「天」级缩短到「分钟」级，性能全面领先于其它主流分布式图计算框架，并且打破了原本动辄需要数百台服务器的资源瓶颈。
 + [Machine Learning with Graphs](http://web.stanford.edu/class/cs224w/)：斯坦福大学的最新课程CS224W——图机器学习，主讲人是斯坦福大牛Jure Leskovec，他是斯坦福大学计算机学院的副教授，也是图表示学习方法 node2vec 和 GraphSAGE 作者之一。
 + [Graph-based deep learning literature](https://github.com/naganandy/graph-based-deep-learning-literature)：图深度学习的论文集
-+ [Open Graph Benchmark](http://ogb.stanford.edu)：在 NeurlPS 2019 大会的图表示学习演讲中，Jure Leskovec 宣布开源图神经网络的通用性能评价基准数据集 OGB（Open Graph Benchmark）。通过这一数据集，可以更好地评估模型性能等方面的指标。[图表示学习演讲合集](https://slideslive.com/38921872/graph-representation-learning-3)。
++ [Open Graph Benchmark（OGB）](http://ogb.stanford.edu)：在 NeurlPS 2019 大会的图表示学习演讲中，Jure Leskovec 宣布开源图神经网络的通用性能评价基准数据集 OGB（Open Graph Benchmark）。通过这一数据集，可以更好地评估模型性能等方面的指标。[图表示学习演讲合集](https://slideslive.com/38921872/graph-representation-learning-3)。
 + [Deep Graph Library (DGL)](https://github.com/dmlc/dgl)：在现有DL框架的基础上构建的基于Pytorch的Python包，用于简化对图的深度学习,​推荐等级：:heart::heart::heart:！
 + [KDD-2019-Hands-on](https://github.com/dglai/KDD-2019-Hands-on)：KDD 2019 DGL 库教程
 + [Pytorch Geometric (PYG)](https://github.com/rusty1s/pytorch_geometric)：近几年来，图神经网络（GNN）在推荐系统、搜索引擎、计算机视觉等领域中都引起了较大的关注。Github有大量开源GNN实现，其中pytorch geometric是最优秀的实现之一，曾被 Yann LeCun 推荐，GitHub上获:star:6k+，论文：[《Fast Graph Representation Learning with PyTorch Geometric》](https://arxiv.org/abs/1903.02428)，推荐等级：:heart::heart::heart::heart:！
@@ -1299,12 +1306,14 @@
 + [《Learning to Reason with Graph Neural Networks》](https://www.dropbox.com/s/frkdz4hqg36kjg6/GNN_Logic_WWW2.pdf?dl=0)：图神经网络推理。来自佐治亚理工学院和蚂蚁金服的Le Song给了关于图神经网络推理的精炼讲解。探讨了神经网络与广义网络的结合，并利用图神经网络进行广义网络的变分推理。
 + [《Introduction to Graph Neural Networks》](https://booksc.xyz/book/81511304/da61a3)：2020新书《图神经网络导论》，清华大学刘知远和周杰老师著作。推荐等级：:heart::heart::heart::heart:！
 + [《Towards a Theory of Vector Embeddings of Structured Data》](https://sigmod2020.org/pods_keynote.shtml)：RWTH Aachen大学的计算机科学教授ACM Fellow Martin Grohe教授发表了《X2vec： 构建结构数据的向量嵌入理论》报告，非常干货！
++ [《Temporal Graph Network for Deep Learning on Dynamic Graphs》](https://ai.science/e/tgn-temporal-graph-networks-for-deep-learning-on-dynamic-graphs--eqAnR859q8wk2jfcGnbx)：《时序图神经网络》视频讲解，，作者提出了时序图网络(TGNs)，一个通用的，有效的框架，用于深度学习动态图表示为时间事件序列。在内存模块和基于图的操作符中，TGNs能够显著优于以前的方法，同时计算效率也更高。作者进一步表明，以前的几个学习动态图的模型可以转换为TGN框架的具体实例。他们对TGN框架的不同组件进行了详细的消融研究，并设计了最佳配置，在动态图的几个转导和归纳预测任务上实现了最先进的性能。
 + [Learning Representations via Graph-structured Networks](https://xiaolonw.github.io/graphnnv2/)：CVPR2020-Tutorial，视觉的图网络结构表示学习
 + [Knowledge-Graph-Publications](https://github.com/wds-seu/Knowledge-Graph-Publications)：知识图谱顶会文献集锦
 + [OpenHINE](https://github.com/BUPTDM/OpenHINE)：为了方便大家对异质信息网络表示学习（HINE）开展相关的实验或研究，北京邮电大学 DMGroup 的研究人员在 GitHub 上发布了 HINE 训练和测试框架 OpenHINE。
-
++ [GN Review](https://github.com/LYuhang/GNN_Review)：GNN综述阅读报告，报告涵盖有多篇GNN方面的论文，以及一个按照论文《The Graph Neural Network Model 》使用pytorch编写的模型例子，该模型在人工数据上进行运行和验证。
 
 <a class="toc" id ="27"></a>
+
 # Generative Adversarial Networks (GANs) 🤜 🤛
 [🔙](#table-of-contents)
 
@@ -1369,6 +1378,7 @@
 + [Awesome-model-compression-and-acceleration](https://github.com/memoiry/Awesome-model-compression-and-acceleration)：模型压缩论文大全，GitHub:star:467​
 + [Awesome Knowledge Distillation](https://github.com/dkozlov/awesome-knowledge-distillation)：作为模型压缩的一种方法，知识蒸馏能够利用已经训练的一个较复杂的模型，来指导一个较轻量的模型训练，从而在减小模型大小和计算资源的同时，尽量保持原始大模型的准确率的方法。Github上的dkozlov同学，整理了Knowledge Distilling的paper、教程、代码，看完这些资料，你一定有所收获
 + [Model Compression](https://github.com/666DZY666/model-compression)：基于pytorch实现模型压缩
++ [Torch-Pruning](https://github.com/VainF/Torch-Pruning)：Pytorch结构化神经网络修剪工具包
 
 <a class="toc" id ="30"></a>
 
@@ -1469,6 +1479,8 @@
 + [TF-AGENTS](https://github.com/tensorflow/agents)：作为一款优秀的强化学习框架 TF-AGENTS 可以让强化学习的工程师和科学家在设计、实现以及测试新的强化学习算法时更加的方便与快捷。同时，由于对代码结构的精心设计，在实际使用它时也有利于提高使用者的产品迭代速度。不仅仅如此，TF-AGENTS 还提供了基础的测试与基准测试部分帮助大家快速上手与构建“第一个强化学习”程序。GitHub:star:1.4k​
 + [TensorNetwork](https://github.com/google/TensorNetwork)：TensorNetwork 是 19 年 6 月发布的一个开源库，用于简化张量网络中的计算。[示例代码](https://colab.research.google.com/github/google/TensorNetwork/blob/master/colabs/Tensor_Networks_in_Neural_Networks.ipynb)，GitHub:star:1.3k。相关论文：Khrulkov et al. 的论文：https://arxiv.org/abs/1901.10787。Ma et al. 的：论文https://arxiv.org/abs/1906.09777。Lebedev et al. 的论文：https://arxiv.org/abs/1412.6553。此论文：https://arxiv.org/abs/cond-mat/0406440
 + [RLs](https://github.com/StepNeverStop/RLs)：Tensorflow2.0实现29种深度强化学习算法大汇总
++ [TensorFlow Privacy](https://github.com/tensorflow/privacy) ：TensorFlow Privacy (GitHub) 中推出的一个全新的实验性模块，可用于评估分类模型的隐私属性。GitHub:star:1.3k​
++ [TFX](https://tensorflow.google.cn/tfx)：TensorFlow Extended (TFX) 是一个端到端平台，用于部署生产型机器学习流水线
 
 
 <a class="toc" id ="32"></a>
@@ -1560,6 +1572,8 @@
 + [Torchkeras](https://github.com/lyhue1991/torchkeras)：使用类似Keras的方法训练PyTorch模型
 + [Eat PyTorch in 20 Days](https://github.com/lyhue1991/eat_pytorch_in_20_days)：[《30天吃掉那只TensorFlow2》](https://github.com/lyhue1991/eat_tensorflow2_in_30_days)的作者发布的又一个学习项目，这次是《20天吃掉那只PyTorch》。推荐等级：❤️❤️❤️❤️！
 + [fairscale](https://github.com/facebookresearch/fairscale)：Facebook最新开源的一个用于高性能和大规模训练的PyTorch扩展库。
++ [MovieNet](http://movienet.site/)：基于Pytorch的开源电影分析工具箱
++ [Torch-Pruning](https://github.com/VainF/Torch-Pruning)：
 
 
 
@@ -1632,8 +1646,8 @@
 + [SC-FEGAN](https://github.com/run-youngjoo/SC-FEGAN)：人脸编辑生成对抗网络。论文：[《SC-FEGAN: Face Editing Generative Adversarial Network with User's Sketch and Color》](https://arxiv.org/abs/1902.06838)
 + [《Self-Supervised GAN Compression》](https://arxiv.org/abs/2007.01491)：NVIDIA 提出的自监督GAN模型压缩方法。
 + [TrojanNet](https://github.com/trx14/TrojanNet)：美国德州农工大学的研究人员提出一种新型木马攻击模型，无需修改训练数据集，也无需重新训练模型，即可快速完成木马植入，并发动稳健的攻击。目前，这项研究已被 KDD 2020 会议接收。论文：[《An Embarrassingly Simple Approach for Trojan Attack in Deep Neural Networks》](https://arxiv.org/pdf/2006.08131.pdf)
-
-
++ [Reading-Comprehension-Question-Answering-Papers](https://github.com/xanhho/Reading-Comprehension-Question-Answering-Papers)：问答阅读理解资源列表
++ [fawkes](https://github.com/Shawn-Shan/fawkes)：微软旷视人脸识别100%失灵！北京十一学校校友新研究「隐身衣」，帮你保护照片隐私数据。论文：[《Fawkes: Protecting Privacy against Unauthorized Deep Learning Models》](http://people.cs.uchicago.edu/~ravenben/publications/pdf/fawkes-usenix20.pdf)
 
 <a class="toc" id ="36"></a>
 
@@ -1983,5 +1997,5 @@
 
 <a class="toc" id ="44"></a>
 
-# Update (更新时间) 🕰 ：2020/07/20
+# Update (更新时间) 🕰 ：2020/07/27
 [🔙](#table-of-contents)
