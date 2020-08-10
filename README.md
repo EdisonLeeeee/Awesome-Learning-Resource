@@ -1,6 +1,16 @@
-# Awesome Learning Resources :heart:😎 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
-[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
-[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com)
+# Awesome Learning Resources :heart:😎 
+
+[![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+
+[![Contributions Welcome](https://img.shields.io/badge/Contributions-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com)
+
+![](https://img.shields.io/github/forks/EdisonLeeeee/Awesome-Learning-Resource)
+
+![](https://img.shields.io/github/stars/EdisonLeeeee/Awesome-Learning-Resource)
+
+![](https://img.shields.io/github/license/EdisonLeeeee/Awesome-Learning-Resource)
+
+
 <a class="toc" id="table-of-contents"></a>
 
 ### 👉 Table of Contents 👈
@@ -47,7 +57,7 @@
 + [Dataset (数据集)  📊](#41)
 + [Coding Toolkit (代码工具) 💻](#42)
 + [Others (其它) ❓](#43)
-+ [Update (更新时间) 🕰 ：2020/07/27](#44)
++ [Update (更新时间) 🕰 ：2020/08/10](#44)
 
 
 <a class="toc" id ="1"></a>
@@ -111,6 +121,7 @@
 + [HelloGithub](https://www.hellogithub.com/)：分享GitHub上有趣，入门级的开源项目
 + [GitHubDaily ](https://github.com/GitHubDaily/GitHubDaily)：每日不定时推送一批 GitHub 上优秀的开源项目给开发者, 帮助开发者们发现当下最火的开源项目
 + [PyHubWeekly](https://github.com/Jackpopc/PyHubWeekly)：PyHubWeekly是一个精选Github上优质Python小工具的项目，宗旨：每周更新一次；精选GitHub上优质Python项目
++ [Github trending repos](https://github.com/vitalets/github-trending-repos)：GitHub上不同语言的每日趋势总结
 + [onedev](https://github.com/theonedev/onedev)：OneDev 是一个开源的一体化的 DevOps 平台，一款简单易用的 GitLab 替代品。GitHub:star:3.2k​
 + [GitHub漫游指南](https://github.com/phodal/github)：关于如何在Github上如何构建一个好的项目。、研究用户的行为、找到一些感兴趣项目的指南。推荐等级：:heart::heart::heart:！
 + [Github Trending Repos](https://github.com/vitalets/github-trending-repos)：通过GitHub本地通知，跟踪你喜欢的编程语言的GitHub趋势库，GitHub:star:2k。推荐等级：:heart::heart::heart:！
@@ -287,6 +298,7 @@
 + [Fucking Algorithm](https://github.com/labuladong/fucking-algorithm)：手把手撕LeetCode题目，扒各种算法套路的裤子。GitHub:star:13.4k。
 + [Javascript Algorithms](https://github.com/trekhleb/javascript-algorithms)：该库包含多个 JavaScript 常用算法和数据结构示例。每个示例被标注为「入门」或「高级」，以表明难度。此外，该库还包含哈希表、堆区（heap）、队列（queue）、栈区（stack）、math、字符串（strings）、集合（sets）等的示例。GitHub:star:67.4k，推荐等级：❤️❤️❤️！
 + [Algorithm Pattern](https://github.com/greyireland/algorithm-pattern)：算法模板，最科学的刷题方式，最快速的刷题路径，你值得拥有~GitHub:star:1.5k​
++ [hello-algorithm](https://github.com/geekxh/hello-algorithm)：该项目中包括热爱编程的作者小浩撰写的一本三十万字的算法题典，全部采用漫画图解的方式，简单易懂，适合初中级读者。GitHub:star:8.7k。推荐等级：❤️❤️❤️！
 
 
 
@@ -356,6 +368,7 @@
 + [Awesome MATLAB](https://github.com/mikecroucher/awesome-MATLAB)：MATLAB 资源
 + [Awesome matlab](https://github.com/uhub/awesome-matlab)：MATLAB 资源
 + [Awesome Cheatsheet](https://github.com/vaputa/awesome-cheatsheet)：速查表资源大全
++ [awesome-production-machine-learning](https://github.com/EthicalML/awesome-production-machine-learning)：这个存储库包含了一系列非常棒的开源库，它们将帮助您部署、监视、版本、扩展和保护生产机器学习。GitHub:star:5.3k​
 
 
 <a class="toc" id ="9"></a>
@@ -700,6 +713,8 @@
 
 + [Machine Learning Notes](https://github.com/Sophia-11/Machine-Learning-Notes)：周志华《机器学习》手推笔记
 
++ [PRML](https://github.com/gerdm/prml)：这个项目是记录作者在浏览Christopher Bishop的PRML书中的进展。包含笔记本，以更好地理解所提出的想法，以及链接到有用的论文和笔记。
+
 + [Clear and Creepy Danger of Machine Learning: Hacking Passwords](https://towardsdatascience.com/clear-and-creepy-danger-of-machine-learning-hacking-passwords-a01a7d6076d5)：一位好奇的学者 Tikeswar Naik，通过简单的实验和讨论了机器学习技术的某一潜在滥用情况——使用 ML 来破解密码，希望通过这一介绍能够让更多人保持警惕，并找到减轻或防止滥用的方法。[GitHub](https://github.com/tikeswar/kido)
 
 + [Ten Tips to Save you Time and Frustration When Programming](https://towardsdatascience.com/ten-tips-to-save-you-time-and-frustration-when-programming-1f5a4b61f390)： Jeff Hale 是 Medium 社区中非常有名的人工智能和技术领域的专栏作家。在这篇文章里，他给所有的编程者提供了 10 个真诚而且实用的建议以及快速解决编程错误的5个步骤。
@@ -750,6 +765,7 @@
 + [LeetCodeSQL](https://leetcode-cn.com/problemset/database/)：LeetCode 上关于 SQL 的题目
 + [W3Resource](https://www.w3resource.com/sql-exercises/)：SQL 在线刷题网站
 + [Regex101](https://regex101.com/)：一个在线正则表达式学习（转换）网站，还可以将你的正则表达式转换为各种语言的代码
++ [Regular Expression Visualizer](https://blog.robertelder.org/regular-expression-visualizer/)：一款很酷的正则表达式可视化工具
 + [Learn Regex](https://github.com/ziishaned/learn-regex)：无论你使用的是 Python、Java、Perl 还是 Shell，正则表达式是学习主流编程语言几乎绕不开的话题。有了它，就能帮你快速定位到符合筛选条件的文本内容。现在 GitHub 上的有个 24k:star:的项目 learn-regex 解决了初学者的困难。最近这个教程刚完成了汉化工作，还附有在线练习，帮助初学者快速入门正则表达式
 + [Brilliant | Math and Science Done Right](https://brilliant.org)：可以边打游戏边学习，包含数学、物理、逻辑、计算机
 + [3Blue1Brown](https://space.bilibili.com/88461692)：深入浅出、直观明了地分享了数学之美。3Blue1Brown中国官方B站账号，用动画的形式生动讲解了微积分的本质，线性代数等数学原理，推荐等级：:heart::heart::heart:！
@@ -852,6 +868,7 @@
 + [Blood Worm](https://github.com/whitingjp/ld33)：该游戏使您可以控制带有声音效果的蠕虫。
 + [Micromancer](https://github.com/radmars/ld33)：这是 Ludum Dare 33 的另一个游戏，您将在其中扮演一名死灵法师之王，带领您的亡灵大军奋勇前进。
 + [Johnny Smiter: Episode Zero](https://github.com/supereggbert/JohnnySmiterEp0)：该游戏将您带入虚拟现实森林，您必须在其中收集符文并避免致命的蜘蛛的攻击。
++ [DerkGame](https://derkgame.com/)：在游戏里训练「神经网络小怪兽」，学习强化学习！已在 steam 上线
 + [Free Python Games](https://github.com/grantjenks/free-python-games)：一行代码就能进入使用Python开发的小游戏快乐玩耍！同时这个项目也可以作为学习资料，学习编程游戏，GitHub:star:1k，推荐等级：:heart::heart::heart:！
 
 
@@ -905,6 +922,7 @@
 + [Nbdev](https://github.com/fastai/nbdev/)：fast.ai 创始研究员 Jeremy Howard 撰文介绍了 fast.ai 最近提出的新型编程环境 nbdev，它基于 Jupyter Notebook 构建，并将 IDE 编辑器的优点带入 Jupyter Notebook，可以在 Notebooks 中开发而不影响整个项目生命周期。[文档](https://github.com/fastai/nbdev/)
 + [Reviewnb](https://www.reviewnb.com/)：Code Reviews for Jupyter Notebooks，Jupyter Notebook 的代码审查工具。介绍博客：[Introducing ReviewNB: Code Reviews for Jupyter Notebooks](https://towardsdatascience.com/introducing-reviewnb-visual-diff-for-jupyter-notebooks-6797e6dfa20c)
 + [Polynote](https://github.com/polynote/polynote)：使用类似 Jupyter Notebook 进行数据分析和机器学习是近来较为方便灵活的开发方式，但是 Jupyter Notebook 缺乏对多种语言的原生支持，在管理笔记本内的依赖、数据可视化等方面有所欠缺。近日，NetFlix 公司将其数据分析和机器学习开发工具 Polynote 开源。这一工具支持多语言在一个笔记本程序内运行，还增加了很多新特性，值得尝试使用。推荐等级：:heart:！
++ [Starboard](https://starboard.gg/)：一款与 Jupyter Notebook 颇为相似的 Web 交互式笔记本：Starboard。利用这款工具，你可以直接在网页上写出可交互、可运行的代码笔记，内置浏览器，零配置，简单易用。推荐等级：:heart::heart::heart:！
 + [Deepnote](https://www.deepnote.com/)：对全世界的 Python 高手而言，Jupyter Notebook 是目前最流行的编程环境，但它也有一些令人难以忍受的缺点。为此，一个位于旧金山的小团队开发了一款名为 Deepnote 的笔记本工具，这是一种云协作、云硬件，上云的 Notebook 编程环境。Pindrop 的高级研究科学家 Anthony Agnone 认为，Deepnote 已经表现出了超越 Jupyter Notebook 的趋势。推荐等级：:heart::heart::heart:！
 + [Awesome JupyterLab](https://github.com/mauhai/awesome-jupyterlab)：Jupyter lab 插件和资源大全列表，GitHub::star:1k。
 + [Awesome Jupyter](https://github.com/adebar/awesome-jupyter)：Jupyter 插件和资源大全列表，GitHub::star:1.4k。
@@ -968,6 +986,7 @@
 + [Ipyplot](https://github.com/karolzak/ipyplot)：Jupyter 画图库，推荐等级：❤️❤️❤️！
 + [《Python code for Artificial Intelligence: Foundations of Computational agents》](https://artint.info/AIPython/)：《人工智能Python代码》，本书的Python代码旨在演示第二版《计算agent的基础》人工智能中的一些算法，其中包含并解释了书中的所有代码。
 + [Magic Python](https://github.com/iswbm/magic-python)：《Python 黑魔法指南》，带你玩不一样的 Python
++ [zaoqi-Python](https://github.com/liuhuanshuo/zaoqi-Python)：早起Python公众号内容，内有 numpy80 题和 pandas120 题等学习资料
 
  
 
@@ -1064,6 +1083,8 @@
 + [AutoCrawler](https://github.com/YoongiKim/AutoCrawler)：Google，Naver 多进程图像抓取工具（高品质，高速度和可自定义）。
 + [Scrapy Cookbook](https://scrapy-cookbook.readthedocs.io/zh_CN/latest/)：Scrapy中文文档
 + [SourceCodeOfBook](https://github.com/kingname/SourceCodeOfBook)：《Python爬虫开发 从入门到实战》配套源代码
++ [arxivscraper](https://github.com/Mahdisadjadi/arxivscraper)：arxiv 爬虫
++ [arxiv-crawler](https://github.com/joelthchao/arxiv-crawler)：arxiv 爬虫
 
 
 
@@ -1112,7 +1133,7 @@
 + [Jittor](https://cg.cs.tsinghua.edu.cn/jittor/)：清华大学开发了一个名为计图（Jittor）的深度学习框架。这一框架有望为深度学习社区提供新的方案，也能够推动深度学习框架国产化的进程。据官网介绍说：「研究团队将神经网络所需的基本算子定义为元算子」，元算子非常底层，通过相互融合可以完成复杂的深度学习计算，体现出了易于使用的特点。并且研发团队表示，采用元算子的 Jittor 已超越 Numpy，能够实现更复杂更高效的操作。[GitHub](https://github.com/Jittor/jittor):star:1k+。
 + [MegEngine](https://megengine.org.cn/)：旷视科技在北京发布了新一代人工智能生产平台天元（MegEngine），其「训练推理一体」、「动静合一」、「兼容并包」、「灵活高效」的强大性能或许将为 AI 领域带来新的风向。天元与目前流行的 TensorFlow、PyTorch 相似，旨在让更多的人可以在其基础上构建自己的应用，创造属于自己的价值。[GitHub​](https://github.com/MegEngine/MegEngine):star:600+
 + [MindSpore](https://www.mindspore.cn/)：MindSpore 是华为人工智能解决方案的重要组成部分，与 TensorFlow、PyTorch、PaddlePaddle 等流行深度学习框架对标，旨在大幅度降低 AI 应用开发门槛，让人工智能无处不在。[源码](https://gitee.com/mindspore)
-+ [PyCaret](https://github.com/pycaret/pycaret)：一个开源低代码机器学习 Python 库 PyCaret，它支持在「低代码」环境中训练和部署有监督以及无监督的机器学习模型。 PyCaret 库支持数据科学家快速高效地执行端到端实验，与其他开源机器学习库相比，PyCaret 库只需几行代码即可执行复杂的机器学习任务。该库适合有经验的数据科学家、倾向于低代码机器学习解决方案的公民数据科学家，以及编程背景较弱甚至没有的新手。[Notebook 教程](https://www.pycaret.org/tutorial)
++ [PyCaret](https://github.com/pycaret/pycaret)：一个开源低代码机器学习 Python 库 PyCaret，它支持在「低代码」环境中训练和部署有监督以及无监督的机器学习模型。 PyCaret 库支持数据科学家快速高效地执行端到端实验，与其他开源机器学习库相比，PyCaret 库只需几行代码即可执行复杂的机器学习任务。该库适合有经验的数据科学家、倾向于低代码机器学习解决方案的公民数据科学家，以及编程背景较弱甚至没有的新手。[Notebook 教程](https://www.pycaret.org/tutorial)。推荐等级：:heart::heart::heart::heart:！
 + [AiLearning](https://github.com/apachecn/AiLearning)：机器学习 - MachineLearning - ML、深度学习 - DeepLearning - DL、自然语言处理 NLP 学习资源，GitHub:star:25k。推荐等级：:heart::heart::heart::heart:！
 + [Lihang Code](https://github.com/fengdu78/lihang-code)：李航《统计学习方法》的代码实现，GitHub:star:8k+。推荐等级：:heart::heart:！
 + [Statistical-Learning-Method_Code](https://github.com/Dod-o/Statistical-Learning-Method_Code)：手写实现李航《统计学习方法》书中全部算法，GitHub:star:3.4k​
@@ -1129,6 +1150,12 @@
 + [Tengine Lite](https://github.com/OAID/Tengine/tree/tengine-lite)：Tengine Lite 由 OPEN AI LAB 主导开发，该项目实现了深度学习神经网络模型在嵌入式设备上快速、高效部署。为实现众多 AIoT 应用中跨平台部署，本项目基于原有 Tengine 项目使用 C 语言进行重构，针对嵌入式设备资源有限的特点进行深度框架裁剪。同时采用完全分离的前后端设计，利于 CPU、GPU、NPU 等异构计算单元快速移植和部署。同时兼容 Tengine 框架原有 API 和 模型格式 tmfile，降低评估、迁移成本。GitHub:star:1.4k​
 + [TextHero](https://texthero.org/)：号称「从小白到大神」的Texthero的工具包。快速优雅地处理你的NLP数据集，不仅编写界面友好美观，而且功能全面，预处理、表征、可视化样样精通。
 + [The Super Duper NLP Repo](https://notebooks.quantumstat.com/)：181个NLP教程合集，Colab一键直达，无需环境配置，此外还有481个文本数据集，推荐等级：:heart::heart::heart::heart:！
++ [MKLpy](https://github.com/IvanoLauriola/MKLpy)：MKLpy是一个多内核学习(MKL)框架，其灵感来自于scikit-learn项目。
++ [SEAL](https://github.com/microsoft/SEAL)：微软研究院的 SEAL 项目，实现在神经网络上的同态加密计算，保护隐私。AI开发者能在不需要对隐私AI技术有任何了解的情况下，只需要改动两三行代码即可将现有AI代码转换为具备数据隐私保护功能的程序
++ [Rosetta](https://github.com/LatticeX-Foundation/Rosetta)：国内首个自主研发的基于主流TensorFlow框架的隐私AI框架，让隐私计算与AI攻守结合
++ [CrypTen](https://github.com/facebookresearch/CrypTen)：Facebook 开源的用 Python 实现了多方安全计算的协议，可以进行如数据分离，数据模型分离等场景下的模型训练和推断。
++ [PySyft](https://github.com/OpenMined/PySyft)：Openminded 开源的用 Python 实现了多方安全计算的协议，可以进行如数据分离，数据模型分离等场景下的模型训练和推断。
++ [Transfer-Learning-Library](https://github.com/thuml/Transfer-Learning-Library)：清华大学开源迁移学习算法库：基于PyTorch实现，支持轻松调用已有算法
 
 
 
@@ -1222,6 +1249,7 @@
 + [NLE](https://github.com/facebookresearch/nle)：Facebook研究人员发布的基于NetHack的学习环境，这是一个对强化学习智能体的鲁棒性和泛化性进行基准测试的研究工具。研究人员指出，它可以测试当前最先进人工智能的泛化极限。
 + [2048-gym](https://github.com/FelipeMarcelino/2048-gym)：利用强化学习玩2048，一个足够有趣，又不太复杂的强化学习案例。类似项目：[2048](https://github.com/aszczepanski/2048)，[mcts 2048](https://github.com/thomasahle/mcts-2048/)。相关论文：[《Mastering 2048 with Delayed Temporal Coherence Learning, Multi-Stage Weight Promotion, Redundant Encoding and Carousel Shaping》](https://arxiv.org/abs/1604.05085)，[《Playing Game 2048 with Deep Convolutional Neural Networks Trained by Supervised Learning》](https://www.jstage.jst.go.jp/article/ipsjjip/27/0/27_340/_pdf)
 + [RLs](https://github.com/StepNeverStop/RLs)：Tensorflow2.0实现29种深度强化学习算法大汇总
++ [Super-mario-bros-PPO-pytorch](https://github.com/uvipen/Super-mario-bros-PPO-pytorch)：最近，有人用 PPO 强化学习算法训练了一个超级马里奥智能体，已经打通了 29 关（总共 32 关）。
 
 <a class="toc" id ="25"></a>
 
@@ -1264,6 +1292,7 @@
 + [KDD-2019-Hands-on](https://github.com/dglai/KDD-2019-Hands-on)：KDD 2019 DGL 库教程
 + [Pytorch Geometric (PYG)](https://github.com/rusty1s/pytorch_geometric)：近几年来，图神经网络（GNN）在推荐系统、搜索引擎、计算机视觉等领域中都引起了较大的关注。Github有大量开源GNN实现，其中pytorch geometric是最优秀的实现之一，曾被 Yann LeCun 推荐，GitHub上获:star:6k+，论文：[《Fast Graph Representation Learning with PyTorch Geometric》](https://arxiv.org/abs/1903.02428)，推荐等级：:heart::heart::heart::heart:！
 + [TensorFlow Geometric (TFG)](https://github.com/CrawlScript/tf_geometric)：基于 Tensorflow 的高效友好的图神经网络库，受 [Pytorch Geometric](https://github.com/rusty1s/pytorch_geometric) 启发。一个新开始的项目。​推荐等级：:heart:!
++ [GNN-algorithms](https://github.com/wangyouze/GNN-algorithms)：[tf_geometric](https://github.com/CrawlScript/tf_geometric)的作者出品的图神经网络相关算法详述及实现
 + [GraphEmbedding](https://github.com/shenweichen/GraphEmbedding)：GraphEmbedding 算法的实现库。
 + [StellarGraph](https://github.com/stellargraph/stellargraph)：使用tf2.x写的图机器学习算法实现库。
 + [Euler](https://github.com/alibaba/euler)：阿里妈妈开源大规模分布式图表征学习框架Euler，面向工业级用户和高级研究者，结合TF/XDL/PyTorch等深度学习基础工具，支持超大规模复杂异构图的模型训练。GitHub:star:2k+
@@ -1289,6 +1318,7 @@
 + [Advancements in Graph Neural Networks](https://static.aminer.cn/misc/pdf/graphsage2-mit-nov19.pdf)：图神经网络依然是研究焦点之一。最近在WWW2020的DL4G@WWW2020论坛，斯坦福大学Jure Leskovec副教授介绍了图神经网络研究最新进展，包括GNN表现力、预训练和公开图神经网络基准等。值得关注
 + [Graphkit Learn](https://github.com/jajupmochi/graphkit-learn)：一个用于 graph kernels, graph edit distances and graph pre-image problem 的 Python 库
 + [GraKeL](https://github.com/ysig/GraKeL)：一个用于 Graph kernels 的scikit-learn兼容库
++ [PyTorch-BigGraph](https://github.com/facebookresearch/PyTorch-BigGraph)：Facebook 开源的面向大规模图数据生成 embeddings 的库。GitHub:star:2.3k​
 + [《Discrete regularity graph Laplacians》](http://helper.ipam.ucla.edu/publications/hjws4/hjws4_15794.pdf)：图机器学习-图拉普拉斯算子的离散正则性
 + [《Top Trends of Graph Machine Learning in 2020》](https://towardsdatascience.com/top-trends-of-graph-machine-learning-in-2020-1194175351a3)：2020图机器学习的趋势
 + [《Graph Neural Networks - Notes》](https://nihalnayak.github.io/assets/notes/gnn_notes.pdf)：一份简短入门《图神经网络GNN》笔记小册，作者Nihal Nayak
@@ -1311,6 +1341,7 @@
 + [Knowledge-Graph-Publications](https://github.com/wds-seu/Knowledge-Graph-Publications)：知识图谱顶会文献集锦
 + [OpenHINE](https://github.com/BUPTDM/OpenHINE)：为了方便大家对异质信息网络表示学习（HINE）开展相关的实验或研究，北京邮电大学 DMGroup 的研究人员在 GitHub 上发布了 HINE 训练和测试框架 OpenHINE。
 + [GN Review](https://github.com/LYuhang/GNN_Review)：GNN综述阅读报告，报告涵盖有多篇GNN方面的论文，以及一个按照论文《The Graph Neural Network Model 》使用pytorch编写的模型例子，该模型在人工数据上进行运行和验证。
++ [Graph Nets: The Next Generation - Max Welling](https://video.ias.edu/machinelearning/2020/0721-MaxWelling)：下一代图神经网络是什么？几何深度学习，大牛Max Welling教授视频讲解
 
 <a class="toc" id ="27"></a>
 
@@ -1379,6 +1410,7 @@
 + [Awesome Knowledge Distillation](https://github.com/dkozlov/awesome-knowledge-distillation)：作为模型压缩的一种方法，知识蒸馏能够利用已经训练的一个较复杂的模型，来指导一个较轻量的模型训练，从而在减小模型大小和计算资源的同时，尽量保持原始大模型的准确率的方法。Github上的dkozlov同学，整理了Knowledge Distilling的paper、教程、代码，看完这些资料，你一定有所收获
 + [Model Compression](https://github.com/666DZY666/model-compression)：基于pytorch实现模型压缩
 + [Torch-Pruning](https://github.com/VainF/Torch-Pruning)：Pytorch结构化神经网络修剪工具包
++ [LSQ-Net](https://github.com/zhutmost/lsq-net)：IBM的量化工作，发表在ICLR 2020。论文：[《Learned Step Size Quantization》](https://arxiv.org/abs/1902.08153)。为了解决量化精度越低，模型识别率越低的问题，本文引入了一种新的手段来估计和扩展每个权重和激活层的量化器步长大小的任务损失梯度，并在 ImageNet 上的实验和分析证明了所提出的方法的有效性, 实现了ResNet 4 bit量化不掉精度！
 
 <a class="toc" id ="30"></a>
 
@@ -1481,9 +1513,10 @@
 + [RLs](https://github.com/StepNeverStop/RLs)：Tensorflow2.0实现29种深度强化学习算法大汇总
 + [TensorFlow Privacy](https://github.com/tensorflow/privacy) ：TensorFlow Privacy (GitHub) 中推出的一个全新的实验性模块，可用于评估分类模型的隐私属性。GitHub:star:1.3k​
 + [TFX](https://tensorflow.google.cn/tfx)：TensorFlow Extended (TFX) 是一个端到端平台，用于部署生产型机器学习流水线
-
++ [TiramisuASR](https://github.com/usimarit/TiramisuASR)：用TensorFlow实现的语音识别引擎
 
 <a class="toc" id ="32"></a>
+
 # Keras Learning (Keras 学习) 🇰🇷
 [🔙](#table-of-contents)
 
@@ -1560,6 +1593,7 @@
 + [Hiplot](https://github.com/facebookresearch/hiplot)：HiPlot是Facebook开源的一个交互式可视化工具，它帮助人工智能研究人员发现高维数据中的相关性和模式，并使用平行图和其他图形方式来表示信息。HiPlot使用一种称为平行图的技术，这是一种可视化和过滤高维数据的方便做法。
 + [Efficient-PyTorch](https://github.com/Lyken17/Efficient-PyTorch)：使用PyTorch训练大型数据集的最佳实践
 + [Torchprof](https://github.com/awwong1/torchprof)：用于呈现PyTorch模型细节的库，推荐等级：:heart::heart:！
++ [Pytorch OpCounter](https://github.com/Lyken17/pytorch-OpCounter)：计算 PyTorch 模型参数量 (MACs / FLOPs) 的库，GitHub:star:1.9k
 + [Pytorch Cifar](https://github.com/kuangliu/pytorch-cifar)：在CIFAR10 数据集上用PyTorch实现的CV模型，GitHub:star:2.7k​
 + [Pytorch Tricks](https://github.com/zxdefying/pytorch_tricks)：使用 `PyTorch` 的过程中总结的一些小trick
 + [Pytorch Deep Learning](https://github.com/Atcold/pytorch-Deep-Learning)：利用PyTorch进行深度学习教程，GitHub:star:2.2k​
@@ -1573,7 +1607,8 @@
 + [Eat PyTorch in 20 Days](https://github.com/lyhue1991/eat_pytorch_in_20_days)：[《30天吃掉那只TensorFlow2》](https://github.com/lyhue1991/eat_tensorflow2_in_30_days)的作者发布的又一个学习项目，这次是《20天吃掉那只PyTorch》。推荐等级：❤️❤️❤️❤️！
 + [fairscale](https://github.com/facebookresearch/fairscale)：Facebook最新开源的一个用于高性能和大规模训练的PyTorch扩展库。
 + [MovieNet](http://movienet.site/)：基于Pytorch的开源电影分析工具箱
-+ [Torch-Pruning](https://github.com/VainF/Torch-Pruning)：
++ [Torch-Pruning](https://github.com/VainF/Torch-Pruning)：Pytorch结构化神经网络修剪工具包
++ [Pytorch Geometric Temporal](https://github.com/benedekrozemberczki/pytorch_geometric_temporal)：[Pytorch Geometric (PYG)](https://github.com/rusty1s/pytorch_geometric) 作者推出的另一个时序扩展库。
 
 
 
@@ -1602,12 +1637,14 @@
   - https://github.com/eth-sri/eran
   - https://github.com/NVlabs/selfsupervised-denoising
   - https://github.com/facebookresearch/FixRes
++ [Paper Summary](https://github.com/gopala-kr/summary)：GItHub 上一个作者阅读果的所有论文简介，推荐等级：:heart:！
 - [Paper Digest: ICML 2020 Highlights](https://www.paperdigest.org/2020/07/icml-2020-highlights/)：为了帮助社区快速查找会议上的工作，Paper Digest团队处理所有被接受的论文，并为每篇论文生成一个亮点总结(通常是主要主题)。鼓励读者阅读这些机器生成的要点/摘要，以快速获得每篇论文的主要思想，推荐等级：:heart::heart::heart::heart:！
 + [NeurIPS 2019 Notes](https://david-abel.github.io/notes/neurips_2019.pdf)：布朗大学的博士生 David Abel 公开了他的 NeurIPS 2019 参会笔记，他从深度学习理论、强化学习、博弈论和元学习等主题出发记载参会的一些亮点与主要内容。[个人主页](https://david-abel.github.io/)。，推荐等级：:heart::heart::heart::heart:！
 + [KDD 2020](https://www.kdd.org/kdd2020/accepted-papers)：KDD 2020 接收论文，推荐等级：:heart::heart::heart::heart:！
 + [AAAI-20 Accepted Paper List](https://aaai.org/Conferences/AAAI-20/wp-content/uploads/2020/01/AAAI-20-Accepted-Paper-List.pdf)：AAAI2020 论文收录大全
 + [NLP-Conferences-Code](https://github.com/yizhen20133868/NLP-Conferences-Code)：记录NLP相关顶会(如ACL、EMNLP、NAACL、COLING、AAAI、IJCAI)的论文开源项目合集
 + [IJCAI 2020](https://www.ijcai.org/Proceedings/2020/)：IJCAI 2020 接收论文
++ [Paper Digest: ICML 2020 Highlights](https://www.paperdigest.org/2020/07/icml-2020-highlights/)：ICML2020接收论文亮点总结，推荐等级：:heart::heart::heart::heart:！
 + [PC-DARTS](https://arxiv.org/abs/1907.05737)：在此论文中，来自上海交通大学和华为诺亚方舟实验室的研究人员提出了一种基于部分通道采样的内存高效的可微网络结构搜索方法方法，能够显著提升可微式搜索的速度和性能。该方法在 CIFAR10 数据集上，只需要 0.1 个 GPU 天（单卡 1.5 小时）就可以完成一次搜索过程，并且达到 2.57% 的测试错误率；即使在 ImageNet 数据集上直接搜索，该方法也只需要 3.8 个 GPU 天（8 卡 11.5 小时），并且在 ImageNet 的移动设定（600M 运算）中达到 24.2%/7.3% 的 top-1/top-5 测试错误率。难得的是，该方法展示出了在不同参数设定下的搜索稳定性，能够很容易地应用于不同的实际场景。[GitHub地址](https://github.com/yuhuixu1993/PC-DARTS)
 + [Hashing Deep Learning](https://github.com/keroro824/HashingDeepLearning)：在[该论文](https://www.cs.rice.edu/~as143/Papers/SLIDE_MLSys.pdf)中采用的局部敏感哈希（Locality Sensitive Hashing）算法，并在神经网络中使用了自适应 dropout，在 Amazon-670K 这样的复杂分类数据集上，超一亿参数量的大型神经网络训练时间竟然是 SLIDE + CPU 最快，连 TensorFlow + Tesla V100 都要慢很多，而且从迭代步数上看，它们两者是等价的，表明模型的收敛行为是相同的。
 + [Neural Tangents](https://ai.googleblog.com/2020/03/fast-and-easy-infinitely-wide-networks.html)：推导有限网络的无限宽度限制需要大量的数学知识，并且必须针对不同研究的体系结构分别进行计算。对工程技术水平的要求也很高。谷歌最新开源的 **Neural Tangents**，旨在解决这个问题，让研究人员能够轻松建立、训练无限宽神经网络。甚至只需要5行代码，就能够打造一个无限宽神经网络模型。这一研究成果已经中了ICLR 2020。戳进Colab链接，即可在线试玩。[论文地址](https://arxiv.org/abs/1912.02803)，[Colab地址](https://colab.research.google.com/github/google/neural-tangents/blob/master/notebooks/neural_tangents_cookbook.ipynb)，[GitHub地址](https://github.com/google/neural-tangents)
@@ -1648,6 +1685,16 @@
 + [TrojanNet](https://github.com/trx14/TrojanNet)：美国德州农工大学的研究人员提出一种新型木马攻击模型，无需修改训练数据集，也无需重新训练模型，即可快速完成木马植入，并发动稳健的攻击。目前，这项研究已被 KDD 2020 会议接收。论文：[《An Embarrassingly Simple Approach for Trojan Attack in Deep Neural Networks》](https://arxiv.org/pdf/2006.08131.pdf)
 + [Reading-Comprehension-Question-Answering-Papers](https://github.com/xanhho/Reading-Comprehension-Question-Answering-Papers)：问答阅读理解资源列表
 + [fawkes](https://github.com/Shawn-Shan/fawkes)：微软旷视人脸识别100%失灵！北京十一学校校友新研究「隐身衣」，帮你保护照片隐私数据。论文：[《Fawkes: Protecting Privacy against Unauthorized Deep Learning Models》](http://people.cs.uchicago.edu/~ravenben/publications/pdf/fawkes-usenix20.pdf)
++ [SuperGluePretrainedNetwork](https://github.com/magicleap/SuperGluePretrainedNetwork)：SuperGlue network 是一个结合了最优匹配层的图形神经网络，经过训练的最优匹配层对两组稀疏图像特征进行匹配。论文：[《SuperGlue: Learning Feature Matching with Graph Neural Networks》](https://arxiv.org/abs/1911.11763)
++ [DO-Conv](https://github.com/yangyanli/DO-Conv)：阿里等提出的DO-Conv：Depthwise Over-parameterized卷积层，仅用DO-Conv层替换常规卷积层就可以提高CNN在许多经典视觉任务（如分类，目标检测和分割等）上的性能。论文：[《DO-Conv: Depthwise Over-parameterized Convolutional Layer》](https://arxiv.org/abs/2006.12030)
++ [Pyconv](https://github.com/iduta/pyconv)：PyConv具有影响几乎所有计算机视觉任务的潜力，如分类PyConvResNet、分割PyConvSegNet，检测PyConvSSD等，在提高性能的同时(涨点明显)，不增加计算量和参数，论文：《[Pyramidal Convolution: Rethinking Convolutional Neural Networks for Visual Recognition》](https://arxiv.org/abs/2006.11538)
++ [ULSAM](https://github.com/Nandan91/ULSAM)：即插即用！首次尝试使用子空间注意力机制来提高紧凑型CNN的效率，并提高细粒度图像分类性能，如MobileNetV2 + ULSAM，其FLOP和参数减少的同时，准确率提高。[《ULSAM: Ultra-Lightweight Subspace Attention Module for Compact Convolutional Neural Networks》](https://arxiv.org/abs/2006.15102)
++ [rethinking_bottleneck_design](https://github.com/zhoudaquan/rethinking_bottleneck_design)：用sandglass block替换Inverted Residual Block，如提出MobileNeXt 性能优于EfficientNet、GhostNet和FBNet等网络。论文：[《Rethinking Bottleneck Structure for Efficient Mobile Network Design》](https://arxiv.org/abs/2007.02269)
++ [Dynamic Group Convolution](https://github.com/zhuogege1943/dgc)：DGC：用于加速卷积神经网络的动态分组卷积，为每个组配备一个小的特征选择器，以自动选择以输入图像为条件的最重要的输入通道，性能优于FLGC、SGC和CGNet等分组网络。论文：[《Dynamic Group Convolution for Accelerating Convolutional Neural Networks》](https://arxiv.org/abs/2007.04242)
++ [DCANet](https://github.com/eccv2020-4574/DCANet)：即插即用的DCA模块，增强你的注意力模型，提高网络性能！论文：[《DCANet: Learning Connected Attentions for Convolutional Neural Networks》](https://arxiv.org/abs/2007.05099)
++ [PSConv](https://github.com/d-li14/PSConv)：即插即用，涨点明显！用在ResNet-50等CNN，直接涨了1个多点；用在Mask R-CNN等网络上，直接涨近两个点！论文：[《PSConv: Squeezing Feature Pyramid into One Compact Poly-Scale Convolutional Layer》](https://arxiv.org/abs/2007.06191)
++ [WeightNet](https://github.com/megvii-model/WeightNet)：涨点神器！可较大提高ShuffleNetV2、ResNet50等CNN的性能。论文：[《WeightNet: Revisiting the Design Space of Weight Networks》](https://arxiv.org/abs/2007.11823)
++ [FPT](https://github.com/ZHANGDONG-NJUST/FPT)：特征金字塔Transformer。论文：[《Feature Pyramid Transformer》](https://arxiv.org/abs/2007.09451)
 
 <a class="toc" id ="36"></a>
 
@@ -1722,6 +1769,9 @@
 + [AutoDL](https://github.com/DeepWisdom/AutoDL)：NeurIPS-AutoDL 总决赛冠军解决方案，开源代码基于 Full-AutoML 系统自动设计出的共性解并加以改造
 + [kaggle-CrowdFlower](https://github.com/ChenglongChen/kaggle-CrowdFlower)：Kaggle 搜索结果相关性比赛第一名解决方案
 + [KDD_CUP_2020_Debiasing_Rush](https://github.com/xuetf/KDD_CUP_2020_Debiasing_Rush)：Rush团队在KDD CUP 2020的Debiasing赛道中的解决方案，此次比赛是典型的序列推荐场景中的纠偏问题，即：debiasing of next-item-prediction。模型构建的过程中要重点考虑行为序列和蕴含在序列中的时间信息，位置信息和长短期偏好等。
++ [Tencent2020_Rank1st](https://github.com/guoday/Tencent2020_Rank1st)：2020腾讯广告算法大赛冠军队伍开源方案
+
+
 
 
 <a class="toc" id ="38"></a>
@@ -1820,6 +1870,7 @@
 [🔙](#table-of-contents)
 
 + [Google Dataset Search](https://toolbox.google.com/datasetsearch): 谷歌提供的数据集搜索工具，可以搜到绝大多数的公开数据集
++ [Arxiv](https://www.kaggle.com/Cornell-University/arxiv)：arXiv 将 170万篇arXiv论文集成为一个格式机器可读的数据库，并将该数据库托管到了Kaggle上供用户免费使用。数据库包括论文标题、作者、类别、摘要、全文pdf等论文相关信息。推荐等级：:heart::heart::heart:！
 + [Open Images V6](https://storage.googleapis.com/openimages/web/index.html)：Open Images是谷歌在2016年推出的大规模图像数据集，包括大约900万张图片，标注了数千个图像类别。目前是第六版，新增了**507444**个局部叙事。[博客介绍](https://ai.googleblog.com/2020/02/open-images-v6-now-featuring-localized.html)
 + [Tencent Ml Images](https://github.com/Tencent/tencent-ml-images)：腾讯开源的超大型多标签图像数据集及模型训练代码
 + [Machine learning datasets](https://www.datasetlist.com/)：这个网站上共收集到了100多个业界最大型的数据集。根据任务类别，这些数据集中又分为三大类：计算机视觉（CV）、自然语言处理（NLP）和音频数据集
@@ -1978,7 +2029,7 @@
 + [Windows Keyboard Shortcuts](https://support.microsoft.com/zh-cn/help/12445/windows-keyboard-shortcuts)：微软官方：Windows 中的键盘快捷方式
 + [Naptha](https://projectnaptha.com/)：一位来自MIT的学生Kevin Kwok用计算机视觉算法写了个Chrome插件Naptha，可以直接识别网页图片中的文字，并直接对它们进行高亮、复制粘贴、翻译、修改等操作。[Chrome插件下载地址](https://chrome.google.com/webstore/detail/project-naptha/molncoemjfmpgdkbdlbjmhlcgniigdnf)
 + [PDFresizer](https://pdfresizer.com/)：只需几下点击，允许对PDF文件分割和合并，优化，裁剪，调整大小，进行在线转换。
-+ [Wolfram Alpha](https://www.wolframalpha.com/)：Wolfram Alpha，是由 Wolfram Research 公司推出的一款在线自动问答系统。其特色是可以直接向用户返回答案，而不是像传统搜索引擎一样提供一系列可能含有用户所需答案的相关网页
++ [Wolfram Alpha](https://www.wolframalpha.com/)：Wolfram Alpha，是由 Wolfram Research 公司推出的一款在线自动问答系统。其特色是可以直接向用户返回答案，而不是像传统搜索引擎一样提供一系列可能含有用户所需答案的相关网页。推荐等级：:heart::heart::heart::heart:！
 + [Production Level Deep Learning](https://github.com/alirezadir/Production-Level-Deep-Learning)：众所周知，深度学习模型仅仅只是构建 AI 产品的重要步骤，但并不是全部。一个互联网产品（如 APP）想要集成深度学习能力，往往还需要走完很多设计、开发和测试方面的工作。如何部署深度学习往往成为了系统设计中更关键的问题。近日，GitHub 上有这样一个项目，专门介绍了如何将深度学习算法和模型融入到互联网产品中。项目基本以流程、架构图为主，目前仍在完善中，适合产品经理和开发者学习。
 + [Material Design](https://github.com/Templarian/MaterialDesign)：图标设计大全，GitHub:star:7.1k。
 + [Fontawesome](https://fontawesome.com/)：字体和图标库，[GitHub](https://github.com/FortAwesome/Font-Awesome):star:66k+。
@@ -1994,8 +2045,9 @@
 + [textshot](https://github.com/ianzhao05/textshot)：一款 GitHub 用户 ianzhao05 刚发布的小工具——textshot，只需要截屏就能实时生成文字，也可以通过此项目大致了解如何对图像中的文本进行识别。推荐等级：:heart::heart::heart:!​
 + [nodesign](https://nodesign.dev/)：网站上收集了许多十分便利的 UI 设计工具与设计资源，这网站对于那些不太懂设计的开发者来说，简直是超级福音
 + [Marketing-for-Engineers](https://github.com/LisaDziuba/Marketing-for-Engineers)：该项目是由来自乌克兰的一名小姐姐 Lisa Dziuba 所创立，目的在于帮助工程师解决产品上线后所面临后的市场营销难题，GitHub:star:10.2k，​推荐等级:heart::heart::heart:!
++ [Have I been Pwned](https://haveibeenpwned.com/)：我被卖了吗？一个用来查询你的账号有没有被放在黑市里交易的网站
 
 <a class="toc" id ="44"></a>
 
-# Update (更新时间) 🕰 ：2020/07/27
+# Update (更新时间) 🕰 ：2020/08/10
 [🔙](#table-of-contents)
