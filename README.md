@@ -1,13 +1,9 @@
 # Awesome Learning Resources :heart:😎 
 
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
-
 [![Contributions Welcome](https://img.shields.io/badge/Contributions-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com)
-
 ![](https://img.shields.io/github/forks/EdisonLeeeee/Awesome-Learning-Resource)
-
 ![](https://img.shields.io/github/stars/EdisonLeeeee/Awesome-Learning-Resource)
-
 ![](https://img.shields.io/github/license/EdisonLeeeee/Awesome-Learning-Resource)
 
 
@@ -1609,6 +1605,7 @@
 + [MovieNet](http://movienet.site/)：基于Pytorch的开源电影分析工具箱
 + [Torch-Pruning](https://github.com/VainF/Torch-Pruning)：Pytorch结构化神经网络修剪工具包
 + [Pytorch Geometric Temporal](https://github.com/benedekrozemberczki/pytorch_geometric_temporal)：[Pytorch Geometric (PYG)](https://github.com/rusty1s/pytorch_geometric) 作者推出的另一个时序扩展库。
++ [A shallow introduction to Deep Learning with PyTorch](https://www.youtube.com/watch?v=pWrwyOsho5A)：EPFL博士Evann Courdier带你1小时学习Pytorch！
 
 
 
