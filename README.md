@@ -58,50 +58,29 @@
 
 <a class="toc" id ="1"></a>
 # Git 👬
-[🔙](#table-of-contents)
+[💨 Back to Top](#table-of-contents)
 
 + [Git](https://git-scm.com/)：Git官方教程
-
 + [Git Book](https://git-scm.com/book/en/v2)：Git 官方教程电子书。[中文版Git Book链接](https://git-scm.com/book/zh/v2)
-
 + [Learn Git Branching](https://learngitbranching.js.org/)：一个用于学习 Git 的交互式学习网站，[GitHub](https://github.com/pcottle/learnGitBranching)上收获了:star:10k+
-
 + [Githug ](https://github.com/Gazler/githug)：它其实是一个命令行工具，但更多的人喜欢称它为一个 Git 游戏，被设计出来的目的是用来练习我们的 git 技能。但是Githug 是运行在 ruby 上的，所以你要装完Git再安装个 ruby[通关攻略](https://www.jianshu.com/p/482b32716bbe)。
-
 + [Flight rules for Git](https://github.com/k88hudson/git-flight-rules)：Flight rules for Git，翻译过来是 Git 飞行规则，而飞行规则是记录在手册上来之不易的一系列知识，记录了某个事情发生的原因，以及怎样一步步进行处理。因此该项目用于补足你解决问题的能力。除此以外，对一些学习 Git 方面比较好的书籍、教程等都有所推荐。GitHub:star:33.3k。推荐等级：:heart::heart::heart::heart:！
-
 + [猴子老师Git教程](https://backlog.com/git-tutorial/cn/intro/intro1_1.html)：号称猴子都能懂的Git入门教程
-
 + [廖雪峰Git教程](https://www.liaoxuefeng.com/wiki/896043488029600)：廖雪峰Git教程，号称史上最浅显易懂的Git教程
-
 + [Pro Git 第二版](http://bit.ly/2H7A7Lg)：这本书被誉为 Git 学习的圣经，作者是 Scott Chacon 和 Ben Straub。Scott Chacon 在 GitHub 工作，自称 Git 的布道者。你可以在网站上免费阅读这本书，也可以下载他们提供的电子版本
-
 + [git-recipes](http://bit.ly/2Z4jw0M)：童仲毅 (`geeeeeeeeek@github`) 对很多英文资料进行翻译、整理的集合教程。包含入门基础、进阶知识和应用范例。这些英文资料主要包括 GitHub 竞争者 Bitbucket 的 Git 教程
-
 + [Udacity Git 课程](http://bit.ly/2H5PZhi)：谷歌无人车之父 Sebastian Thrun 创办的 优达学城（Udacity）上面的 免费 Git 课程。这门课程由优达学城与 GitHub 共同制作，介绍进行版本控制的基础知识，重点讲解 Git 版本控制系统以及 GitHub 协作平台
-
 + [happypeter1983 的 Git 视频教程](http://bit.ly/2Z6rS87)：这份教程就更进阶了一些。讲到了一些高级命令的用法。当然还有其他学习资源。
-
 + [Oh shit, git!](http://ohshitgit.com/)：这个网站整理了一些 Git 新手在使用 Git 时常会遇到的各种突发状况，并贴心的给出了应对方案。
-
 + [Gitignore](https://github.com/github/gitignore)：GitHub 官方开源的一个项目，这个项目为开发者编写好特定的 `.gitignore` 规则，做成了模板。开发者只需选择好自己的项目类别，将文件内容复制粘贴放到自己项目里面就可以用了,在上面，你可以找到目前所有主流语言的 .gitignore 模板。[在线生成网站](http://gitignore.io/)
-
 + [Readme Md Generator](https://github.com/kefranabg/readme-md-generator)：一名来自法国的小哥因为饱受重复编写 README 文档的折磨，在 GitHub 上开源了 readme-md-generator 这个工具。从项目名字便可以知道，它一个 README 文档生成器。其主要作用是通过命令行抓取项目的 package.json 和 git 配置信息，自动完成 README 文档的编写操作，Github上已获:star:5k+
-
 + [Repository Templates](https://github.blog/2019-06-06-generate-new-repositories-with-repository-templates/)：为了避免开发者做一些无用的重复性工作，GitHub 发布的一个新功能 - 模板仓库（repository templates）。这个功能可以将以往创建过的仓库标记成模板（template），这样在你下一次创建仓库的时候，就可以使用这个模板功能，快速生成具有和原仓库一样的目录与文件内容，每个模板仓库在 URL 末端带上 /generate 后，还可以将模板仓库通过链接分享给其他人，其它人在打开链接之后，便可以快速通过这个模板来创建新仓库
-
 + [Standard Readme](https://github.com/RichardLitt/standard-readme)：由 RichardLitt 发起的项目，简单直白的告诉读者README 应该写哪些内容，应该如何排版等，GitHub:star:2.8k
-
 + [《Beginning Git and GitHub》](https://www.apress.com/gp/book/9781484253120)：Git与Github学习使用指南（Beginning Git and GitHub），[GitHub](https://github.com/Apress/beginning-git-and-github)
-
 + [CS Visualized: Useful Git Commands](https://dev.to/lydiahallie/cs-visualized-useful-git-commands-37p1)：git merge、git rebase、git reset、git revert、git fetch、git pull、git reflog……你知道这些 git 命令执行的究竟是什么任务吗？如果你还有些分不清楚，那千万不能错过这篇文章。在本文中，熟知 JavaScript、TypeScript、GraphQL、Serverless、AWS、Docker 和 Golang 的 21 岁年轻软件顾问 Lydia Hallie 通过动图形式直观地介绍了这些常用 git 命令的工作过程，包你过目不忘。
-
 + [Git Draw](https://github.com/ben174/git-draw)：允许自定义绘制 github热图的项目，GitHub:star:2k​
-
 + [Gitfiti](https://github.com/gelstudios/gitfiti)：自定义GitHub热图，GitHub:star:5.8k​
-
 + [Git Commit emoji](https://github.com/liuchengxu/git-commit-emoji-cn)：执行 git commit 时使用 emoji 为本次提交打上一个 "标签", 使得此次 commit 的主要工作得以凸现，也能够使得其在整个提交历史中易于区分与查找。GitHub:star:1.5k
-
 + [Gitqlite](https://github.com/augmentable-dev/gitqlite)：通过为 GitHub 项目创建一张虚拟的 SQLite 数据库表，进而达到能直接用数据库查询语句，快速检索 Git 仓库中的内容，其中包括 Git 提交记录、作者名称、邮箱、文件历史记录等内容。开发者可根据自己的开发需求编写数据库查询语句，快速从 Git 仓库中提取精准信息。GitHub:star:1.3k
 
   
@@ -109,7 +88,7 @@
 
 <a class="toc" id ="2"></a>
 # GitHub :octocat:
-[🔙](#table-of-contents)
+[💨 Back to Top](#table-of-contents)
 
 + [Gitstar Ranking](https://gitstar-ranking.com/repositories)：GitHub顶级项目排行榜
 + [GitHub Chinese Top Charts](https://github.com/kon9chunkit/GitHub-Chinese-Top-Charts)：Github中文项目排行榜，帮助你发现高分优秀中文项目、更高效地吸收国人的优秀经验成果；榜单每周更新一次。
@@ -212,7 +191,7 @@
 
 
 
-[🔙](#table-of-contents)
+[💨 Back to Top](#table-of-contents)
 
 + [Awesome Linux](https://github.com/aleksandar-todorovic/awesome-linux)：一份让Linux变得更棒的项目和资源列表。
 + [Tldr](https://github.com/tldr-pages/tldr)：简化版本的 "Linux man" 可以很详细的为 Linux 命令提供例子说明，GitHub:star:26k​
@@ -230,7 +209,7 @@
 
 <a class="toc" id ="4"></a>
 # Docker 🐳
-[🔙](#table-of-contents)
+[💨 Back to Top](#table-of-contents)
 
 + [Docker-cheat-sheet](https://github.com/wsargent/docker-cheat-sheet)：Docker Cheatsheet，GitHub:star:18.4k​
 + [Docker Practice](https://github.com/yeasy/docker_practice)：Docker——从入门到实践，GitHub:star:17k
@@ -247,7 +226,7 @@
 <a class="toc" id ="5"></a>
 
 # Math (数学) 📐
-[🔙](#table-of-contents)
+[💨 Back to Top](#table-of-contents)
 
 + [MIT线性代数课程精细笔记](https://github.com/yizhen20133868/MIT-Linear-Algebra-Notes)：该笔记总结了我们在学习MIT线性代数课程的学习经验和过程。课程顺序是按照麻省理工公开课的 Linear Algebra. 记录的学习笔记。[知乎专栏](https://zhuanlan.zhihu.com/p/87873464)。
 + [《Mathematics for Machine Learning（机器学习数学基础）》](https://mml-book.github.io/)：作者表示撰写这本书旨在激励人们学习数学概念。这本书并不打算涵盖前沿的机器学习技术，因为已经有很多书这样做了。相反，作者的目标是通过该书提供阅读其他书籍所需的数学基础。这本书分为两部分：数学基础知识和使用数学基础知识进行机器学习算法示例。[Github地址](https://github.com/mml-book/mml-book.github.io)
@@ -270,7 +249,7 @@
 <a class="toc" id ="6"></a>
 
 # Algorithm (算法) 💡
-[🔙](#table-of-contents)
+[💨 Back to Top](#table-of-contents)
 
 + [Algorithm Python](https://github.com/TheAlgorithms/Python)：GitHub上:star:50k+的项目，使用Python实现了所有算法，推荐等级：:heart::heart::heart:！
 + [Leet Code Animation](https://github.com/MisterBooo/LeetCodeAnimation)：GitHub上:star:30k+的中文项目，用动画的形式呈现解LeetCode题目的思路
@@ -300,7 +279,7 @@
 
 <a class="toc" id ="7"></a>
 # CheatSheets (速查表) 📑
-[🔙](#table-of-contents)
+[💨 Back to Top](#table-of-contents)
 
 + [Data Science Cheat Sheet](https://github.com/abhat222/Data-Science--Cheat-Sheet)：数据科学速查表，GitHub:star:8k+。内容几乎涵盖数据科学相关的所有领域，在理论应用方面包括大数据分析、数据挖掘、数据可视化、深度学习，机器学习等等；在编程语言与工具方面，包括Excel、SQL、Python、MATLAB、Linux；基础的学科知识包含统计学、数学、概率论。另外，就连面试问题都没放过
 + [Git 基本操作](https://www.processon.com/view/5d43d213e4b0e42f2a2ba9b9?fromnew=1#map)：一张 Git 基本操作的速查表（脑图）
@@ -320,7 +299,7 @@
 
 <a class="toc" id ="8"></a>
 # Awesome ✨
-[🔙](#table-of-contents)
+[💨 Back to Top](#table-of-contents)
 
 + [Awesome](https://github.com/sindresorhus/awesome)：github 上很多的各种 Awesome 系列合集。GitHub 获:star:120k。众所周知，如果想要学习什么知识，只需要在GitHub上搜索"Awesome xxx" 即可获得一大堆相关的学习资源。推荐等级：:heart::heart::heart::heart:！
 + [Awesome JupyterLab](https://github.com/mauhai/awesome-jupyterlab)：Jupyter lab 插件和资源大全列表，GitHub::star:1k。
@@ -369,7 +348,7 @@
 
 <a class="toc" id ="9"></a>
 # Courses (学习课程) 🎓
-[🔙](#table-of-contents)
+[💨 Back to Top](#table-of-contents)
 
 + [CS231n: Convolutional Neural Networks for Visual Recognition](http://cs231n.github.io/)：斯坦福CS课程CS231：卷积网络视觉识别笔记
 + [计算机科学速成课](https://github.com/1c7/crash-course-computer-science-chinese)：翻译自[Youtube](https://www.youtube.com/playlist?list=PL8dPuuaLjXtNlUrzyH5r6jN9ulIgZBpdo)上的计算机科学速成课，可在B站上观看中文版（带中英字幕）
@@ -442,7 +421,7 @@
 
 <a class="toc" id ="10"></a>
 # Books (书籍资料) 📚
-[🔙](#table-of-contents)
+[💨 Back to Top](#table-of-contents)
 
 + [数据科学推荐阅读清单](https://medium.com/vickdata/10-free-data-science-books-you-must-read-in-2019-2d4f32793a51)：一份数据科学推荐阅读清单，包含 10 本在线免费书籍
 + [Most Recommended Programming Books](https://github.com/daolf/Most-recommended-programming-books)：25本最推荐的编程书籍，推荐等级:heart::heart::heart:!
@@ -531,7 +510,7 @@
 
 <a class="toc" id ="11"></a>
 # Visualization (可视化) 👀
-[🔙](#table-of-contents)
+[💨 Back to Top](#table-of-contents)
 
 + [Bokeh](https://github.com/bokeh/bokeh)：一份用 Python 做交互式图形的资源，官方介绍称，它能读取大型数据集或者流数据，以简单快速的方式为网页提供优美、高交互性能的图形,官方提供了一个通过Jupyter使用Bokeh的教程：[Bokeh Tutorial](https://gke.mybinder.org/v2/gh/bokeh/bokeh-notebooks/master?filepath=tutorial%2F00%20-%20Introduction%20and%20Setup.ipynb) 以及 [Quickstart](https://bokeh.pydata.org/en/latest/docs/user_guide/quickstart.html),[Bokeh官网地址](https://bokeh.pydata.org/en/latest/)
 + [Plotly](https://plot.ly/)：Python开源的交互式图形库，GitHub:star:6.1k。
@@ -607,7 +586,7 @@
 <a class="toc" id ="12"></a>
 
 # Tutorials & Blogs (教程博客) 🗨
-[🔙](#table-of-contents)
+[💨 Back to Top](#table-of-contents)
 
 + [Understanding LSTM Networks](http://colah.github.io/posts/2015-08-Understanding-LSTMs/)：LSTM教程，推荐等级::heart::heart::heart:！
 
@@ -744,7 +723,7 @@
 <a class="toc" id ="13"></a>
 
 # Learning (Resource) Websites (学习资源网站) 💻
-[🔙](#table-of-contents)
+[💨 Back to Top](#table-of-contents)
 
 + [Web Develope Roadmap](https://github.com/kamranahmedse/developer-roadmap)：web 开发者学习路线图，GitHub :star:93.2k，推荐等级:heart::heart::heart::heart:！
 + [网易云课堂](https://study.163.com/)：上面有许多不错的网课，并且经常有一些直播，不过一些精品课程需要收费
@@ -810,7 +789,7 @@
 
 <a class="toc" id ="14"></a>
 # Learn by Game (寓教于乐) 👾
-[🔙](#table-of-contents)
+[💨 Back to Top](#table-of-contents)
 
 + [Learn Git Branching](https://learngitbranching.js.org/)：一个用于学习 Git 的交互式学习网站，[GitHub](https://github.com/pcottle/learnGitBranching)上收获了:star:10k+
 + [Nazo Game](http://nazo.one-story.cn/)：这是一个在线解谜游戏，画风简洁，部分关卡需要具备一定的web知识。url地址直接访问，打开浏览器调试等操作都是解谜必要的。对于web开发人员来说非常值得一玩
@@ -870,7 +849,7 @@
 
 <a class="toc" id ="15"></a>
 # C/C++ Learning (C/C++ 学习) 🇨🇱
-[🔙](#table-of-contents)
+[💨 Back to Top](#table-of-contents)
 
 + [C++ 匠心之作 从0到1入门资料](https://github.com/AnkerLeng/Cpp-0-1-Resource)：C++ 匠心之作 从0到1入门资料，[视频教程](https://www.bilibili.com/video/av41559729/)。
 + [Cpp-Primer](https://github.com/Mooophy/Cpp-Primer)：《C++ Primer 第五版》英文版习题解答。
@@ -894,7 +873,7 @@
 
 <a class="toc" id ="16"></a>
 # Go Learning (Go 学习) 🇬🇱
-[🔙](#table-of-contents)
+[💨 Back to Top](#table-of-contents)
 
 + [Ultimate Go](https://github.com/hoanhan101/ultimate-go)：网友hoanhan101分享的一份完整Go语言学习笔记，里面记录了他从零开始学习Go语言时所用的方法，以及对应全部学习资料。Hackernews热度1天升至400，好评如潮
 + [Learn Go with Tests](https://github.com/quii/learn-go-with-tests)：Hackernews 上用户推荐的一个Go语言课程，表示：Learn Go with Tests是我经历过的最好的编程语言课程
@@ -912,7 +891,7 @@
 
 <a class="toc" id ="17"></a>
 # Jupyter Notebook 📔
-[🔙](#table-of-contents)
+[💨 Back to Top](#table-of-contents)
 
 + [Nbviewer](https://nbviewer.jupyter.org/)： 在线渲染 Jupyter 文件的网页，只需要输入 Github 仓库地址即可。里面也含有一些Python代码示例。
 + [Nbdev](https://github.com/fastai/nbdev/)：fast.ai 创始研究员 Jeremy Howard 撰文介绍了 fast.ai 最近提出的新型编程环境 nbdev，它基于 Jupyter Notebook 构建，并将 IDE 编辑器的优点带入 Jupyter Notebook，可以在 Notebooks 中开发而不影响整个项目生命周期。[文档](https://github.com/fastai/nbdev/)
@@ -938,7 +917,7 @@
 
 <a class="toc" id ="18"></a>
 # Python Learning (Python 学习) 🐍
-[🔙](#table-of-contents)
+[💨 Back to Top](#table-of-contents)
 
 + [Python Patterns](https://github.com/faif/python-patterns)：如果说算法是一个程序员的九阳神功，那么设计模式就是你的乾坤大挪移。设计模式在日常工作中会经常用到，对于不同的场景会需要用到不同的模式。python-patterns是非常棒的一个项目，如果你可以跟着他一个个学的话，你回头看看昨天写代码，会有种“哪个傻逼写的垃圾代码啊”的错觉。GitHub:star:23.3k。推荐等级：:heart::heart::heart::heart:！
 + [Python Weekly](https://www.pythonweekly.com/)：一份免费的每周通讯，提供与Python相关的最佳手工策划的新闻、文章、新版本、工具和库、事件等，每周都会有更新。推荐等级：:heart::heart::heart:！
@@ -989,7 +968,7 @@
 
 <a class="toc" id ="19"></a>
 # Python Projects (Python 项目) 👨‍💻
-[🔙](#table-of-contents)
+[💨 Back to Top](#table-of-contents)
 
 + [Awesome Python Applications](https://github.com/mahmoud/awesome-python-applications)：181 个 Python 开源项目，涵盖了 15 个领域。GitHub:star:10.8k，推荐等级:heart::heart::heart::heart:!
 + [抖音机器人](https://github.com/wangshub/Douyin-Bot)：使用 Python+ADB 做的 Python 抖音机器人。可以实现自动翻页、颜值检测、人脸识别、自动点赞、自动关注、随机防 Ban、自动评论等功能
@@ -1062,7 +1041,7 @@
 
 <a class="toc" id ="20"></a>
 # Python Crawler (Python 爬虫) 🕷
-[🔙](#table-of-contents)
+[💨 Back to Top](#table-of-contents)
 
 + [Python爬虫](https://47.107.129.107/%E7%88%AC%E8%99%AB/)：一份十五天学会Python爬虫的教程。
 + [Python2爬虫学习系列教程](https://cuiqingcai.com/1052.html)：一份详尽的爬虫教程博客，涵盖入门、实战、进阶。
@@ -1088,7 +1067,7 @@
 
 <a class="toc" id ="21"></a>
 # Machine Learning (机器学习) 🤖
-[🔙](#table-of-contents)
+[💨 Back to Top](#table-of-contents)
 
 + [Numpy Machine Learning](https://github.com/ddbourgin/numpy-ml)：普林斯顿博士后 David Bourgin 最近在GitHub上开源的一个非常剽悍的项目，用 NumPy 手写所有主流 ML 模型，超过 3 万行代码、30 多个模型。推荐等级：:heart::heart::heart:！
 + [Reddit](https://www.reddit.com/r/MachineLearning/)：Reddit 上机器学习的讨论板块，类似的有 [DeepLearning](https://www.reddit.com/r/deeplearning/) 板块。推荐等级：:heart::heart::heart::heart:！
@@ -1158,7 +1137,7 @@
 <a class="toc" id ="22"></a>
 
 # Auto Machine Learning (自动机器学习) 🔧
-[🔙](#table-of-contents)
+[💨 Back to Top](#table-of-contents)
 
 + [Autokeras](https://github.com/keras-team/autokeras)：它使用了高效神经架构搜索[ENAS](https://arxiv.org/abs/1802.03268)，只需使用 pip install autokeras 就能快速轻松地安装软件包，然后就能用自己的数据集来执行自己的架构搜索构建思路。相比谷歌 AutoML，两者构建思路类似，但不同的是，AutoKeras 所有代码都已经开源，可供开发者无偿使用。GitHub:star:6.6k。
 + [TPOT](https://github.com/EpistasisLab/tpot)：TPOT 是一个 Python 编写的软件包，利用遗传算法行特征选择和算法模型选择，仅需几行代码，就能生成完整的机器学习代码。在机器学习模型开发图中，TPOT 所完成的即通过利用遗传算法，分析数千种可能的组合，为模型、参数找到最佳的组合，从而自动化机器学习中的模型选择及调参部分。GitHub:star:6.7k。
@@ -1184,7 +1163,7 @@
 
 <a class="toc" id ="23"></a>
 # Computer Vision (计算机视觉) 👁
-[🔙](#table-of-contents)
+[💨 Back to Top](#table-of-contents)
 
 + [CV成长指南](https://www.pyimagesearch.com/start-here/)：一本长达81页的CV成长指南，能给你无微不至的关怀：从装Python、装OpenCV、入门深度学习，到人脸识别、目标检测、语义分割等等各种应用，都有进阶路线，里面包含了教程、案例、注意事项。甚至怎样把算法部署到树莓派之类的硬件上，也能找到经验。
 + [Mastering OpenCV 4](https://github.com/PacktPublishing/Mastering-OpenCV-4-Third-Edition)：一本关于 OpenCV 4 的教材，就是《Mastering OpenCV 4 - Third Edition》，中文译为《精通 OpenCV 4》，对应的代码仓库。
@@ -1207,7 +1186,7 @@
 
 <a class="toc" id ="24"></a>
 # Reinforcement Learning (强化学习) 💪
-[🔙](#table-of-contents)
+[💨 Back to Top](#table-of-contents)
 
 + [UCL Course on RL](http://www0.cs.ucl.ac.uk/staff/d.silver/web/Teaching.html)：David Silver 的强化学习课程。
 + [《Reinforcement Learning: An introduction》](http://incompleteideas.net/book/RLbook2018.pdf)：Richard Sutton 和 Andrew Barto的《强化学习：简介（第二版）》。[书籍主页](http://incompleteideas.net/book/the-book-2nd.html)，[代码地址](http://incompleteideas.net/book/code/code2nd.html)，[课后习题](https://pan.baidu.com/s/14NcCbshyHlWA0YyuEEPPqw)，[David sliver中文字幕视频](https://www.bilibili.com/video/av32149008?p=1)。推荐等级：:heart::heart::heart::heart:！
@@ -1250,7 +1229,7 @@
 <a class="toc" id ="25"></a>
 
 # Recommender System (推荐系统) 🎞
-[🔙](#table-of-contents)
+[💨 Back to Top](#table-of-contents)
 
 + [RecQ](https://github.com/Coder-Yu/RecQ)：一个基于TensorFlow写的Python推荐系统框架
 + [DaisyRec](https://github.com/AmazingDD/daisyRec)：DaisyRec 是一个Python包，用于物体得分预测与排序，可作为推荐系统基准的多维公平比较工具
@@ -1272,7 +1251,7 @@
 <a class="toc" id ="26"></a>
 
 # Graph Learning (图学习) 🗺
-[🔙](#table-of-contents)
+[💨 Back to Top](#table-of-contents)
 
 + [Awesome Graph Classification](https://github.com/benedekrozemberczki/awesome-graph-classification)：这是一个野心勃勃的项目，涵盖了从深度学习、图形内核、到统计指纹和分解等领域的优秀论文以及对应的Python实现，作者表示会持续更新。GitHub :star:2k+。
 + [Awesome Network Embedding](https://github.com/chihming/awesome-network-embedding)：关于 Network Embedding 的相关论文合集，GitHub :star:2k。
@@ -1342,7 +1321,7 @@
 <a class="toc" id ="27"></a>
 
 # Generative Adversarial Networks (GANs) 🤜 🤛
-[🔙](#table-of-contents)
+[💨 Back to Top](#table-of-contents)
 
 + [Generative Adversarial Networks](https://channel9.msdn.com/Events/Neural-Information-Processing-Systems-Conference/Neural-Information-Processing-Systems-Conference-NIPS-2016/Generative-Adversarial-Networks)：Ian Goodfellow2016年的GAN演讲视频
 + [Adversarial Nets Papers](https://github.com/zhangqianhui/AdversarialNetsPapers)：GitHub上一个:star:4k+的项目，收录了生成对抗网络(GAN)诞生至今的论文和代码
@@ -1360,7 +1339,7 @@
 <a class="toc" id ="28"></a>
 
 # Adversarial Attack and Defense (对抗攻防)⚔🛡
-[🔙](#table-of-contents)
+[💨 Back to Top](#table-of-contents)
 
 + [Advertorch](https://github.com/BorealisAI/advertorch)：对抗鲁棒性研究工具，实现了大多数的对抗攻防算法（CV领域）。
 + [Cleverhans](https://github.com/tensorflow/cleverhans)：一个用于构建攻击、构建防御和基准测试的对抗性示例库。
@@ -1386,7 +1365,7 @@
 
 <a class="toc" id ="29"></a>
 # Model Compression (模型压缩) ⚙
-[🔙](#table-of-contents)
+[💨 Back to Top](#table-of-contents)
 
 + [Distiller](https://github.com/NervanaSystems/distiller)：基于Pytorch 的模型压缩库，GitHub:star:2.6k
 + [Tensorflow Model Optimization](https://github.com/tensorflow/model-optimization)：TensorFlow 官方模型优化工具，GitHub:star:600+。[官网主页](https://www.tensorflow.org/model_optimization)
@@ -1411,7 +1390,7 @@
 <a class="toc" id ="30"></a>
 
 # Object Detection (目标检测) 🔎
-[🔙](#table-of-contents)
+[💨 Back to Top](#table-of-contents)
 
 + [ThunderNet](https://github.com/mohhao/TF-Keras-ThunderNet)：作者提出来一种名为ThunderNet的轻量级two-stage检测器，整体结构分成名为SNet的轻型Backbone（主干）和Detection（检测）部分，其中SNet是基于ShuffleNetV2网络，用于对象检测，Detection部分是基于Light-Head R-CNN，并进一步压缩RPN和R-CNN子网，并设计了两个模块：Context Enhancement Module （CEM） 和 SpatialAttention Module （SAM），CEM将多尺度的局部特征和全局特征进行整合，SAM引入RPN信息来再调整RoIwarping层的特征分布。ThunderNet在推理速度、精度均显著优于同类网络，可部署在ARM平台上实现实时检测。[论文地址](https://arxiv.org/pdf/1903.11752.pdf)。
 + [Gaussian YOLOv3](https://github.com/jwchoi384/Gaussian_YOLOv3)：在目标检测的落地项目中，实时性和精确性的trade-off至关重要，而YOLOv3是目前为止在这方面做得最好的算法。本文通过高斯分布的特性，改进YOLOv3使得网络能够输出每个检测框的不确定性，从而提升了网络的精度。[论文地址](https://arxiv.org/abs/1904.04620)。
@@ -1429,7 +1408,7 @@
 
 <a class="toc" id ="31"></a>
 # TensorFlow Learning (TensorFlow 学习) 🇹🇫
-[🔙](#table-of-contents)
+[💨 Back to Top](#table-of-contents)
 
 + [TensorFlow 官方文档](https://github.com/jikexueyuanwiki/tensorflow-zh)：TensorFlow 官方文档中文版
 + [TensorFlow Tutorials](https://www.tensorflow.org/tutorials)：TensorFlow官方英文教程文档
@@ -1514,7 +1493,7 @@
 <a class="toc" id ="32"></a>
 
 # Keras Learning (Keras 学习) 🇰🇷
-[🔙](#table-of-contents)
+[💨 Back to Top](#table-of-contents)
 
 + [Keras](https://keras.io/)：Keras官方手册，非常详细的官方文档，文档中详细的介绍了从Keras每个知识点的用法，一步步带你从入门到精通。
 + [Keras-cn](https://keras.io/zh/)：Keras中文官方手册，该中文官方手册是对对Keras英文官方手册最好的还原，适合所有阶段的Keras学习者阅读。
@@ -1556,7 +1535,7 @@
 
 <a class="toc" id ="33"></a>
 # PyTorch Learning (PyTorch 学习) 🇵🇹
-[🔙](#table-of-contents)
+[💨 Back to Top](#table-of-contents)
 
 + [PyTorch 中文文档](https://pytorch-cn.readthedocs.io/zh/latest/)：PyTorch是使用GPU和CPU优化的深度学习张量库，查看中文文档有助于学习这个火爆的机器学习框架
 + [PyTorch Discuss](https://discuss.pytorch.org)：PyTorch 论坛，关于该框架的大部分问题都可以在上面找到答案，会有热心的开发者答疑解惑！
@@ -1612,7 +1591,7 @@
 
 <a class="toc" id ="34"></a>
 # English Learning (英语学习) 🗣
-[🔙](#table-of-contents)
+[💨 Back to Top](#table-of-contents)
 
 + [Everyone Can Use English](https://github.com/xiaolai/everyone-can-use-english)：Github上一个:star:3k+多的英语学习项目，力图使得人人都能用英语
 + [A Programmers Guide to English](https://github.com/yujiangshui/A-Programmers-Guide-to-English)：GitHub上一个:star:7k+的英语学习项目，专为程序员编写的英语学习指南。[在线阅读链接](https://a-programmers-guide-to-english.harryyu.me/)
@@ -1622,7 +1601,7 @@
 
 <a class="toc" id ="35"></a>
 # Papers & Codes (论文&代码) 🔖
-[🔙](#table-of-contents)
+[💨 Back to Top](#table-of-contents)
 
 + [Paperswithcode](https://paperswithcode.com/)：如其名，收录了大量带有源代码的论文，[Github同名项目](https://github.com/zziz/pwc)，推荐等级：:heart::heart::heart::heart:！
 + [Releasing Research Code](https://github.com/paperswithcode/releasing-research-code)：如何恰当地提交代码，才能既保证研究的可复现性，又能扩大传播？近日，PapersWithCode 发布了机器学习代码完整性自查清单。目前，该清单已成为 NeurIPS 2020 代码提交流程的一部分。
@@ -1696,7 +1675,7 @@
 <a class="toc" id ="36"></a>
 
 # Paper Toolkit (论文工具) 📝
-[🔙](#table-of-contents)
+[💨 Back to Top](#table-of-contents)
 
 + [Google Scholar](https://scholar.google.com/)：谷歌学术
 + [SemanticScholar](https://www.semanticscholar.org/)：如果你还在用 Google Scholar 来检索计算机相关的学术论文，不妨试下这款搜索引擎，相信它能给你带来前所未有的体验。引用斯坦福大学神经生物学家 Andrew Huberman 对此说的一句话：「这将彻底改变整个信息检索引擎的游戏规则」。推荐等级：:heart::heart::heart::heart:！
@@ -1752,7 +1731,7 @@
 
 <a class="toc" id ="37"></a>
 # Competition (比赛项目) 🏇
-[🔙](#table-of-contents)
+[💨 Back to Top](#table-of-contents)
 
 + [CodeChef](https://www.codechef.com/)：在这里你可以解决实际问题、参加不同的比赛，这些比赛每月都会进行
 + [Peking University JudgeOnline for ACIP/ICPC](http://poj.org/)：这里包含了不同比赛中涉及到的不同的问题。你可以实时的解决问题并且查看结果，你的答案也会被验证是否正确
@@ -1773,7 +1752,7 @@
 
 <a class="toc" id ="38"></a>
 # Download (下载) 📥
-[🔙](#table-of-contents)
+[💨 Back to Top](#table-of-contents)
 
 + [DownGit](https://minhaskamal.github.io/DownGit/#/home)：Git文件下载工具，只需输入连接即可下载GitHub上的文件
 + [GitHub 文件加速](https://shrill-pond-3e81.hunsh.workers.dev/)：GitHub 文件下载加速
@@ -1793,7 +1772,7 @@
 
 <a class="toc" id ="39"></a>
 # Software/Application (软件/应用) 🌈 
-[🔙](#table-of-contents)
+[💨 Back to Top](#table-of-contents)
 
 + [MSDN](https://msdn.itellyou.cn/)：十分齐全、靠谱的Windows系统、软件资源下载网站
 + [N软网](https://www.nruan.com/)：提供互联网前沿资讯及软件下载
@@ -1826,7 +1805,7 @@
 
 <a class="toc" id ="40"></a>
 # Jobs & Interview (工作面试) 💼
-[🔙](#table-of-contents)
+[💨 Back to Top](#table-of-contents)
 
 + [Interview Internal Reference](https://github.com/0voice/interview_internal_reference)：2019年最新总结，阿里、腾讯、百度、美团、今日头条等国内互联网大厂的面试题，还配备有答案和出题人分析等信息。这个项目或许对大家找工作面试有所帮助，推荐等级：:heart::heart::heart:！
 + [Python Interview Question](https://github.com/kenwoodjw/python_interview_question)：GitHub上一个:star:3k左右的中文项目，介绍了各种Python相关面试题，可以作为一个Python学习教程
@@ -1864,10 +1843,11 @@
 
 <a class="toc" id ="41"></a>
 # Dataset (数据集)  📊
-[🔙](#table-of-contents)
+[💨 Back to Top](#table-of-contents)
 
 + [Google Dataset Search](https://toolbox.google.com/datasetsearch): 谷歌提供的数据集搜索工具，可以搜到绝大多数的公开数据集
 + [Arxiv](https://www.kaggle.com/Cornell-University/arxiv)：arXiv 将 170万篇arXiv论文集成为一个格式机器可读的数据库，并将该数据库托管到了Kaggle上供用户免费使用。数据库包括论文标题、作者、类别、摘要、全文pdf等论文相关信息。推荐等级：:heart::heart::heart:！
++ [BIFROST](https://datasets.bifrost.ai/)：一个数据集搜索工具，里面共有1899个图像数据集，还专门设置分类，比如Humans、Geospatial、Autonomous Cars等。一键搜索，免费获取，直接链接到原始数据库，帮你快速找到合适的数据集。推荐等级：:heart::heart::heart:！
 + [Open Images V6](https://storage.googleapis.com/openimages/web/index.html)：Open Images是谷歌在2016年推出的大规模图像数据集，包括大约900万张图片，标注了数千个图像类别。目前是第六版，新增了**507444**个局部叙事。[博客介绍](https://ai.googleblog.com/2020/02/open-images-v6-now-featuring-localized.html)
 + [Tencent Ml Images](https://github.com/Tencent/tencent-ml-images)：腾讯开源的超大型多标签图像数据集及模型训练代码
 + [Machine learning datasets](https://www.datasetlist.com/)：这个网站上共收集到了100多个业界最大型的数据集。根据任务类别，这些数据集中又分为三大类：计算机视觉（CV）、自然语言处理（NLP）和音频数据集
@@ -1966,7 +1946,7 @@
 
 <a class="toc" id ="42"></a>
 # Coding Toolkit (代码工具) 💻
-[🔙](#table-of-contents)
+[💨 Back to Top](#table-of-contents)
 
 + Code Reviewer：
     + [Review Assistant](https://bit.ly/2Uw0a6M)：Review Assistant 是 Visual Studio 的一个扩展。它支持 Visual Studio 2019、2017、2015、2013、2012 和 2010。Review Assistant 可以帮助创建审查请求并能在不离开 IDE 的情况下对请求做出响应。它支持 TFS、Subversion、Git、Mercurial 以及 Perforce。Review Assistant 将“代码审查板（Code Review Board）”窗口添加到 IDE 中。该窗口可用于管理用户所有可用的审查。
@@ -2010,7 +1990,7 @@
 <a class="toc" id ="43"></a>
 
 # Others (其它) ❓
-[🔙](#table-of-contents)
+[💨 Back to Top](#table-of-contents)
 
 + [Let's Build A Simple Interpreter](https://ruslanspivak.com/lsbasi-part1/)：加拿大工程师[Ruslan Spivak](https://ruslanspivak.com/pages/about/)写的如何利用Python自己写一个编译器文章的博客，适合用于学习编译原理。[GitHub代码](https://github.com/rspivak/lsbasi)
 >“如果你不知道编译器是如何工作的，那么你就不知道计算机是如何工作的。 如果你不是100％确定你是否知道编译器是如何工作的，那么你就不知道它们是如何工作的。“ - Steve Yegge 
@@ -2047,4 +2027,4 @@
 <a class="toc" id ="44"></a>
 
 # Update (更新时间) 🕰 ：2020/08/10
-[🔙](#table-of-contents)
+[💨 Back to Top](#table-of-contents)
