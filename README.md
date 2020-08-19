@@ -53,7 +53,7 @@
 + [Dataset (数据集)  📊](#41)
 + [Coding Toolkit (代码工具) 💻](#42)
 + [Others (其它) ❓](#43)
-+ [Update (更新时间) 🕰 ：2020/08/10](#44)
++ [Update (更新时间) 🕰 ：2020/08/19](#44)
 
 
 <a class="toc" id ="1"></a>
@@ -582,6 +582,7 @@
 + [Sweetviz](https://github.com/fbdesignpro/sweetviz)：一个基于Python编写的数据分析软件，只要掌握3种函数用法，一行Python代码就能实现数据集可视化、分析与比较。
 + [Flourish](https://flourish.studio/)：一个更加美观、易用、强大的数据可视化工具。
 + [Gramm](https://github.com/piermorel/gramm)：MATLAB 的高级绘图工具。推荐等级：:heart::heart:!
++ [VisualDL](https://github.com/PaddlePaddle/VisualDL)：VisualDL是飞桨可视化分析工具，以丰富的图表呈现训练参数变化趋势、模型结构、数据样本、高维数据分布等。可帮助用户更清晰直观地理解深度学习模型训练过程及模型结构，进而实现高效的模型优化。GitHub:star:2.6k​
 
 <a class="toc" id ="12"></a>
 
@@ -927,6 +928,7 @@
 + [Python 教程](https://docs.python.org/zh-cn/3/tutorial/index.html)：Python官方文档（中文），适用于英文不好的人
 + [《The Hitchhiker’s Guide to Python》](https://docs.python-guide.org/)：Python漫游指南（英文版），讲解了如何正确使用Python，是一本极佳的讲解Python实践的教程书。[GitHub](https://github.com/realpython/python-guide)上收获了十分多的:star:
 + [《Python最佳实践指南》](https://pythonguidecn.readthedocs.io/zh/latest/)：Python漫游指南（中文版）
++ [《Python Programing》](http://dl.booktolearn.com/ebooks2/computer/programming/9781435455009_python_programming_for_the_absolute_beginner_8f5a.pdf)：由计算机科学教师开发，在“为绝对初学者”系列丛书通过简单的游戏创造教授编程的原则。您将获得实际的Python编程应用程序所需的技能，并将了解如何在真实场景中使用这些技能。在整个章节中，你会发现一些代码示例来说明所提出的概念。在每一章的结尾，你会发现一个完整的游戏，展示了这一章的关键思想，一章的总结，以及一系列的挑战来测试你的新知识。当你读完这本书的时候，你将非常精通Python，并且能够将你所学到的基本编程原理应用到你要处理的下一种编程语言。
 + [《Dive Into Python 3》](http://diveintopython3.problemsolving.io/)：深入 Python3（英文版），网上大多人推荐的Python学习书
 + [《深入 Python3》](http://www.ttlsa.com/docs/dive-into-python3/)：深入 Python3（中文版）
 + [《Python One-Liners》](https://pdfget.com/pdf-epub-python-one-liners-download/)：【2020新书】《“一行”Python：如何写出专业的Python代码》
@@ -1035,6 +1037,7 @@
 + [OpenSelfSup](https://github.com/open-mmlab/OpenSelfSup)：香港中文大学多媒体实验室（MMLab）和南洋理工大学的研究者开源的一套统一的自监督学习代码库 OpenSelfSup。
 + [PyDebloatX](https://github.com/Teraskull/PyDebloatX)：开源神器，让你一键卸载 Windows 默认程序。
 + [Jukebox](https://github.com/openai/jukebox)：Jukebox是一款可自动生成音乐的机器学习框架，由OpenAI推出，它可以生成各种风格的歌曲，从teenybop和乡村音乐到嘻哈音乐和重金属音乐。GitHub:star:2.7k​
++ [Pyre Check](https://github.com/facebook/pyre-check)：Facebook 宣布开源静态分析工具 Pysa。这是 Instagram 上用于检测和修复应用程序庞大 Python 代码库中错误的一个内部工具，可以自动识别 Facebook 工程师编写的易受攻击的代码段，然后再将其集成到社交网络的系统中。GitHub:star:4.6k​
 
 
 
@@ -1131,6 +1134,9 @@
 + [CrypTen](https://github.com/facebookresearch/CrypTen)：Facebook 开源的用 Python 实现了多方安全计算的协议，可以进行如数据分离，数据模型分离等场景下的模型训练和推断。
 + [PySyft](https://github.com/OpenMined/PySyft)：Openminded 开源的用 Python 实现了多方安全计算的协议，可以进行如数据分离，数据模型分离等场景下的模型训练和推断。
 + [Transfer-Learning-Library](https://github.com/thuml/Transfer-Learning-Library)：清华大学开源迁移学习算法库：基于PyTorch实现，支持轻松调用已有算法
++ [Oneflow](https://github.com/Oneflow-Inc/oneflow)：OneFlow是开源的、采用全新架构设计，世界领先的工业级通用深度学习框架。OneFlow目前在一些大规模场景开始使用了，研发仍在快速迭代中，最近的工作重心是支持更多模型，易用性，和其它框架兼容性。如果面临的问题规模不大，用tensorflow 或pytorch ，mxnet等是最好的选择，如果规模很大或者需要模型并行或流水并行等其它框架还不支持的技术，那可以考虑使用oneflow。
++ [eagerpy](https://github.com/jonasrauber/eagerpy)：一个可以将 PyTorch, TensorFlow, JAX and NumPy  无缝衔接使用的库
++ [minGPT](https://github.com/karpathy/minGPT)：特斯拉人工智能研究负责人、前 OpenAI 研究科学家 Andrej Karpathy 进行了尝试。他基于 PyTorch，仅用 300 行左右的代码就写出了一个小型 GPT 训练库，并将其命名为 minGPT，一天GitHub:star:3k​
 
 
 
@@ -1180,6 +1186,7 @@
 + [ImageProcessing-Python](https://github.com/eastmountyxz/ImageProcessing-Python)：该资源为作者在CSDN的撰写Python图像处理文章的支撑，主要是Python实现图像处理、图像识别、图像分类等算法代码实现。
 + [KAIR](https://github.com/cszn/KAIR)：基于 PyTorch 实现的图像复原工具
 + [scikit-image](https://github.com/scikit-image/scikit-image)：方便实用的 Python 图像处理库，GitHub:star:3.8k​
++ [Real Time Image Animation](https://github.com/anandpawara/Real_Time_Image_Animation)：印度一位程序员阿南德·帕瓦拉（Anand Pawara）设计了基于OpenCV实现的实时动画特效。毕竟OpenCV是成名已久的跨平台视觉库，是事实上的计算机视觉领域的标准库。项目中涉及的人脸识别、动作识别和运动跟踪，均在OpenCV库中原生支持。GitHub:star:1.3k​
 
 
 
@@ -1245,6 +1252,7 @@
 + [mall](https://github.com/macrozheng/mall)：mall项目是一套电商系统，包括前台商城系统及后台管理系统，基于SpringBoot+MyBatis实现，采用Docker容器化部署。 前台商城系统包含首页门户、商品推荐、商品搜索、商品展示、购物车、订单流程、会员中心、客户服务、帮助中心等模块。 后台管理系统包含商品管理、订单管理、会员管理、促销管理、运营管理、内容管理、统计报表、财务管理、权限管理、设置等模块。GitHub:star:36.4k​
 + [RecSys](https://github.com/qcymkxyc/RecSys)：项亮的《推荐系统实践》的代码实现以及结果展示分析
 + [**MI**crosoft **N**ews **D**ataset (MIND)](https://msnews.github.io/) ：微软发布的大规模新闻推荐数据集MIND
++ [Recommenders](https://github.com/microsoft/recommenders)：这个存储库包含了微软提供的构建推荐系统的示例和最佳实践，以Jupyter笔记本的形式提供。GitHub:star:8k，推荐等级：:heart::heart::heart::heart:！
 
 
 
@@ -1344,6 +1352,7 @@
 + [Advertorch](https://github.com/BorealisAI/advertorch)：对抗鲁棒性研究工具，实现了大多数的对抗攻防算法（CV领域）。
 + [Cleverhans](https://github.com/tensorflow/cleverhans)：一个用于构建攻击、构建防御和基准测试的对抗性示例库。
 + [AdvBox](https://github.com/advboxes/AdvBox)：百度开源的 AdvBox是一款支持PaddlePaddle、Caffe2以及TensorFlow的针对深度学习模型生成对抗样本的工具包。
++ [foolbox](https://github.com/bethgelab/foolbox)：一个基于Python的工具箱，它可以创建对抗样本，攻击PyTorch、TensorFlow和JAX中的神经网络
 + [HackingNeuralNetworks](https://github.com/Kayzaks/HackingNeuralNetworks)：神经网络真的在软件层面上是安全吗？ GitHub 趋势榜上有一个「骇入神经网络指南」项目。作者提供了一系列教学资料和代码，告诉了我们黑客会怎样对神经网络发起攻击。和对抗样本攻击不同，这些攻击都是从软件层面进行的，和使用对抗样本混淆模型能力的攻击不同。[教程文章地址](https://github.com/Kayzaks/HackingNeuralNetworks/blob/master/Article.pdf)。
 + [Papers of Robust ML](https://github.com/rainy1998/nlp-/blob/f62680e9663dc89920bd5dbbf44759e190ffd08c/Papers-of-Robust-ML.md)：Robust-ML的相关论文集
 + [Adversarial-DL](https://github.com/mbs0221/Adversarial-DL)：对抗深度学习的论文集
@@ -1386,6 +1395,7 @@
 + [Model Compression](https://github.com/666DZY666/model-compression)：基于pytorch实现模型压缩
 + [Torch-Pruning](https://github.com/VainF/Torch-Pruning)：Pytorch结构化神经网络修剪工具包
 + [LSQ-Net](https://github.com/zhutmost/lsq-net)：IBM的量化工作，发表在ICLR 2020。论文：[《Learned Step Size Quantization》](https://arxiv.org/abs/1902.08153)。为了解决量化精度越低，模型识别率越低的问题，本文引入了一种新的手段来估计和扩展每个权重和激活层的量化器步长大小的任务损失梯度，并在 ImageNet 上的实验和分析证明了所提出的方法的有效性, 实现了ResNet 4 bit量化不掉精度！
++ [EagleEye](https://github.com/anonymous47823493/EagleEye)：[《EagleEye: Fast Sub-net Evaluation for Efficient Neural Network Pruning》](https://arxiv.org/abs/2007.02491)。提出一种简单有效的快速剪枝方法，具有较好的通用性。
 
 <a class="toc" id ="30"></a>
 
@@ -1671,6 +1681,7 @@
 + [PSConv](https://github.com/d-li14/PSConv)：即插即用，涨点明显！用在ResNet-50等CNN，直接涨了1个多点；用在Mask R-CNN等网络上，直接涨近两个点！论文：[《PSConv: Squeezing Feature Pyramid into One Compact Poly-Scale Convolutional Layer》](https://arxiv.org/abs/2007.06191)
 + [WeightNet](https://github.com/megvii-model/WeightNet)：涨点神器！可较大提高ShuffleNetV2、ResNet50等CNN的性能。论文：[《WeightNet: Revisiting the Design Space of Weight Networks》](https://arxiv.org/abs/2007.11823)
 + [FPT](https://github.com/ZHANGDONG-NJUST/FPT)：特征金字塔Transformer。论文：[《Feature Pyramid Transformer》](https://arxiv.org/abs/2007.09451)
++ [Explainable Face Recognition (XFR) Project](http://stresearch.github.io/xfr)：论文[《Explainable Face Recognition》](https://arxiv.org/abs/2008.00916)可解释人脸识别
 
 <a class="toc" id ="36"></a>
 
@@ -1690,6 +1701,8 @@
 + [Conference Acceptanc Rate](https://github.com/lixin4ever/Conference-Acceptance-Rate)：查看各个AI顶会论文的接受率，GitHub:star:1.2k​
 + [Latex 代码转换器 - Mathpix](https://mathpix.com/)：如果你经常用 latex 编写文档，那你一定得安装下 Mathpix。这款工具能将带数学公式的截图一键转成 latex 代码，帮你省下很多时间，堪称神器！（可惜现在收费了）
 + [Image2LaTeX](https://github.com/blaisewang/img2latex-mathpix)：这一工具的名称是「Image2LaTeX」。顾名思义，这是利用 OCR 技术从图像中提取文字，并转换为 LaTex 代码的工具。无论是 OCR 还是自动转码，速度都是非常快的，准确性也很高。重点是，一个月可以免费使用1000次！(Mathpix 一个月只能免费使用50次)
++ [handcalcs](https://github.com/connorferster/handcalcs)：1行代码搞定Latex公式编写，这个4.6M的Python小插件，堪称论文必备神器。推荐等级：:heart::heart::heart::heart:！
++ [latexify_py](https://github.com/google/latexify_py)：从Python函数中生成latex公式，GitHub:star:1.2k​
 + [Grammarly](https://www.grammarly.com)：Grammarly 是一款非常强大的语法改错软件，帮助润色英文表达。
 + [Ginger](http://www.gingersoftware.com)：Ginger 号称是世界上最好用的英文写作润色工具，除了提供单词拼写、语法检查功能外，还提供句子改写、翻译、词典和朗读功能。
 + [1Checker](http://www.1checker.com)：1Checker 是一款中文本土用于进行英语文本的纠错（包括拼写、语法、样式和句子不完整）和润色的软件，界面是中文的，简单易懂，操作方便。
@@ -1836,6 +1849,7 @@
 + [Freelancer](http://freelancer.com)：国外接项目外包平台，目前是全球影响力最大的自由职业与众包平台，公司创办于 2010 年，总部位于澳大利亚悉尼，员工遍布 240+ 个国家，拥有 4000+ 万的雇主与自由职业者。从软件设计、开发、测试到营销、会计、法律服务，你都能在上面找到对应的合作方，其业务覆盖范围不可谓不广
 + [Fiverr](https://www.fiverr.com/)：国外接项目外包平台，同 freelancer 一样，Fiverr 也创建于 2010 年，不同的是，该公司经营业务较小，主打写作、翻译、图形设计、视频剪辑、软件编程。
 + [InternetArchitect](https://github.com/bjmashibing/InternetArchitect)：年薪百万互联网架构师课程文档及源码(公开部分)，GitHub:star:2.5k​
++ [LeetCode](https://github.com/yuanguangxin/LeetCode)：一位Java研发工程师分享了一个名为「LeetCode题目分类与面试问题整理」，这篇笔记的作者叫袁广鑫，毕业于黑龙江大学，面试三十多家互联网公司亲历整理，曾拿到字节、腾讯、滴滴offer，目前在快手担任Java工程师。GitHub:star:2.4k​
 
 
 
@@ -2026,5 +2040,5 @@
 
 <a class="toc" id ="44"></a>
 
-# Update (更新时间) 🕰 ：2020/08/10
+# Update (更新时间) 🕰 ：2020/08/19
 [💨 Back to Top](#table-of-contents)
