@@ -53,7 +53,7 @@
 + [Dataset (数据集)  📊](#41)
 + [Coding Toolkit (代码工具) 💻](#42)
 + [Others (其它) ❓](#43)
-+ [Update (更新时间) 🕰 ：2020/08/23](#44)
++ [Update (更新时间) 🕰 ：2020/08/30](#44)
 
 
 <a class="toc" id ="1"></a>
@@ -505,6 +505,7 @@
 + [Data Science Notes](https://github.com/fengdu78/Data-Science-Notes)：数据科学的笔记以及资料搜集，GitHub:star:3k​
 + [Cobol Programming Course](https://github.com/openmainframeproject/cobol-programming-course)：本项目主要提供一份适合初学者的分章节 COBOL 编程语言课程指南，以及各个章节的源代码。就具体内容而言，本指南主要介绍了如何通过配置有 Zowe 和 Z Open Editor 扩展的 Visual Studio Code 等现代工具，来掌握 COBOL 编程技巧。并且，指南中还讲述了如何来编写、测试、执行和 debug COBOL 程序。GitHub:star:1.1k+​
 + [《Hands-on Scala Programming》](https://www.handsonscala.com/)：《Hands-on Scala Programming》，中文译名（借鉴自阮一峰老师）为：《动手学 Scala 编程》，由新加坡 总理儿子所著
++ [《Ensemble Methods：Foundations and Algorithms》](http://tjzhifei.github.io/links/EMFA.pdf)：2012年，周志华教授出版的一本被称为“森林书”的英文专著：《Ensemble Methods：Foundations and Algorithms》，本书在豆瓣读书上的参评人数不多，但一小部分有机会读过原著的同学硬生生把分数给到了逆天的10分满星！推荐等级：❤️❤️❤️❤️！
 
 
 
@@ -1266,6 +1267,10 @@
 
 + [PaddleOCR](https://github.com/PaddlePaddle/PaddleOCR)：百度自研顶会SOTA的OCR算法，GitHub:star:2.8k
 
++ [LIT](https://github.com/PAIR-code/lit)：Google 研究人员发布了一款语言可解释性工具 (Language Interpretability Tool, LIT)，这是一个开源平台，用于可视化和理解自然语言处理模型。
+
++ [Msnhnet](https://github.com/msnh2012/Msnhnet)：一款基于纯c++的轻量级推理框架，该框架受到darknet启发。
+
   
 
 <a class="toc" id ="22"></a>
@@ -1631,6 +1636,8 @@
 + [TFX](https://tensorflow.google.cn/tfx)：TensorFlow Extended (TFX) 是一个端到端平台，用于部署生产型机器学习流水线
 + [TiramisuASR](https://github.com/usimarit/TiramisuASR)：用TensorFlow实现的语音识别引擎
 + [TF Object Detection API](https://github.com/tensorflow/models/tree/master/research/object_detection)：TensorFlow 目标检测 API
++ [DeepReg](https://github.com/DeepRegNet/DeepReg)：基于TensorFlow2的深度学习医学图像配准工具包，可处理成对与非成对的图像数据。该工具包实现了主流的监督与弱监督医学图像配准的算法。
++ [Tensorflow Coder](https://github.com/google-research/tensorflow-coder)：谷歌 TensorFlow 开源了一个帮助开发者写 TensorFlow 代码的程序合成工具 TF-Coder。输入示例，即可自动生成代码。推荐等级：:heart::heart::heart::heart:！
 
 <a class="toc" id ="32"></a>
 
@@ -1728,6 +1735,7 @@
 + [Pytorch Geometric Temporal](https://github.com/benedekrozemberczki/pytorch_geometric_temporal)：[Pytorch Geometric (PYG)](https://github.com/rusty1s/pytorch_geometric) 作者推出的另一个时序扩展库。
 + [A shallow introduction to Deep Learning with PyTorch](https://www.youtube.com/watch?v=pWrwyOsho5A)：EPFL博士Evann Courdier带你1小时学习Pytorch！
 + [Computervision Recipes](https://github.com/microsoft/computervision-recipes)：微软开源的计算机视觉库，基于PyTorch，它囊括了计算机视觉领域的最佳实践、代码示例和丰富文档。GitHub:star:5.2k。推荐等级：❤️❤️❤️❤️！
++ [hivemind](https://github.com/learning-at-home/hivemind)：一个Pytorch分散式深度学习训练框架，可以在数以千计的计算机上训练一个大规模Transformer。
 
 
 
@@ -1758,6 +1766,7 @@
   - https://github.com/facebookresearch/FixRes
 + [Paper Summary](https://github.com/gopala-kr/summary)：GItHub 上一个作者阅读果的所有论文简介，推荐等级：:heart:！
 - [Paper Digest: ICML 2020 Highlights](https://www.paperdigest.org/2020/07/icml-2020-highlights/)：为了帮助社区快速查找会议上的工作，Paper Digest团队处理所有被接受的论文，并为每篇论文生成一个亮点总结(通常是主要主题)。鼓励读者阅读这些机器生成的要点/摘要，以快速获得每篇论文的主要思想，推荐等级：:heart::heart::heart::heart:！
+- [Paper Digest: ECCV 2020 Highlights](https://www.paperdigest.org/2020/08/eccv-2020-highlights/)：ECCV2020 ，一句话点评论文亮点，涵盖1357篇论文的亮点，有138页pdf之多，这样大大帮助读者锁定想看的论文，推荐等级：:heart::heart::heart::heart:！
 - [ICML 2020 Accepted papers](https://proceedings.icml.cc/book/2020)：ICML 2020 会议文章
 - [KDD 2020 Accepted papers](https://www.kdd.org/kdd2020/accepted-papers)：KDD 2020 会议文章
 + [NeurIPS 2019 Notes](https://david-abel.github.io/notes/neurips_2019.pdf)：布朗大学的博士生 David Abel 公开了他的 NeurIPS 2019 参会笔记，他从深度学习理论、强化学习、博弈论和元学习等主题出发记载参会的一些亮点与主要内容。[个人主页](https://david-abel.github.io/)。，推荐等级：:heart::heart::heart::heart:！
@@ -2150,6 +2159,7 @@
 + [StackOverFlow](https://stackoverflow.com/)：这个就不用介绍了，应该是世界上最大的问答网站了
 + [Mathematics Stack Exchange](https://math.stackexchange.com/)：Mathematics Stack Exchange是一个类似StackOverFlow的问答网站，主要提供数学问答
 + [Emoji Homepage](http://emojihomepage.com/)：一个Emoji大全的网站，里面有各式各样的Emoji大全，点击想要的Emoji即可复制，用于写文章加入 Emoji 十分方便
++ [OpenSource MicroSoft](https://opensource.microsoft.com/)：微软近日上线了一个新的开源网站——网站本身既是开源的，内容也是关于开源的——来展示其如何拥抱开源，同时提供一些开源服务。推荐等级：:heart::heart::heart:！
 + [Tiler](https://github.com/nuno-faria/tiler)：像文字云一样，用各种小图拼出大的图片，构建一个像素风的世界。GitHub:star:4k。
 + [Moji, Moji, Emoji](https://github.com/ericandrewlewis/emoji-mosaic)：这是一个可根据图片配色，将图片转为用 emoji 填充的工具。[在线体验地址](http://ericandrewlewis.github.io/emoji-mosaic/)
 + [Greasy Fork](https://greasyfork.org/zh-CN): 一个提供用户脚本的网站，浏览器安装好 TemperMonkey 后，使用这些脚本上网简直不要爽到飞起
@@ -2175,8 +2185,9 @@
 + [nodesign](https://nodesign.dev/)：网站上收集了许多十分便利的 UI 设计工具与设计资源，这网站对于那些不太懂设计的开发者来说，简直是超级福音
 + [Marketing-for-Engineers](https://github.com/LisaDziuba/Marketing-for-Engineers)：该项目是由来自乌克兰的一名小姐姐 Lisa Dziuba 所创立，目的在于帮助工程师解决产品上线后所面临后的市场营销难题，GitHub:star:10.2k，​推荐等级:heart::heart::heart:!
 + [Have I been Pwned](https://haveibeenpwned.com/)：我被卖了吗？一个用来查询你的账号有没有被放在黑市里交易的网站
++ [Luckysheet](https://github.com/mengshukeji/Luckysheet)：一款功能强大、配置简单、完全开源、类似 Excel 在线表格工具 -- Luckysheet。GitHub:star:1.9k​
 
 <a class="toc" id ="44"></a>
 
-# Update (更新时间) 🕰 ：2020/08/23
+# Update (更新时间) 🕰 ：2020/08/30
 [💨 Back to Top](#table-of-contents)
