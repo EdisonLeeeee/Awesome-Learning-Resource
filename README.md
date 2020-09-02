@@ -53,7 +53,7 @@
 + [Dataset (数据集)  📊](#41)
 + [Coding Toolkit (代码工具) 💻](#42)
 + [Others (其它) ❓](#43)
-+ [Update (更新时间) 🕰 ：2020/08/30](#44)
++ [Update (更新时间) 🕰 ：2020/09/03](#44)
 
 
 <a class="toc" id ="1"></a>
@@ -273,7 +273,7 @@
 + [Fucking Algorithm](https://github.com/labuladong/fucking-algorithm)：手把手撕LeetCode题目，扒各种算法套路的裤子。GitHub:star:13.4k。
 + [Javascript Algorithms](https://github.com/trekhleb/javascript-algorithms)：该库包含多个 JavaScript 常用算法和数据结构示例。每个示例被标注为「入门」或「高级」，以表明难度。此外，该库还包含哈希表、堆区（heap）、队列（queue）、栈区（stack）、math、字符串（strings）、集合（sets）等的示例。GitHub:star:67.4k，推荐等级：❤️❤️❤️！
 + [Algorithm Pattern](https://github.com/greyireland/algorithm-pattern)：算法模板，最科学的刷题方式，最快速的刷题路径，你值得拥有~GitHub:star:1.5k​
-+ [hello-algorithm](https://github.com/geekxh/hello-algorithm)：该项目中包括热爱编程的作者小浩撰写的一本三十万字的算法题典，全部采用漫画图解的方式，简单易懂，适合初中级读者。GitHub:star:8.7k。推荐等级：❤️❤️❤️！
++ [hello-algorithm](https://github.com/geekxh/hello-algorithm)：该项目中包括热爱编程的作者小浩撰写的一本三十万字的算法题典，全部采用漫画图解的方式，简单易懂，适合初中级读者。GitHub:star:14.6k。推荐等级：❤️❤️❤️！
 
 
 
@@ -719,6 +719,8 @@
 + [Daksh Trehan](https://medium.com/@dakshtrehan)：Medium上一位外国数据分析博主，写的博客的质量都非常高。
 
 + [Hairstyle Transfer — Semantic Editing GAN Latent Code](https://medium.com/swlh/hairstyle-transfer-semantic-editing-gan-latent-code-b3a6ccf91e82)：使用GAN进行发型改变教程博客。
+
++ [Learn-Vim](https://github.com/iggredible/Learn-Vim)：一个叫做用聪明的方式学习Vim的项目，GitHub:star:2.3k
 
   
 
@@ -1255,6 +1257,8 @@
 
 + [PySyft](https://github.com/OpenMined/PySyft)：Openminded 开源的用 Python 实现了多方安全计算的协议，可以进行如数据分离，数据模型分离等场景下的模型训练和推断。
 
++ [opacus](https://github.com/pytorch/opacus)：Facebook开源的Opacus库，利用差分隐私训练PyTorch模型，既保护隐私又快速训练。
+
 + [Transfer-Learning-Library](https://github.com/thuml/Transfer-Learning-Library)：清华大学开源迁移学习算法库：基于PyTorch实现，支持轻松调用已有算法
 
 + [Oneflow](https://github.com/Oneflow-Inc/oneflow)：OneFlow是开源的、采用全新架构设计，世界领先的工业级通用深度学习框架。OneFlow目前在一些大规模场景开始使用了，研发仍在快速迭代中，最近的工作重心是支持更多模型，易用性，和其它框架兼容性。如果面临的问题规模不大，用tensorflow 或pytorch ，mxnet等是最好的选择，如果规模很大或者需要模型并行或流水并行等其它框架还不支持的技术，那可以考虑使用oneflow。
@@ -1270,6 +1274,8 @@
 + [LIT](https://github.com/PAIR-code/lit)：Google 研究人员发布了一款语言可解释性工具 (Language Interpretability Tool, LIT)，这是一个开源平台，用于可视化和理解自然语言处理模型。
 
 + [Msnhnet](https://github.com/msnh2012/Msnhnet)：一款基于纯c++的轻量级推理框架，该框架受到darknet启发。
+
++ [DeepPurpose](https://github.com/kexinhuang12345/DeepPurpose)：来自哈佛大学等机构的研究人员，开发出了一个AI“药神”工具包，为加速新冠疫情下的新药研发助力。这款名为DeepPurpose的工具包，不仅包含COVID-19的生物测定数据集，还有56种前沿的AI模型。作为一个基于PyTorch的工具包，DeepPurpose只需要不到10行代码，就能训练出AI“药神”模型。
 
   
 
@@ -1455,6 +1461,8 @@
 + [《Introduction to Graph Neural Networks》](https://booksc.xyz/book/81511304/da61a3)：2020新书《图神经网络导论》，清华大学刘知远和周杰老师著作。推荐等级：:heart::heart::heart::heart:！
 + [《Towards a Theory of Vector Embeddings of Structured Data》](https://sigmod2020.org/pods_keynote.shtml)：RWTH Aachen大学的计算机科学教授ACM Fellow Martin Grohe教授发表了《X2vec： 构建结构数据的向量嵌入理论》报告，非常干货！
 + [《Temporal Graph Network for Deep Learning on Dynamic Graphs》](https://ai.science/e/tgn-temporal-graph-networks-for-deep-learning-on-dynamic-graphs--eqAnR859q8wk2jfcGnbx)：《时序图神经网络》视频讲解，，作者提出了时序图网络(TGNs)，一个通用的，有效的框架，用于深度学习动态图表示为时间事件序列。在内存模块和基于图的操作符中，TGNs能够显著优于以前的方法，同时计算效率也更高。作者进一步表明，以前的几个学习动态图的模型可以转换为TGN框架的具体实例。他们对TGN框架的不同组件进行了详细的消融研究，并设计了最佳配置，在动态图的几个转导和归纳预测任务上实现了最先进的性能。
++ [《Deep Learning on Graphs》](http://cse.msu.edu/~mayao4/dlg_book/)：来自密西根州立大学的汤继良团队即将出版一本全面性介绍图深度学习的书。推荐等级：:heart::heart::heart::heart:！
++ [《Algorithms for Convex Optimization》](https://convex-optimization.github.io/)：耶鲁大学2020新书。这本书的目的是使读者能够获得对凸优化算法的深入理解。重点是从第一性原理推导出凸优化的关键算法，并根据输入长度建立精确的运行时间界限。由于这些方法的广泛适用性，一本书不可能向所有人展示这些方法的应用。这本书展示了各种离散优化和计数问题的快速算法的应用。本书中所选的应用程序的目的是为了说明连续优化和离散优化之间的一个相当令人惊讶的桥梁。
 + [Learning Representations via Graph-structured Networks](https://xiaolonw.github.io/graphnnv2/)：CVPR2020-Tutorial，视觉的图网络结构表示学习
 + [Knowledge-Graph-Publications](https://github.com/wds-seu/Knowledge-Graph-Publications)：知识图谱顶会文献集锦
 + [OpenHINE](https://github.com/BUPTDM/OpenHINE)：为了方便大家对异质信息网络表示学习（HINE）开展相关的实验或研究，北京邮电大学 DMGroup 的研究人员在 GitHub 上发布了 HINE 训练和测试框架 OpenHINE。
@@ -1613,6 +1621,7 @@
 + [TensorFlow Addons](https://www.tensorflow.org/addons)：相当于以前的`tf.contrib`的官方实现，里面有许多新的自定义函数和类，[源码](https://github.com/tensorflow/addons)值得观摩学习。
 + [TensorFlow Datasets](https://www.tensorflow.org/datasets)：TensorFlow Datasets 是可用于 TensorFlow 的一系列数据集的集合。所有数据集都显示为 `tf.data.Datasets`，可以提供易于使用且具有高性能的输入流水线。
 + [TensorFlow Hub](https://www.tensorflow.org/hub)：TensorFlow Hub 是一个库，用于发布、发现和使用机器学习模型中可重复利用的部分。模块是一个独立的 TensorFlow 图部分，其中包含权重和资源，可以在一个进程中供不同任务重复使用（称为迁移学习）。
++ [Model Optimization](https://tensorflow.google.cn/model_optimization)：TensorFlow 模型优化工具包，该工具包是一套能够优化机器学习模型以便于部署和执行的工具。
 + [TFRT](https://github.com/tensorflow/runtime)：TFRT 是一款全新的 TensorFlow 运行时(runtime)，将取代现有的 TensorFlow 运行时(runtime)。TFRT 负责在目标硬件上以底层的设备特定原语实现内核的高效执行，其在即时执行和图执行模式中都发挥着关键作用。
 + [TensorFlow Official Models](https://github.com/tensorflow/models/tree/master/official)：大多数模型的TensorFlow官方实现。
 + [Examples](https://github.com/tensorflow/examples)：官方的 TensorFlow examples库，GitHub:star:2.5k。
@@ -2189,5 +2198,5 @@
 
 <a class="toc" id ="44"></a>
 
-# Update (更新时间) 🕰 ：2020/08/30
+# Update (更新时间) 🕰 ：2020/09/03
 [💨 Back to Top](#table-of-contents)
