@@ -53,7 +53,7 @@
 + [Dataset (数据集)  📊](#41)
 + [Coding Toolkit (代码工具) 💻](#42)
 + [Others (其它) ❓](#43)
-+ [Update (更新时间) 🕰 ：2020/09/03](#44)
++ [Update (更新时间) 🕰 ：2020/09/20](#44)
 
 
 <a class="toc" id ="1"></a>
@@ -584,6 +584,7 @@
 + [Flourish](https://flourish.studio/)：一个更加美观、易用、强大的数据可视化工具。
 + [Gramm](https://github.com/piermorel/gramm)：MATLAB 的高级绘图工具。推荐等级：:heart::heart:!
 + [VisualDL](https://github.com/PaddlePaddle/VisualDL)：VisualDL是飞桨可视化分析工具，以丰富的图表呈现训练参数变化趋势、模型结构、数据样本、高维数据分布等。可帮助用户更清晰直观地理解深度学习模型训练过程及模型结构，进而实现高效的模型优化。GitHub:star:2.6k​
++ [cutecharts.py](https://github.com/cutecharts/cutecharts.py)：Python 手绘风格可视化神包
 
 <a class="toc" id ="12"></a>
 
@@ -977,9 +978,10 @@
 + [Feature-Engineering-Handbook](https://github.com/YC-Coder-Chen/feature-engineering-handbook)：一份系统的特征工程教程，介绍了如何利用 scikit-learn 处理静态的连续变量，利用 Category Encoders 处理静态的类别变量以及利用 Featuretools 处理常见的时间序列变量。
 + [Jupyterlab Debugger](https://github.com/jupyterlab/debugger)：首款 Jupyter 官方可视化 Debug 工具，JupyterLab 未来可默认支持 Debug。虽然这只是第一版，但目前已经可以设置常见的断点 Debug，查看各种变量、执行模块等信息。博客文章：[A visual debugger for Jupyter](https://blog.jupyter.org/a-visual-debugger-for-jupyter-914e61716559)。
 + [Binder](https://gke.mybinder.org/)：可以将一个 Git repo 转换为一个交互式 Jupyter notebook 集合。
-
++ [jupyter-text2code](https://github.com/deepklarity/jupyter-text2code)：一个能将文本快速转化为代码的 Python 神器
 
 <a class="toc" id ="18"></a>
+
 # Python Learning (Python 学习) 🐍
 [💨 Back to Top](#table-of-contents)
 
@@ -1412,6 +1414,7 @@
 + [Graph-based deep learning literature](https://github.com/naganandy/graph-based-deep-learning-literature)：图深度学习的论文集
 + [Open Graph Benchmark（OGB）](http://ogb.stanford.edu)：在 NeurlPS 2019 大会的图表示学习演讲中，Jure Leskovec 宣布开源图神经网络的通用性能评价基准数据集 OGB（Open Graph Benchmark）。通过这一数据集，可以更好地评估模型性能等方面的指标。[图表示学习演讲合集](https://slideslive.com/38921872/graph-representation-learning-3)。
 + [Deep Graph Library (DGL)](https://github.com/dmlc/dgl)：在现有DL框架的基础上构建的基于Pytorch的Python包，用于简化对图的深度学习,​推荐等级：:heart::heart::heart:！
++ [PGL](https://github.com/PaddlePaddle/PGL)：Paddle Graph Learning，百度开源的图学习框架。
 + [KDD-2019-Hands-on](https://github.com/dglai/KDD-2019-Hands-on)：KDD 2019 DGL 库教程
 + [Pytorch Geometric (PYG)](https://github.com/rusty1s/pytorch_geometric)：近几年来，图神经网络（GNN）在推荐系统、搜索引擎、计算机视觉等领域中都引起了较大的关注。Github有大量开源GNN实现，其中pytorch geometric是最优秀的实现之一，曾被 Yann LeCun 推荐，GitHub上获:star:6k+，论文：[《Fast Graph Representation Learning with PyTorch Geometric》](https://arxiv.org/abs/1903.02428)，推荐等级：:heart::heart::heart::heart:！
 + [TensorFlow Geometric (TFG)](https://github.com/CrawlScript/tf_geometric)：基于 Tensorflow 的高效友好的图神经网络库，受 [Pytorch Geometric](https://github.com/rusty1s/pytorch_geometric) 启发。一个新开始的项目。​推荐等级：:heart:!
@@ -1463,6 +1466,7 @@
 + [《Temporal Graph Network for Deep Learning on Dynamic Graphs》](https://ai.science/e/tgn-temporal-graph-networks-for-deep-learning-on-dynamic-graphs--eqAnR859q8wk2jfcGnbx)：《时序图神经网络》视频讲解，，作者提出了时序图网络(TGNs)，一个通用的，有效的框架，用于深度学习动态图表示为时间事件序列。在内存模块和基于图的操作符中，TGNs能够显著优于以前的方法，同时计算效率也更高。作者进一步表明，以前的几个学习动态图的模型可以转换为TGN框架的具体实例。他们对TGN框架的不同组件进行了详细的消融研究，并设计了最佳配置，在动态图的几个转导和归纳预测任务上实现了最先进的性能。
 + [《Deep Learning on Graphs》](http://cse.msu.edu/~mayao4/dlg_book/)：来自密西根州立大学的汤继良团队即将出版一本全面性介绍图深度学习的书。推荐等级：:heart::heart::heart::heart:！
 + [《Algorithms for Convex Optimization》](https://convex-optimization.github.io/)：耶鲁大学2020新书。这本书的目的是使读者能够获得对凸优化算法的深入理解。重点是从第一性原理推导出凸优化的关键算法，并根据输入长度建立精确的运行时间界限。由于这些方法的广泛适用性，一本书不可能向所有人展示这些方法的应用。这本书展示了各种离散优化和计数问题的快速算法的应用。本书中所选的应用程序的目的是为了说明连续优化和离散优化之间的一个相当令人惊讶的桥梁。
++ [Awesome-GNN-Recommendation](https://github.com/Jhy1993/Awesome-GNN-Recommendation)：图神经网络文献集锦
 + [Learning Representations via Graph-structured Networks](https://xiaolonw.github.io/graphnnv2/)：CVPR2020-Tutorial，视觉的图网络结构表示学习
 + [Knowledge-Graph-Publications](https://github.com/wds-seu/Knowledge-Graph-Publications)：知识图谱顶会文献集锦
 + [OpenHINE](https://github.com/BUPTDM/OpenHINE)：为了方便大家对异质信息网络表示学习（HINE）开展相关的实验或研究，北京邮电大学 DMGroup 的研究人员在 GitHub 上发布了 HINE 训练和测试框架 OpenHINE。
@@ -1558,6 +1562,8 @@
 + [ChineseOCR_LITE](https://github.com/ouyanghuiyu/chineseocr_lite)：中文OCR开源项目，采用了轻量级的主干网络 PSENet，轻量级的 CRNN 模型和行文本方向分类网络 AngleNet，总体模型只有 17M。支持任意方向文字检测，在识别时会自动判断行文本方向。GitHub:star:1.7k。​
 + [OpenRadar](https://github.com/PreSenseRadar/OpenRadar)：一个用于与雷达数据交互和处理的开源库，专门用于MIMO mmWave雷达
 + [TF Object Detection API](https://github.com/tensorflow/models/tree/master/research/object_detection)：TensorFlow 目标检测 API
++ [awesome-tiny-object-detection](https://github.com/kuanhungchen/awesome-tiny-object-detection)：本项目主要涵盖小目标检测相关的论文、数据集还有一些博客文章。
++ [《Object Detection in 20 Years: A Survey》](https://arxiv.org/abs/1905.05055)：以2014年为分水岭，作者将过去二十年的目标检测发展进程分为两个阶段：2014年之前的传统目标检测，以及之后基于深度学习的目标检测。接下来，文章列举了二十年来目标检测领域的关键技术，思路非常清晰。
 
 <a class="toc" id ="31"></a>
 
@@ -1690,6 +1696,7 @@
 )。推荐等级：:heart::heart::heart:！
 + [Keras Ocr](https://github.com/faustomorales/keras-ocr)：Keras作者François Chollet近期在Twitter上推荐了Github上的一个基于tf.keras的OCR项目Keras-OCR。该项目开箱即用，可直接执行OCR，也提供了端到端训练的流水线。
 + [Deep Learning with Keras Notebooks](https://github.com/erhwenkuo/deep-learning-with-keras-notebooks)：使用 Keras 进行深度学习的 notebook 中文教程，GitHub:star:1.9k。推荐等级：:heart::heart::heart:！
++ [Keras Tuner](https://github.com/keras-team/keras-tuner)：基于 Keras 的模型调参工具，GitHub:star:1.7k
 
 <a class="toc" id ="33"></a>
 # PyTorch Learning (PyTorch 学习) 🇵🇹
@@ -1774,6 +1781,7 @@
   - https://github.com/NVlabs/selfsupervised-denoising
   - https://github.com/facebookresearch/FixRes
 + [Paper Summary](https://github.com/gopala-kr/summary)：GItHub 上一个作者阅读果的所有论文简介，推荐等级：:heart:！
++ [Array programming with NumPy](https://www.nature.com/articles/s41586-020-2649-2)：NumPy 团队撰写了一篇综述文章，介绍 NumPy 的发展过程、主要特性和数组编程等。这篇文章现已发表在 Nature 上。推荐等级：:heart::heart::heart::heart:！
 - [Paper Digest: ICML 2020 Highlights](https://www.paperdigest.org/2020/07/icml-2020-highlights/)：为了帮助社区快速查找会议上的工作，Paper Digest团队处理所有被接受的论文，并为每篇论文生成一个亮点总结(通常是主要主题)。鼓励读者阅读这些机器生成的要点/摘要，以快速获得每篇论文的主要思想，推荐等级：:heart::heart::heart::heart:！
 - [Paper Digest: ECCV 2020 Highlights](https://www.paperdigest.org/2020/08/eccv-2020-highlights/)：ECCV2020 ，一句话点评论文亮点，涵盖1357篇论文的亮点，有138页pdf之多，这样大大帮助读者锁定想看的论文，推荐等级：:heart::heart::heart::heart:！
 - [ICML 2020 Accepted papers](https://proceedings.icml.cc/book/2020)：ICML 2020 会议文章
@@ -1784,6 +1792,8 @@
 + [NLP-Conferences-Code](https://github.com/yizhen20133868/NLP-Conferences-Code)：记录NLP相关顶会(如ACL、EMNLP、NAACL、COLING、AAAI、IJCAI)的论文开源项目合集
 + [IJCAI 2020](https://www.ijcai.org/Proceedings/2020/)：IJCAI 2020 接收论文
 + [Paper Digest: ICML 2020 Highlights](https://www.paperdigest.org/2020/07/icml-2020-highlights/)：ICML2020接收论文亮点总结，推荐等级：:heart::heart::heart::heart:！
++ [ml-surveys](https://github.com/eugeneyan/ml-surveys)：机器学习综述论文集锦，GitHub:star:398，推荐等级：:heart::heart:！
++ [applied-ml](https://github.com/eugeneyan/applied-ml)：亚马逊工程师 Eugene Yan 等人打造了一个论文合集，在这个 GitHub 项目中，持续共享 Google、亚马逊、Facebook 等等大公司在数据科学和机器学习方面的论文和博客文章。推荐等级：:heart::heart::heart::heart:！
 + [PC-DARTS](https://arxiv.org/abs/1907.05737)：在此论文中，来自上海交通大学和华为诺亚方舟实验室的研究人员提出了一种基于部分通道采样的内存高效的可微网络结构搜索方法方法，能够显著提升可微式搜索的速度和性能。该方法在 CIFAR10 数据集上，只需要 0.1 个 GPU 天（单卡 1.5 小时）就可以完成一次搜索过程，并且达到 2.57% 的测试错误率；即使在 ImageNet 数据集上直接搜索，该方法也只需要 3.8 个 GPU 天（8 卡 11.5 小时），并且在 ImageNet 的移动设定（600M 运算）中达到 24.2%/7.3% 的 top-1/top-5 测试错误率。难得的是，该方法展示出了在不同参数设定下的搜索稳定性，能够很容易地应用于不同的实际场景。[GitHub地址](https://github.com/yuhuixu1993/PC-DARTS)
 + [Hashing Deep Learning](https://github.com/keroro824/HashingDeepLearning)：在[该论文](https://www.cs.rice.edu/~as143/Papers/SLIDE_MLSys.pdf)中采用的局部敏感哈希（Locality Sensitive Hashing）算法，并在神经网络中使用了自适应 dropout，在 Amazon-670K 这样的复杂分类数据集上，超一亿参数量的大型神经网络训练时间竟然是 SLIDE + CPU 最快，连 TensorFlow + Tesla V100 都要慢很多，而且从迭代步数上看，它们两者是等价的，表明模型的收敛行为是相同的。
 + [Neural Tangents](https://ai.googleblog.com/2020/03/fast-and-easy-infinitely-wide-networks.html)：推导有限网络的无限宽度限制需要大量的数学知识，并且必须针对不同研究的体系结构分别进行计算。对工程技术水平的要求也很高。谷歌最新开源的 **Neural Tangents**，旨在解决这个问题，让研究人员能够轻松建立、训练无限宽神经网络。甚至只需要5行代码，就能够打造一个无限宽神经网络模型。这一研究成果已经中了ICLR 2020。戳进Colab链接，即可在线试玩。[论文地址](https://arxiv.org/abs/1912.02803)，[Colab地址](https://colab.research.google.com/github/google/neural-tangents/blob/master/notebooks/neural_tangents_cookbook.ipynb)，[GitHub地址](https://github.com/google/neural-tangents)
@@ -1838,6 +1848,7 @@
 + [Negative margin few shot](https://github.com/bl0/negative-margin.few-shot)：打破度量学习传统认知！清华与MSRA提出基于负间隔损失的少样本学习方法。论文：[《Negative Margin Matters: Understanding Margin in Few-shot Classification》](https://arxiv.org/abs/2003.12060)
 + [MetaAttack](https://github.com/dydjw9/MetaAttack_ICLR2020/)：深度神经网络的查询高效元攻击，论文[《Query-efficient Meta Attack to Deep Neural Networks》](https://arxiv.org/abs/1906.02398)
 + [neural-tangents](https://github.com/google/neural-tangents)：谷歌硬刚无限宽神经网络项目，论文[《Finite Versus Infinite Neural Networks: an Empirical Study》](https://arxiv.org/abs/2007.15801v1)
++ [UniMP](https://github.com/PaddlePaddle/PGL/tree/main/ogb_examples/nodeproppred/unimp)：百度PGL团队创新提出统一消息传递图神经网络模型UniMP，在三大半监督节点分类数据集均荣登榜首。论文：[《Masked Label Prediction: Unified Massage Passing Model for Semi-Supervised Classification》](https://arxiv.org/abs/2009.03509)
 
 <a class="toc" id ="36"></a>
 
@@ -2195,8 +2206,9 @@
 + [Marketing-for-Engineers](https://github.com/LisaDziuba/Marketing-for-Engineers)：该项目是由来自乌克兰的一名小姐姐 Lisa Dziuba 所创立，目的在于帮助工程师解决产品上线后所面临后的市场营销难题，GitHub:star:10.2k，​推荐等级:heart::heart::heart:!
 + [Have I been Pwned](https://haveibeenpwned.com/)：我被卖了吗？一个用来查询你的账号有没有被放在黑市里交易的网站
 + [Luckysheet](https://github.com/mengshukeji/Luckysheet)：一款功能强大、配置简单、完全开源、类似 Excel 在线表格工具 -- Luckysheet。GitHub:star:1.9k​
++ [Open-source Builders](https://opensource.builders/)：该网站里面收集并汇总了各类知名产品的开源实现方案，一来可以让开发者选择合适软件的开源替代品；二来也可以从中学到某款知名产品的业务代码实现逻辑。像大家耳熟能详的 GitHub、Slack、1Password、Facebook、YouTube、Shopify、Heroku 等产品，在上面都有对应的开源解决方案。
 
 <a class="toc" id ="44"></a>
 
-# Update (更新时间) 🕰 ：2020/09/03
+# Update (更新时间) 🕰 ：2020/09/20
 [💨 Back to Top](#table-of-contents)
