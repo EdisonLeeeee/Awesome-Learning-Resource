@@ -53,7 +53,7 @@
 + [Dataset (数据集)  📊](#41)
 + [Coding Toolkit (代码工具) 💻](#42)
 + [Others (其它) ❓](#43)
-+ [Update (更新时间) 🕰 ：2020/09/20](#44)
++ [Update (更新时间) 🕰 ：2020/09/27](#44)
 
 
 <a class="toc" id ="1"></a>
@@ -182,6 +182,7 @@
 + [Bigheads](https://bigheads.io/)：BigHeads是一个头像生成工具，通过设置将表情，服装，发型和颜色，可以组合成成千上万个角色头像。
 + [MS-Lumos](https://github.com/microsoft/MS-Lumos)：Lumos是一个Python库，用于网络应用程序中的度量回归的自动检测与诊断。
 + [AgoraLive](https://github.com/AgoraIO-Usecase/AgoraLive)：一个新的开源项目，它实现了单主播直播、多人连麦直播、PK 直播、虚拟主播，四种现在社交直播领域最成熟的场景。
++ [codequestion](https://github.com/neuml/codequestion)：一个便捷编程Q&A工具codequestion，直接在终端输入「你要问的问题」，用普通的自然语言就行，和你去谷歌搜索没什么两样。
 
 
 
@@ -506,6 +507,8 @@
 + [Cobol Programming Course](https://github.com/openmainframeproject/cobol-programming-course)：本项目主要提供一份适合初学者的分章节 COBOL 编程语言课程指南，以及各个章节的源代码。就具体内容而言，本指南主要介绍了如何通过配置有 Zowe 和 Z Open Editor 扩展的 Visual Studio Code 等现代工具，来掌握 COBOL 编程技巧。并且，指南中还讲述了如何来编写、测试、执行和 debug COBOL 程序。GitHub:star:1.1k+​
 + [《Hands-on Scala Programming》](https://www.handsonscala.com/)：《Hands-on Scala Programming》，中文译名（借鉴自阮一峰老师）为：《动手学 Scala 编程》，由新加坡 总理儿子所著
 + [《Ensemble Methods：Foundations and Algorithms》](http://tjzhifei.github.io/links/EMFA.pdf)：2012年，周志华教授出版的一本被称为“森林书”的英文专著：《Ensemble Methods：Foundations and Algorithms》，本书在豆瓣读书上的参评人数不多，但一小部分有机会读过原著的同学硬生生把分数给到了逆天的10分满星！推荐等级：❤️❤️❤️❤️！
++ [《Machine Learning Concepts with Python and the Jupyter Notebook Environment》](http://file.allitebooks.com/20200923/Machine%20Learning%20Concepts%20with%20Python%20and%20the%20Jupyter%20Notebook%20Environment.pdf)：这本书打破了编程机器学习应用程序的任何障碍，通过使用Jupyter Notebook而不是文本编辑器或常规IDE。您将从学习如何使用Jupyter笔记本来改进使用Python编程的方式开始。在获得一个良好的基础与Python工作在木星的笔记本，你将深入什么是TensorFlow，它如何帮助机器学习爱好者，以及如何解决它提出的挑战。在此过程中，使用Jupyter笔记本创建的示例程序允许您应用本书前面的概念。推荐等级：:heart::heart::heart::heart:！
++ [《Machine Learning From Scratch》](https://dafriedman97.github.io/mlbook/content/introduction.html)：本科毕业于哈佛大学统计学与经济学专业、现任哈佛助教的 Daniel Friedman 开放了他撰写的一本免费在线书籍《Machine Learning from Scratch》，该书从理论和数学上介绍了 ML 最常见算法（OLS、逻辑回归、朴素贝叶斯、决策树、boosts 和神经网络等）的完整推论。[GitHub](https://github.com/eriklindernoren/ML-From-Scratch)，GitHub:star:16.3k。推荐等级：:heart::heart::heart::heart:！
 
 
 
@@ -585,6 +588,7 @@
 + [Gramm](https://github.com/piermorel/gramm)：MATLAB 的高级绘图工具。推荐等级：:heart::heart:!
 + [VisualDL](https://github.com/PaddlePaddle/VisualDL)：VisualDL是飞桨可视化分析工具，以丰富的图表呈现训练参数变化趋势、模型结构、数据样本、高维数据分布等。可帮助用户更清晰直观地理解深度学习模型训练过程及模型结构，进而实现高效的模型优化。GitHub:star:2.6k​
 + [cutecharts.py](https://github.com/cutecharts/cutecharts.py)：Python 手绘风格可视化神包
++ [PyQTGraph](https://github.com/pyqtgraph/pyqtgraph)：一款科研必备的Python数据可视化神器，PyQtGraph是一个纯python的图形和GUI库，构建于PyQt4/PySide和numpy之上，它主要用于数学/科学/工程应用方面。虽然该库完全用python编写，但其内部使用了Qt的GraphicsView框架及numpy计算库，因此其在图形绘制及数据处理速度方面有着极其优异的表现。大多数使用pyqtgraph数据可视化的应用程序都会生成可交互缩放，平移和使用鼠标配置的小部件。GitHub:star:2.1k。​推荐等级：:heart::heart:!
 
 <a class="toc" id ="12"></a>
 
@@ -959,6 +963,7 @@
 [💨 Back to Top](#table-of-contents)
 
 + [Nbviewer](https://nbviewer.jupyter.org/)： 在线渲染 Jupyter 文件的网页，只需要输入 Github 仓库地址即可。里面也含有一些Python代码示例。
++ [jupyterbook](https://jupyterbook.org/intro.html)：用于制作一个漂亮的计算机书籍和文档的开源库，GitHub [jupyter-book](https://github.com/executablebooks/jupyter-book)，GitHub:star:1.8k​
 + [Nbdev](https://github.com/fastai/nbdev/)：fast.ai 创始研究员 Jeremy Howard 撰文介绍了 fast.ai 最近提出的新型编程环境 nbdev，它基于 Jupyter Notebook 构建，并将 IDE 编辑器的优点带入 Jupyter Notebook，可以在 Notebooks 中开发而不影响整个项目生命周期。[文档](https://github.com/fastai/nbdev/)
 + [Reviewnb](https://www.reviewnb.com/)：Code Reviews for Jupyter Notebooks，Jupyter Notebook 的代码审查工具。介绍博客：[Introducing ReviewNB: Code Reviews for Jupyter Notebooks](https://towardsdatascience.com/introducing-reviewnb-visual-diff-for-jupyter-notebooks-6797e6dfa20c)
 + [Polynote](https://github.com/polynote/polynote)：使用类似 Jupyter Notebook 进行数据分析和机器学习是近来较为方便灵活的开发方式，但是 Jupyter Notebook 缺乏对多种语言的原生支持，在管理笔记本内的依赖、数据可视化等方面有所欠缺。近日，NetFlix 公司将其数据分析和机器学习开发工具 Polynote 开源。这一工具支持多语言在一个笔记本程序内运行，还增加了很多新特性，值得尝试使用。推荐等级：:heart:！
@@ -1286,7 +1291,7 @@
 # Auto Machine Learning (自动机器学习) 🔧
 [💨 Back to Top](#table-of-contents)
 
-+ [Autokeras](https://github.com/keras-team/autokeras)：它使用了高效神经架构搜索[ENAS](https://arxiv.org/abs/1802.03268)，只需使用 pip install autokeras 就能快速轻松地安装软件包，然后就能用自己的数据集来执行自己的架构搜索构建思路。相比谷歌 AutoML，两者构建思路类似，但不同的是，AutoKeras 所有代码都已经开源，可供开发者无偿使用。GitHub:star:6.6k。
++ ：它使用了高效神经架构搜索[ENAS](https://arxiv.org/abs/1802.03268)，只需使用 pip install autokeras 就能快速轻松地安装软件包，然后就能用自己的数据集来执行自己的架构搜索构建思路。相比谷歌 AutoML，两者构建思路类似，但不同的是，AutoKeras 所有代码都已经开源，可供开发者无偿使用。[文档地址](https://autokeras.com/)，[教程地址](https://towardsdatascience.com/automl-creating-top-performing-neural-networks-without-defining-architecture-c7d3b08cddc)。GitHub:star:6.6k。
 + [TPOT](https://github.com/EpistasisLab/tpot)：TPOT 是一个 Python 编写的软件包，利用遗传算法行特征选择和算法模型选择，仅需几行代码，就能生成完整的机器学习代码。在机器学习模型开发图中，TPOT 所完成的即通过利用遗传算法，分析数千种可能的组合，为模型、参数找到最佳的组合，从而自动化机器学习中的模型选择及调参部分。GitHub:star:6.7k。
 + [Featuretools](https://github.com/FeatureLabs/featuretools)：这是一个用于自动化特性工程的开源 python 框架，它可以帮助开发者从一组相关数据表中自动构造特征。开发者只需要知道数据表的基本结构和它们之间的关系，然后在实体集（一种数据结构）中指明。然后在有了实体集之后，使用一个名为深度特征合成（DFS）的方法，在一个函数调用中构建出数千个特征。[官网](https://www.featuretools.com/)，GitHub:star:4.6k。
 + [AdaNet](https://github.com/tensorflow/adanet)：AdaNet 是由谷歌开源的一个轻量级的基于 TensorFlow 框架。AdaNet 易于使用，并能创建高质量的模型，为 ML 实践者节省了用于选择最佳神经网络架构的时间，实现了一种将学习神经架构作为子网络集合的自适应算法。[官方文档](https://adanet.readthedocs.io/en/v0.8.0/)，GitHub:star:3k。
@@ -1306,6 +1311,8 @@
 + [Runx](https://github.com/NVIDIA/runx)：NVIDIA 推出的一款专门用于记录深度学习调 (lian) 参 (dan) 的工具，用来方便深度炼丹师记录各种实验数据。
 + [CVPR 2020 Tutorial](https://hangzhang.org/CVPR2020/)：CVPR 2020 Tutorial：自动化深度学习教程和介绍，推荐等级：:heart::heart:!​
 + [talos](https://github.com/autonomio/talos)：基于Keras的超参数搜索库。Talos通过完全自动化超参数调优和模型评估，从根本上改变了普通的Keras工作流。Talos完全使用Keras功能，不需要学习新的语法或模板。GitHub:star:1.3k，​推荐等级：:heart::heart:!
++ [auto-sklearn](https://github.com/automl/auto-sklearn)：auto-sklearn 是一个自动机器学习工具包，它与标准 sklearn 接口无缝集成，因此社区中很多人都很熟悉该工具。通过使用最近的一些方法，比如贝叶斯优化，该库被用来导航模型的可能空间，并学习推理特定配置是否能很好地完成给定任务。GitHub:star:4.9k。论文：[《Efficient and Robust Machine Learning》](https://papers.nips.cc/paper/5872-efficient-and-robust-automated-machine-learning)
++ [TPOT](https://github.com/EpistasisLab/tpot)：TPOT 是一种基于 Python 的自动机器学习开发工具，该工具更关注数据准备、建模算法和模型超参数。它通过一种基于进化树的结，即自动设计和优化机器学习 pipelie 的树表示工作流优化（Tree-based Pipeline Optimization Tool, TPOT），从而实现特征选择、预处理和构建的自动化。GitHub:star:7.5k​
 
 
 <a class="toc" id ="23"></a>
@@ -1395,6 +1402,7 @@
 + [**MI**crosoft **N**ews **D**ataset (MIND)](https://msnews.github.io/) ：微软发布的大规模新闻推荐数据集MIND
 + [Recommenders](https://github.com/microsoft/recommenders)：这个存储库包含了微软提供的构建推荐系统的示例和最佳实践，以Jupyter笔记本的形式提供。GitHub:star:8k，推荐等级：:heart::heart::heart::heart:！
 + [ReChorus](https://github.com/THUwangcy/ReChorus)：一个轻量级 Top-K 推荐框架
++ [neural-structured-learning](https://github.com/tensorflow/neural-structured-learning)：TensorFlow 开源的用于结构化数据学习的库
 
 
 
@@ -1563,7 +1571,11 @@
 + [OpenRadar](https://github.com/PreSenseRadar/OpenRadar)：一个用于与雷达数据交互和处理的开源库，专门用于MIMO mmWave雷达
 + [TF Object Detection API](https://github.com/tensorflow/models/tree/master/research/object_detection)：TensorFlow 目标检测 API
 + [awesome-tiny-object-detection](https://github.com/kuanhungchen/awesome-tiny-object-detection)：本项目主要涵盖小目标检测相关的论文、数据集还有一些博客文章。
++ [3DDFA_V2](https://github.com/cleardusk/3DDFA_V2)：一个轻松配置即可上线使用的3D人脸检测工具箱，该工具箱包括多种特性：2D稀疏点、稠密点、3D、深度图、PNCC、UV纹理展开、姿态估计、序列化等等。
++ [Yolo-Fastest](https://github.com/dog-qiuqiu/Yolo-Fastest)：这是个模型非常小、号称目前最快的YOLO算法——大小只有1.3MB，单核每秒148帧，移动设备上也能轻易部署。而且，这个YOLO-Fastest算法满足所有平台的需要。不论是PyTorch，还是Tensorflow，又或者是Keras和Caffe，可以说是全平台通用。
++ [MobileNet-Yolo](https://github.com/dog-qiuqiu/MobileNet-Yolo)：基于MobileNet图像分类算法的YOLOv，同样可以在全平台使用。不仅如此，这个全平台通用的MobileNet-YOLOv3，体积和精度都要优于MobileNet-SSD。
 + [《Object Detection in 20 Years: A Survey》](https://arxiv.org/abs/1905.05055)：以2014年为分水岭，作者将过去二十年的目标检测发展进程分为两个阶段：2014年之前的传统目标检测，以及之后基于深度学习的目标检测。接下来，文章列举了二十年来目标检测领域的关键技术，思路非常清晰。
++ [TIDE](https://github.com/dbolya/tide)：识别目标检测错误的通用工具箱
 
 <a class="toc" id ="31"></a>
 
@@ -1625,10 +1637,17 @@
 + [Tensorflow 官方博客](https://medium.com/tensorflow)：Tensorflow 官方博客
 + [TensorFlow Tutorial For Beginners](https://www.datacamp.com/community/tutorials/tensorflow-tutorial)：Tensorflow 新手教程
 + [TensorFlow Addons](https://www.tensorflow.org/addons)：相当于以前的`tf.contrib`的官方实现，里面有许多新的自定义函数和类，[源码](https://github.com/tensorflow/addons)值得观摩学习。
++ [TensorFlow Recorder](https://github.com/google/tensorflow-recorder)：数据科学家、数据工程师或 AI/ML 工程师只需几行代码即可创建基于图像的 TFRecords。使用 TFRecords 对于创建高效 TensorFlow ML 流水线非常重要，而过去的创建方法非常繁琐。在 TFRecorder 之前，要大规模创建 TFRecords，必须编写一个数据流水线来解析结构化数据，从存储中加载图像并将结果序列化为 TFRecord 格式。TFRecorder 允许您直接从 Pandas dataframe 或 CSV 写入 TFRecords，无需编写任何复杂的代码。[教程](https://tensorflow.google.cn/tutorials/load_data/tfrecord)。
 + [TensorFlow Datasets](https://www.tensorflow.org/datasets)：TensorFlow Datasets 是可用于 TensorFlow 的一系列数据集的集合。所有数据集都显示为 `tf.data.Datasets`，可以提供易于使用且具有高性能的输入流水线。
 + [TensorFlow Hub](https://www.tensorflow.org/hub)：TensorFlow Hub 是一个库，用于发布、发现和使用机器学习模型中可重复利用的部分。模块是一个独立的 TensorFlow 图部分，其中包含权重和资源，可以在一个进程中供不同任务重复使用（称为迁移学习）。
++ [TensorFlow Recommenders](https://www.tensorflow.org/recommenders)：TensorFlow 开源的推荐系统项目。
 + [Model Optimization](https://tensorflow.google.cn/model_optimization)：TensorFlow 模型优化工具包，该工具包是一套能够优化机器学习模型以便于部署和执行的工具。
++ [TensorFlow Privacy](https://github.com/tensorflow/privacy)：TF官方开源的用于机器学习模型训练数据的隐私的库
++ [TensorFlow Federated](https://www.tensorflow.org/federated)：TensorFlow Federated (TFF) 是一个开源框架，可用于对分散式数据进行机器学习和其他计算。我们开发 TFF 是为了促进联合学习 (FL) 的开放式研究和实验。FL 是一种机器学习方法，使我们能够跨多个参与客户端训练全局共享的模型，并让训练数据留存在本地。例如，FL 已被用于训练手机键盘的预测模型，但不会将敏感的输入数据上传到服务器。
++ [TensorFlow Extended](https://www.tensorflow.org/resources/libraries-extensions)：探索使用 TensorFlow 构建高级模型或方法的库，并访问可针对特定领域扩展 TensorFlow 的应用软件包。推荐等级：:heart::heart::heart::heart:！
++ [TensorFlow Magenta](https://magenta.tensorflow.org/)：一个用于部署ML管道的库
 + [TFRT](https://github.com/tensorflow/runtime)：TFRT 是一款全新的 TensorFlow 运行时(runtime)，将取代现有的 TensorFlow 运行时(runtime)。TFRT 负责在目标硬件上以底层的设备特定原语实现内核的高效执行，其在即时执行和图执行模式中都发挥着关键作用。
++ [TensorFlow Hub](https://tfhub.dev/)：TensorFlow Hub是一个在TensorFlow中发布、发现和重用部分机器学习模块的平台，可以把它称为TensorFlow模型的GitHub。
 + [TensorFlow Official Models](https://github.com/tensorflow/models/tree/master/official)：大多数模型的TensorFlow官方实现。
 + [Examples](https://github.com/tensorflow/examples)：官方的 TensorFlow examples库，GitHub:star:2.5k。
 + [TensorFlow/TPU](https://github.com/tensorflow/tpu)：这个存储库是云TPU使用的参考模型和工具的集合，里面实现了大量的模型。GitHub:star:3k。
@@ -1653,6 +1672,7 @@
 + [TF Object Detection API](https://github.com/tensorflow/models/tree/master/research/object_detection)：TensorFlow 目标检测 API
 + [DeepReg](https://github.com/DeepRegNet/DeepReg)：基于TensorFlow2的深度学习医学图像配准工具包，可处理成对与非成对的图像数据。该工具包实现了主流的监督与弱监督医学图像配准的算法。
 + [Tensorflow Coder](https://github.com/google-research/tensorflow-coder)：谷歌 TensorFlow 开源了一个帮助开发者写 TensorFlow 代码的程序合成工具 TF-Coder。输入示例，即可自动生成代码。推荐等级：:heart::heart::heart::heart:！
++ [《Machine Learning Concepts with Python and the Jupyter Notebook Environment》](http://file.allitebooks.com/20200923/Machine%20Learning%20Concepts%20with%20Python%20and%20the%20Jupyter%20Notebook%20Environment.pdf)：这本书打破了编程机器学习应用程序的任何障碍，通过使用Jupyter Notebook而不是文本编辑器或常规IDE。您将从学习如何使用Jupyter笔记本来改进使用Python编程的方式开始。在获得一个良好的基础与Python工作在木星的笔记本，你将深入什么是TensorFlow，它如何帮助机器学习爱好者，以及如何解决它提出的挑战。在此过程中，使用Jupyter笔记本创建的示例程序允许您应用本书前面的概念。推荐等级：:heart::heart::heart::heart:！
 
 <a class="toc" id ="32"></a>
 
@@ -1793,6 +1813,7 @@
 + [IJCAI 2020](https://www.ijcai.org/Proceedings/2020/)：IJCAI 2020 接收论文
 + [Paper Digest: ICML 2020 Highlights](https://www.paperdigest.org/2020/07/icml-2020-highlights/)：ICML2020接收论文亮点总结，推荐等级：:heart::heart::heart::heart:！
 + [ml-surveys](https://github.com/eugeneyan/ml-surveys)：机器学习综述论文集锦，GitHub:star:398，推荐等级：:heart::heart:！
++ [annotated_research_papers](https://github.com/AakashKumarNain/annotated_research_papers)：一个作者开源的项目，包含了大量他看过并且做了笔记的好论文，GitHub:star:1k。推荐等级：:heart::heart:！
 + [applied-ml](https://github.com/eugeneyan/applied-ml)：亚马逊工程师 Eugene Yan 等人打造了一个论文合集，在这个 GitHub 项目中，持续共享 Google、亚马逊、Facebook 等等大公司在数据科学和机器学习方面的论文和博客文章。推荐等级：:heart::heart::heart::heart:！
 + [PC-DARTS](https://arxiv.org/abs/1907.05737)：在此论文中，来自上海交通大学和华为诺亚方舟实验室的研究人员提出了一种基于部分通道采样的内存高效的可微网络结构搜索方法方法，能够显著提升可微式搜索的速度和性能。该方法在 CIFAR10 数据集上，只需要 0.1 个 GPU 天（单卡 1.5 小时）就可以完成一次搜索过程，并且达到 2.57% 的测试错误率；即使在 ImageNet 数据集上直接搜索，该方法也只需要 3.8 个 GPU 天（8 卡 11.5 小时），并且在 ImageNet 的移动设定（600M 运算）中达到 24.2%/7.3% 的 top-1/top-5 测试错误率。难得的是，该方法展示出了在不同参数设定下的搜索稳定性，能够很容易地应用于不同的实际场景。[GitHub地址](https://github.com/yuhuixu1993/PC-DARTS)
 + [Hashing Deep Learning](https://github.com/keroro824/HashingDeepLearning)：在[该论文](https://www.cs.rice.edu/~as143/Papers/SLIDE_MLSys.pdf)中采用的局部敏感哈希（Locality Sensitive Hashing）算法，并在神经网络中使用了自适应 dropout，在 Amazon-670K 这样的复杂分类数据集上，超一亿参数量的大型神经网络训练时间竟然是 SLIDE + CPU 最快，连 TensorFlow + Tesla V100 都要慢很多，而且从迭代步数上看，它们两者是等价的，表明模型的收敛行为是相同的。
@@ -1849,6 +1870,8 @@
 + [MetaAttack](https://github.com/dydjw9/MetaAttack_ICLR2020/)：深度神经网络的查询高效元攻击，论文[《Query-efficient Meta Attack to Deep Neural Networks》](https://arxiv.org/abs/1906.02398)
 + [neural-tangents](https://github.com/google/neural-tangents)：谷歌硬刚无限宽神经网络项目，论文[《Finite Versus Infinite Neural Networks: an Empirical Study》](https://arxiv.org/abs/2007.15801v1)
 + [UniMP](https://github.com/PaddlePaddle/PGL/tree/main/ogb_examples/nodeproppred/unimp)：百度PGL团队创新提出统一消息传递图神经网络模型UniMP，在三大半监督节点分类数据集均荣登榜首。论文：[《Masked Label Prediction: Unified Massage Passing Model for Semi-Supervised Classification》](https://arxiv.org/abs/2009.03509)
++ [DynamicReLU](https://github.com/Islanna/DynamicReLU)：论文提出了动态ReLU，能够根据输入动态地调整对应的分段激活函数，与ReLU及其变种对比，仅需额外的少量计算即可带来大幅的性能提升，能无缝嵌入到当前的主流模型中。论文: [《Dynamic ReLU》](https://arxiv.org/abs/2003.10027)
++ [《Fast and Accurate Machine Learning on Distributed Systems and Supercomputers》](https://www2.eecs.berkeley.edu/Pubs/TechRpts/2020/EECS-2020-136.pdf)：UC伯克利尤洋189页博士论文，聚焦快速机器学习训练算法，推荐等级：:heart::heart::heart::heart:！
 
 <a class="toc" id ="36"></a>
 
@@ -2030,6 +2053,7 @@
 + [Arxiv](https://www.kaggle.com/Cornell-University/arxiv)：arXiv 将 170万篇arXiv论文集成为一个格式机器可读的数据库，并将该数据库托管到了Kaggle上供用户免费使用。数据库包括论文标题、作者、类别、摘要、全文pdf等论文相关信息。推荐等级：:heart::heart::heart:！
 + [BIFROST](https://datasets.bifrost.ai/)：一个数据集搜索工具，里面共有1899个图像数据集，还专门设置分类，比如Humans、Geospatial、Autonomous Cars等。一键搜索，免费获取，直接链接到原始数据库，帮你快速找到合适的数据集。推荐等级：:heart::heart::heart:！
 + [Open Images V6](https://storage.googleapis.com/openimages/web/index.html)：Open Images是谷歌在2016年推出的大规模图像数据集，包括大约900万张图片，标注了数千个图像类别。目前是第六版，新增了**507444**个局部叙事。[博客介绍](https://ai.googleblog.com/2020/02/open-images-v6-now-featuring-localized.html)
++ [Graviti Open Dataset](https://www.graviti.cn/open-datasets)：一个国内（可能）最好的海量CV数据集获取网站。Graviti 收录了 400 多个高质量 CV 类数据集，覆盖2D/3D目标检测、图像分割、图像分类、目标跟踪、OCR、姿态估计、无人驾驶、智慧零售、机器人等多种AI应用领域。
 + [Tencent Ml Images](https://github.com/Tencent/tencent-ml-images)：腾讯开源的超大型多标签图像数据集及模型训练代码
 + [Machine learning datasets](https://www.datasetlist.com/)：这个网站上共收集到了100多个业界最大型的数据集。根据任务类别，这些数据集中又分为三大类：计算机视觉（CV）、自然语言处理（NLP）和音频数据集
 + [Networkrepository](http://networkrepository.com/index.php)：第一个具有实时可视化分析功能的交互式数据和网络数据存储库。里面有许多Graph相关的数据集
@@ -2210,5 +2234,5 @@
 
 <a class="toc" id ="44"></a>
 
-# Update (更新时间) 🕰 ：2020/09/20
+# Update (更新时间) 🕰 ：2020/09/27
 [💨 Back to Top](#table-of-contents)
