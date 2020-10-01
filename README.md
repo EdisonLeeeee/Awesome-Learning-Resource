@@ -53,7 +53,7 @@
 + [Dataset (数据集)  📊](#41)
 + [Coding Toolkit (代码工具) 💻](#42)
 + [Others (其它) ❓](#43)
-+ [Update (更新时间) 🕰 ：2020/09/27](#44)
++ [Update (更新时间) 🕰 ：2020/10/01](#44)
 
 
 <a class="toc" id ="1"></a>
@@ -1291,7 +1291,8 @@
 # Auto Machine Learning (自动机器学习) 🔧
 [💨 Back to Top](#table-of-contents)
 
-+ ：它使用了高效神经架构搜索[ENAS](https://arxiv.org/abs/1802.03268)，只需使用 pip install autokeras 就能快速轻松地安装软件包，然后就能用自己的数据集来执行自己的架构搜索构建思路。相比谷歌 AutoML，两者构建思路类似，但不同的是，AutoKeras 所有代码都已经开源，可供开发者无偿使用。[文档地址](https://autokeras.com/)，[教程地址](https://towardsdatascience.com/automl-creating-top-performing-neural-networks-without-defining-architecture-c7d3b08cddc)。GitHub:star:6.6k。
++ [awesome-automl-papers](https://github.com/hibayesian/awesome-automl-papers)：AutoML论文大全，以及相关工具的对比图，GitHub:star:2.7k
++ [autokeras](https://github.com/keras-team/autokeras)：它使用了高效神经架构搜索[ENAS](https://arxiv.org/abs/1802.03268)，只需使用 pip install autokeras 就能快速轻松地安装软件包，然后就能用自己的数据集来执行自己的架构搜索构建思路。相比谷歌 AutoML，两者构建思路类似，但不同的是，AutoKeras 所有代码都已经开源，可供开发者无偿使用。[文档地址](https://autokeras.com/)，[教程地址](https://towardsdatascience.com/automl-creating-top-performing-neural-networks-without-defining-architecture-c7d3b08cddc)。GitHub:star:6.6k。
 + [TPOT](https://github.com/EpistasisLab/tpot)：TPOT 是一个 Python 编写的软件包，利用遗传算法行特征选择和算法模型选择，仅需几行代码，就能生成完整的机器学习代码。在机器学习模型开发图中，TPOT 所完成的即通过利用遗传算法，分析数千种可能的组合，为模型、参数找到最佳的组合，从而自动化机器学习中的模型选择及调参部分。GitHub:star:6.7k。
 + [Featuretools](https://github.com/FeatureLabs/featuretools)：这是一个用于自动化特性工程的开源 python 框架，它可以帮助开发者从一组相关数据表中自动构造特征。开发者只需要知道数据表的基本结构和它们之间的关系，然后在实体集（一种数据结构）中指明。然后在有了实体集之后，使用一个名为深度特征合成（DFS）的方法，在一个函数调用中构建出数千个特征。[官网](https://www.featuretools.com/)，GitHub:star:4.6k。
 + [AdaNet](https://github.com/tensorflow/adanet)：AdaNet 是由谷歌开源的一个轻量级的基于 TensorFlow 框架。AdaNet 易于使用，并能创建高质量的模型，为 ML 实践者节省了用于选择最佳神经网络架构的时间，实现了一种将学习神经架构作为子网络集合的自适应算法。[官方文档](https://adanet.readthedocs.io/en/v0.8.0/)，GitHub:star:3k。
@@ -1335,11 +1336,13 @@
 + [KAIR](https://github.com/cszn/KAIR)：基于 PyTorch 实现的图像复原工具
 + [scikit-image](https://github.com/scikit-image/scikit-image)：方便实用的 Python 图像处理库，GitHub:star:3.8k​
 + [Real Time Image Animation](https://github.com/anandpawara/Real_Time_Image_Animation)：印度一位程序员阿南德·帕瓦拉（Anand Pawara）设计了基于OpenCV实现的实时动画特效。毕竟OpenCV是成名已久的跨平台视觉库，是事实上的计算机视觉领域的标准库。项目中涉及的人脸识别、动作识别和运动跟踪，均在OpenCV库中原生支持。GitHub:star:1.3k​
-
++ [Imaginaire](https://github.com/NVlabs/imaginaire)：NVIDIA开源的基于PyTorch的GAN模型库：Imaginaire。支持有监督图-图转换、无监督图-图转换、视频-视频转换等任务，包含SPADE、pix2pixHD和 vid2vid等模型，均已开源！
++ [NVAE](https://github.com/NVlabs/NVAE)：英伟达NIPS2020提出NVAE：Nouveau 变分自编码器，它包含了很多当前CV领域的新成果，包括多尺度架构、可分离卷积、Swish激活函数、flow模型等，堪称当前最强VAE！作者称：NVAE是第一个成功应用于大尺寸256×256像素自然图像的VAE！论文[《NVAE: A Deep Hierarchical Variational Autoencoder》](https://arxiv.org/abs/2007.03898)，
 
 
 
 <a class="toc" id ="24"></a>
+
 # Reinforcement Learning (强化学习) 💪
 [💨 Back to Top](#table-of-contents)
 
@@ -1772,6 +1775,7 @@
 + [A shallow introduction to Deep Learning with PyTorch](https://www.youtube.com/watch?v=pWrwyOsho5A)：EPFL博士Evann Courdier带你1小时学习Pytorch！
 + [Computervision Recipes](https://github.com/microsoft/computervision-recipes)：微软开源的计算机视觉库，基于PyTorch，它囊括了计算机视觉领域的最佳实践、代码示例和丰富文档。GitHub:star:5.2k。推荐等级：❤️❤️❤️❤️！
 + [hivemind](https://github.com/learning-at-home/hivemind)：一个Pytorch分散式深度学习训练框架，可以在数以千计的计算机上训练一个大规模Transformer。
++ [pytorch_block_sparse](https://github.com/huggingface/pytorch_block_sparse)：PyTorch 快速稀疏矩阵运算库，论文：[《Sparse GPU Kernels for Deep Learning》](https://arxiv.org/abs/2006.10901)
 
 
 
@@ -1872,6 +1876,8 @@
 + [UniMP](https://github.com/PaddlePaddle/PGL/tree/main/ogb_examples/nodeproppred/unimp)：百度PGL团队创新提出统一消息传递图神经网络模型UniMP，在三大半监督节点分类数据集均荣登榜首。论文：[《Masked Label Prediction: Unified Massage Passing Model for Semi-Supervised Classification》](https://arxiv.org/abs/2009.03509)
 + [DynamicReLU](https://github.com/Islanna/DynamicReLU)：论文提出了动态ReLU，能够根据输入动态地调整对应的分段激活函数，与ReLU及其变种对比，仅需额外的少量计算即可带来大幅的性能提升，能无缝嵌入到当前的主流模型中。论文: [《Dynamic ReLU》](https://arxiv.org/abs/2003.10027)
 + [《Fast and Accurate Machine Learning on Distributed Systems and Supercomputers》](https://www2.eecs.berkeley.edu/Pubs/TechRpts/2020/EECS-2020-136.pdf)：UC伯克利尤洋189页博士论文，聚焦快速机器学习训练算法，推荐等级：:heart::heart::heart::heart:！
++ [Long-Tailed-Recognition.pytorch](https://github.com/KaihuaTang/Long-Tailed-Recognition.pytorch)：NeurIPS 2020接收的论文[《Long-Tailed Classification by Keeping the Good and Removing the Bad Momentum Causal Effect》](https://arxiv.org/abs/2009.12991)，提出一种崭新的长尾分布下分类问题的通用算法，推荐等级：:heart::heart:！
++ [GraphNormalization](https://github.com/cyh1112/GraphNormalization)：一种基于学习的四合一自动加权组合的方式来学习适合当前任务的图归一化，论文：[《Learning Graph Normalization for Graph Neural Networks》，推荐等级：:heart::heart:！](https://arxiv.org/abs/2009.11746)
 
 <a class="toc" id ="36"></a>
 
@@ -2052,6 +2058,7 @@
 + [Google Dataset Search](https://toolbox.google.com/datasetsearch): 谷歌提供的数据集搜索工具，可以搜到绝大多数的公开数据集
 + [Arxiv](https://www.kaggle.com/Cornell-University/arxiv)：arXiv 将 170万篇arXiv论文集成为一个格式机器可读的数据库，并将该数据库托管到了Kaggle上供用户免费使用。数据库包括论文标题、作者、类别、摘要、全文pdf等论文相关信息。推荐等级：:heart::heart::heart:！
 + [BIFROST](https://datasets.bifrost.ai/)：一个数据集搜索工具，里面共有1899个图像数据集，还专门设置分类，比如Humans、Geospatial、Autonomous Cars等。一键搜索，免费获取，直接链接到原始数据库，帮你快速找到合适的数据集。推荐等级：:heart::heart::heart:！
++ [CodeXGLUE](https://github.com/microsoft/CodeXGLUE)：软亚洲研究院（自然语言计算组）联合 Visual Studio 和必应搜索发布了代码智能领域首个大规模多任务的新基准——CodeXGLUE。该基准可覆盖 code-code、code-text、text-code、text-text 四个类别，包含10个任务及14个数据集，具体有：代码克隆检测、代码缺陷检测、代码完形填空、代码补全、代码纠错、代码翻译、代码检索、代码生成、代码注释生成、代码文档翻译十项任务。其中，有自建数据集，也有在业界已有影响力的数据集。推荐等级：:heart::heart::heart:！
 + [Open Images V6](https://storage.googleapis.com/openimages/web/index.html)：Open Images是谷歌在2016年推出的大规模图像数据集，包括大约900万张图片，标注了数千个图像类别。目前是第六版，新增了**507444**个局部叙事。[博客介绍](https://ai.googleblog.com/2020/02/open-images-v6-now-featuring-localized.html)
 + [Graviti Open Dataset](https://www.graviti.cn/open-datasets)：一个国内（可能）最好的海量CV数据集获取网站。Graviti 收录了 400 多个高质量 CV 类数据集，覆盖2D/3D目标检测、图像分割、图像分类、目标跟踪、OCR、姿态估计、无人驾驶、智慧零售、机器人等多种AI应用领域。
 + [Tencent Ml Images](https://github.com/Tencent/tencent-ml-images)：腾讯开源的超大型多标签图像数据集及模型训练代码
@@ -2234,5 +2241,5 @@
 
 <a class="toc" id ="44"></a>
 
-# Update (更新时间) 🕰 ：2020/09/27
+# Update (更新时间) 🕰 ：2020/10/01
 [💨 Back to Top](#table-of-contents)
