@@ -53,7 +53,7 @@
 + [Dataset (数据集)  📊](#41)
 + [Coding Toolkit (代码工具) 💻](#42)
 + [Others (其它) ❓](#43)
-+ [Update (更新时间) 🕰 ：2020/10/01](#44)
++ [Update (更新时间) 🕰 ：2020/10/04](#44)
 
 
 <a class="toc" id ="1"></a>
@@ -589,6 +589,7 @@
 + [VisualDL](https://github.com/PaddlePaddle/VisualDL)：VisualDL是飞桨可视化分析工具，以丰富的图表呈现训练参数变化趋势、模型结构、数据样本、高维数据分布等。可帮助用户更清晰直观地理解深度学习模型训练过程及模型结构，进而实现高效的模型优化。GitHub:star:2.6k​
 + [cutecharts.py](https://github.com/cutecharts/cutecharts.py)：Python 手绘风格可视化神包
 + [PyQTGraph](https://github.com/pyqtgraph/pyqtgraph)：一款科研必备的Python数据可视化神器，PyQtGraph是一个纯python的图形和GUI库，构建于PyQt4/PySide和numpy之上，它主要用于数学/科学/工程应用方面。虽然该库完全用python编写，但其内部使用了Qt的GraphicsView框架及numpy计算库，因此其在图形绘制及数据处理速度方面有着极其优异的表现。大多数使用pyqtgraph数据可视化的应用程序都会生成可交互缩放，平移和使用鼠标配置的小部件。GitHub:star:2.1k。​推荐等级：:heart::heart:!
++ [pytorchviz](https://github.com/szagoruyko/pytorchviz)：PyTorch 执行图可视化，GitHub:star:1.5k​
 
 <a class="toc" id ="12"></a>
 
@@ -983,7 +984,7 @@
 + [Feature-Engineering-Handbook](https://github.com/YC-Coder-Chen/feature-engineering-handbook)：一份系统的特征工程教程，介绍了如何利用 scikit-learn 处理静态的连续变量，利用 Category Encoders 处理静态的类别变量以及利用 Featuretools 处理常见的时间序列变量。
 + [Jupyterlab Debugger](https://github.com/jupyterlab/debugger)：首款 Jupyter 官方可视化 Debug 工具，JupyterLab 未来可默认支持 Debug。虽然这只是第一版，但目前已经可以设置常见的断点 Debug，查看各种变量、执行模块等信息。博客文章：[A visual debugger for Jupyter](https://blog.jupyter.org/a-visual-debugger-for-jupyter-914e61716559)。
 + [Binder](https://gke.mybinder.org/)：可以将一个 Git repo 转换为一个交互式 Jupyter notebook 集合。
-+ [jupyter-text2code](https://github.com/deepklarity/jupyter-text2code)：一个能将文本快速转化为代码的 Python 神器
++ [jupyter-text2code](https://github.com/deepklarity/jupyter-text2code)：一个能将文本快速转化为代码的 Python 神器（Jupyter插件）
 
 <a class="toc" id ="18"></a>
 
@@ -1314,6 +1315,7 @@
 + [talos](https://github.com/autonomio/talos)：基于Keras的超参数搜索库。Talos通过完全自动化超参数调优和模型评估，从根本上改变了普通的Keras工作流。Talos完全使用Keras功能，不需要学习新的语法或模板。GitHub:star:1.3k，​推荐等级：:heart::heart:!
 + [auto-sklearn](https://github.com/automl/auto-sklearn)：auto-sklearn 是一个自动机器学习工具包，它与标准 sklearn 接口无缝集成，因此社区中很多人都很熟悉该工具。通过使用最近的一些方法，比如贝叶斯优化，该库被用来导航模型的可能空间，并学习推理特定配置是否能很好地完成给定任务。GitHub:star:4.9k。论文：[《Efficient and Robust Machine Learning》](https://papers.nips.cc/paper/5872-efficient-and-robust-automated-machine-learning)
 + [TPOT](https://github.com/EpistasisLab/tpot)：TPOT 是一种基于 Python 的自动机器学习开发工具，该工具更关注数据准备、建模算法和模型超参数。它通过一种基于进化树的结，即自动设计和优化机器学习 pipelie 的树表示工作流优化（Tree-based Pipeline Optimization Tool, TPOT），从而实现特征选择、预处理和构建的自动化。GitHub:star:7.5k​
++ [igel](https://github.com/nidhaloff/igel)：一个比Keras更好用的机器学习“模型包”：无需预处理，0代码上手做模型，相比于Keras，这个项目进一步简化了预处理、输入输出的工作，就像“模型包”一样简便。
 
 
 <a class="toc" id ="23"></a>
@@ -1338,6 +1340,7 @@
 + [Real Time Image Animation](https://github.com/anandpawara/Real_Time_Image_Animation)：印度一位程序员阿南德·帕瓦拉（Anand Pawara）设计了基于OpenCV实现的实时动画特效。毕竟OpenCV是成名已久的跨平台视觉库，是事实上的计算机视觉领域的标准库。项目中涉及的人脸识别、动作识别和运动跟踪，均在OpenCV库中原生支持。GitHub:star:1.3k​
 + [Imaginaire](https://github.com/NVlabs/imaginaire)：NVIDIA开源的基于PyTorch的GAN模型库：Imaginaire。支持有监督图-图转换、无监督图-图转换、视频-视频转换等任务，包含SPADE、pix2pixHD和 vid2vid等模型，均已开源！
 + [NVAE](https://github.com/NVlabs/NVAE)：英伟达NIPS2020提出NVAE：Nouveau 变分自编码器，它包含了很多当前CV领域的新成果，包括多尺度架构、可分离卷积、Swish激活函数、flow模型等，堪称当前最强VAE！作者称：NVAE是第一个成功应用于大尺寸256×256像素自然图像的VAE！论文[《NVAE: A Deep Hierarchical Variational Autoencoder》](https://arxiv.org/abs/2007.03898)，
++ [imaginaire](https://github.com/NVlabs/imaginaire)：英伟达开源的一个新的 PyTorch 库「Imaginaire」，共包含 9 种英伟达开发的图像及视频合成方法。
 
 
 
@@ -1776,6 +1779,10 @@
 + [Computervision Recipes](https://github.com/microsoft/computervision-recipes)：微软开源的计算机视觉库，基于PyTorch，它囊括了计算机视觉领域的最佳实践、代码示例和丰富文档。GitHub:star:5.2k。推荐等级：❤️❤️❤️❤️！
 + [hivemind](https://github.com/learning-at-home/hivemind)：一个Pytorch分散式深度学习训练框架，可以在数以千计的计算机上训练一个大规模Transformer。
 + [pytorch_block_sparse](https://github.com/huggingface/pytorch_block_sparse)：PyTorch 快速稀疏矩阵运算库，论文：[《Sparse GPU Kernels for Deep Learning》](https://arxiv.org/abs/2006.10901)
++ [pytorchviz](https://github.com/szagoruyko/pytorchviz)：PyTorch 执行图可视化，GitHub:star:1.5k
++ [pytorch-summary](https://github.com/sksq96/pytorch-summary)：类似 Keras 的 model.summary() 输出模型信息，使用pytorch-summary
++ [TorchSnooper](https://github.com/zasdfgbnm/TorchSnooper)：PyTorch代码调试工具
++ [Captum](https://captum.ai/)：基于PyTorch 的模型可解释工具
 
 
 
@@ -2241,5 +2248,5 @@
 
 <a class="toc" id ="44"></a>
 
-# Update (更新时间) 🕰 ：2020/10/01
+# Update (更新时间) 🕰 ：2020/10/04
 [💨 Back to Top](#table-of-contents)
