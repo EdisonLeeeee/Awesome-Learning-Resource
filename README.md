@@ -6,7 +6,6 @@
 ![](https://img.shields.io/github/stars/EdisonLeeeee/Awesome-Learning-Resource)
 ![](https://img.shields.io/github/license/EdisonLeeeee/Awesome-Learning-Resource)
 
-
 <a class="toc" id="table-of-contents"></a>
 
 ### 👉 Table of Contents 👈
@@ -53,7 +52,7 @@
 + [Dataset (数据集)  📊](#41)
 + [Coding Toolkit (代码工具) 💻](#42)
 + [Others (其它) ❓](#43)
-+ [Update (更新时间) 🕰 ：2020/10/04](#44)
++ [Update (更新时间) 🕰 ：2020/10/09](#44)
 
 
 <a class="toc" id ="1"></a>
@@ -183,6 +182,8 @@
 + [MS-Lumos](https://github.com/microsoft/MS-Lumos)：Lumos是一个Python库，用于网络应用程序中的度量回归的自动检测与诊断。
 + [AgoraLive](https://github.com/AgoraIO-Usecase/AgoraLive)：一个新的开源项目，它实现了单主播直播、多人连麦直播、PK 直播、虚拟主播，四种现在社交直播领域最成熟的场景。
 + [codequestion](https://github.com/neuml/codequestion)：一个便捷编程Q&A工具codequestion，直接在终端输入「你要问的问题」，用普通的自然语言就行，和你去谷歌搜索没什么两样。
++ [transformers](https://github.com/huggingface/transformers)：最新NLP transformers模型，基于 TF2 和 PyTorch，GitHub:star:34.7k​
++ [easy163](https://github.com/ndroi/easy163)：安卓端一键解锁网易云音乐，无须 ROOT，GitHub:star:1.1k​
 
 
 
@@ -381,7 +382,7 @@
 + [The Matrix Calculus You Need For Deep Learning](https://explained.ai/matrix-calculus/index.html)：本文从简单函数求导到多元函数求偏导，再到矩阵的微积分运算，逐层深入，引导我们探索深度学习背后的学习规则与数学基础。本文试图解释理解深度神经网络的训练所需要的所有矩阵演算，本文适用于对神经网络基础有所了解的人，不过即使没有数学基础的同学也不要紧，作者提供了相关数学知识链接。在文末作者提供的参考部分，总结了这里讨论的所有关键矩阵演算规则和术语。
 + [FreeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp)：开放源码代码库和课程。与数百万人一起免费学习编程。网站：https://www.freeCodeCamp.org （一个友好的社区，您可以在这里免费学习编码。它由捐助者支持、非营利组织运营，以帮助数百万忙碌的成年人学习编程技术。这个社区已经帮助 10,000 多人获得了第一份开发人员的工作。这里的全栈 Web 开发课程是完全免费的，并且可以自行调整进度。这里还有数以千计的交互式编码挑战，可帮助您扩展技能。）GitHub 获:star:300k。
 + [Design Patterns For Humans](https://github.com/guanguans/design-patterns-for-humans-cn)：GitHub上获:star:25k，一份超全的设计模式讲解（共 23 种），每一种设计模式解释都通俗易懂（中文版）。[英文原版链接](https://github.com/kamranahmedse/design-patterns-for-humans)，推荐等级：:heart::heart::heart:！
-+ [Web 学习笔记](https://github.com/qianguyihao/Web)：GitHub上:star:5k+的项目，超详细的Web前端学习图文教程
++ [Web 学习笔记](https://github.com/qianguyihao/Web)：GitHub上:star:13k+的项目，超详细的Web前端学习图文教程，推荐等级：:heart::heart::heart:！
 + [Javascript](https://github.com/javascript-tutorial/en.javascript.info)：[课程地址](https://zh.javascript.info/),这本教程由国外一个叫 iliakan 的小哥所著，并提供了英文、俄文、日文、中文等多个版本供读者免费在线查阅。如果你需要进行离线查阅，可付费购买该教程的 EPUB/PDF 版本。完整教程的购买只需要 60 元，可以说是非常良心了。如果你读完觉得这本教程不错，不妨也花钱支持一下作者。
 + [LaTeX-cn](https://github.com/wklchris/Note-by-LaTeX)：目前最好的 LaTex 中文教程
 + [Google Machine Learning Crash Course](https://github.com/yuanxiaosc/Google-Machine-learning-crash-course)：谷歌机器学习速成课程（招式）+机器学习术语表（口诀）+机器学习规则（心得）+机器学习中的常识性问题 （内功）。该资源适用于机器学习、深度学习以及TensorFlow研究人员参考！
@@ -1035,11 +1036,10 @@
 + [《Python code for Artificial Intelligence: Foundations of Computational agents》](https://artint.info/AIPython/)：《人工智能Python代码》，本书的Python代码旨在演示第二版《计算agent的基础》人工智能中的一些算法，其中包含并解释了书中的所有代码。
 + [Magic Python](https://github.com/iswbm/magic-python)：《Python 黑魔法指南》，带你玩不一样的 Python
 + [zaoqi-Python](https://github.com/liuhuanshuo/zaoqi-Python)：早起Python公众号内容，内有 numpy80 题和 pandas120 题等学习资料
-
- 
-
++ [优雅的Python](https://www.yuque.com/wandouhuaxiamao/pythoncat)： Python猫公众号原创文章合集。
 
 <a class="toc" id ="19"></a>
+
 # Python Projects (Python 项目) 👨‍💻
 [💨 Back to Top](#table-of-contents)
 
@@ -1134,6 +1134,7 @@
 + [SourceCodeOfBook](https://github.com/kingname/SourceCodeOfBook)：《Python爬虫开发 从入门到实战》配套源代码
 + [arxivscraper](https://github.com/Mahdisadjadi/arxivscraper)：arxiv 爬虫
 + [arxiv-crawler](https://github.com/joelthchao/arxiv-crawler)：arxiv 爬虫
++ [autoscraper](https://github.com/alirezamika/autoscraper)：Python 实现的轻量级爬虫，该项目专为自动爬虫而设计，使爬虫变得容易。它获取网页的url或html内容以及我们要从该页面抓取的示例数据列表。示例数据可以是该页面的文本，URL或任何html标记值。它学习抓取规则并返回相似的元素。然后，可以将此学习到的对象与新的url一起使用，以获取这些新页面的相似内容或完全相同的元素。从而告别爬虫手动解析网页，写规则的烦恼。GitHub:star:2.3k​
 
 
 
@@ -1486,6 +1487,8 @@
 + [OpenHINE](https://github.com/BUPTDM/OpenHINE)：为了方便大家对异质信息网络表示学习（HINE）开展相关的实验或研究，北京邮电大学 DMGroup 的研究人员在 GitHub 上发布了 HINE 训练和测试框架 OpenHINE。
 + [GN Review](https://github.com/LYuhang/GNN_Review)：GNN综述阅读报告，报告涵盖有多篇GNN方面的论文，以及一个按照论文《The Graph Neural Network Model 》使用pytorch编写的模型例子，该模型在人工数据上进行运行和验证。
 + [Graph Nets: The Next Generation - Max Welling](https://video.ias.edu/machinelearning/2020/0721-MaxWelling)：下一代图神经网络是什么？几何深度学习，大牛Max Welling教授视频讲解
++ [GCN (Graph CNN) Tutorials](https://www.youtube.com/playlist?list=PLzWLLUtnW6WLlj7dHclmKn3mCcxtiSlfc)：这门课程由宾夕法尼亚大学电气与系统工程系教授 Alejandro Ribeiro 于 2020 年 8 月底开设，专门讲述图神经网络（GNN）。就课程内容而言，本课程主要探讨了图卷积滤波器和图滤波器组，研究了单特征和多特征图 GNN。此外，课程介绍了循环 GNN 等相关网络架构，并重点强调了 GNN 的置换等变性和图变形的稳定性。这些特性提供了一种可以从实证角度观察到 GNN 良好性能的解释方法。该课程还将研究大量节点中的 GNN，以解释 GNN 在不同节点数的网络中的可迁移性。[B 站地址](https://www.bilibili.com/video/av457264185/)。推荐等级：:heart::heart::heart::heart:！
++ [spektral](https://github.com/danielegrattarola/spektral)：基于 Keras 和 TensorFlow2 的图神经网络项目库，GitHub:star:1.4k​
 
 <a class="toc" id ="27"></a>
 
@@ -1530,6 +1533,9 @@
 + [Adversarial](https://paperswithcode.com/area/adversarial)：Paperswithcode 中关于对抗学习的主题，包含许多具有开源代码的攻防论文
 + [A Complete List of All (arXiv) Adversarial Example Papers](https://nicholas.carlini.com/writing/2019/all-adversarial-example-papers.html)：汇聚了超多攻防对抗论文，推荐等级：:heart::heart::heart::heart:！
 + [Awesome Graph Attack Papers](https://github.com/ChandlerBang/awesome-graph-attack-papers)：图神经网络攻防论文集合
++ [Adversarial-Examples-Reading-List](https://github.com/chawins/Adversarial-Examples-Reading-List)：对抗样本论文集合
++ [adversarial-attacks-pytorch](https://github.com/Harry24k/adversarial-attacks-pytorch)：基于 PyTorch 的图像对砍攻击库，代码风格十分简洁，推荐等级：:heart::heart::heart::heart:！
++ 
 + [《Adversarial Self-Supervised Contrastive Learning》](https://arxiv.org/abs/2006.07589)：对抗式自监督的对比学习，能够对未标记数据进行攻击
 
 
@@ -1721,8 +1727,9 @@
 + [Deep Learning With Python](https://www.manning.com/books/deep-learning-with-python?a_aid=keras&a_bid=76564dff)：一本很不错的学习 Python的书籍，书本代码是基于 Keras的，GitHub上已获:star:8k+，[代码地址](https://github.com/fchollet/deep-learning-with-python-notebooks
 )。推荐等级：:heart::heart::heart:！
 + [Keras Ocr](https://github.com/faustomorales/keras-ocr)：Keras作者François Chollet近期在Twitter上推荐了Github上的一个基于tf.keras的OCR项目Keras-OCR。该项目开箱即用，可直接执行OCR，也提供了端到端训练的流水线。
-+ [Deep Learning with Keras Notebooks](https://github.com/erhwenkuo/deep-learning-with-keras-notebooks)：使用 Keras 进行深度学习的 notebook 中文教程，GitHub:star:1.9k。推荐等级：:heart::heart::heart:！
++ [Deep Learning with Keras Notebooks](https://github.com/erhwenkuo/deep-learning-with-keras-notebooks)：使用 Keras 进行深度学习的 notebook 中文教程，GitHub:star:1.9k。推荐等级：:heart::heart::heart:
 + [Keras Tuner](https://github.com/keras-team/keras-tuner)：基于 Keras 的模型调参工具，GitHub:star:1.7k
++ [keras-io](https://github.com/keras-team/keras-io)：Keras.io 官网主页的一些 Keras 代码样本示例
 
 <a class="toc" id ="33"></a>
 # PyTorch Learning (PyTorch 学习) 🇵🇹
@@ -1732,7 +1739,7 @@
 + [PyTorch Discuss](https://discuss.pytorch.org)：PyTorch 论坛，关于该框架的大部分问题都可以在上面找到答案，会有热心的开发者答疑解惑！
 + [PyTorch 123](http://pytorch123.com/)：PyTorch 是近年来较为火爆的深度学习框架，然而其中文版官方教程久久不来。近日，一款完整的 PyTorch 中文版官方教程出炉，作者来自 pytorchchina.com。教程根据 PyTorch 官方版本目录，完整地还原了所有的内容。包括简单的环境搭建、快速入门相关 API、高级操作、图像处理实战、文本处理实战、GAN 和强化学习等，基本涵盖了目前所有深度学习相关的知识点。推荐等级：:heart::heart::heart:！
 + [PyTorch Tutorials](https://pytorch.org/tutorials/)：PyTorch 官方英文文档
-+ [PyTorch Tutorial](https://github.com/yunjey/pytorch-tutorial)：PyTorch Tutorial for Deep Learning Researchers。GitHub上已收获:star:10k+
++ [PyTorch Tutorial](https://github.com/yunjey/pytorch-tutorial)：PyTorch Tutorial for Deep Learning Researchers。GitHub上已收获:star:18k+
 + [Awesome Pytorch list](https://github.com/bharathgs/Awesome-pytorch-list)：GitHub上一个:star:9k+的项目，收集了GitHub上PyTorch相关内容以及不同的模型实现、帮助文档、教程，使用PyTorch的学习。[中文版](https://github.com/xavier-zy/Awesome-pytorch-list-CNVersion)。推荐等级：:heart::heart::heart::heart:！
 + [《Hands-on tour to deep learning with PyTorch》](https://mlelarge.github.io/dataflowr-web/cea_edf_inria.html)：dataflowr 最近推出的一门五天初步掌握深度学习的实战教程（实战使用 PyTorch 框架），有知识点有实例有代码。[GitHub地址](https://github.com/mlelarge/dataflowr)
 + [Existential Pontification and Generalized Abstract Digressions ](http://blog.ezyang.com/2019/05/pytorch-internals/)：万字综述，核心开发者全面解读 PyTorch 内部机制 
@@ -1783,6 +1790,7 @@
 + [pytorch-summary](https://github.com/sksq96/pytorch-summary)：类似 Keras 的 model.summary() 输出模型信息，使用pytorch-summary
 + [TorchSnooper](https://github.com/zasdfgbnm/TorchSnooper)：PyTorch代码调试工具
 + [Captum](https://captum.ai/)：基于PyTorch 的模型可解释工具
++ [pytorch-metric-learning](https://github.com/KevinMusgrave/pytorch-metric-learning)：基于PyTorch 的度量学习库
 
 
 
@@ -1824,6 +1832,7 @@
 + [IJCAI 2020](https://www.ijcai.org/Proceedings/2020/)：IJCAI 2020 接收论文
 + [Paper Digest: ICML 2020 Highlights](https://www.paperdigest.org/2020/07/icml-2020-highlights/)：ICML2020接收论文亮点总结，推荐等级：:heart::heart::heart::heart:！
 + [ml-surveys](https://github.com/eugeneyan/ml-surveys)：机器学习综述论文集锦，GitHub:star:398，推荐等级：:heart::heart:！
++ [AI-Surveys](https://github.com/KaiyuanGao/AI-Surveys)：AI相关领域的综述集锦
 + [annotated_research_papers](https://github.com/AakashKumarNain/annotated_research_papers)：一个作者开源的项目，包含了大量他看过并且做了笔记的好论文，GitHub:star:1k。推荐等级：:heart::heart:！
 + [applied-ml](https://github.com/eugeneyan/applied-ml)：亚马逊工程师 Eugene Yan 等人打造了一个论文合集，在这个 GitHub 项目中，持续共享 Google、亚马逊、Facebook 等等大公司在数据科学和机器学习方面的论文和博客文章。推荐等级：:heart::heart::heart::heart:！
 + [PC-DARTS](https://arxiv.org/abs/1907.05737)：在此论文中，来自上海交通大学和华为诺亚方舟实验室的研究人员提出了一种基于部分通道采样的内存高效的可微网络结构搜索方法方法，能够显著提升可微式搜索的速度和性能。该方法在 CIFAR10 数据集上，只需要 0.1 个 GPU 天（单卡 1.5 小时）就可以完成一次搜索过程，并且达到 2.57% 的测试错误率；即使在 ImageNet 数据集上直接搜索，该方法也只需要 3.8 个 GPU 天（8 卡 11.5 小时），并且在 ImageNet 的移动设定（600M 运算）中达到 24.2%/7.3% 的 top-1/top-5 测试错误率。难得的是，该方法展示出了在不同参数设定下的搜索稳定性，能够很容易地应用于不同的实际场景。[GitHub地址](https://github.com/yuhuixu1993/PC-DARTS)
@@ -2248,5 +2257,5 @@
 
 <a class="toc" id ="44"></a>
 
-# Update (更新时间) 🕰 ：2020/10/04
+# Update (更新时间) 🕰 ：2020/10/09
 [💨 Back to Top](#table-of-contents)
