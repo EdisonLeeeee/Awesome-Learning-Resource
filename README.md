@@ -52,7 +52,7 @@
 + [Dataset (数据集)  📊](#41)
 + [Coding Toolkit (代码工具) 💻](#42)
 + [Others (其它) ❓](#43)
-+ [Update (更新时间) 🕰 ：2020/10/09](#44)
++ [Update (更新时间) 🕰 ：2020/10/13](#44)
 
 
 <a class="toc" id ="1"></a>
@@ -184,6 +184,7 @@
 + [codequestion](https://github.com/neuml/codequestion)：一个便捷编程Q&A工具codequestion，直接在终端输入「你要问的问题」，用普通的自然语言就行，和你去谷歌搜索没什么两样。
 + [transformers](https://github.com/huggingface/transformers)：最新NLP transformers模型，基于 TF2 和 PyTorch，GitHub:star:34.7k​
 + [easy163](https://github.com/ndroi/easy163)：安卓端一键解锁网易云音乐，无须 ROOT，GitHub:star:1.1k​
++ [data-augmentation-review](https://github.com/AgaMiko/data-augmentation-review)：数据增广最全资料集锦
 
 
 
@@ -417,6 +418,7 @@
 + [《CSE 291: Domain Adaptation in Computer Vision》](http://cseweb.ucsd.edu/~mkchandraker/classes/CSE291/Winter2020/a)：来自加州大学圣地亚哥分校《计算机视觉中的领域自适应》课程，还有一些优秀的学习资源。推荐等级::heart::heart::heart:！
 + [The Machine Learning Summer School](http://mlss.tuebingen.mpg.de/2020/schedule.html)：机器学习暑期学校(MLSS)系列开始于2002年，致力于传播统计机器学习和推理的现代方法。今年因新冠疫情在线举行，从6月28号到7月10号讲述了众多机器学习主题。推荐来自DeepMind Shakir Mohamed博士讲述《贝叶斯推断》，125页ppt系统性讲述了贝叶斯推断基础知识和最新进展，非常干货。
 + [Harvard College CS50](https://cs50.harvard.edu/college/2020/fall/#:~:text=Harvard%20Colleg)：哈佛大学 CS50 2020 秋季课程即将面世，在家也可以共享「撕书教授」David Malan 的 4k 超高清神课了。推荐等级::heart::heart::heart:！
++ [CSC2515 2020 Machine Learning](https://www.cs.toronto.edu/~huang/courses/csc2515_2020f/index.html)：多伦多大学2020秋季《机器学习导论》课程，课程的前半部分侧重于监督学习。从最近邻、决策树和集合开始。然后介绍了参数化模型，包括线性回归、logistic回归和softmax回归以及神经网络。然后转向无监督学习，特别关注概率模型，以及主成分分析和k均值。最后介绍了强化学习的基础知识。推荐等级::heart::heart::heart:！
 
 
 
@@ -1135,8 +1137,7 @@
 + [arxivscraper](https://github.com/Mahdisadjadi/arxivscraper)：arxiv 爬虫
 + [arxiv-crawler](https://github.com/joelthchao/arxiv-crawler)：arxiv 爬虫
 + [autoscraper](https://github.com/alirezamika/autoscraper)：Python 实现的轻量级爬虫，该项目专为自动爬虫而设计，使爬虫变得容易。它获取网页的url或html内容以及我们要从该页面抓取的示例数据列表。示例数据可以是该页面的文本，URL或任何html标记值。它学习抓取规则并返回相似的元素。然后，可以将此学习到的对象与新的url一起使用，以获取这些新页面的相似内容或完全相同的元素。从而告别爬虫手动解析网页，写规则的烦恼。GitHub:star:2.3k​
-
-
++ [InfoSpider](https://github.com/kangvcar/InfoSpider)：InfoSpider是一个集众多数据源于一身的爬虫工具箱，旨在安全快捷的帮助用户拿回自己的数据，工具代码开源，流程透明。支持数据源包括GitHub、QQ邮箱、网易邮箱、阿里邮箱、新浪邮箱、Hotmail邮箱、Outlook邮箱、京东、淘宝、支付宝、中国移动、中国联通、中国电信、知乎、哔哩哔哩、网易云音乐、QQ好友、QQ群、生成朋友圈相册、浏览器浏览历史、12306、博客园、CSDN博客、开源中国博客、简书。GitHub:star:2​.5k
 
 
 
@@ -1342,6 +1343,8 @@
 + [Imaginaire](https://github.com/NVlabs/imaginaire)：NVIDIA开源的基于PyTorch的GAN模型库：Imaginaire。支持有监督图-图转换、无监督图-图转换、视频-视频转换等任务，包含SPADE、pix2pixHD和 vid2vid等模型，均已开源！
 + [NVAE](https://github.com/NVlabs/NVAE)：英伟达NIPS2020提出NVAE：Nouveau 变分自编码器，它包含了很多当前CV领域的新成果，包括多尺度架构、可分离卷积、Swish激活函数、flow模型等，堪称当前最强VAE！作者称：NVAE是第一个成功应用于大尺寸256×256像素自然图像的VAE！论文[《NVAE: A Deep Hierarchical Variational Autoencoder》](https://arxiv.org/abs/2007.03898)，
 + [imaginaire](https://github.com/NVlabs/imaginaire)：英伟达开源的一个新的 PyTorch 库「Imaginaire」，共包含 9 种英伟达开发的图像及视频合成方法。
++ [landmark_annotation](https://github.com/pprp/landmark_annotation)：图片关键点标注工具
++ [BBox-Label-Tool](https://github.com/puzzledqs/BBox-Label-Tool)：图片关键框标注工具[landmark_annotation](https://github.com/pprp/landmark_annotation)：图片关键点标注工具[BBox-Label-Tool](https://github.com/puzzledqs/BBox-Label-Tool)：图片关键框标注工具
 
 
 
@@ -1387,6 +1390,7 @@
 + [2048-gym](https://github.com/FelipeMarcelino/2048-gym)：利用强化学习玩2048，一个足够有趣，又不太复杂的强化学习案例。类似项目：[2048](https://github.com/aszczepanski/2048)，[mcts 2048](https://github.com/thomasahle/mcts-2048/)。相关论文：[《Mastering 2048 with Delayed Temporal Coherence Learning, Multi-Stage Weight Promotion, Redundant Encoding and Carousel Shaping》](https://arxiv.org/abs/1604.05085)，[《Playing Game 2048 with Deep Convolutional Neural Networks Trained by Supervised Learning》](https://www.jstage.jst.go.jp/article/ipsjjip/27/0/27_340/_pdf)
 + [RLs](https://github.com/StepNeverStop/RLs)：Tensorflow2.0实现29种深度强化学习算法大汇总
 + [Super-mario-bros-PPO-pytorch](https://github.com/uvipen/Super-mario-bros-PPO-pytorch)：最近，有人用 PPO 强化学习算法训练了一个超级马里奥智能体，已经打通了 29 关（总共 32 关）。
++ [Deep_reinforcement_learning_Course](https://github.com/simoninithomas/Deep_reinforcement_learning_Course)：一门免费强化学习课程在两年前上线，将初学者到专家所需要的所有学习文档（自动调整medium专栏）、学习视频（自动嵌入）、实操游戏（自动嵌入）都打包在了一起，可以很方便的配套学习，GitHub:star:2.6k，推荐等级：:heart::heart::heart:！。[课程链接](https://simoninithomas.github.io/deep-rl-course/#syllabus)
 
 <a class="toc" id ="25"></a>
 
@@ -1410,6 +1414,8 @@
 + [Recommenders](https://github.com/microsoft/recommenders)：这个存储库包含了微软提供的构建推荐系统的示例和最佳实践，以Jupyter笔记本的形式提供。GitHub:star:8k，推荐等级：:heart::heart::heart::heart:！
 + [ReChorus](https://github.com/THUwangcy/ReChorus)：一个轻量级 Top-K 推荐框架
 + [neural-structured-learning](https://github.com/tensorflow/neural-structured-learning)：TensorFlow 开源的用于结构化数据学习的库
++ [amlrecsys-tutorial](https://github.com/sisinflab/amlrecsys-tutorial)：推荐系统对抗机器学习教程介绍
++ [adversarial-recommender-systems-survey](https://github.com/sisinflab/adversarial-recommender-systems-survey)：推荐系统对抗机器学习综述及相关论文代码资源
 
 
 
@@ -1810,6 +1816,7 @@
 [💨 Back to Top](#table-of-contents)
 
 + [Paperswithcode](https://paperswithcode.com/)：如其名，收录了大量带有源代码的论文，[Github同名项目](https://github.com/zziz/pwc)，推荐等级：:heart::heart::heart::heart:！
++ [catalyzex](https://www.catalyzex.com/)：类似上述网站，可以搜索相关论文的代码。同时还有[浏览器插件](https://chrome.google.com/webstore/detail/find-code-for-research-pa/aikkeehnlfpamidigaffhfmgbkdeheil/related)，推荐等级：:heart::heart::heart::heart:
 + [Releasing Research Code](https://github.com/paperswithcode/releasing-research-code)：如何恰当地提交代码，才能既保证研究的可复现性，又能扩大传播？近日，PapersWithCode 发布了机器学习代码完整性自查清单。目前，该清单已成为 NeurIPS 2020 代码提交流程的一部分。
 + [ArXiv Sanity](http://www.arxiv-sanity.com/)：类似Paperswithcode，旨在提升获取研究成果的效率与体验
 + NeurIPS 2019（具备代码完整性的项目）：
@@ -2254,8 +2261,10 @@
 + [Have I been Pwned](https://haveibeenpwned.com/)：我被卖了吗？一个用来查询你的账号有没有被放在黑市里交易的网站
 + [Luckysheet](https://github.com/mengshukeji/Luckysheet)：一款功能强大、配置简单、完全开源、类似 Excel 在线表格工具 -- Luckysheet。GitHub:star:1.9k​
 + [Open-source Builders](https://opensource.builders/)：该网站里面收集并汇总了各类知名产品的开源实现方案，一来可以让开发者选择合适软件的开源替代品；二来也可以从中学到某款知名产品的业务代码实现逻辑。像大家耳熟能详的 GitHub、Slack、1Password、Facebook、YouTube、Shopify、Heroku 等产品，在上面都有对应的开源解决方案。
++ [landmark_annotation](https://github.com/pprp/landmark_annotation)：图片关键点标注工具
++ [BBox-Label-Tool](https://github.com/puzzledqs/BBox-Label-Tool)：图片关键框标注工具
 
 <a class="toc" id ="44"></a>
 
-# Update (更新时间) 🕰 ：2020/10/09
+# Update (更新时间) 🕰 ：2020/10/13
 [💨 Back to Top](#table-of-contents)
