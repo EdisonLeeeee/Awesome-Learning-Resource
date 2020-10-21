@@ -729,7 +729,7 @@
 
 + [Hairstyle Transfer — Semantic Editing GAN Latent Code](https://medium.com/swlh/hairstyle-transfer-semantic-editing-gan-latent-code-b3a6ccf91e82)：使用GAN进行发型改变教程博客。
 
-+ [Learn-Vim](https://github.com/iggredible/Learn-Vim)：一个叫做用聪明的方式学习Vim的项目，GitHub:star:2.3k
++ [Learn-Vim](https://github.com/iggredible/Learn-Vim)：用聪明的方式学习Vim，GitHub:star:2.3k
 
   
 
@@ -755,6 +755,8 @@
 + [阿西河前端教程](https://www.axihe.com/)：该网站主要是前端教程，涵盖大量前端知识
 
 + [PowerShell教程](https://www.pstips.net/powershell-online-tutorials)：PowerShell在线中文教程
+
++ [shellscript](https://www.shellscript.sh/)：shell 学习网站
 
 + [SQL Bolt](https://sqlbolt.com/)：国外的一个网站，通过简单的交互式练习学习SQL
 
@@ -1287,6 +1289,10 @@
 
 + [DeepPurpose](https://github.com/kexinhuang12345/DeepPurpose)：来自哈佛大学等机构的研究人员，开发出了一个AI“药神”工具包，为加速新冠疫情下的新药研发助力。这款名为DeepPurpose的工具包，不仅包含COVID-19的生物测定数据集，还有56种前沿的AI模型。作为一个基于PyTorch的工具包，DeepPurpose只需要不到10行代码，就能训练出AI“药神”模型。
 
++ [ferminet](https://github.com/deepmind/ferminet)：DeepMind开源了一个“费米网络”（FermiNet），TensorFlow实现，用来求解分子的电子行为，在30个电子的有机分子上也达到了很高的精度。文章结果发表在期刊Physical Review Research上。
+
++ [EasyTransfer](https://github.com/alibaba/EasyTransfer)：阿里云正式开源的深度迁移学习框架 EasyTransfer，这是业界首个面向 NLP 场景的深度迁移学习框架。
+
   
 
 <a class="toc" id ="22"></a>
@@ -1344,7 +1350,8 @@
 + [NVAE](https://github.com/NVlabs/NVAE)：英伟达NIPS2020提出NVAE：Nouveau 变分自编码器，它包含了很多当前CV领域的新成果，包括多尺度架构、可分离卷积、Swish激活函数、flow模型等，堪称当前最强VAE！作者称：NVAE是第一个成功应用于大尺寸256×256像素自然图像的VAE！论文[《NVAE: A Deep Hierarchical Variational Autoencoder》](https://arxiv.org/abs/2007.03898)，
 + [imaginaire](https://github.com/NVlabs/imaginaire)：英伟达开源的一个新的 PyTorch 库「Imaginaire」，共包含 9 种英伟达开发的图像及视频合成方法。
 + [landmark_annotation](https://github.com/pprp/landmark_annotation)：图片关键点标注工具
-+ [BBox-Label-Tool](https://github.com/puzzledqs/BBox-Label-Tool)：图片关键框标注工具[landmark_annotation](https://github.com/pprp/landmark_annotation)：图片关键点标注工具[BBox-Label-Tool](https://github.com/puzzledqs/BBox-Label-Tool)：图片关键框标注工具
++ [BBox-Label-Tool](https://github.com/puzzledqs/BBox-Label-Tool)：图片关键框标注工具
++ [labelImg](https://github.com/tzutalin/labelImg)：图片标注工具，GitHub:star:12k
 
 
 
@@ -1416,6 +1423,7 @@
 + [neural-structured-learning](https://github.com/tensorflow/neural-structured-learning)：TensorFlow 开源的用于结构化数据学习的库
 + [amlrecsys-tutorial](https://github.com/sisinflab/amlrecsys-tutorial)：推荐系统对抗机器学习教程介绍
 + [adversarial-recommender-systems-survey](https://github.com/sisinflab/adversarial-recommender-systems-survey)：推荐系统对抗机器学习综述及相关论文代码资源
++ [daisyRec](https://github.com/AmazingDD/daisyRec)：推荐系统基准模型库，论文：[《Are We Evaluating Rigorously Benchmarking Recommendation for Reproducible Evaluation and Fair Comparison》](https://dl.acm.org/doi/pdf/10.1145/3383313.3412489)
 
 
 
@@ -2263,8 +2271,10 @@
 + [Open-source Builders](https://opensource.builders/)：该网站里面收集并汇总了各类知名产品的开源实现方案，一来可以让开发者选择合适软件的开源替代品；二来也可以从中学到某款知名产品的业务代码实现逻辑。像大家耳熟能详的 GitHub、Slack、1Password、Facebook、YouTube、Shopify、Heroku 等产品，在上面都有对应的开源解决方案。
 + [landmark_annotation](https://github.com/pprp/landmark_annotation)：图片关键点标注工具
 + [BBox-Label-Tool](https://github.com/puzzledqs/BBox-Label-Tool)：图片关键框标注工具
++ [labelImg](https://github.com/tzutalin/labelImg)：图片标注工具，GitHub:star:12k​
 
 <a class="toc" id ="44"></a>
 
 # Update (更新时间) 🕰 ：2020/10/13
 [💨 Back to Top](#table-of-contents)
+
