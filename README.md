@@ -52,7 +52,7 @@
 + [Dataset (数据集)  📊](#41)
 + [Coding Toolkit (代码工具) 💻](#42)
 + [Others (其它) ❓](#43)
-+ [Update (更新时间) 🕰 ：2020/10/13](#44)
++ [Update (更新时间) 🕰 ：2020/10/22](#44)
 
 
 <a class="toc" id ="1"></a>
@@ -233,7 +233,8 @@
 
 + [MIT线性代数课程精细笔记](https://github.com/yizhen20133868/MIT-Linear-Algebra-Notes)：该笔记总结了我们在学习MIT线性代数课程的学习经验和过程。课程顺序是按照麻省理工公开课的 Linear Algebra. 记录的学习笔记。[知乎专栏](https://zhuanlan.zhihu.com/p/87873464)。
 + [《Mathematics for Machine Learning（机器学习数学基础）》](https://mml-book.github.io/)：作者表示撰写这本书旨在激励人们学习数学概念。这本书并不打算涵盖前沿的机器学习技术，因为已经有很多书这样做了。相反，作者的目标是通过该书提供阅读其他书籍所需的数学基础。这本书分为两部分：数学基础知识和使用数学基础知识进行机器学习算法示例。[Github地址](https://github.com/mml-book/mml-book.github.io)
-+ [《An Introduction to Statistical Learning》](http://faculty.marshall.usc.edu/gareth-james/ISL/)：《统计学习导论》，它的内容会有点数学，但是也很容易阅读。对于机器学习这样一个广泛的领域，这本书能将篇幅控制在400页左右很不容易。唯一的缺点是代码是用 R语言而不是Python编写的。
++ [《An Introduction to Statistical Learning - R》](http://faculty.marshall.usc.edu/gareth-james/ISL/)：《统计学习导论》，它的内容会有点数学，但是也很容易阅读。对于机器学习这样一个广泛的领域，这本书能将篇幅控制在400页左右很不容易。唯一的缺点是代码是用 R语言而不是Python编写的。
++ [《An Introduction to Statistical Learning - Python》](https://github.com/hardikkamboj/An-Introduction-to-Statistical-Learning)：经典教材《统计学习导论》现在有了Python版
 + [《The Elements of Statistical Learning》](https://esl.hohoweiya.xyz/)：斯坦福《统计学习要素》一直是机器学习领域公认经典的教材，是一本在机器学习、统计推理和模式识别领域有影响力和被广泛研究的书。而这本书一直没有得到中文翻译。近期由 szcf-weiya 博士整理翻译的 《The Elements of Statistical Learning (ESL) 》的中文翻译、代码实现及其习题解答公开，非常值得学习！[GitHub仓库](https://github.com/szcf-weiya/ESL-CN)
 + [线性代数（Linear Algebra）中文笔记](https://github.com/yizhen20133868/MIT-Linear-Algebra-Notes)：该笔记总结了我们在学习MIT线性代数课程的学习经验和过程。课程顺序是按照麻省理工公开课的 [Linear Algebra. ](http://open.163.com/special/opencourse/daishu.html) 记录的学习笔记。
 + [《Seeing Theory》](https://seeing-theory.brown.edu/cn.html#firstPage)：来自斯坦福大学的一位研究生和他的伙伴们开发了一本颇有新意的统计概率入门教材，与传统教材不同的是，这本书充分利用了数据可视化技术，交互性和趣味性都非常强，可以边读边玩。[书籍下载地址](https://seeing-theory.brown.edu/doc/seeing-theory.pdf)
@@ -938,6 +939,7 @@
 + [design-patterns-cpp](https://github.com/JakubVojvoda/design-patterns-cpp)：这是一个C++语言版的设计模式实现，里面包含了常见设计模式的C++ 语言实现，可以 帮助我们理解和实践设计模式相关知识
 + [Tmux](https://github.com/tmux/tmux)：tmux一个开源免费的的终端复用软件。它的命令行界面非常炫酷易用，支持自由分割窗口，并且可以自由移动和调整，灵活且强大。一个非常强大的使用场景是：当远程连接到服务器使用时，只需要启动tmux，利用它就可以方便地进行后续操作，而无需打开多个ssh控制台窗口。既是一个高效的工具，研究源码也可以帮助我们学习和理解Linux环境实战编程。GitHub:star:18k​
 + [netdata](https://github.com/netdata/netdata)：netdata是一款开源免费的炫酷Linux系统实时性能和运行状况的系统监控工具。netdata通过使用可交互的仪表盘形式，来提供灵活易用的系统监控。除了支持常见系统平台的安装之外，它还可以非常方便地安装于Docker容器和集群之中并提供监控服务。既是一个高效的工具，研究其源码也可以帮助我们学习和理解Linux环境实战编程。GitHub:star:47k​
++ [《modern-cpp》](https://changkun.de/modern-cpp/)：《现代 C++ 教程》。这本书有中英文两个版本，包含10个章节。每个章节中都有大量的代码，该书作者也提供了代码链接，所有代码按章节组织，文件夹名称为章节序号。此外，每章最后还加入了少量难度极小的习题，用于检验读者能否混合运用当前章节中的知识点，同样地，该书作者也提供了习题答案链接。
 
 
 
@@ -1293,6 +1295,8 @@
 
 + [EasyTransfer](https://github.com/alibaba/EasyTransfer)：阿里云正式开源的深度迁移学习框架 EasyTransfer，这是业界首个面向 NLP 场景的深度迁移学习框架。
 
++ [ivadomed](https://github.com/ivadomed/ivadomed)：医学影像深度学习工具包
+
   
 
 <a class="toc" id ="22"></a>
@@ -1424,6 +1428,7 @@
 + [amlrecsys-tutorial](https://github.com/sisinflab/amlrecsys-tutorial)：推荐系统对抗机器学习教程介绍
 + [adversarial-recommender-systems-survey](https://github.com/sisinflab/adversarial-recommender-systems-survey)：推荐系统对抗机器学习综述及相关论文代码资源
 + [daisyRec](https://github.com/AmazingDD/daisyRec)：推荐系统基准模型库，论文：[《Are We Evaluating Rigorously Benchmarking Recommendation for Reproducible Evaluation and Fair Comparison》](https://dl.acm.org/doi/pdf/10.1145/3383313.3412489)
++ 《[Conversational Recommendation: Formulation, Methods, and Evaluation》](http://staff.ustc.edu.cn/~hexn/slides/sigir20-tutorial-CRS-slides.pdf)：中科大何向南 SIGIR 2020 报告
 
 
 
@@ -2275,6 +2280,6 @@
 
 <a class="toc" id ="44"></a>
 
-# Update (更新时间) 🕰 ：2020/10/13
+# Update (更新时间) 🕰 ：2020/10/22
 [💨 Back to Top](#table-of-contents)
 
