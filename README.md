@@ -52,7 +52,7 @@
 + [Dataset (数据集)  📊](#41)
 + [Coding Toolkit (代码工具) 💻](#42)
 + [Others (其它) ❓](#43)
-+ [Update (更新时间) 🕰 ：2020/10/22](#44)
++ [Update (更新时间) 🕰 ：2020/11/27](#44)
 
 
 <a class="toc" id ="1"></a>
@@ -278,6 +278,7 @@
 + [Javascript Algorithms](https://github.com/trekhleb/javascript-algorithms)：该库包含多个 JavaScript 常用算法和数据结构示例。每个示例被标注为「入门」或「高级」，以表明难度。此外，该库还包含哈希表、堆区（heap）、队列（queue）、栈区（stack）、math、字符串（strings）、集合（sets）等的示例。GitHub:star:67.4k，推荐等级：❤️❤️❤️！
 + [Algorithm Pattern](https://github.com/greyireland/algorithm-pattern)：算法模板，最科学的刷题方式，最快速的刷题路径，你值得拥有~GitHub:star:1.5k​
 + [hello-algorithm](https://github.com/geekxh/hello-algorithm)：该项目中包括热爱编程的作者小浩撰写的一本三十万字的算法题典，全部采用漫画图解的方式，简单易懂，适合初中级读者。GitHub:star:14.6k。推荐等级：❤️❤️❤️！
++ [《Advanced Algorithms》](https://people.inf.ethz.ch/gmohsen/AA20/)：这是一门关于算法设计和分析的高级课程，涵盖了在典型的算法入门课程中没有学习到的一系列主题和技术。本课程将涵盖一系列主题，包括以下内容:保留切割或距离时的图的稀疏性、各种近似算法技术和概念、度量嵌入和概率树嵌入、在线算法、乘法权值更新、流媒体算法、素描算法，以及对MapReduce算法的简要介绍。
 
 
 
@@ -348,6 +349,8 @@
 + [Awesome matlab](https://github.com/uhub/awesome-matlab)：MATLAB 资源
 + [Awesome Cheatsheet](https://github.com/vaputa/awesome-cheatsheet)：速查表资源大全
 + [awesome-production-machine-learning](https://github.com/EthicalML/awesome-production-machine-learning)：这个存储库包含了一系列非常棒的开源库，它们将帮助您部署、监视、版本、扩展和保护生产机器学习。GitHub:star:5.3k​
++ [awesome-self-supervised-learning-for-graphs](https://github.com/SXKDZ/awesome-self-supervised-learning-for-graphs)：图自监督学习论文集
++ [DenseAI/awesome-deep-learning: 深度学习资料 (github.com)](https://github.com/DenseAI/awesome-deep-learning)：深度学习资料集
 
 
 <a class="toc" id ="9"></a>
@@ -530,6 +533,7 @@
 + [Matplotlib Gallery](https://matplotlib.org/gallery.html#lines_bars_and_markers)：一个Matplotlib图表库网站，里面有各式各样好看的图表及Python实现代码，可以帮你画出更好的图表以及快速上手学习Python中的Matplotlib库
 + [SciencePlots](https://github.com/garrettj403/SciencePlots)：科学论文画图风格的 Matplotlib style 库，安装和使用十分简单，推荐等级：❤️❤️❤️！
 + [Ipyplot](https://github.com/karolzak/ipyplot)：Jupyter 画图库，推荐等级：❤️❤️❤️！
++ [Veusz – a scientific plotting package](https://veusz.github.io/)：Veusz是一个具有图形用户界面的科学绘图和绘图程序，旨在生成可发布的2D和3D图形。[GitHub](https://github.com/veusz/veusz)
 + [ECharts Gallery](https://gallery.echartsjs.com/explore.html#sort=rank~timeframe=all~author=all)：由百度开源的数据可视化工具，基于JavaScript编写，一个强大的，交互式的图表和浏览器可视化库，凭借着良好的交互性，精巧的图表设计，得到了众多开发者的认可
 + [PyCharts](https://pyecharts.org/#/)：Echarts 是一个由百度开源的数据可视化，凭借着良好的交互性，精巧的图表设计，得到了众多开发者的认可。而 Python 是一门富有表达力的语言，很适合用于数据处理。当数据分析遇上数据可视化时，pyecharts 诞生了。简而言之，这是一个类似Matplotlib，可以利用Python画图的工具库
 + [Draw Convnet](https://github.com/gwding/draw_convnet)：画卷积神经网络(ConvNet)结构图的Python脚本
@@ -594,6 +598,7 @@
 + [cutecharts.py](https://github.com/cutecharts/cutecharts.py)：Python 手绘风格可视化神包
 + [PyQTGraph](https://github.com/pyqtgraph/pyqtgraph)：一款科研必备的Python数据可视化神器，PyQtGraph是一个纯python的图形和GUI库，构建于PyQt4/PySide和numpy之上，它主要用于数学/科学/工程应用方面。虽然该库完全用python编写，但其内部使用了Qt的GraphicsView框架及numpy计算库，因此其在图形绘制及数据处理速度方面有着极其优异的表现。大多数使用pyqtgraph数据可视化的应用程序都会生成可交互缩放，平移和使用鼠标配置的小部件。GitHub:star:2.1k。​推荐等级：:heart::heart:!
 + [pytorchviz](https://github.com/szagoruyko/pytorchviz)：PyTorch 执行图可视化，GitHub:star:1.5k​
++ ：神经网络可视化工具库，GitHub:star:12.2k，推荐等级：:heart::heart::heart:!
 
 <a class="toc" id ="12"></a>
 
@@ -1043,6 +1048,7 @@
 + [Magic Python](https://github.com/iswbm/magic-python)：《Python 黑魔法指南》，带你玩不一样的 Python
 + [zaoqi-Python](https://github.com/liuhuanshuo/zaoqi-Python)：早起Python公众号内容，内有 numpy80 题和 pandas120 题等学习资料
 + [优雅的Python](https://www.yuque.com/wandouhuaxiamao/pythoncat)： Python猫公众号原创文章合集。
++ [python-whydo](https://github.com/chinesehuazhou/python-whydo)：“Python为什么”系列文章，主要关注 Python 的语法、设计和发展等话题，以一个个“为什么”式的问题为切入点，试着展现 Python 的迷人魅力。
 
 <a class="toc" id ="19"></a>
 
@@ -1267,6 +1273,8 @@
 
 + [Rosetta](https://github.com/LatticeX-Foundation/Rosetta)：国内首个自主研发的基于主流TensorFlow框架的隐私AI框架，让隐私计算与AI攻守结合
 
++ [SDV](https://github.com/sdv-dev/SDV)：麻省理工推出新的数据隐私工具，给真实数据合成“替身”
+
 + [CrypTen](https://github.com/facebookresearch/CrypTen)：Facebook 开源的用 Python 实现了多方安全计算的协议，可以进行如数据分离，数据模型分离等场景下的模型训练和推断。
 
 + [PySyft](https://github.com/OpenMined/PySyft)：Openminded 开源的用 Python 实现了多方安全计算的协议，可以进行如数据分离，数据模型分离等场景下的模型训练和推断。
@@ -1296,6 +1304,12 @@
 + [EasyTransfer](https://github.com/alibaba/EasyTransfer)：阿里云正式开源的深度迁移学习框架 EasyTransfer，这是业界首个面向 NLP 场景的深度迁移学习框架。
 
 + [ivadomed](https://github.com/ivadomed/ivadomed)：医学影像深度学习工具包
+
++ [nimfa](https://github.com/mims-harvard/nimfa)：Python非负矩阵分解库
+
++ [Amazon SageMaker](https://aws.amazon.com/cn/sagemaker/)：亚马逊提供的面向所有开发人员和数据科学家的机器学习服务，可以帮助开发人员和数据科学家快速构建、训练和部署机器学习 (ML) 模型。SageMaker 完全消除了机器学习过程中每个步骤的繁重工作，让开发高质量模型变得更加轻松。
+
++ [dagli](https://github.com/linkedin/dagli)：基于Java的机器学习框架
 
   
 
@@ -1328,6 +1342,7 @@
 + [auto-sklearn](https://github.com/automl/auto-sklearn)：auto-sklearn 是一个自动机器学习工具包，它与标准 sklearn 接口无缝集成，因此社区中很多人都很熟悉该工具。通过使用最近的一些方法，比如贝叶斯优化，该库被用来导航模型的可能空间，并学习推理特定配置是否能很好地完成给定任务。GitHub:star:4.9k。论文：[《Efficient and Robust Machine Learning》](https://papers.nips.cc/paper/5872-efficient-and-robust-automated-machine-learning)
 + [TPOT](https://github.com/EpistasisLab/tpot)：TPOT 是一种基于 Python 的自动机器学习开发工具，该工具更关注数据准备、建模算法和模型超参数。它通过一种基于进化树的结，即自动设计和优化机器学习 pipelie 的树表示工作流优化（Tree-based Pipeline Optimization Tool, TPOT），从而实现特征选择、预处理和构建的自动化。GitHub:star:7.5k​
 + [igel](https://github.com/nidhaloff/igel)：一个比Keras更好用的机器学习“模型包”：无需预处理，0代码上手做模型，相比于Keras，这个项目进一步简化了预处理、输入输出的工作，就像“模型包”一样简便。
++ [vega](https://github.com/huawei-noah/vega)：华为开源的自动机器学习工具
 
 
 <a class="toc" id ="23"></a>
@@ -1429,6 +1444,7 @@
 + [adversarial-recommender-systems-survey](https://github.com/sisinflab/adversarial-recommender-systems-survey)：推荐系统对抗机器学习综述及相关论文代码资源
 + [daisyRec](https://github.com/AmazingDD/daisyRec)：推荐系统基准模型库，论文：[《Are We Evaluating Rigorously Benchmarking Recommendation for Reproducible Evaluation and Fair Comparison》](https://dl.acm.org/doi/pdf/10.1145/3383313.3412489)
 + 《[Conversational Recommendation: Formulation, Methods, and Evaluation》](http://staff.ustc.edu.cn/~hexn/slides/sigir20-tutorial-CRS-slides.pdf)：中科大何向南 SIGIR 2020 报告
++ [RecBole](https://github.com/RUCAIBox/RecBole)：RecBole （中文名称："伯乐"，意取"世有伯乐，然后有千里马"），由中国人民大学的AI Box团队与北京邮电大学、华东师范大学的科研团队联合开发出品。该框架实现了推荐领域不同任务的推荐模型，拥有从数据处理、模型开发、算法训练到科学评测的一站式全流程托管。在RecBole框架中，用户只需设置几个简单的配置参数（文件、命令行、运行时参数多种方式任你选择）即可快速在不同数据集上实现各个模型，同时其简洁的开发接口十分方便相关的研究人员进行二次开发和添加新的模型支持。
 
 
 
@@ -1478,7 +1494,10 @@
 + [Advancements in Graph Neural Networks](https://static.aminer.cn/misc/pdf/graphsage2-mit-nov19.pdf)：图神经网络依然是研究焦点之一。最近在WWW2020的DL4G@WWW2020论坛，斯坦福大学Jure Leskovec副教授介绍了图神经网络研究最新进展，包括GNN表现力、预训练和公开图神经网络基准等。值得关注
 + [Graphkit Learn](https://github.com/jajupmochi/graphkit-learn)：一个用于 graph kernels, graph edit distances and graph pre-image problem 的 Python 库
 + [GraKeL](https://github.com/ysig/GraKeL)：一个用于 Graph kernels 的scikit-learn兼容库
++ [Spektral](https://github.com/danielegrattarola/spektral)：基于 Keras 和 TensorFlow2 的图神经网络项目库，GitHub:star:1.4k
++ [THUDM/cogdl: CogDL: An Extensive Research Toolkit for Graphs (github.com)](https://github.com/THUDM/cogdl)：清华大学开源的一个图机器学习项目库
 + [PyTorch-BigGraph](https://github.com/facebookresearch/PyTorch-BigGraph)：Facebook 开源的面向大规模图数据生成 embeddings 的库。GitHub:star:2.3k​
++ [GraphGym](https://github.com/snap-stanford/GraphGym)：斯坦福开源的图神经网络设计与评价平台，推荐等级：:heart::heart:！
 + [《Discrete regularity graph Laplacians》](http://helper.ipam.ucla.edu/publications/hjws4/hjws4_15794.pdf)：图机器学习-图拉普拉斯算子的离散正则性
 + [《Top Trends of Graph Machine Learning in 2020》](https://towardsdatascience.com/top-trends-of-graph-machine-learning-in-2020-1194175351a3)：2020图机器学习的趋势
 + [《Graph Neural Networks - Notes》](https://nihalnayak.github.io/assets/notes/gnn_notes.pdf)：一份简短入门《图神经网络GNN》笔记小册，作者Nihal Nayak
@@ -1500,6 +1519,7 @@
 + [《Temporal Graph Network for Deep Learning on Dynamic Graphs》](https://ai.science/e/tgn-temporal-graph-networks-for-deep-learning-on-dynamic-graphs--eqAnR859q8wk2jfcGnbx)：《时序图神经网络》视频讲解，，作者提出了时序图网络(TGNs)，一个通用的，有效的框架，用于深度学习动态图表示为时间事件序列。在内存模块和基于图的操作符中，TGNs能够显著优于以前的方法，同时计算效率也更高。作者进一步表明，以前的几个学习动态图的模型可以转换为TGN框架的具体实例。他们对TGN框架的不同组件进行了详细的消融研究，并设计了最佳配置，在动态图的几个转导和归纳预测任务上实现了最先进的性能。
 + [《Deep Learning on Graphs》](http://cse.msu.edu/~mayao4/dlg_book/)：来自密西根州立大学的汤继良团队即将出版一本全面性介绍图深度学习的书。推荐等级：:heart::heart::heart::heart:！
 + [《Algorithms for Convex Optimization》](https://convex-optimization.github.io/)：耶鲁大学2020新书。这本书的目的是使读者能够获得对凸优化算法的深入理解。重点是从第一性原理推导出凸优化的关键算法，并根据输入长度建立精确的运行时间界限。由于这些方法的广泛适用性，一本书不可能向所有人展示这些方法的应用。这本书展示了各种离散优化和计数问题的快速算法的应用。本书中所选的应用程序的目的是为了说明连续优化和离散优化之间的一个相当令人惊讶的桥梁。
++ [《图数据科学傻瓜式入门》](https://neo4j.com/graph-data-science-for-dummies/)：Graph Data Science For Dummies将带您了解图数据科学的基础——从定义图分析和算法到向您展示如何使用它们进行机器学习和解决现实世界的问题。
 + [Awesome-GNN-Recommendation](https://github.com/Jhy1993/Awesome-GNN-Recommendation)：图神经网络文献集锦
 + [Learning Representations via Graph-structured Networks](https://xiaolonw.github.io/graphnnv2/)：CVPR2020-Tutorial，视觉的图网络结构表示学习
 + [Knowledge-Graph-Publications](https://github.com/wds-seu/Knowledge-Graph-Publications)：知识图谱顶会文献集锦
@@ -1507,7 +1527,6 @@
 + [GN Review](https://github.com/LYuhang/GNN_Review)：GNN综述阅读报告，报告涵盖有多篇GNN方面的论文，以及一个按照论文《The Graph Neural Network Model 》使用pytorch编写的模型例子，该模型在人工数据上进行运行和验证。
 + [Graph Nets: The Next Generation - Max Welling](https://video.ias.edu/machinelearning/2020/0721-MaxWelling)：下一代图神经网络是什么？几何深度学习，大牛Max Welling教授视频讲解
 + [GCN (Graph CNN) Tutorials](https://www.youtube.com/playlist?list=PLzWLLUtnW6WLlj7dHclmKn3mCcxtiSlfc)：这门课程由宾夕法尼亚大学电气与系统工程系教授 Alejandro Ribeiro 于 2020 年 8 月底开设，专门讲述图神经网络（GNN）。就课程内容而言，本课程主要探讨了图卷积滤波器和图滤波器组，研究了单特征和多特征图 GNN。此外，课程介绍了循环 GNN 等相关网络架构，并重点强调了 GNN 的置换等变性和图变形的稳定性。这些特性提供了一种可以从实证角度观察到 GNN 良好性能的解释方法。该课程还将研究大量节点中的 GNN，以解释 GNN 在不同节点数的网络中的可迁移性。[B 站地址](https://www.bilibili.com/video/av457264185/)。推荐等级：:heart::heart::heart::heart:！
-+ [spektral](https://github.com/danielegrattarola/spektral)：基于 Keras 和 TensorFlow2 的图神经网络项目库，GitHub:star:1.4k​
 
 <a class="toc" id ="27"></a>
 
@@ -1554,7 +1573,7 @@
 + [Awesome Graph Attack Papers](https://github.com/ChandlerBang/awesome-graph-attack-papers)：图神经网络攻防论文集合
 + [Adversarial-Examples-Reading-List](https://github.com/chawins/Adversarial-Examples-Reading-List)：对抗样本论文集合
 + [adversarial-attacks-pytorch](https://github.com/Harry24k/adversarial-attacks-pytorch)：基于 PyTorch 的图像对砍攻击库，代码风格十分简洁，推荐等级：:heart::heart::heart::heart:！
-+ 
++ [adversarial-learning-robustness](https://github.com/dipanjanS/adversarial-learning-robustness)：最新深度学习对抗鲁棒性教程，谷歌出品
 + [《Adversarial Self-Supervised Contrastive Learning》](https://arxiv.org/abs/2006.07589)：对抗式自监督的对比学习，能够对未标记数据进行攻击
 
 
@@ -1703,6 +1722,7 @@
 + [TF Object Detection API](https://github.com/tensorflow/models/tree/master/research/object_detection)：TensorFlow 目标检测 API
 + [DeepReg](https://github.com/DeepRegNet/DeepReg)：基于TensorFlow2的深度学习医学图像配准工具包，可处理成对与非成对的图像数据。该工具包实现了主流的监督与弱监督医学图像配准的算法。
 + [Tensorflow Coder](https://github.com/google-research/tensorflow-coder)：谷歌 TensorFlow 开源了一个帮助开发者写 TensorFlow 代码的程序合成工具 TF-Coder。输入示例，即可自动生成代码。推荐等级：:heart::heart::heart::heart:！
++ [tensorpack](https://github.com/tensorpack/tensorpack)：基于TensorFlow的高级API
 + [《Machine Learning Concepts with Python and the Jupyter Notebook Environment》](http://file.allitebooks.com/20200923/Machine%20Learning%20Concepts%20with%20Python%20and%20the%20Jupyter%20Notebook%20Environment.pdf)：这本书打破了编程机器学习应用程序的任何障碍，通过使用Jupyter Notebook而不是文本编辑器或常规IDE。您将从学习如何使用Jupyter笔记本来改进使用Python编程的方式开始。在获得一个良好的基础与Python工作在木星的笔记本，你将深入什么是TensorFlow，它如何帮助机器学习爱好者，以及如何解决它提出的挑战。在此过程中，使用Jupyter笔记本创建的示例程序允许您应用本书前面的概念。推荐等级：:heart::heart::heart::heart:！
 
 <a class="toc" id ="32"></a>
@@ -1779,7 +1799,7 @@
 + [Pytorch Examples](https://github.com/jcjohnson/pytorch-examples)：PyTorch 简单项目，GitHub:star:3.4k+。
 + [Learn2learn](https://github.com/learnables/learn2learn)：learn2learn 是一个用于实现元学习的 Pytorch 库，我们只需要加几行高层 API，就能为一般的机器学习流程添加元学习能力。
 + [Pytorch Optimizers](https://github.com/jettify/pytorch-optimizer)：PyTorch 实现的优化器大全。推荐等级：:heart::heart::heart::heart:！
-+ [Pytorch Lightning](https://github.com/PyTorchLightning/pytorch-lightning)：对于PyTorch开发者来说，Google Colab上的TPU资源不能用，恐怕是最遗憾的事情了。Google的云计算资源眼看着不能用，转TensorFlow又是不可能的。现在福利来了，一个叫做Pytorch Lightning的项目，可以让你几乎不修改代码的情况下用上TPU，同时该项目还具有很多原生PyTorch未实现的功能。[Colab演示](https://colab.research.google.com/drive/1-_LKx4HwAxl5M6xPJmqAAu444LTDQoa3#scrollTo=dEeUzX_5aLrX)。
++ [Pytorch Lightning](https://github.com/PyTorchLightning/pytorch-lightning)：对于PyTorch开发者来说，Google Colab上的TPU资源不能用，恐怕是最遗憾的事情了。Google的云计算资源眼看着不能用，转TensorFlow又是不可能的。现在福利来了，一个叫做Pytorch Lightning的项目，可以让你几乎不修改代码的情况下用上TPU，同时该项目还具有很多原生PyTorch未实现的功能。[Colab演示](https://colab.research.google.com/drive/1-_LKx4HwAxl5M6xPJmqAAu444LTDQoa3#scrollTo=dEeUzX_5aLrX)，[博客地址](https://medium.com/pytorch/pytorch-lightning-1-0-from-0-600k-80fc65e2fab0)。推荐等级：:heart::heart::heart::heart:！
 + [PolyGames](https://github.com/facebookincubator/Polygames)：Polygames是Facebook开源的一个研究框架，通过自我游戏的方式来训练深度学习网络。Polygames基于著名的“零学习”概念，即允许代理无需进行任何预先设定的训练，而是通过与环境交互来掌握环境。
 + [PyTorch3D](https://github.com/facebookresearch/pytorch3d)：PyTorch3D是Facebook开源的一个高度模块化和优化的库，具有独特的功能，旨在让使用PyTorch的3D深度学习更容易。PyTorch3D为快速可微的3D数据提供了一组常用的3D操作符和损失函数，以及一个模块化可微绘制API，使研究人员能够立即将这些函数导入当前最先进的深度学习系统。
 + [Hiplot](https://github.com/facebookresearch/hiplot)：HiPlot是Facebook开源的一个交互式可视化工具，它帮助人工智能研究人员发现高维数据中的相关性和模式，并使用平行图和其他图形方式来表示信息。HiPlot使用一种称为平行图的技术，这是一种可视化和过滤高维数据的方便做法。
@@ -1810,6 +1830,7 @@
 + [TorchSnooper](https://github.com/zasdfgbnm/TorchSnooper)：PyTorch代码调试工具
 + [Captum](https://captum.ai/)：基于PyTorch 的模型可解释工具
 + [pytorch-metric-learning](https://github.com/KevinMusgrave/pytorch-metric-learning)：基于PyTorch 的度量学习库
++ [nncf](https://github.com/openvinotoolkit/nncf)：基于PyTorch的模型压缩库
 
 
 
@@ -2280,6 +2301,6 @@
 
 <a class="toc" id ="44"></a>
 
-# Update (更新时间) 🕰 ：2020/10/22
+# Update (更新时间) 🕰 ：2020/11/27
 [💨 Back to Top](#table-of-contents)
 
