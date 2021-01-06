@@ -2,8 +2,6 @@
 
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 [![Contributions Welcome](https://img.shields.io/badge/Contributions-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com)
-![](https://img.shields.io/github/forks/EdisonLeeeee/Awesome-Learning-Resource)
-![](https://img.shields.io/github/stars/EdisonLeeeee/Awesome-Learning-Resource)
 ![](https://img.shields.io/github/license/EdisonLeeeee/Awesome-Learning-Resource)
 
 <a class="toc" id="table-of-contents"></a>
@@ -52,7 +50,7 @@
 + [Dataset (数据集)  📊](#41)
 + [Coding Toolkit (代码工具) 💻](#42)
 + [Others (其它) ❓](#43)
-+ [Update (更新时间) 🕰 ：2020/11/27](#44)
++ [Update (更新时间) 🕰 ：2021/01/06](#44)
 
 
 <a class="toc" id ="1"></a>
@@ -516,6 +514,7 @@
 + [《Ensemble Methods：Foundations and Algorithms》](http://tjzhifei.github.io/links/EMFA.pdf)：2012年，周志华教授出版的一本被称为“森林书”的英文专著：《Ensemble Methods：Foundations and Algorithms》，本书在豆瓣读书上的参评人数不多，但一小部分有机会读过原著的同学硬生生把分数给到了逆天的10分满星！推荐等级：❤️❤️❤️❤️！
 + [《Machine Learning Concepts with Python and the Jupyter Notebook Environment》](http://file.allitebooks.com/20200923/Machine%20Learning%20Concepts%20with%20Python%20and%20the%20Jupyter%20Notebook%20Environment.pdf)：这本书打破了编程机器学习应用程序的任何障碍，通过使用Jupyter Notebook而不是文本编辑器或常规IDE。您将从学习如何使用Jupyter笔记本来改进使用Python编程的方式开始。在获得一个良好的基础与Python工作在木星的笔记本，你将深入什么是TensorFlow，它如何帮助机器学习爱好者，以及如何解决它提出的挑战。在此过程中，使用Jupyter笔记本创建的示例程序允许您应用本书前面的概念。推荐等级：:heart::heart::heart::heart:！
 + [《Machine Learning From Scratch》](https://dafriedman97.github.io/mlbook/content/introduction.html)：本科毕业于哈佛大学统计学与经济学专业、现任哈佛助教的 Daniel Friedman 开放了他撰写的一本免费在线书籍《Machine Learning from Scratch》，该书从理论和数学上介绍了 ML 最常见算法（OLS、逻辑回归、朴素贝叶斯、决策树、boosts 和神经网络等）的完整推论。[GitHub](https://github.com/eriklindernoren/ML-From-Scratch)，GitHub:star:16.3k。推荐等级：:heart::heart::heart::heart:！
++ [《现代机器学习技术导论》](http://166.111.134.19:7777/mlbook/)：清华大学王东老师出版
 
 
 
@@ -598,7 +597,8 @@
 + [cutecharts.py](https://github.com/cutecharts/cutecharts.py)：Python 手绘风格可视化神包
 + [PyQTGraph](https://github.com/pyqtgraph/pyqtgraph)：一款科研必备的Python数据可视化神器，PyQtGraph是一个纯python的图形和GUI库，构建于PyQt4/PySide和numpy之上，它主要用于数学/科学/工程应用方面。虽然该库完全用python编写，但其内部使用了Qt的GraphicsView框架及numpy计算库，因此其在图形绘制及数据处理速度方面有着极其优异的表现。大多数使用pyqtgraph数据可视化的应用程序都会生成可交互缩放，平移和使用鼠标配置的小部件。GitHub:star:2.1k。​推荐等级：:heart::heart:!
 + [pytorchviz](https://github.com/szagoruyko/pytorchviz)：PyTorch 执行图可视化，GitHub:star:1.5k​
-+ ：神经网络可视化工具库，GitHub:star:12.2k，推荐等级：:heart::heart::heart:!
++ [PlotNeuralNet](https://github.com/HarisIqbal88/PlotNeuralNet)：神经网络可视化工具库，GitHub:star:12.2k，推荐等级：:heart::heart::heart:!
++ [HiPlot](https://github.com/facebookresearch/hiplot) ：Facebook 的 HiPlot 是一个很好的工具，帮助你在使用不同参数组合时将模型结果可视化。GitHub:star:1.8k，推荐等级：:heart::heart:!
 
 <a class="toc" id ="12"></a>
 
@@ -828,13 +828,11 @@
 
 + [Fast.Ai](https://www.fast.ai/)：要想对深度学习有一个全面的了解，我觉得 fast.ai 是最好的选择，它完全免费且没有广告。该课程包含机器学习导论、深度学习实践、计算线性代数和自然语言处理导论（代码优先）。所有课程都以实践为先，强烈推荐大家学习这些课。深度学习课程[Practical Deep Learning for Coders](https://course.fast.ai/index.html)，推荐等级：:heart::heart::heart:！
 
-+ [Fastai v2](https://www.fast.ai/2020/08/21/fastai2-launch/)：深度学习入门Fast.ai 2.0上线！自带中文字幕，所有笔记、资源全部免费！[教学视频](https://course19.fast.ai/index.html)。[亚马逊链接](https://www.amazon.com/Deep-Learning-Coders-fastai-PyTorch/dp/1492045527
-
-  )。推荐等级：:heart::heart::heart::heart:！
++ [Fastai v2](https://www.fast.ai/2020/08/21/fastai2-launch/)：深度学习入门Fast.ai 2.0上线！自带中文字幕，所有笔记、资源全部免费！[教学视频](https://course19.fast.ai/index.html)。[亚马逊链接](https://www.amazon.com/Deep-Learning-Coders-fastai-PyTorch/dp/1492045527)。推荐等级：:heart::heart::heart::heart:！
 
 + [Data Science Group](https://dsgiitr.com/)：一个通过机器学习来推动创新的学生组织，内有一些有趣的项目值得学习。
 
-+ [深度学习](https://atcold.github.io/pytorch-Deep-Learning/)：Yann Lecun在纽约大学开设的2020春季《深度学习》课程，干货满满。推荐等级：:heart::heart::heart::heart:！
++ [深度学习(PyTorch)](https://atcold.github.io/pytorch-Deep-Learning/)：Yann Lecun在纽约大学开设的2020春季《深度学习》课程，干货满满。[YouTube](https://www.youtube.com/playlist?list=PLLHTzKZzVU9eaEyErdV26ikyolxOsz6mq)。推荐等级：:heart::heart::heart::heart:！
 
 + [Refactoring.guru](https://refactoring.guru/)：这是国外的一个网站，建立的初衷，是帮助开发者以更为简单便捷的方式，迅速掌握各个设计模式的学习。Refactoring Guru 上面共拥有 22 种设计模式及 8 条原则的详细讲解。
 
@@ -1311,6 +1309,8 @@
 
 + [dagli](https://github.com/linkedin/dagli)：基于Java的机器学习框架
 
++ [Enzyme](https://enzyme.mit.edu/)：麻省理工学院（MIT）提出的自动微分框架 Enzyme 在 NeurIPS 2020 大会上引起过不少人的兴趣，现在人们已经可以尝试使用这套工具了。
+
   
 
 <a class="toc" id ="22"></a>
@@ -1502,7 +1502,7 @@
 + [《Top Trends of Graph Machine Learning in 2020》](https://towardsdatascience.com/top-trends-of-graph-machine-learning-in-2020-1194175351a3)：2020图机器学习的趋势
 + [《Graph Neural Networks - Notes》](https://nihalnayak.github.io/assets/notes/gnn_notes.pdf)：一份简短入门《图神经网络GNN》笔记小册，作者Nihal Nayak
 + [《Graph-Neural-Network-Note》](https://github.com/SivilTaram/Graph-Neural-Network-Note)：一个理解图神经网络的博客，从图(Graph)到图卷积(Graph Convolution): 漫谈图神经网络
-+ [《图卷积神经网络》][https://atcold.github.io/pytorch-Deep-Learning/en/week13/13-1/]：Yann Lecun在纽约大学开设的2020春季《深度学习》课程，干货满满。最新的一期是来自新加坡南洋理工大学的Xavier Bresson教授的图卷积神经网络课程，共76页PPT，非常硬核干货，讲述了GCN近年来的研究进展，包括经典卷积网络、谱图卷积网、 空间域图卷积网、GCN基准等。现在在课程网站上也放出来笔记，非常基础细致值得学习。
++ [《图卷积神经网络》][https://atcold.github.io/pytorch-Deep-Learning/en/week13/13-1/]：Yann Lecun在纽约大学开设的2020春季《深度学习》课程，干货满满。最新的一期是来自新加坡南洋理工大学的Xavier Bresson教授的图卷积神经网络课程，共76页PPT，非常硬核干货，讲述了GCN近年来的研究进展，包括经典卷积网络、谱图卷积网、 空间域图卷积网、GCN基准等。现在在课程网站上也放出来笔记，非常基础细致值得学习。[YouTube](https://www.youtube.com/watch?v=Iiv9R6BjxHM&list=PLLHTzKZzVU9eaEyErdV26ikyolxOsz6mq&index=24&ab_channel=AlfredoCanziani)。
 + [《An introduction to machine learning on graphs》](https://conferences.oreilly.com/strata/strata-ny-2019/public/schedule/detail/76557)：《Introduction to graphs and machine learning》（《图机器学习导论》）为我们介绍了图机器学习的动机与发展，包括网络表示学习、图神经网络等图机器学习方法及其在问答、知识图谱等领域的应用。
 + [《Innovations in Graph Representation Learning 》](https://ai.googleblog.com/2019/06/innovations-in-graph-representation.html)：Google图挖掘团队的两位高级科学家Alessandro Epasto和Bryan Perozzi在Google AI Blog上发表的《Innovations in Graph Representation Learning》，介绍了最新的一些图表示学习成果
 + [《A Gentle Introduction to Deep Learning for Graphs》](https://arxiv.org/abs/1912.12693)：《A Gentle Introduction to Deep Learning for Graphs》是图深度学习领域的教程导论，它倾向于对主流概念和架构的一致和渐进的介绍，而不是对最新文献的阐述。教程在介绍概念和想法时采用了自上而下的方法并保留了清晰的历史观点，为此，导论在第2节中提供了图表示学习的泛化形式，将图表示学习泛化为一种基于局部和迭代的结构化信息处理过程。同时，介绍了架构路线图，整个导论也是围绕该路线图进行开展的。导论聚焦于面向局部和迭代的信息处理过程，因为这些过程与神经网络的体系更为一致。因此，导论会淡化那些基于图谱理论的全局方法（假设有一个固定的邻接矩阵）。
@@ -1520,6 +1520,8 @@
 + [《Deep Learning on Graphs》](http://cse.msu.edu/~mayao4/dlg_book/)：来自密西根州立大学的汤继良团队即将出版一本全面性介绍图深度学习的书。推荐等级：:heart::heart::heart::heart:！
 + [《Algorithms for Convex Optimization》](https://convex-optimization.github.io/)：耶鲁大学2020新书。这本书的目的是使读者能够获得对凸优化算法的深入理解。重点是从第一性原理推导出凸优化的关键算法，并根据输入长度建立精确的运行时间界限。由于这些方法的广泛适用性，一本书不可能向所有人展示这些方法的应用。这本书展示了各种离散优化和计数问题的快速算法的应用。本书中所选的应用程序的目的是为了说明连续优化和离散优化之间的一个相当令人惊讶的桥梁。
 + [《图数据科学傻瓜式入门》](https://neo4j.com/graph-data-science-for-dummies/)：Graph Data Science For Dummies将带您了解图数据科学的基础——从定义图分析和算法到向您展示如何使用它们进行机器学习和解决现实世界的问题。
++ [《图深度学习隐私保护》](https://sajadmanesh.com/talks/2020-12-09-IPCLab/)：
++ [《Graphtheory](https://users.utu.fi/harju/graphtheory/)》：图论的入门讲义。内容包括 绪论(图及其平面图形、子图、路径和循环); 图的连通性;色素;图曲面;有向图。
 + [Awesome-GNN-Recommendation](https://github.com/Jhy1993/Awesome-GNN-Recommendation)：图神经网络文献集锦
 + [Learning Representations via Graph-structured Networks](https://xiaolonw.github.io/graphnnv2/)：CVPR2020-Tutorial，视觉的图网络结构表示学习
 + [Knowledge-Graph-Publications](https://github.com/wds-seu/Knowledge-Graph-Publications)：知识图谱顶会文献集锦
@@ -1575,9 +1577,10 @@
 + [adversarial-attacks-pytorch](https://github.com/Harry24k/adversarial-attacks-pytorch)：基于 PyTorch 的图像对砍攻击库，代码风格十分简洁，推荐等级：:heart::heart::heart::heart:！
 + [adversarial-learning-robustness](https://github.com/dipanjanS/adversarial-learning-robustness)：最新深度学习对抗鲁棒性教程，谷歌出品
 + [《Adversarial Self-Supervised Contrastive Learning》](https://arxiv.org/abs/2006.07589)：对抗式自监督的对比学习，能够对未标记数据进行攻击
-
++ [Special Topics on Adversarial Machine Learning](https://aisecure.github.io/TEACHING/2020_fall.html)：UIUC最新《对抗机器学习》课程，本课程首先介绍了机器学习、安全、隐私、对抗性机器学习和博弈论等主题。然后从研究的角度，讨论各个课题和相关工作的新颖性和潜在的拓展性。通过一系列的阅读和项目，学生将了解不同的机器学习算法，并分析它们的实现和安全漏洞，并培养开展相关主题的研究项目的能力。推荐等级：:heart::heart::heart:
 
 <a class="toc" id ="29"></a>
+
 # Model Compression (模型压缩) ⚙
 [💨 Back to Top](#table-of-contents)
 
@@ -1626,6 +1629,7 @@
 + [MobileNet-Yolo](https://github.com/dog-qiuqiu/MobileNet-Yolo)：基于MobileNet图像分类算法的YOLOv，同样可以在全平台使用。不仅如此，这个全平台通用的MobileNet-YOLOv3，体积和精度都要优于MobileNet-SSD。
 + [《Object Detection in 20 Years: A Survey》](https://arxiv.org/abs/1905.05055)：以2014年为分水岭，作者将过去二十年的目标检测发展进程分为两个阶段：2014年之前的传统目标检测，以及之后基于深度学习的目标检测。接下来，文章列举了二十年来目标检测领域的关键技术，思路非常清晰。
 + [TIDE](https://github.com/dbolya/tide)：识别目标检测错误的通用工具箱
++ [ImageAI](https://github.com/OlafenwaMoses/ImageAI)：ImageAI是一个python库，只需要几行代码，就可以让程序员和软件开发人员轻松地将最先进的计算机视觉技术集成到他们现有的或新的应用中。GitHub:star:5.6k。​
 
 <a class="toc" id ="31"></a>
 
@@ -1724,6 +1728,8 @@
 + [Tensorflow Coder](https://github.com/google-research/tensorflow-coder)：谷歌 TensorFlow 开源了一个帮助开发者写 TensorFlow 代码的程序合成工具 TF-Coder。输入示例，即可自动生成代码。推荐等级：:heart::heart::heart::heart:！
 + [tensorpack](https://github.com/tensorpack/tensorpack)：基于TensorFlow的高级API
 + [《Machine Learning Concepts with Python and the Jupyter Notebook Environment》](http://file.allitebooks.com/20200923/Machine%20Learning%20Concepts%20with%20Python%20and%20the%20Jupyter%20Notebook%20Environment.pdf)：这本书打破了编程机器学习应用程序的任何障碍，通过使用Jupyter Notebook而不是文本编辑器或常规IDE。您将从学习如何使用Jupyter笔记本来改进使用Python编程的方式开始。在获得一个良好的基础与Python工作在木星的笔记本，你将深入什么是TensorFlow，它如何帮助机器学习爱好者，以及如何解决它提出的挑战。在此过程中，使用Jupyter笔记本创建的示例程序允许您应用本书前面的概念。推荐等级：:heart::heart::heart::heart:！
++ [TensorFlow2.0-Examples](https://github.com/YunYang1994/TensorFlow2.0-Examples)：TensorFlow 2样例代码学习，GitHub:star:1.3k，推荐等级：:heart::heart::heart::heart:！
++ [Learn2Ai4TensorFlow2](https://github.com/xiaosongshine/Learn2Ai4TensorFlow2)：带你学AI·深度学习与TensorFlow2实战开发
 
 <a class="toc" id ="32"></a>
 
@@ -1946,6 +1952,7 @@
 + [DBLP](https://dblp.uni-trier.de/)：计算机论文搜索学术库
 + [Acronymify](http://acronymify.com/)：取名网站，只需在上面的框中输入您的单词，然后按search生成可能的缩写词列表。
 + [arXiv Vanity](https://www.arxiv-vanity.com/)：Vanity将来自arXiv的学术论文呈现为响应性网页，这样你就不用眯着眼睛看PDF了
++ [arXivDaily](http://www.arxivdaily.com/)：arxivdaily网站， 搜集整理arXiv更新文章，推荐等级：:heart::heart::heart::heart:！
 + [易搜搭](http://www.esoda.org/)：专业英文论文写作助手，只需要输入你想表达的中文句子，该网站会检索各种论文找出相似英文表达，使你的英文论文写作不再生硬，推荐等级：:heart::heart::heart::heart:！
 + [Academic Phrasebank](http://www.phrasebank.manchester.ac.uk/)：对于写作新手来说的神器网站，按不同条目分类罗列了各种英语表达。推荐等级：:heart::heart::heart::heart:！
 + [Comparxiv](https://github.com/temken/comparxiv)：用一行代码比较 arXiv 预印版本论文之间的差异
@@ -2301,6 +2308,6 @@
 
 <a class="toc" id ="44"></a>
 
-# Update (更新时间) 🕰 ：2020/11/27
+# Update (更新时间) 🕰 ：2021/01/06
 [💨 Back to Top](#table-of-contents)
 
