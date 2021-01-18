@@ -50,7 +50,7 @@
 + [Dataset (数据集)  📊](#41)
 + [Coding Toolkit (代码工具) 💻](#42)
 + [Others (其它) ❓](#43)
-+ [Update (更新时间) 🕰 ：2021/01/06](#44)
++ [Update (更新时间) 🕰 ：2021/01/18](#44)
 
 
 <a class="toc" id ="1"></a>
@@ -277,6 +277,7 @@
 + [Algorithm Pattern](https://github.com/greyireland/algorithm-pattern)：算法模板，最科学的刷题方式，最快速的刷题路径，你值得拥有~GitHub:star:1.5k​
 + [hello-algorithm](https://github.com/geekxh/hello-algorithm)：该项目中包括热爱编程的作者小浩撰写的一本三十万字的算法题典，全部采用漫画图解的方式，简单易懂，适合初中级读者。GitHub:star:14.6k。推荐等级：❤️❤️❤️！
 + [《Advanced Algorithms》](https://people.inf.ethz.ch/gmohsen/AA20/)：这是一门关于算法设计和分析的高级课程，涵盖了在典型的算法入门课程中没有学习到的一系列主题和技术。本课程将涵盖一系列主题，包括以下内容:保留切割或距离时的图的稀疏性、各种近似算法技术和概念、度量嵌入和概率树嵌入、在线算法、乘法权值更新、流媒体算法、素描算法，以及对MapReduce算法的简要介绍。
++ [Linear_Algebra_With_Python](https://github.com/MacroAnalyst/Linear_Algebra_With_Python)：一份Python线性代数讲义，这份讲义为初学者设计，涉及线性代数的基本概念、特殊矩阵及其应用，并提供了相应代码和图示。
 
 
 
@@ -305,6 +306,7 @@
 [💨 Back to Top](#table-of-contents)
 
 + [Awesome](https://github.com/sindresorhus/awesome)：github 上很多的各种 Awesome 系列合集。GitHub 获:star:120k。众所周知，如果想要学习什么知识，只需要在GitHub上搜索"Awesome xxx" 即可获得一大堆相关的学习资源。推荐等级：:heart::heart::heart::heart:！
++ [Best-of Machine Learning with Python](https://github.com/ml-tooling/best-of-ml-python)：这个 GitHub 项目提供了大量机器学习 Python 库，覆盖机器学习框架、数据可视化、强化学习等多个领域，而且项目作者还对每个类别中的项目做了排名，每周进行更新，GitHub:star:1.7k​。推荐等级：:heart::heart::heart::heart:！
 + [Awesome JupyterLab](https://github.com/mauhai/awesome-jupyterlab)：Jupyter lab 插件和资源大全列表，GitHub::star:1k。
 + [Awesome Jupyter](https://github.com/adebar/awesome-jupyter)：Jupyter 插件和资源大全列表，GitHub::star:1.4k。
 + [Awesome Machine Learning Jupyter Notebooks For Colab](https://github.com/toxtli/awesome-machine-learning-jupyter-notebooks-for-colab)：机器学习和深度学习教程的列表，以Jupyter笔记本格式运行在谷歌Colab上，推荐等级：:heart::heart:！
@@ -349,9 +351,11 @@
 + [awesome-production-machine-learning](https://github.com/EthicalML/awesome-production-machine-learning)：这个存储库包含了一系列非常棒的开源库，它们将帮助您部署、监视、版本、扩展和保护生产机器学习。GitHub:star:5.3k​
 + [awesome-self-supervised-learning-for-graphs](https://github.com/SXKDZ/awesome-self-supervised-learning-for-graphs)：图自监督学习论文集
 + [DenseAI/awesome-deep-learning: 深度学习资料 (github.com)](https://github.com/DenseAI/awesome-deep-learning)：深度学习资料集
-
++ [NLP-Conferences-Code](https://github.com/yizhen20133868/NLP-Conferences-Code)：项目记录了NLP相关顶会(如ACL、EMNLP、NAACL、COLING、AAAI、IJCAI)的论文开源项目合集
++ [awesome-transformer-for-vision](https://github.com/lijiaman/awesome-transformer-for-vision)：一个transformer用于CV的论文列表资源库。
 
 <a class="toc" id ="9"></a>
+
 # Courses (学习课程) 🎓
 [💨 Back to Top](#table-of-contents)
 
@@ -366,6 +370,7 @@
 + [Hung-yi Lee](http://speech.ee.ntu.edu.tw/~tlkagk/talk.html)：李宏毅老师的个人主页，内附有他的所有机器学习相关演讲课程
 + [李宏毅机器学习(2017)](https://www.bilibili.com/video/av10590361?from=search&seid=9788122699737658334)：B站上李宏毅机器学习的教程视频，已有几十万的播放量，李宏毅的教授水平真心觉得很高，对于机器学习的讲解十分有趣吸引人，思路清晰，适合初学者观看。[课程讲义](http://speech.ee.ntu.edu.tw/~tlkagk/courses_ML17.html)。
 + [李宏毅机器学习2020](http://speech.ee.ntu.edu.tw/~tlkagk/courses_ML20.html)：李宏毅老师新发布的2020机器学习视频，所有课程都有各种学习资源，视频、PPT、作业一项都不少。与其它只教授机器学习基础内容不同，按照惯例，李宏毅老师还会特别讲解当前最新的算法，并将其作为补充视频上传到网上。而且，李宏毅老师的课程涉及领域非常完整，从有监督、半监督、无监督到强化学习，都会有介绍。在最新的 2020 ML 课程中，他展示了完整的学习路径。推荐等级：❤️❤️❤️❤️！
++ [Applied Deep Learning](https://www.csie.ntu.edu.tw/~miulab/s108-adl/)：台湾大学陈蕴侬老师的“应用深度学习”课程，这门课程结构安排得相当合理，并且重点在BERT及其相关的内容和NLP任务上，对于学习深度学习自然语言处理的同学来说，完全可以和李宏毅老师深度学习人类语言处理的课程互补。[B站视频](https://www.bilibili.com/video/BV1Mi4y1V7A1)
 + [斯坦福 吴恩达《CS229机器学习》）](https://www.bilibili.com/video/av9912938)：B站上吴恩达老师的机器学习教程，播放量已达到百万。吴恩达的教学视频虽然备受推崇，但其实并不适合作为入门视频，教授内容还是有一定深度的
 + [Applied Machine Learning Spring 2020](http://www.cs.columbia.edu/~amueller/comsw4995s20/schedule/)：哥伦比亚大学应用机器学习课程2020，[GitHub](https://github.com/amueller/COMS4995-s20)， [视频](https://www.bilibili.com/video/av86820508)。
 + [Coursera ML Py](https://github.com/nsoojin/coursera-ml-py)：吴恩达机器学习课程笔记，Python代码
@@ -1311,6 +1316,10 @@
 
 + [Enzyme](https://enzyme.mit.edu/)：麻省理工学院（MIT）提出的自动微分框架 Enzyme 在 NeurIPS 2020 大会上引起过不少人的兴趣，现在人们已经可以尝试使用这套工具了。
 
++ [DALLE-pytorch](https://github.com/lucidrains/DALLE-pytorch)：DALL·E是刚公布的文字转图像网络框架，目前只公布了项目结果，甚至连官方论文都还没出，这是一个民间复现的结果，短短几天GitHub:star:1.7k​
+
++ [kbd-audio](https://github.com/ggerganov/kbd-audio)：一个叫做 Keytap 的 “黑科技” 。Keytap 通过监听你敲击键盘的声音，就能还原出你输入的内容。而且，只需要通过你电脑里的麦克风，就能完成声波采集的任务。
+
   
 
 <a class="toc" id ="22"></a>
@@ -1371,6 +1380,7 @@
 + [landmark_annotation](https://github.com/pprp/landmark_annotation)：图片关键点标注工具
 + [BBox-Label-Tool](https://github.com/puzzledqs/BBox-Label-Tool)：图片关键框标注工具
 + [labelImg](https://github.com/tzutalin/labelImg)：图片标注工具，GitHub:star:12k
++ [FaceX-Zoo](https://github.com/JDAI-CV/FaceX-Zoo)：京东发布的人脸检测工具
 
 
 
@@ -1445,6 +1455,7 @@
 + [daisyRec](https://github.com/AmazingDD/daisyRec)：推荐系统基准模型库，论文：[《Are We Evaluating Rigorously Benchmarking Recommendation for Reproducible Evaluation and Fair Comparison》](https://dl.acm.org/doi/pdf/10.1145/3383313.3412489)
 + 《[Conversational Recommendation: Formulation, Methods, and Evaluation》](http://staff.ustc.edu.cn/~hexn/slides/sigir20-tutorial-CRS-slides.pdf)：中科大何向南 SIGIR 2020 报告
 + [RecBole](https://github.com/RUCAIBox/RecBole)：RecBole （中文名称："伯乐"，意取"世有伯乐，然后有千里马"），由中国人民大学的AI Box团队与北京邮电大学、华东师范大学的科研团队联合开发出品。该框架实现了推荐领域不同任务的推荐模型，拥有从数据处理、模型开发、算法训练到科学评测的一站式全流程托管。在RecBole框架中，用户只需设置几个简单的配置参数（文件、命令行、运行时参数多种方式任你选择）即可快速在不同数据集上实现各个模型，同时其简洁的开发接口十分方便相关的研究人员进行二次开发和添加新的模型支持。
++ [CRSLab](https://github.com/RUCAIBox/CRSLab)：中国人民大学AI BOX团队推出的开源项目CRSLab ——一个用于构建对话推荐系统（CRS）的开源工具包，在这里我们致力于帮您实现一键复现，快速开发，自动评测的一条龙服务，相关代码和对应论文目前也已经开源。
 
 
 
@@ -1496,6 +1507,7 @@
 + [GraKeL](https://github.com/ysig/GraKeL)：一个用于 Graph kernels 的scikit-learn兼容库
 + [Spektral](https://github.com/danielegrattarola/spektral)：基于 Keras 和 TensorFlow2 的图神经网络项目库，GitHub:star:1.4k
 + [THUDM/cogdl: CogDL: An Extensive Research Toolkit for Graphs (github.com)](https://github.com/THUDM/cogdl)：清华大学开源的一个图机器学习项目库
++ [AutoGL](http://mn.cs.tsinghua.edu.cn/autogl/)：清华大学发布的首个自动图机器学习工具包AutoGL，开源易用可扩展，支持自定义模型，项目基于CogDL
 + [PyTorch-BigGraph](https://github.com/facebookresearch/PyTorch-BigGraph)：Facebook 开源的面向大规模图数据生成 embeddings 的库。GitHub:star:2.3k​
 + [GraphGym](https://github.com/snap-stanford/GraphGym)：斯坦福开源的图神经网络设计与评价平台，推荐等级：:heart::heart:！
 + [《Discrete regularity graph Laplacians》](http://helper.ipam.ucla.edu/publications/hjws4/hjws4_15794.pdf)：图机器学习-图拉普拉斯算子的离散正则性
@@ -1520,7 +1532,7 @@
 + [《Deep Learning on Graphs》](http://cse.msu.edu/~mayao4/dlg_book/)：来自密西根州立大学的汤继良团队即将出版一本全面性介绍图深度学习的书。推荐等级：:heart::heart::heart::heart:！
 + [《Algorithms for Convex Optimization》](https://convex-optimization.github.io/)：耶鲁大学2020新书。这本书的目的是使读者能够获得对凸优化算法的深入理解。重点是从第一性原理推导出凸优化的关键算法，并根据输入长度建立精确的运行时间界限。由于这些方法的广泛适用性，一本书不可能向所有人展示这些方法的应用。这本书展示了各种离散优化和计数问题的快速算法的应用。本书中所选的应用程序的目的是为了说明连续优化和离散优化之间的一个相当令人惊讶的桥梁。
 + [《图数据科学傻瓜式入门》](https://neo4j.com/graph-data-science-for-dummies/)：Graph Data Science For Dummies将带您了解图数据科学的基础——从定义图分析和算法到向您展示如何使用它们进行机器学习和解决现实世界的问题。
-+ [《图深度学习隐私保护》](https://sajadmanesh.com/talks/2020-12-09-IPCLab/)：
++ [《图深度学习隐私保护》](https://sajadmanesh.com/talks/2020-12-09-IPCLab/)：Privacy-Preserving Deep Learning Over Graphs
 + [《Graphtheory](https://users.utu.fi/harju/graphtheory/)》：图论的入门讲义。内容包括 绪论(图及其平面图形、子图、路径和循环); 图的连通性;色素;图曲面;有向图。
 + [Awesome-GNN-Recommendation](https://github.com/Jhy1993/Awesome-GNN-Recommendation)：图神经网络文献集锦
 + [Learning Representations via Graph-structured Networks](https://xiaolonw.github.io/graphnnv2/)：CVPR2020-Tutorial，视觉的图网络结构表示学习
@@ -1529,6 +1541,7 @@
 + [GN Review](https://github.com/LYuhang/GNN_Review)：GNN综述阅读报告，报告涵盖有多篇GNN方面的论文，以及一个按照论文《The Graph Neural Network Model 》使用pytorch编写的模型例子，该模型在人工数据上进行运行和验证。
 + [Graph Nets: The Next Generation - Max Welling](https://video.ias.edu/machinelearning/2020/0721-MaxWelling)：下一代图神经网络是什么？几何深度学习，大牛Max Welling教授视频讲解
 + [GCN (Graph CNN) Tutorials](https://www.youtube.com/playlist?list=PLzWLLUtnW6WLlj7dHclmKn3mCcxtiSlfc)：这门课程由宾夕法尼亚大学电气与系统工程系教授 Alejandro Ribeiro 于 2020 年 8 月底开设，专门讲述图神经网络（GNN）。就课程内容而言，本课程主要探讨了图卷积滤波器和图滤波器组，研究了单特征和多特征图 GNN。此外，课程介绍了循环 GNN 等相关网络架构，并重点强调了 GNN 的置换等变性和图变形的稳定性。这些特性提供了一种可以从实证角度观察到 GNN 良好性能的解释方法。该课程还将研究大量节点中的 GNN，以解释 GNN 在不同节点数的网络中的可迁移性。[B 站地址](https://www.bilibili.com/video/av457264185/)。推荐等级：:heart::heart::heart::heart:！
++ [图神经网络：深图远算，理胜其辞](https://www.bilibili.com/video/BV1EV411y7V6)：20201021 视觉与学习青年学者研讨会直播，报告时间：2020年10月21日 报告人：廖仁杰、陈思衡 报告题目：Deep Learning on Graphs、Bridging graph signal processing and graph neural networks
 
 <a class="toc" id ="27"></a>
 
@@ -1630,6 +1643,7 @@
 + [《Object Detection in 20 Years: A Survey》](https://arxiv.org/abs/1905.05055)：以2014年为分水岭，作者将过去二十年的目标检测发展进程分为两个阶段：2014年之前的传统目标检测，以及之后基于深度学习的目标检测。接下来，文章列举了二十年来目标检测领域的关键技术，思路非常清晰。
 + [TIDE](https://github.com/dbolya/tide)：识别目标检测错误的通用工具箱
 + [ImageAI](https://github.com/OlafenwaMoses/ImageAI)：ImageAI是一个python库，只需要几行代码，就可以让程序员和软件开发人员轻松地将最先进的计算机视觉技术集成到他们现有的或新的应用中。GitHub:star:5.6k。​
++ [YOLObile](https://github.com/nightsnack/YOLObile)：CoCoPIE 团队：美国东北大学王言治研究组和威廉玛丽学院任彬研究组共同提出了名为 YOLObile 的手机端目标检测加速框架。YOLObile 框架通过「压缩 - 编译」协同设计在手机端实现了高准确率实时目标检测。该框架使用一种新提出的名为「block-punched」的权重剪枝方案，对模型进行有效的压缩。在编译器优化技术的协助下，在手机端实现高准确率的实时目标检测。该研究还提出了一种高效的手机 GPU - 手机 CPU 协同计算优化方案，进一步提高了计算资源的利用率和执行速度。相比 YOLOv4 的原版，加速后的 YOLObile 的运行速度提高了 4 倍，并且维持了 49mAP 的准确率。相比 YOLOv3 完整版，该框架快 7 倍，在手机上实现了 19FPS 的实时高准确率目标检测。同时准确率高于 YOLOv3，并没有用牺牲准确率来提高计算速度。
 
 <a class="toc" id ="31"></a>
 
@@ -1953,6 +1967,8 @@
 + [Acronymify](http://acronymify.com/)：取名网站，只需在上面的框中输入您的单词，然后按search生成可能的缩写词列表。
 + [arXiv Vanity](https://www.arxiv-vanity.com/)：Vanity将来自arXiv的学术论文呈现为响应性网页，这样你就不用眯着眼睛看PDF了
 + [arXivDaily](http://www.arxivdaily.com/)：arxivdaily网站， 搜集整理arXiv更新文章，推荐等级：:heart::heart::heart::heart:！
++ [papers-with-video](https://github.com/amitness/papers-with-video)：浏览器插件，arXiv论文一键链接解读视频。推荐等级：:heart::heart::heart::heart:！
++ [catalyzex](https://www.catalyzex.com/)：[浏览器插件](https://chrome.google.com/webstore/detail/find-code-for-research-pa/aikkeehnlfpamidigaffhfmgbkdeheil/related)，arXiv论文一键链接解读代码。推荐等级：:heart::heart::heart::heart:！
 + [易搜搭](http://www.esoda.org/)：专业英文论文写作助手，只需要输入你想表达的中文句子，该网站会检索各种论文找出相似英文表达，使你的英文论文写作不再生硬，推荐等级：:heart::heart::heart::heart:！
 + [Academic Phrasebank](http://www.phrasebank.manchester.ac.uk/)：对于写作新手来说的神器网站，按不同条目分类罗列了各种英语表达。推荐等级：:heart::heart::heart::heart:！
 + [Comparxiv](https://github.com/temken/comparxiv)：用一行代码比较 arXiv 预印版本论文之间的差异
@@ -2081,6 +2097,7 @@
 [💨 Back to Top](#table-of-contents)
 
 + [Interview Internal Reference](https://github.com/0voice/interview_internal_reference)：2019年最新总结，阿里、腾讯、百度、美团、今日头条等国内互联网大厂的面试题，还配备有答案和出题人分析等信息。这个项目或许对大家找工作面试有所帮助，推荐等级：:heart::heart::heart:！
++ [coder2gwy](https://github.com/coder2gwy/coder2gwy)：程序员考公指南，3个来自同一家大厂的程序员组团在职备考一年，上岸成功率100%。为想进体制内的程序员写了这份考公务员/事业编制/教师的指南。GitHub:star:10.3k​
 + [Python Interview Question](https://github.com/kenwoodjw/python_interview_question)：GitHub上一个:star:3k左右的中文项目，介绍了各种Python相关面试题，可以作为一个Python学习教程
 + [Interview Code Practice Python](https://github.com/leeguandong/Interview-code-practice-python)：GitHub上的一个项目，用 Python 实现的各类面试题
 + [Algorithm Interview Notes Chinese](https://github.com/imhuay/Algorithm_Interview_Notes-Chinese)：2018/2019/校招/春招/秋招/算法/机器学习(Machine Learning)/深度学习(Deep Learning)/自然语言处理(NLP)/C/C++/Python/面试笔记 ，GitHub 上 :star:24k
@@ -2127,6 +2144,7 @@
 + [Graviti Open Dataset](https://www.graviti.cn/open-datasets)：一个国内（可能）最好的海量CV数据集获取网站。Graviti 收录了 400 多个高质量 CV 类数据集，覆盖2D/3D目标检测、图像分割、图像分类、目标跟踪、OCR、姿态估计、无人驾驶、智慧零售、机器人等多种AI应用领域。
 + [Tencent Ml Images](https://github.com/Tencent/tencent-ml-images)：腾讯开源的超大型多标签图像数据集及模型训练代码
 + [Machine learning datasets](https://www.datasetlist.com/)：这个网站上共收集到了100多个业界最大型的数据集。根据任务类别，这些数据集中又分为三大类：计算机视觉（CV）、自然语言处理（NLP）和音频数据集
++ [OCTA-500](https://ieee-dataport.org/open-access/octa-500)：《中国图象图形学报》编委南京理工大学陈强教授及其团队发布了目前最大的OCTA图像数据集OCTA-500。它包含500只眼睛的OCT和OCTA两种模态的三维数据，六种投影图像，四种文本标签以及两种分割标签，同时基于该数据库他们还提出了一种三维到二维分割的图像投影网络。
 + [Networkrepository](http://networkrepository.com/index.php)：第一个具有实时可视化分析功能的交互式数据和网络数据存储库。里面有许多Graph相关的数据集
 + [LINQS](https://linqs.soe.ucsc.edu/data)：提供了一些Graph结构的数据集
 + [Network Repository](http://networkrepository.com/index.php)：一个交互式科学网络数据仓库，里面含有大量的图结构数据集
@@ -2308,6 +2326,6 @@
 
 <a class="toc" id ="44"></a>
 
-# Update (更新时间) 🕰 ：2021/01/06
+# Update (更新时间) 🕰 ：2021/01/18
 [💨 Back to Top](#table-of-contents)
 
