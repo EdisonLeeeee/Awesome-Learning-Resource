@@ -50,7 +50,7 @@
 + [Dataset (数据集)  📊](#41)
 + [Coding Toolkit (代码工具) 💻](#42)
 + [Others (其它) ❓](#43)
-+ [Update (更新时间) 🕰 ：2021/01/18](#44)
++ [Update (更新时间) 🕰 ：2021/01/28](#44)
 
 
 <a class="toc" id ="1"></a>
@@ -272,6 +272,7 @@
 + [From 0 to 1: Data Structures & Algorithms in Java](https://click.linksynergy.com/fs-bin/click?id=JVFxdTr9V80&subid=0&offerid=323058.1&type=10&tmpid=14538&RD_PARM1=https%3A%2F%2Fwww.udemy.com%2Ffrom-0-to-1-data-structures%2F)
 + [Data Structure and Algorithms Analysis—Job Interview](https://click.linksynergy.com/fs-bin/click?id=JVFxdTr9V80&subid=0&offerid=323058.1&type=10&tmpid=14538&RD_PARM1=https%3A%2F%2Fwww.udemy.com%2Fdata-structure-and-algorithms-analysis%2F)
 + [Algorithms](https://github.com/williamfiset/Algorithms)：算法和数据结构是高效代码和良好软件设计的基础。要成为一名优秀的程序员，就需要创建和设计出色的算法。该存储库的目标是演示如何以最简单，最优雅的方式正确实现常见的数据结构和算法。GitHub:star:3.6k，推荐等级：❤️❤️❤️！
++ [algorithms](https://github.com/keon/algorithms)：Python中数据结构和算法的最小示例，GitHub:star:18.6k​
 + [Fucking Algorithm](https://github.com/labuladong/fucking-algorithm)：手把手撕LeetCode题目，扒各种算法套路的裤子。GitHub:star:13.4k。
 + [Javascript Algorithms](https://github.com/trekhleb/javascript-algorithms)：该库包含多个 JavaScript 常用算法和数据结构示例。每个示例被标注为「入门」或「高级」，以表明难度。此外，该库还包含哈希表、堆区（heap）、队列（queue）、栈区（stack）、math、字符串（strings）、集合（sets）等的示例。GitHub:star:67.4k，推荐等级：❤️❤️❤️！
 + [Algorithm Pattern](https://github.com/greyireland/algorithm-pattern)：算法模板，最科学的刷题方式，最快速的刷题路径，你值得拥有~GitHub:star:1.5k​
@@ -1296,6 +1297,10 @@
 
 + [PaddleOCR](https://github.com/PaddlePaddle/PaddleOCR)：百度自研顶会SOTA的OCR算法，GitHub:star:2.8k
 
++ [EasyOCR](https://github.com/JaidedAI/EasyOCR)：简单易用的OCR工具，支持70多种语言，包括中文，日语，韩语和泰国语。GitHub:star:10.2k​
+
++ [PaddleX](https://github.com/PaddlePaddle/PaddleX)：『飞桨』深度学习全流程开发工具。PaddleX 拥有可视化开发界面 demo，不写代码也可以完成 AI 算法训练。
+
 + [LIT](https://github.com/PAIR-code/lit)：Google 研究人员发布了一款语言可解释性工具 (Language Interpretability Tool, LIT)，这是一个开源平台，用于可视化和理解自然语言处理模型。
 
 + [Msnhnet](https://github.com/msnh2012/Msnhnet)：一款基于纯c++的轻量级推理框架，该框架受到darknet启发。
@@ -1319,6 +1324,8 @@
 + [DALLE-pytorch](https://github.com/lucidrains/DALLE-pytorch)：DALL·E是刚公布的文字转图像网络框架，目前只公布了项目结果，甚至连官方论文都还没出，这是一个民间复现的结果，短短几天GitHub:star:1.7k​
 
 + [kbd-audio](https://github.com/ggerganov/kbd-audio)：一个叫做 Keytap 的 “黑科技” 。Keytap 通过监听你敲击键盘的声音，就能还原出你输入的内容。而且，只需要通过你电脑里的麦克风，就能完成声波采集的任务。
+
++ [TextBox](https://github.com/RUCAIBox/TextBox)：中国人民大学AI BOX团队推出了新的开源文本生成库TextBox（妙笔），在保证组件模块化的同时，提供了许多较新baseline的接口，使得研究者一方面可以基于模块搭建自己的模型，另一方面也可以快速调用已有的baseline完成实验。目前相关代码和相应论文都已上线。
 
   
 
@@ -1381,6 +1388,8 @@
 + [BBox-Label-Tool](https://github.com/puzzledqs/BBox-Label-Tool)：图片关键框标注工具
 + [labelImg](https://github.com/tzutalin/labelImg)：图片标注工具，GitHub:star:12k
 + [FaceX-Zoo](https://github.com/JDAI-CV/FaceX-Zoo)：京东发布的人脸检测工具
++ [glasses](https://github.com/FrancescoSaverioZuppichini/glasses)：紧凑，简洁和可定制的深度学习计算机视觉库
++ [albumentations](https://github.com/albumentations-team/albumentations)：数据增强库，GitHub:star:7.1k
 
 
 
@@ -1542,6 +1551,7 @@
 + [Graph Nets: The Next Generation - Max Welling](https://video.ias.edu/machinelearning/2020/0721-MaxWelling)：下一代图神经网络是什么？几何深度学习，大牛Max Welling教授视频讲解
 + [GCN (Graph CNN) Tutorials](https://www.youtube.com/playlist?list=PLzWLLUtnW6WLlj7dHclmKn3mCcxtiSlfc)：这门课程由宾夕法尼亚大学电气与系统工程系教授 Alejandro Ribeiro 于 2020 年 8 月底开设，专门讲述图神经网络（GNN）。就课程内容而言，本课程主要探讨了图卷积滤波器和图滤波器组，研究了单特征和多特征图 GNN。此外，课程介绍了循环 GNN 等相关网络架构，并重点强调了 GNN 的置换等变性和图变形的稳定性。这些特性提供了一种可以从实证角度观察到 GNN 良好性能的解释方法。该课程还将研究大量节点中的 GNN，以解释 GNN 在不同节点数的网络中的可迁移性。[B 站地址](https://www.bilibili.com/video/av457264185/)。推荐等级：:heart::heart::heart::heart:！
 + [图神经网络：深图远算，理胜其辞](https://www.bilibili.com/video/BV1EV411y7V6)：20201021 视觉与学习青年学者研讨会直播，报告时间：2020年10月21日 报告人：廖仁杰、陈思衡 报告题目：Deep Learning on Graphs、Bridging graph signal processing and graph neural networks
++ [awesome-gcn](https://github.com/Jiakui/awesome-gcn)：图卷积神经网络相关资源
 
 <a class="toc" id ="27"></a>
 
@@ -1591,6 +1601,8 @@
 + [adversarial-learning-robustness](https://github.com/dipanjanS/adversarial-learning-robustness)：最新深度学习对抗鲁棒性教程，谷歌出品
 + [《Adversarial Self-Supervised Contrastive Learning》](https://arxiv.org/abs/2006.07589)：对抗式自监督的对比学习，能够对未标记数据进行攻击
 + [Special Topics on Adversarial Machine Learning](https://aisecure.github.io/TEACHING/2020_fall.html)：UIUC最新《对抗机器学习》课程，本课程首先介绍了机器学习、安全、隐私、对抗性机器学习和博弈论等主题。然后从研究的角度，讨论各个课题和相关工作的新颖性和潜在的拓展性。通过一系列的阅读和项目，学生将了解不同的机器学习算法，并分析它们的实现和安全漏洞，并培养开展相关主题的研究项目的能力。推荐等级：:heart::heart::heart:
++ [Adversarial-Machine-Learning](https://github.com/tanjuntao/Adversarial-Machine-Learning)：对抗样本（Adversarial Examples）和投毒攻击（Poisoning Attacks）相关资料
++ [awesome-adversarial-machine-learning](https://github.com/yenchenlin/awesome-adversarial-machine-learning)：对抗学习相关资源，GitHub:star:1.5k，目前已停止维护​
 
 <a class="toc" id ="29"></a>
 
@@ -1644,6 +1656,7 @@
 + [TIDE](https://github.com/dbolya/tide)：识别目标检测错误的通用工具箱
 + [ImageAI](https://github.com/OlafenwaMoses/ImageAI)：ImageAI是一个python库，只需要几行代码，就可以让程序员和软件开发人员轻松地将最先进的计算机视觉技术集成到他们现有的或新的应用中。GitHub:star:5.6k。​
 + [YOLObile](https://github.com/nightsnack/YOLObile)：CoCoPIE 团队：美国东北大学王言治研究组和威廉玛丽学院任彬研究组共同提出了名为 YOLObile 的手机端目标检测加速框架。YOLObile 框架通过「压缩 - 编译」协同设计在手机端实现了高准确率实时目标检测。该框架使用一种新提出的名为「block-punched」的权重剪枝方案，对模型进行有效的压缩。在编译器优化技术的协助下，在手机端实现高准确率的实时目标检测。该研究还提出了一种高效的手机 GPU - 手机 CPU 协同计算优化方案，进一步提高了计算资源的利用率和执行速度。相比 YOLOv4 的原版，加速后的 YOLObile 的运行速度提高了 4 倍，并且维持了 49mAP 的准确率。相比 YOLOv3 完整版，该框架快 7 倍，在手机上实现了 19FPS 的实时高准确率目标检测。同时准确率高于 YOLOv3，并没有用牺牲准确率来提高计算速度。
++ [awesome-anchor-free-object-detection](https://github.com/XinZhangNLPR/awesome-anchor-free-object-detection)：anchor-free目标检测资源
 
 <a class="toc" id ="31"></a>
 
@@ -1744,6 +1757,7 @@
 + [《Machine Learning Concepts with Python and the Jupyter Notebook Environment》](http://file.allitebooks.com/20200923/Machine%20Learning%20Concepts%20with%20Python%20and%20the%20Jupyter%20Notebook%20Environment.pdf)：这本书打破了编程机器学习应用程序的任何障碍，通过使用Jupyter Notebook而不是文本编辑器或常规IDE。您将从学习如何使用Jupyter笔记本来改进使用Python编程的方式开始。在获得一个良好的基础与Python工作在木星的笔记本，你将深入什么是TensorFlow，它如何帮助机器学习爱好者，以及如何解决它提出的挑战。在此过程中，使用Jupyter笔记本创建的示例程序允许您应用本书前面的概念。推荐等级：:heart::heart::heart::heart:！
 + [TensorFlow2.0-Examples](https://github.com/YunYang1994/TensorFlow2.0-Examples)：TensorFlow 2样例代码学习，GitHub:star:1.3k，推荐等级：:heart::heart::heart::heart:！
 + [Learn2Ai4TensorFlow2](https://github.com/xiaosongshine/Learn2Ai4TensorFlow2)：带你学AI·深度学习与TensorFlow2实战开发
++ [Hub](https://github.com/activeloopai/Hub)：兼容TF和PyTorch的数据读取pipeline库
 
 <a class="toc" id ="32"></a>
 
@@ -1851,6 +1865,7 @@
 + [Captum](https://captum.ai/)：基于PyTorch 的模型可解释工具
 + [pytorch-metric-learning](https://github.com/KevinMusgrave/pytorch-metric-learning)：基于PyTorch 的度量学习库
 + [nncf](https://github.com/openvinotoolkit/nncf)：基于PyTorch的模型压缩库
++ [Hub](https://github.com/activeloopai/Hub)：兼容TF和PyTorch的数据读取pipeline库
 
 
 
@@ -1969,6 +1984,7 @@
 + [arXivDaily](http://www.arxivdaily.com/)：arxivdaily网站， 搜集整理arXiv更新文章，推荐等级：:heart::heart::heart::heart:！
 + [papers-with-video](https://github.com/amitness/papers-with-video)：浏览器插件，arXiv论文一键链接解读视频。推荐等级：:heart::heart::heart::heart:！
 + [catalyzex](https://www.catalyzex.com/)：[浏览器插件](https://chrome.google.com/webstore/detail/find-code-for-research-pa/aikkeehnlfpamidigaffhfmgbkdeheil/related)，arXiv论文一键链接解读代码。推荐等级：:heart::heart::heart::heart:！
++ [rebiber](https://github.com/yuchenlin/rebiber)：一个用于将将 arXiv 信息转换为正式信息，能够基于 ACL Anthology 和 DBLP 数据库自动解决arXiv 信息不准确的问题。推荐等级：:heart::heart::heart::heart:！
 + [易搜搭](http://www.esoda.org/)：专业英文论文写作助手，只需要输入你想表达的中文句子，该网站会检索各种论文找出相似英文表达，使你的英文论文写作不再生硬，推荐等级：:heart::heart::heart::heart:！
 + [Academic Phrasebank](http://www.phrasebank.manchester.ac.uk/)：对于写作新手来说的神器网站，按不同条目分类罗列了各种英语表达。推荐等级：:heart::heart::heart::heart:！
 + [Comparxiv](https://github.com/temken/comparxiv)：用一行代码比较 arXiv 预印版本论文之间的差异
@@ -2141,6 +2157,7 @@
 + [BIFROST](https://datasets.bifrost.ai/)：一个数据集搜索工具，里面共有1899个图像数据集，还专门设置分类，比如Humans、Geospatial、Autonomous Cars等。一键搜索，免费获取，直接链接到原始数据库，帮你快速找到合适的数据集。推荐等级：:heart::heart::heart:！
 + [CodeXGLUE](https://github.com/microsoft/CodeXGLUE)：软亚洲研究院（自然语言计算组）联合 Visual Studio 和必应搜索发布了代码智能领域首个大规模多任务的新基准——CodeXGLUE。该基准可覆盖 code-code、code-text、text-code、text-text 四个类别，包含10个任务及14个数据集，具体有：代码克隆检测、代码缺陷检测、代码完形填空、代码补全、代码纠错、代码翻译、代码检索、代码生成、代码注释生成、代码文档翻译十项任务。其中，有自建数据集，也有在业界已有影响力的数据集。推荐等级：:heart::heart::heart:！
 + [Open Images V6](https://storage.googleapis.com/openimages/web/index.html)：Open Images是谷歌在2016年推出的大规模图像数据集，包括大约900万张图片，标注了数千个图像类别。目前是第六版，新增了**507444**个局部叙事。[博客介绍](https://ai.googleblog.com/2020/02/open-images-v6-now-featuring-localized.html)
++ [天池数据集](https://tianchi.aliyun.com/dataset)：阿里云天池发布的数据集网站，包含了计算机视觉，自然语言处理，金融，电商，医疗，工业，农业等数据集，非常适合学习和实践
 + [Graviti Open Dataset](https://www.graviti.cn/open-datasets)：一个国内（可能）最好的海量CV数据集获取网站。Graviti 收录了 400 多个高质量 CV 类数据集，覆盖2D/3D目标检测、图像分割、图像分类、目标跟踪、OCR、姿态估计、无人驾驶、智慧零售、机器人等多种AI应用领域。
 + [Tencent Ml Images](https://github.com/Tencent/tencent-ml-images)：腾讯开源的超大型多标签图像数据集及模型训练代码
 + [Machine learning datasets](https://www.datasetlist.com/)：这个网站上共收集到了100多个业界最大型的数据集。根据任务类别，这些数据集中又分为三大类：计算机视觉（CV）、自然语言处理（NLP）和音频数据集
@@ -2326,6 +2343,6 @@
 
 <a class="toc" id ="44"></a>
 
-# Update (更新时间) 🕰 ：2021/01/18
+# Update (更新时间) 🕰 ：2021/01/28
 [💨 Back to Top](#table-of-contents)
 
