@@ -50,7 +50,7 @@
 + [Dataset (数据集)  📊](#41)
 + [Coding Toolkit (代码工具) 💻](#42)
 + [Others (其它) ❓](#43)
-+ [Update (更新时间) 🕰 ：2021/01/28](#44)
++ [Update (更新时间) 🕰 ：2021/05/02](#44)
 
 
 <a class="toc" id ="1"></a>
@@ -427,11 +427,14 @@
 + [The Machine Learning Summer School](http://mlss.tuebingen.mpg.de/2020/schedule.html)：机器学习暑期学校(MLSS)系列开始于2002年，致力于传播统计机器学习和推理的现代方法。今年因新冠疫情在线举行，从6月28号到7月10号讲述了众多机器学习主题。推荐来自DeepMind Shakir Mohamed博士讲述《贝叶斯推断》，125页ppt系统性讲述了贝叶斯推断基础知识和最新进展，非常干货。
 + [Harvard College CS50](https://cs50.harvard.edu/college/2020/fall/#:~:text=Harvard%20Colleg)：哈佛大学 CS50 2020 秋季课程即将面世，在家也可以共享「撕书教授」David Malan 的 4k 超高清神课了。推荐等级::heart::heart::heart:！
 + [CSC2515 2020 Machine Learning](https://www.cs.toronto.edu/~huang/courses/csc2515_2020f/index.html)：多伦多大学2020秋季《机器学习导论》课程，课程的前半部分侧重于监督学习。从最近邻、决策树和集合开始。然后介绍了参数化模型，包括线性回归、logistic回归和softmax回归以及神经网络。然后转向无监督学习，特别关注概率模型，以及主成分分析和k均值。最后介绍了强化学习的基础知识。推荐等级::heart::heart::heart:！
-
++ [20h lectures](https://www.reddit.com/r/MachineLearning/comments/lqrek7/n_20_hours_of_new_lectures_on_deep_learning_and/)：reddit上20小时深度学习与强化学习的课程。推荐等级::heart::heart::heart:！
++ [《Advanced Machine Learning》](https://www.cs.ubc.ca/~schmidtm/Courses/440-W21/)：UBC 高级机器学习课程。推荐等级::heart::heart::heart:！
++ [conv_arithmetic](https://github.com/vdumoulin/conv_arithmetic)：卷积神经网络算法可视化学习
 
 
 
 <a class="toc" id ="10"></a>
+
 # Books (书籍资料) 📚
 [💨 Back to Top](#table-of-contents)
 
@@ -521,6 +524,7 @@
 + [《Machine Learning Concepts with Python and the Jupyter Notebook Environment》](http://file.allitebooks.com/20200923/Machine%20Learning%20Concepts%20with%20Python%20and%20the%20Jupyter%20Notebook%20Environment.pdf)：这本书打破了编程机器学习应用程序的任何障碍，通过使用Jupyter Notebook而不是文本编辑器或常规IDE。您将从学习如何使用Jupyter笔记本来改进使用Python编程的方式开始。在获得一个良好的基础与Python工作在木星的笔记本，你将深入什么是TensorFlow，它如何帮助机器学习爱好者，以及如何解决它提出的挑战。在此过程中，使用Jupyter笔记本创建的示例程序允许您应用本书前面的概念。推荐等级：:heart::heart::heart::heart:！
 + [《Machine Learning From Scratch》](https://dafriedman97.github.io/mlbook/content/introduction.html)：本科毕业于哈佛大学统计学与经济学专业、现任哈佛助教的 Daniel Friedman 开放了他撰写的一本免费在线书籍《Machine Learning from Scratch》，该书从理论和数学上介绍了 ML 最常见算法（OLS、逻辑回归、朴素贝叶斯、决策树、boosts 和神经网络等）的完整推论。[GitHub](https://github.com/eriklindernoren/ML-From-Scratch)，GitHub:star:16.3k。推荐等级：:heart::heart::heart::heart:！
 + [《现代机器学习技术导论》](http://166.111.134.19:7777/mlbook/)：清华大学王东老师出版
++ [《Research Software Engineering with Python》](https://github.com/merely-useful/py-rse)：目前，软件对于研究而言至关重要。这意味着研究人员需要了解如何创建、检查、使用和共享程序。但是，大多数编程指南侧重于开发商业应用，而不探索那些尚未得到解答的问题。而在这本开源书籍《Research Software Engineering with Python》中，作者旨在向读者展示如何做到这一点，无论作为个人还是团队成员。在本书中，作者通过帮助读者为自己编写代码以及创建有助于整个领域进步的工具，为研究软件工程这一角色做好准备。
 
 
 
@@ -605,6 +609,7 @@
 + [pytorchviz](https://github.com/szagoruyko/pytorchviz)：PyTorch 执行图可视化，GitHub:star:1.5k​
 + [PlotNeuralNet](https://github.com/HarisIqbal88/PlotNeuralNet)：神经网络可视化工具库，GitHub:star:12.2k，推荐等级：:heart::heart::heart:!
 + [HiPlot](https://github.com/facebookresearch/hiplot) ：Facebook 的 HiPlot 是一个很好的工具，帮助你在使用不同参数组合时将模型结果可视化。GitHub:star:1.8k，推荐等级：:heart::heart:!
++ [netron](https://github.com/lutzroeder/netron)：网络结构可视化工具
 
 <a class="toc" id ="12"></a>
 
@@ -1053,6 +1058,7 @@
 + [zaoqi-Python](https://github.com/liuhuanshuo/zaoqi-Python)：早起Python公众号内容，内有 numpy80 题和 pandas120 题等学习资料
 + [优雅的Python](https://www.yuque.com/wandouhuaxiamao/pythoncat)： Python猫公众号原创文章合集。
 + [python-whydo](https://github.com/chinesehuazhou/python-whydo)：“Python为什么”系列文章，主要关注 Python 的语法、设计和发展等话题，以一个个“为什么”式的问题为切入点，试着展现 Python 的迷人魅力。
++ 
 
 <a class="toc" id ="19"></a>
 
@@ -1327,6 +1333,18 @@
 
 + [TextBox](https://github.com/RUCAIBox/TextBox)：中国人民大学AI BOX团队推出了新的开源文本生成库TextBox（妙笔），在保证组件模块化的同时，提供了许多较新baseline的接口，使得研究者一方面可以基于模块搭建自己的模型，另一方面也可以快速调用已有的baseline完成实验。目前相关代码和相应论文都已上线。
 
++ [Deep-Forest](https://github.com/LAMDA-NJU/Deep-Forest)：南大周志华团队开源的深度森林软件包DF21：训练效率高、超参数少，普通设备就能跑
+
++ [Spacy](https://spacy.io/)：spaCy 是具有工业级强度的 Python NLP 工具包，被称为最快的工业级自然语言处理工具。它支持多种自然语言处理的基本功能，主要功能包括分词、词性标注、词干化、命名实体识别、名词短语提取等。GitHub:star:1​9k
+
++ [PyArmadillo](https://gitlab.com/jason-rumengan/pyarma)：PyArmadillo 是一个 Python 语言的线性代数库，强调易用性。该库旨在提供类似于 Matlab 或者 Octave 的高级语法和功能，使得用户以熟悉且自然的方式表达数学运算。
+
++ [pytorch-image-models](https://github.com/rwightman/pytorch-image-models)：pytorch-image-models 库由热衷于构建 ML 和 AI 系统的加拿大人 Ross Wightman 创建，包含了图像模型、层、实用工具、优化器、调度器、数据加载器 / 扩增、推理训练 / 验证脚本等资源。该库旨在将多种多样的 SOTA 模型整合起来，以复现 ImageNet 数据集上的训练结果。
+
++ [insightface](https://github.com/deepinsight/insightface)：insightface 由 Deep Insight 团队创建，是一个开源的 2D 和 3D 深度人脸分析工具箱，主要基于 MXNet 框架构建。该库的主分支（master branch）适用于 MXNet 1.2-1.6 版本以及 Python 3.x 版本。
+
++ [imgclsmob](https://github.com/osmr/imgclsmob)：imgclsmob 库由高级软件工程师 Oleg Sémery 创建，主要研究计算机视觉任务的卷积网络。该库包含用于训练、评估和转换的各种分类、分割、检测和姿态估计模型和脚本的实现或复现。
+
   
 
 <a class="toc" id ="22"></a>
@@ -1359,6 +1377,7 @@
 + [TPOT](https://github.com/EpistasisLab/tpot)：TPOT 是一种基于 Python 的自动机器学习开发工具，该工具更关注数据准备、建模算法和模型超参数。它通过一种基于进化树的结，即自动设计和优化机器学习 pipelie 的树表示工作流优化（Tree-based Pipeline Optimization Tool, TPOT），从而实现特征选择、预处理和构建的自动化。GitHub:star:7.5k​
 + [igel](https://github.com/nidhaloff/igel)：一个比Keras更好用的机器学习“模型包”：无需预处理，0代码上手做模型，相比于Keras，这个项目进一步简化了预处理、输入输出的工作，就像“模型包”一样简便。
 + [vega](https://github.com/huawei-noah/vega)：华为开源的自动机器学习工具
++ [model_search](https://github.com/google/model_search)：为了帮助研究者自动、高效地开发最佳机器学习模型，谷歌开源了一个不针对特定领域的 AutoML 平台。该平台基于 TensorFlow 构建，非常灵活，既可以找出最适合给定数据集和问题的架构，也能够最小化编程时间和计算资源。
 
 
 <a class="toc" id ="23"></a>
@@ -1436,6 +1455,7 @@
 + [RLs](https://github.com/StepNeverStop/RLs)：Tensorflow2.0实现29种深度强化学习算法大汇总
 + [Super-mario-bros-PPO-pytorch](https://github.com/uvipen/Super-mario-bros-PPO-pytorch)：最近，有人用 PPO 强化学习算法训练了一个超级马里奥智能体，已经打通了 29 关（总共 32 关）。
 + [Deep_reinforcement_learning_Course](https://github.com/simoninithomas/Deep_reinforcement_learning_Course)：一门免费强化学习课程在两年前上线，将初学者到专家所需要的所有学习文档（自动调整medium专栏）、学习视频（自动嵌入）、实操游戏（自动嵌入）都打包在了一起，可以很方便的配套学习，GitHub:star:2.6k，推荐等级：:heart::heart::heart:！。[课程链接](https://simoninithomas.github.io/deep-rl-course/#syllabus)
++ [r/MachineLearning](https://www.reddit.com/r/MachineLearning/comments/lqrek7/n_20_hours_of_new_lectures_on_deep_learning_and/)：reddit上20个小时的深度学习和强化学习新讲座，其中包含许多示例，推荐等级：:heart::heart::heart::heart:!
 
 <a class="toc" id ="25"></a>
 
@@ -1458,6 +1478,7 @@
 + [**MI**crosoft **N**ews **D**ataset (MIND)](https://msnews.github.io/) ：微软发布的大规模新闻推荐数据集MIND
 + [Recommenders](https://github.com/microsoft/recommenders)：这个存储库包含了微软提供的构建推荐系统的示例和最佳实践，以Jupyter笔记本的形式提供。GitHub:star:8k，推荐等级：:heart::heart::heart::heart:！
 + [ReChorus](https://github.com/THUwangcy/ReChorus)：一个轻量级 Top-K 推荐框架
++ [RecBole](https://github.com/RUCAIBox/RecBole)：伯乐，推荐系统模型库
 + [neural-structured-learning](https://github.com/tensorflow/neural-structured-learning)：TensorFlow 开源的用于结构化数据学习的库
 + [amlrecsys-tutorial](https://github.com/sisinflab/amlrecsys-tutorial)：推荐系统对抗机器学习教程介绍
 + [adversarial-recommender-systems-survey](https://github.com/sisinflab/adversarial-recommender-systems-survey)：推荐系统对抗机器学习综述及相关论文代码资源
@@ -1465,6 +1486,7 @@
 + 《[Conversational Recommendation: Formulation, Methods, and Evaluation》](http://staff.ustc.edu.cn/~hexn/slides/sigir20-tutorial-CRS-slides.pdf)：中科大何向南 SIGIR 2020 报告
 + [RecBole](https://github.com/RUCAIBox/RecBole)：RecBole （中文名称："伯乐"，意取"世有伯乐，然后有千里马"），由中国人民大学的AI Box团队与北京邮电大学、华东师范大学的科研团队联合开发出品。该框架实现了推荐领域不同任务的推荐模型，拥有从数据处理、模型开发、算法训练到科学评测的一站式全流程托管。在RecBole框架中，用户只需设置几个简单的配置参数（文件、命令行、运行时参数多种方式任你选择）即可快速在不同数据集上实现各个模型，同时其简洁的开发接口十分方便相关的研究人员进行二次开发和添加新的模型支持。
 + [CRSLab](https://github.com/RUCAIBox/CRSLab)：中国人民大学AI BOX团队推出的开源项目CRSLab ——一个用于构建对话推荐系统（CRS）的开源工具包，在这里我们致力于帮您实现一键复现，快速开发，自动评测的一条龙服务，相关代码和对应论文目前也已经开源。
++ [Awesome-RSPapers](https://github.com/RUCAIBox/Awesome-RSPapers)：推荐系统论文集
 
 
 
@@ -1552,6 +1574,8 @@
 + [GCN (Graph CNN) Tutorials](https://www.youtube.com/playlist?list=PLzWLLUtnW6WLlj7dHclmKn3mCcxtiSlfc)：这门课程由宾夕法尼亚大学电气与系统工程系教授 Alejandro Ribeiro 于 2020 年 8 月底开设，专门讲述图神经网络（GNN）。就课程内容而言，本课程主要探讨了图卷积滤波器和图滤波器组，研究了单特征和多特征图 GNN。此外，课程介绍了循环 GNN 等相关网络架构，并重点强调了 GNN 的置换等变性和图变形的稳定性。这些特性提供了一种可以从实证角度观察到 GNN 良好性能的解释方法。该课程还将研究大量节点中的 GNN，以解释 GNN 在不同节点数的网络中的可迁移性。[B 站地址](https://www.bilibili.com/video/av457264185/)。推荐等级：:heart::heart::heart::heart:！
 + [图神经网络：深图远算，理胜其辞](https://www.bilibili.com/video/BV1EV411y7V6)：20201021 视觉与学习青年学者研讨会直播，报告时间：2020年10月21日 报告人：廖仁杰、陈思衡 报告题目：Deep Learning on Graphs、Bridging graph signal processing and graph neural networks
 + [awesome-gcn](https://github.com/Jiakui/awesome-gcn)：图卷积神经网络相关资源
++ [pytorch-GAT](https://github.com/gordicaleksa/pytorch-GAT)：GAT的一个pytorch复现仓库，可以用来学习GAT与GNNs
++ [GNN_note](https://github.com/joeat1/GNN_note)：GNN笔记整理
 
 <a class="toc" id ="27"></a>
 
@@ -1603,6 +1627,7 @@
 + [Special Topics on Adversarial Machine Learning](https://aisecure.github.io/TEACHING/2020_fall.html)：UIUC最新《对抗机器学习》课程，本课程首先介绍了机器学习、安全、隐私、对抗性机器学习和博弈论等主题。然后从研究的角度，讨论各个课题和相关工作的新颖性和潜在的拓展性。通过一系列的阅读和项目，学生将了解不同的机器学习算法，并分析它们的实现和安全漏洞，并培养开展相关主题的研究项目的能力。推荐等级：:heart::heart::heart:
 + [Adversarial-Machine-Learning](https://github.com/tanjuntao/Adversarial-Machine-Learning)：对抗样本（Adversarial Examples）和投毒攻击（Poisoning Attacks）相关资料
 + [awesome-adversarial-machine-learning](https://github.com/yenchenlin/awesome-adversarial-machine-learning)：对抗学习相关资源，GitHub:star:1.5k，目前已停止维护​
++ [attack-and-defense-methods](https://github.com/tao-bai/attack-and-defense-methods)：对抗攻防论文合集
 
 <a class="toc" id ="29"></a>
 
@@ -1629,6 +1654,7 @@
 + [Torch-Pruning](https://github.com/VainF/Torch-Pruning)：Pytorch结构化神经网络修剪工具包
 + [LSQ-Net](https://github.com/zhutmost/lsq-net)：IBM的量化工作，发表在ICLR 2020。论文：[《Learned Step Size Quantization》](https://arxiv.org/abs/1902.08153)。为了解决量化精度越低，模型识别率越低的问题，本文引入了一种新的手段来估计和扩展每个权重和激活层的量化器步长大小的任务损失梯度，并在 ImageNet 上的实验和分析证明了所提出的方法的有效性, 实现了ResNet 4 bit量化不掉精度！
 + [EagleEye](https://github.com/anonymous47823493/EagleEye)：[《EagleEye: Fast Sub-net Evaluation for Efficient Neural Network Pruning》](https://arxiv.org/abs/2007.02491)。提出一种简单有效的快速剪枝方法，具有较好的通用性。
++ [EfficientDNNs](https://github.com/MingSun-Tse/EfficientDNNs)：模型压缩加速相关论文集
 
 <a class="toc" id ="30"></a>
 
@@ -1657,6 +1683,8 @@
 + [ImageAI](https://github.com/OlafenwaMoses/ImageAI)：ImageAI是一个python库，只需要几行代码，就可以让程序员和软件开发人员轻松地将最先进的计算机视觉技术集成到他们现有的或新的应用中。GitHub:star:5.6k。​
 + [YOLObile](https://github.com/nightsnack/YOLObile)：CoCoPIE 团队：美国东北大学王言治研究组和威廉玛丽学院任彬研究组共同提出了名为 YOLObile 的手机端目标检测加速框架。YOLObile 框架通过「压缩 - 编译」协同设计在手机端实现了高准确率实时目标检测。该框架使用一种新提出的名为「block-punched」的权重剪枝方案，对模型进行有效的压缩。在编译器优化技术的协助下，在手机端实现高准确率的实时目标检测。该研究还提出了一种高效的手机 GPU - 手机 CPU 协同计算优化方案，进一步提高了计算资源的利用率和执行速度。相比 YOLOv4 的原版，加速后的 YOLObile 的运行速度提高了 4 倍，并且维持了 49mAP 的准确率。相比 YOLOv3 完整版，该框架快 7 倍，在手机上实现了 19FPS 的实时高准确率目标检测。同时准确率高于 YOLOv3，并没有用牺牲准确率来提高计算速度。
 + [awesome-anchor-free-object-detection](https://github.com/XinZhangNLPR/awesome-anchor-free-object-detection)：anchor-free目标检测资源
++ [landmark_annotation](https://github.com/pprp/landmark_annotation)：图片关键点标注工具
++ [BBox-Label-Tool](https://github.com/puzzledqs/BBox-Label-Tool)：图片关键框标注工具
 
 <a class="toc" id ="31"></a>
 
@@ -1866,6 +1894,7 @@
 + [pytorch-metric-learning](https://github.com/KevinMusgrave/pytorch-metric-learning)：基于PyTorch 的度量学习库
 + [nncf](https://github.com/openvinotoolkit/nncf)：基于PyTorch的模型压缩库
 + [Hub](https://github.com/activeloopai/Hub)：兼容TF和PyTorch的数据读取pipeline库
++ [speechbrain](https://github.com/speechbrain/speechbrain)：PyTorch语音库，GitHub:star:2.2k​
 
 
 
@@ -1970,6 +1999,7 @@
 + [《Fast and Accurate Machine Learning on Distributed Systems and Supercomputers》](https://www2.eecs.berkeley.edu/Pubs/TechRpts/2020/EECS-2020-136.pdf)：UC伯克利尤洋189页博士论文，聚焦快速机器学习训练算法，推荐等级：:heart::heart::heart::heart:！
 + [Long-Tailed-Recognition.pytorch](https://github.com/KaihuaTang/Long-Tailed-Recognition.pytorch)：NeurIPS 2020接收的论文[《Long-Tailed Classification by Keeping the Good and Removing the Bad Momentum Causal Effect》](https://arxiv.org/abs/2009.12991)，提出一种崭新的长尾分布下分类问题的通用算法，推荐等级：:heart::heart:！
 + [GraphNormalization](https://github.com/cyh1112/GraphNormalization)：一种基于学习的四合一自动加权组合的方式来学习适合当前任务的图归一化，论文：[《Learning Graph Normalization for Graph Neural Networks》，推荐等级：:heart::heart:！](https://arxiv.org/abs/2009.11746)
++ [CNSurvey](https://github.com/NiuTrans/CNSurvey)：一份中文综述文章列表（自然语言处理&机器学习）
 
 <a class="toc" id ="36"></a>
 
@@ -1982,6 +2012,7 @@
 + [Acronymify](http://acronymify.com/)：取名网站，只需在上面的框中输入您的单词，然后按search生成可能的缩写词列表。
 + [arXiv Vanity](https://www.arxiv-vanity.com/)：Vanity将来自arXiv的学术论文呈现为响应性网页，这样你就不用眯着眼睛看PDF了
 + [arXivDaily](http://www.arxivdaily.com/)：arxivdaily网站， 搜集整理arXiv更新文章，推荐等级：:heart::heart::heart::heart:！
++ [ArXiv Text Generation Paper Searches](https://arnicas.github.io/text-gen-arxiv-papers/)：一款能够及时、快速、精准查阅论文的搜索工具。只需点击一下，便可直接查阅论文列表，再也不用担心查找慢或错过新论文。
 + [papers-with-video](https://github.com/amitness/papers-with-video)：浏览器插件，arXiv论文一键链接解读视频。推荐等级：:heart::heart::heart::heart:！
 + [catalyzex](https://www.catalyzex.com/)：[浏览器插件](https://chrome.google.com/webstore/detail/find-code-for-research-pa/aikkeehnlfpamidigaffhfmgbkdeheil/related)，arXiv论文一键链接解读代码。推荐等级：:heart::heart::heart::heart:！
 + [rebiber](https://github.com/yuchenlin/rebiber)：一个用于将将 arXiv 信息转换为正式信息，能够基于 ACL Anthology 和 DBLP 数据库自动解决arXiv 信息不准确的问题。推荐等级：:heart::heart::heart::heart:！
@@ -2156,6 +2187,7 @@
 + [Arxiv](https://www.kaggle.com/Cornell-University/arxiv)：arXiv 将 170万篇arXiv论文集成为一个格式机器可读的数据库，并将该数据库托管到了Kaggle上供用户免费使用。数据库包括论文标题、作者、类别、摘要、全文pdf等论文相关信息。推荐等级：:heart::heart::heart:！
 + [BIFROST](https://datasets.bifrost.ai/)：一个数据集搜索工具，里面共有1899个图像数据集，还专门设置分类，比如Humans、Geospatial、Autonomous Cars等。一键搜索，免费获取，直接链接到原始数据库，帮你快速找到合适的数据集。推荐等级：:heart::heart::heart:！
 + [CodeXGLUE](https://github.com/microsoft/CodeXGLUE)：软亚洲研究院（自然语言计算组）联合 Visual Studio 和必应搜索发布了代码智能领域首个大规模多任务的新基准——CodeXGLUE。该基准可覆盖 code-code、code-text、text-code、text-text 四个类别，包含10个任务及14个数据集，具体有：代码克隆检测、代码缺陷检测、代码完形填空、代码补全、代码纠错、代码翻译、代码检索、代码生成、代码注释生成、代码文档翻译十项任务。其中，有自建数据集，也有在业界已有影响力的数据集。推荐等级：:heart::heart::heart:！
++ [paperswithcode datasets](https://www.paperswithcode.com/datasets)：Papers with Code 官网发布，Datasets 已经实现了 3044 个机器学习数据集的汇总，并且按照不同的类型进行归类，还具有过滤功能，值得一看。推荐等级：:heart::heart::heart::heart:！
 + [Open Images V6](https://storage.googleapis.com/openimages/web/index.html)：Open Images是谷歌在2016年推出的大规模图像数据集，包括大约900万张图片，标注了数千个图像类别。目前是第六版，新增了**507444**个局部叙事。[博客介绍](https://ai.googleblog.com/2020/02/open-images-v6-now-featuring-localized.html)
 + [天池数据集](https://tianchi.aliyun.com/dataset)：阿里云天池发布的数据集网站，包含了计算机视觉，自然语言处理，金融，电商，医疗，工业，农业等数据集，非常适合学习和实践
 + [Graviti Open Dataset](https://www.graviti.cn/open-datasets)：一个国内（可能）最好的海量CV数据集获取网站。Graviti 收录了 400 多个高质量 CV 类数据集，覆盖2D/3D目标检测、图像分割、图像分类、目标跟踪、OCR、姿态估计、无人驾驶、智慧零售、机器人等多种AI应用领域。
@@ -2284,19 +2316,36 @@
     + [Bandit](https://wiki.openstack.org/wiki/Security/Projects/Bandit)：Bandit是一个Python安全漏洞扫描工具，可扫描python软件包中的安全漏洞。它是数据科学家和AI专家中流行的工具，用于构建符合组织标准的代码。Bandit可用于命令行界面。
     + [Fortify](https://www.microfocus.com/en-us/products/static-code-analysis-sast/overview)：Micro Focus的Fortify专注于扫描代码库中的安全漏洞。它着眼于已知的安全漏洞以及可能存在问题的任何恶意软件或损坏文件的存在。
     + [Codecov](https://codecov.io/)：Codecov是用于管理代码库以及使用单个实用程序进行构建的综合工具。它分析推送的代码，执行所需的检查，并在需要时自动合并它们。
+    
 + [Lepton](https://github.com/hackjutsu/Lepton)：一个很好用的开源代码片段管理软件，基于[GitHub Gist](https://gist.github.com/)。GitHub:star:6.8k，推荐等级：:heart::heart:！
+
 + [Codeimg.io](https://codeimg.io/)：Codeimg.io 是一个仍在测试中的创建代码图像的工具，目前发布了创建代码图像所需的基本功能：按照常用社交平台 Facebook、Twitter、Instagram 及自定义创建项目、支持 JPG、PNG 和 SVG 项目格式、调整字体大小、保存用户定义的设置等。
+
 + [Carbon](https://carbon.now.sh/)：Carbon 是由 Dawn Labs 创建开发的一个代码转图像的开源项目，目前在 GitHub 上拥有 :star:200k+。
+
 + [Glorious Demo](https://glorious.codes/demo)：Glorious Demo 是一个开源的 JavaScript 库，它提供了一个简单的 API 来为你的代码示例创建动画。目前在 GitHub 拥有:star:3k。[GitHub](https://github.com/glorious-codes/glorious-demo#installation)
+
 + [CodeZen](http://codezen.rishimohan.me/)：CodeZen 是一个非常简约的代码转图像工具，就像操作文本编辑器一样简单，能快速将你的源代码导出为具有语法风格的图像。
+
 + [StarHistory](https://github.com/timqian/star-history)：查看某个项目的 star 的增长趋势，Github:star:1.6k
+
 + [Pure Bash Bible](https://github.com/dylanaraps/pure-bash-bible)：这是一位澳大利亚的工程师在Github上开源了一本书——《pure bash bible》，本书收集汇总了编写 bash 脚本经常会使用到的一些代码片段，无论是常见和不太常见的方法都可以在这书里找到，通过书中的代码片段，可以删除脚本中的依赖项，并且在大多数情况下可以让程序运行的更快。GitHub:star:23.9k。推荐等级:heart::heart::heart::heart:！
+
 + [VS Code Debug Visualizer](https://github.com/hediet/vscode-debug-visualizer)：写代码，难免会遇到各种神奇的问题，代码短我们在脑海中「运行」一遍也就差不多能找出原因。但代码要是比较长，错误就会隐藏比较深了，这个时候，不论你是采用 print() 大法，还是善用 assert 语句，或者干脆设置断点，DeBug 总是一条慢慢排除的道路。那么能不能有一种更优雅的 DeBug 方式，以更简洁的信息快速帮我们找到代码的问题所在？这就是 VS Code 最新推出的可视化 DeBug，它能以图的方式快速展示数据结构。但目前遗憾的是它并不支持Python。
+
 + [Codejar](https://github.com/antonmedv/codejar)：免费的浏览器端代码编辑器CodeJar，优点是轻量级，总体积仅2KB。自动缩进、自动添加右括号引号。因为是在浏览器中使用，所以CodeJar自然也就跨平台，Safari、Chrome、Firefox等浏览器上都能用，iPad和Android平台上的浏览器也能正常使用。
+
 + [CodeSanbox](https://codesandbox.io/)：全面的在线代码编辑器 CodeSanbox。
+
 + [Paste.ubuntu](https://paste.ubuntu.com/)：paste.ubuntu 是一个单纯发布代码的网站，对于复制粘贴容易破坏原本代码美感的情况下，可以把代码放到里面，一键 Paste。有了这个神器，贴代码请大佬调试的时候再也不怕被骂这是什么鬼玩意儿
+
 + [App Ideas](https://github.com/florinpop17/app-ideas)：这里面收集了共 86 个可供开发者练习参考的项目创意，其中初级项目 34 个、中级 32 个、高级 20 个。同时，每个项目创意也均附上了较为详实的项目文档，指引开发者一步步完成项目的开发工具。不过代码几乎都是JS的。GitHub:star:22k，推荐等级:heart::heart::heart::heart:！
+
 + [VSCode Rainbow Fart](https://saekiraku.github.io/vscode-rainbow-fart/#/zh/)：VSCode Rainbow Fart 是一个在你编程时持续夸你写的牛逼的扩展，可以根据代码关键字播放贴近代码意义的真人语音。后续其他程序员推出了扩展语音包 [Kugimiya Rainbow Fart](https://github.com/zthxxx/kugimiya-rainbow-fart)：傲娇钉宫，鞭写鞭骂 - 钉宫理惠。
+
++ [Cyberbrain](https://github.com/laike9m/Cyberbrain)：Python调试神器，**Cyberbrain**（赛博大脑），可以回溯代码中的变量更改历史，查看程序执行的状态。GitHub:star:1.8k
+
+    
 
 <a class="toc" id ="43"></a>
 
@@ -2337,12 +2386,11 @@
 + [Have I been Pwned](https://haveibeenpwned.com/)：我被卖了吗？一个用来查询你的账号有没有被放在黑市里交易的网站
 + [Luckysheet](https://github.com/mengshukeji/Luckysheet)：一款功能强大、配置简单、完全开源、类似 Excel 在线表格工具 -- Luckysheet。GitHub:star:1.9k​
 + [Open-source Builders](https://opensource.builders/)：该网站里面收集并汇总了各类知名产品的开源实现方案，一来可以让开发者选择合适软件的开源替代品；二来也可以从中学到某款知名产品的业务代码实现逻辑。像大家耳熟能详的 GitHub、Slack、1Password、Facebook、YouTube、Shopify、Heroku 等产品，在上面都有对应的开源解决方案。
-+ [landmark_annotation](https://github.com/pprp/landmark_annotation)：图片关键点标注工具
-+ [BBox-Label-Tool](https://github.com/puzzledqs/BBox-Label-Tool)：图片关键框标注工具
 + [labelImg](https://github.com/tzutalin/labelImg)：图片标注工具，GitHub:star:12k​
++ [genact](https://github.com/svenstaro/genact)：假装工作繁忙的摸鱼神器，GitHub:star:4.6k​
 
 <a class="toc" id ="44"></a>
 
-# Update (更新时间) 🕰 ：2021/01/28
+# Update (更新时间) 🕰 ：2021/05/02
 [💨 Back to Top](#table-of-contents)
 
