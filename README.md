@@ -50,7 +50,7 @@
 + [Dataset (数据集)  📊](#41)
 + [Coding Toolkit (代码工具) 💻](#42)
 + [Others (其它) ❓](#43)
-+ [Update (更新时间) 🕰 ：2021/05/02](#44)
++ [Update (更新时间) 🕰 ：2021/05/30](#44)
 
 
 <a class="toc" id ="1"></a>
@@ -610,6 +610,8 @@
 + [PlotNeuralNet](https://github.com/HarisIqbal88/PlotNeuralNet)：神经网络可视化工具库，GitHub:star:12.2k，推荐等级：:heart::heart::heart:!
 + [HiPlot](https://github.com/facebookresearch/hiplot) ：Facebook 的 HiPlot 是一个很好的工具，帮助你在使用不同参数组合时将模型结果可视化。GitHub:star:1.8k，推荐等级：:heart::heart:!
 + [netron](https://github.com/lutzroeder/netron)：网络结构可视化工具
++ [dodrio](https://github.com/poloclub/dodrio)：乔治亚理工提出的DODRIO，一种可交互的Attention可视化工具，从句法和寓意层面总结了不同注意力头的信息。
++ [lets-plot](https://github.com/JetBrains/lets-plot)：统计数据可视化库，GitHub:star:605​
 
 <a class="toc" id ="12"></a>
 
@@ -1345,6 +1347,18 @@
 
 + [imgclsmob](https://github.com/osmr/imgclsmob)：imgclsmob 库由高级软件工程师 Oleg Sémery 创建，主要研究计算机视觉任务的卷积网络。该库包含用于训练、评估和转换的各种分类、分割、检测和姿态估计模型和脚本的实现或复现。
 
++ [PRML](https://github.com/ctgk/PRML)：Python3实现的经典机器学习图书《Pattern Recognition and Machine Learning》中的代码，GitHub:star:9.7k​
+
++ [trax](https://github.com/google/trax)：谷歌开源的深度学习训练、开发加速平台，GitHub:star:6k
+
++ [pykale](https://github.com/pykale/pykale)：PyTorch多模态学习库
+
++ [machine-learning-collection](https://github.com/microsoft/machine-learning-collection)：微软机器学习/深度学习开源贡献集
+
++ [trustworthyAI/gcastle at master · huawei-noah/trustworthyAI (github.com)](https://github.com/huawei-noah/trustworthyAI/tree/master/gcastle)：华为诺亚开源因果结构学习工具包gCastle
+
++ [tensorflow/decision-forests](https://www.tensorflow.org/decision_forests)：TensorFlow开源决策森林库TF-DF
+
   
 
 <a class="toc" id ="22"></a>
@@ -1378,9 +1392,11 @@
 + [igel](https://github.com/nidhaloff/igel)：一个比Keras更好用的机器学习“模型包”：无需预处理，0代码上手做模型，相比于Keras，这个项目进一步简化了预处理、输入输出的工作，就像“模型包”一样简便。
 + [vega](https://github.com/huawei-noah/vega)：华为开源的自动机器学习工具
 + [model_search](https://github.com/google/model_search)：为了帮助研究者自动、高效地开发最佳机器学习模型，谷歌开源了一个不针对特定领域的 AutoML 平台。该平台基于 TensorFlow 构建，非常灵活，既可以找出最适合给定数据集和问题的架构，也能够最小化编程时间和计算资源。
-
++ [AutoDL-Projects](https://github.com/D-X-Y/AutoDL-Projects)：PyTorch实现的自动机器学习算法，GitHub:star:1.2k​
++ [ModularNAS](https://github.com/huawei-noah/vega/tree/master/vega/algorithms/nas/modnas)：华为诺亚方舟实验室联合上海交大APEX实验室、新加坡国立大学最新发表开源ModularNAS，一款使用者友好的通用AutoML框架。它通过将不同的AutoML算法用统一的形式表达和编码，将搜索空间设计，优化算法，评估策略解耦为可独立交互的模块，真正实现了不同AutoML 模块的即插即用。
 
 <a class="toc" id ="23"></a>
+
 # Computer Vision (计算机视觉) 👁
 [💨 Back to Top](#table-of-contents)
 
@@ -1409,6 +1425,7 @@
 + [FaceX-Zoo](https://github.com/JDAI-CV/FaceX-Zoo)：京东发布的人脸检测工具
 + [glasses](https://github.com/FrancescoSaverioZuppichini/glasses)：紧凑，简洁和可定制的深度学习计算机视觉库
 + [albumentations](https://github.com/albumentations-team/albumentations)：数据增强库，GitHub:star:7.1k
++ [libfacedetection](https://github.com/ShiqiYu/libfacedetection)：人脸检测+关键点检测算法库，GitHub:star:10.3k​
 
 
 
@@ -1487,6 +1504,7 @@
 + [RecBole](https://github.com/RUCAIBox/RecBole)：RecBole （中文名称："伯乐"，意取"世有伯乐，然后有千里马"），由中国人民大学的AI Box团队与北京邮电大学、华东师范大学的科研团队联合开发出品。该框架实现了推荐领域不同任务的推荐模型，拥有从数据处理、模型开发、算法训练到科学评测的一站式全流程托管。在RecBole框架中，用户只需设置几个简单的配置参数（文件、命令行、运行时参数多种方式任你选择）即可快速在不同数据集上实现各个模型，同时其简洁的开发接口十分方便相关的研究人员进行二次开发和添加新的模型支持。
 + [CRSLab](https://github.com/RUCAIBox/CRSLab)：中国人民大学AI BOX团队推出的开源项目CRSLab ——一个用于构建对话推荐系统（CRS）的开源工具包，在这里我们致力于帮您实现一键复现，快速开发，自动评测的一条龙服务，相关代码和对应论文目前也已经开源。
 + [Awesome-RSPapers](https://github.com/RUCAIBox/Awesome-RSPapers)：推荐系统论文集
++ [RL4Recsys](https://github.com/henryslzhao/RL4Recsys)：基于强化学习的推荐系统论文集
 
 
 
@@ -1576,6 +1594,7 @@
 + [awesome-gcn](https://github.com/Jiakui/awesome-gcn)：图卷积神经网络相关资源
 + [pytorch-GAT](https://github.com/gordicaleksa/pytorch-GAT)：GAT的一个pytorch复现仓库，可以用来学习GAT与GNNs
 + [GNN_note](https://github.com/joeat1/GNN_note)：GNN笔记整理
++ [GraphScope](https://github.com/alibaba/GraphScope)：阿里巴巴开源的大规模图计算系统
 
 <a class="toc" id ="27"></a>
 
@@ -1914,7 +1933,7 @@
 [💨 Back to Top](#table-of-contents)
 
 + [Paperswithcode](https://paperswithcode.com/)：如其名，收录了大量带有源代码的论文，[Github同名项目](https://github.com/zziz/pwc)，推荐等级：:heart::heart::heart::heart:！
-+ [catalyzex](https://www.catalyzex.com/)：类似上述网站，可以搜索相关论文的代码。同时还有[浏览器插件](https://chrome.google.com/webstore/detail/find-code-for-research-pa/aikkeehnlfpamidigaffhfmgbkdeheil/related)，推荐等级：:heart::heart::heart::heart:
++ [catalyzex](https://www.catalyzex.com/)：类似上述网站，可以搜索相关论文的代码。同时还有[浏览器插件](https://chrome.google.com/webstore/detail/find-code-for-research-pa/aikkeehnlfpamidigaffhfmgbkdeheil/related)，推荐等级：:heart::heart::heart::heart:!
 + [Releasing Research Code](https://github.com/paperswithcode/releasing-research-code)：如何恰当地提交代码，才能既保证研究的可复现性，又能扩大传播？近日，PapersWithCode 发布了机器学习代码完整性自查清单。目前，该清单已成为 NeurIPS 2020 代码提交流程的一部分。
 + [ArXiv Sanity](http://www.arxiv-sanity.com/)：类似Paperswithcode，旨在提升获取研究成果的效率与体验
 + NeurIPS 2019（具备代码完整性的项目）：
@@ -2000,6 +2019,8 @@
 + [Long-Tailed-Recognition.pytorch](https://github.com/KaihuaTang/Long-Tailed-Recognition.pytorch)：NeurIPS 2020接收的论文[《Long-Tailed Classification by Keeping the Good and Removing the Bad Momentum Causal Effect》](https://arxiv.org/abs/2009.12991)，提出一种崭新的长尾分布下分类问题的通用算法，推荐等级：:heart::heart:！
 + [GraphNormalization](https://github.com/cyh1112/GraphNormalization)：一种基于学习的四合一自动加权组合的方式来学习适合当前任务的图归一化，论文：[《Learning Graph Normalization for Graph Neural Networks》，推荐等级：:heart::heart:！](https://arxiv.org/abs/2009.11746)
 + [CNSurvey](https://github.com/NiuTrans/CNSurvey)：一份中文综述文章列表（自然语言处理&机器学习）
++ [acon](https://github.com/nmaac/acon)：CVPR 2021 动态激活函数
++ [TopPaper](https://github.com/qiulinzhang/TopPaper)：AI 初学者经典论文列表
 
 <a class="toc" id ="36"></a>
 
@@ -2391,6 +2412,6 @@
 
 <a class="toc" id ="44"></a>
 
-# Update (更新时间) 🕰 ：2021/05/02
+# Update (更新时间) 🕰 ：2021/05/30
 [💨 Back to Top](#table-of-contents)
 
