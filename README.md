@@ -50,7 +50,7 @@
 + [Dataset (数据集)  📊](#41)
 + [Coding Toolkit (代码工具) 💻](#42)
 + [Others (其它) ❓](#43)
-+ [Update (更新时间) 🕰 ：2021/05/30](#44)
++ [Update (更新时间) 🕰 ：2021/06/12](#44)
 
 
 <a class="toc" id ="1"></a>
@@ -1426,6 +1426,7 @@
 + [glasses](https://github.com/FrancescoSaverioZuppichini/glasses)：紧凑，简洁和可定制的深度学习计算机视觉库
 + [albumentations](https://github.com/albumentations-team/albumentations)：数据增强库，GitHub:star:7.1k
 + [libfacedetection](https://github.com/ShiqiYu/libfacedetection)：人脸检测+关键点检测算法库，GitHub:star:10.3k​
++ [computer-vision-in-action](https://github.com/Charmve/computer-vision-in-action)：《计算机视觉实战演练：算法与应用》中文电子书、源码、读者交流社区
 
 
 
@@ -1495,7 +1496,6 @@
 + [**MI**crosoft **N**ews **D**ataset (MIND)](https://msnews.github.io/) ：微软发布的大规模新闻推荐数据集MIND
 + [Recommenders](https://github.com/microsoft/recommenders)：这个存储库包含了微软提供的构建推荐系统的示例和最佳实践，以Jupyter笔记本的形式提供。GitHub:star:8k，推荐等级：:heart::heart::heart::heart:！
 + [ReChorus](https://github.com/THUwangcy/ReChorus)：一个轻量级 Top-K 推荐框架
-+ [RecBole](https://github.com/RUCAIBox/RecBole)：伯乐，推荐系统模型库
 + [neural-structured-learning](https://github.com/tensorflow/neural-structured-learning)：TensorFlow 开源的用于结构化数据学习的库
 + [amlrecsys-tutorial](https://github.com/sisinflab/amlrecsys-tutorial)：推荐系统对抗机器学习教程介绍
 + [adversarial-recommender-systems-survey](https://github.com/sisinflab/adversarial-recommender-systems-survey)：推荐系统对抗机器学习综述及相关论文代码资源
@@ -1505,6 +1505,7 @@
 + [CRSLab](https://github.com/RUCAIBox/CRSLab)：中国人民大学AI BOX团队推出的开源项目CRSLab ——一个用于构建对话推荐系统（CRS）的开源工具包，在这里我们致力于帮您实现一键复现，快速开发，自动评测的一条龙服务，相关代码和对应论文目前也已经开源。
 + [Awesome-RSPapers](https://github.com/RUCAIBox/Awesome-RSPapers)：推荐系统论文集
 + [RL4Recsys](https://github.com/henryslzhao/RL4Recsys)：基于强化学习的推荐系统论文集
++ [NeuRec](https://github.com/wubinzzu/NeuRec)：何向南小组推出的开源推荐系统库
 
 
 
@@ -1914,6 +1915,7 @@
 + [nncf](https://github.com/openvinotoolkit/nncf)：基于PyTorch的模型压缩库
 + [Hub](https://github.com/activeloopai/Hub)：兼容TF和PyTorch的数据读取pipeline库
 + [speechbrain](https://github.com/speechbrain/speechbrain)：PyTorch语音库，GitHub:star:2.2k​
++ [PyTouch](https://github.com/facebookresearch/PyTouch)：Facebook开源的触觉感知库
 
 
 
@@ -2412,6 +2414,6 @@
 
 <a class="toc" id ="44"></a>
 
-# Update (更新时间) 🕰 ：2021/05/30
+# Update (更新时间) 🕰 ：2021/06/12
 [💨 Back to Top](#table-of-contents)
 
