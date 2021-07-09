@@ -50,7 +50,7 @@
 + [Dataset (数据集)  📊](#41)
 + [Coding Toolkit (代码工具) 💻](#42)
 + [Others (其它) ❓](#43)
-+ [Update (更新时间) 🕰 ：2021/06/12](#44)
++ [Update (更新时间) 🕰 ：2021/07/09](#44)
 
 
 <a class="toc" id ="1"></a>
@@ -88,17 +88,29 @@
 [💨 Back to Top](#table-of-contents)
 
 + [Gitstar Ranking](https://gitstar-ranking.com/repositories)：GitHub顶级项目排行榜
+
 + [GitHub Chinese Top Charts](https://github.com/kon9chunkit/GitHub-Chinese-Top-Charts)：Github中文项目排行榜，帮助你发现高分优秀中文项目、更高效地吸收国人的优秀经验成果；榜单每周更新一次。
+
 + [Lib4dev](http://www.lib4dev.in/)：一个超赞的在线网站，里面汇集了包含所有编程语言的开源项目和库，并可以链接到相对应的 GitHub 上。使用 lib4dev 可以查找任何编程语言的最佳库，它界面简单，基本上所有编程语言的库和开源项目都可以在上面找得到。推荐等级：:heart::heart::heart:！
+
 + [HelloGithub](https://www.hellogithub.com/)：分享GitHub上有趣，入门级的开源项目
+
 + [GitHubDaily ](https://github.com/GitHubDaily/GitHubDaily)：每日不定时推送一批 GitHub 上优秀的开源项目给开发者, 帮助开发者们发现当下最火的开源项目
+
 + [PyHubWeekly](https://github.com/Jackpopc/PyHubWeekly)：PyHubWeekly是一个精选Github上优质Python小工具的项目，宗旨：每周更新一次；精选GitHub上优质Python项目
+
 + [Github trending repos](https://github.com/vitalets/github-trending-repos)：GitHub上不同语言的每日趋势总结
+
 + [onedev](https://github.com/theonedev/onedev)：OneDev 是一个开源的一体化的 DevOps 平台，一款简单易用的 GitLab 替代品。GitHub:star:3.2k​
+
 + [GitHub漫游指南](https://github.com/phodal/github)：关于如何在Github上如何构建一个好的项目。、研究用户的行为、找到一些感兴趣项目的指南。推荐等级：:heart::heart::heart:！
+
 + [Github Trending Repos](https://github.com/vitalets/github-trending-repos)：通过GitHub本地通知，跟踪你喜欢的编程语言的GitHub趋势库，GitHub:star:2k。推荐等级：:heart::heart::heart:！
+
 + [GitHub 帮助](https://help.github.com/cn#dotcom)：GitHub官方中文帮助文档，全球最大的开源网站GitHub是每个程序员必须接触的，学习它的使用百利而无一害，同时也适合学习Git
+
 + [GitHub Help](https://help.github.com/en)：GitHub官方英文帮助文档，由于中文文档是从英文文档翻译而来，可能有些内容不是最新，英语好的人应该看英文文档，才能实时获取最新内容
+
 + GitHub README
   + [Building a self-updating profile README for GitHub](https://simonwillison.net/2020/Jul/10/self-updating-profile-readme/)：GitHub 发布的新特性，用户可直接在 GitHub 个人页中添加 README 介绍，用于展示更加详细的个人信息。Django 与 Datasette 的作者 Simon Willison 就用了短短 150 行代码，来实时更新其个人页的 README 信息。每次运行脚本时，会将项目的最新发行版、博客文章、Datasette API 等内容更新到个人主页上，这样别人就可以第一时间了解他的最新工作近态。
   + [Sorxrob](https://github.com/sorxrob)：使用了类似 Friendster 的社交模板，从关注者中随机选出 8 个用户，每个一小时更新一次个人页的 README 信息。
@@ -106,85 +118,164 @@
   + [waka-readme](https://github.com/athul/waka-readme)：每周在 README 中更新各种编程语言在工作中的具体占比时间。你的技术堆栈、常用语言、编码状态让人一目了然。
   + [Github Readme Stats](https://github.com/anuraghazra/github-readme-stats)：自动给你的 GitHub 信息生成统计报告，其中包括项目 Star 数、代码提交次数、项目贡献次数、PR 数、Issue 数等数据。
   + [Awesome Profiles](https://github.com/kautukkundan/Awesome-Profile-README-templates)：里面收集了非常多能让人眼前一亮的 README 模板，有很多是无需配合 GitHub Action，直接把 Markdown 复制粘贴一下就能用。GitHub:star:1.6k​
+  
 + [emoji markup](https://gist.github.com/rxaviers/7360908)：GitHub emoji 表情大全，GitHub:star:7.5k
+
 + [Super Linter](https://github.com/github/super-linter)：GitHub Services DevOps Engineering 团队正式开源了一个代码库：Super Linter。当你把这个代码库搭配 GitHub Actions 一同使用后，便可保证代码风格与文档的一致性。如此一来，就能极大降低代码审查成本，顺带提升整个项目的代码质量。这款插件主要具备以下几项核心功能：防止将破坏性代码上传到主分支；构建多种语言的编码最佳实践；构建代码布局与代码格式指南；自动化流程，简化代码审查工作。GitHub:star:3.2k​
+
 + [GitHub Protips: Tips, tricks, hacks, and secrets from Lee Reilly](https://github.blog/2020-04-09-github-protips-tips-tricks-hacks-and-secrets-from-lee-reilly/?utm_source=wechat_session&utm_medium=social&utm_oi=986032804718800896#9-a-numbers-game)：GitHub 使用提示、技巧、黑科技和秘密
+
 + [MkDocs](https://github.com/mkdocs/mkdocs)：可用于快速创建项目文档的开源神器：MkDocs。该项目创建自 2014 年，目前 GitHub 上参与维护开发，给项目提交贡献的开发者，共有 100 多名，这款工具希望能帮助开发者以更加快速、便捷的方式来创建项目文档，并为其生成更加简洁直观的静态站点。开发者还贴心的针对国内开发者提供了[中文文档](https://markdown-docs-zh.readthedocs.io/zh_CN/latest/)。GitHub:star:10.1k。推荐等级：:heart::heart::heart::heart:！
+
 + [GitHub Cli](https://cli.github.com/)：GitHub 官方新发布了新命令行工具「GitHub CLI」，该工具能无缝对接 GitHub，把 GitHub 的操作体验，都搬到命令行中。[开源地址](https://github.com/cli/cli)，目前GitHub:star:5k+。
+
 + [Codespaces](https://github.com/features/codespaces)：Github 最新推出的 Codespaces ，可以实现基于 VS Code 的云端代码编译和实时开发。
+
 + [FastText by FacebookResearch](https://github.com/facebookresearch/fastText)：GitHub上:star:20k，fastText是Facebook团队的一个开源和免费库，用于有效学习单词表示。它是轻量级的，允许用户学习文本表示和句子分类器。它适用于标准的通用硬件。模型可以减小尺寸，甚至适合移动设备。
+
 + [Logoly](https://github.com/bestony/logoly)：不正经 Logo 生成器。这是一个在线的 PornHub 风格 Logo 生成工具，可以帮助你快速生成类似 PornHub 风格的 Logo。[在线体验地址](https://logoly.pro/)
+
 + [坦克大战](https://battle-city.js.org/)：GitHub 上实现的这个开源版本，可在 Web 上直接玩，还原度非常之高，并支持单台电脑，双人组队。
+
 + [俄罗斯方块](https://chvin.github.io/react-tetris/?lan=cn)：这个项目不仅好玩，技术实现原理也讲解非常到位。它通过响应式与数据持久化，使得游戏体验的效果更佳，也让你可以直接在手机端上进行操作。
+
 + [Gameboy 模拟器](https://github.com/HFO4/gameboy.live)：如果我说你能在终端上用 Gameboy 来玩游戏，你可能会大吃一惊。但，生命不息，折腾不止，这玩意确实被重庆大学的一位大二学生给整出来了。
+
 + [扫雷](http://muan.github.io/emoji-minesweeper/)：作为一款在当年霸屏 Windows 机器的小游戏，相信不少人都不会感到陌生。这款结合了当下比较新颖的 emoji 表情元素，重现了当年的经典。
+
 + [在线玩中文 DOS](https://dos.zczc.cz/)：国内一位老玩家，出于对 DOS 游戏的怀念，在 GitHub 上开源了这个项目。
+
 + [Navi](https://github.com/denisidoro/navi)：一个神奇的命令行备忘录，GitHub上已获:star:3k+
+
 + [Checkm8](https://github.com/axi0mX/ipwndfu)：一位名为Axi0mx的开发人员发布的一个名为Checkm8的iPhone破解程序，而且是开源的。Github 上已经获:star:5k+。
+
 + [Lazynlp](https://github.com/chiphuyen/lazynlp)：英伟达工程师小姐姐Chip Huyen，在GitHub上开源了一个名为“lazynlp”的工具库。爬网页、清洗数据、创建数据集都可以搞定。她说，使用这个库，你应该能创建一个比大于40G的文本数据集，比OpenAI训练GPT-2时使用的还要大。开源仅一天，项目在GitHub上就获得了300多星，Twitter上获得上千次点赞。fast.ai创始人Jeremy Howard等人也转发推荐。而且，用这个工具库创建数据集的过程，也并不麻烦。
+
 + [Leon Sans](https://leon-kim.com)：GitHub:star:6k+，一种字体，变成千姿百态艺术字，可尖可圆可开花，隔壁设计师馋哭了。[GitHub传送门](https://github.com/cmiscm/leonsans)。
+
 + [BullshitGenerator](https://github.com/menzi11/BullshitGenerator)：狗屁不通文章生成器，GitHub上，这个富有灵魂的项目名吸引了众人的目光。项目诞生一周，便冲上了趋势榜榜首。并且，不止名字被注入灵魂，生成的文字也有一股不可抗拒的力量。只要输入一句话，系统就会给你一篇狗屁不通的万字长文，[网页版](https://suulnnka.github.io/BullshitGenerator/index.html)。
+
 + [Spleeter](https://github.com/deezer/spleeter)：来自法国的音乐流媒体公司 Deezer 开源了一个音轨分离软件 spleeter，只需输入一段命令就可以将音乐的人声和各种乐器声分离，支持 mp3、wav、ogg 等常见音频格式。GitHub:star:7k+。
+
 + [996.ICU](https://github.com/996icu/996.ICU)：996.ICU 是指 “工作 996， 生病 ICU” 。这是中国程序员之间的一种自嘲说法，意思是如果按照 996 的模式工作，那以后就得进 ICU 了。这个项目最早是某个中国程序员发起的，然后就火遍全网，甚至火到了全世界很多其他国家，其网站被翻译成了多种语言，GitHub获:star:250k+。[网站地址](https://996.icu)。
+
 + [You-Get](https://github.com/soimort/you-get)：可以通过一个命令下载网上的在线视频，GitHub获:star:28k。
+
 + [Postwoman](https://github.com/liyasthomas/postwoman)：和 postman 一样，它能提供一些 API 的请求测试功能，HTTP 的请求方式和自定义 Header 都可以使用，而且它可以直接在线上就能运行，坊间有称它是 postman 的老婆。GitHub 获:star:10k+，[体验地址](https://postwoman.io)。
+
 + [FastAPI](https://github.com/tiangolo/fastapi)：FastAPI 是一个基于 Python3.6+ 构建的高性能 web 框架，使用它可以很快的简单写一些 API 接口，GitHub 获:star:6k+。
+
 + [Fiora](https://fiora.suisuijiang.com/)：你是否是社交软件的重度用户，并喜欢在网上与陌生人交流分享自己的观点呢？如果是的话，或许你可以考虑自己搭建一个多用户在线的实时聊天平台。要做到这一点并不难，借助一款叫 fiora 的开源软件便可以做到。fiora 是一款有趣的在线聊天应用。基于 node.js, mongodb, socket.io和 react 编写。[GitHub 地址](https://github.com/yinxin630/fiora/)。
+
 + [微信排版编辑器](https://github.com/doocs/md)：这是一个专为微信公众号排版而生的前端编辑器，可直接在 Web 端打开写文章，在编辑完成后，可将其生成的富文本内容一键复制到公众号上，自动化完成排版操作，很是方便。
+
 + [AI Dungeon](http://www.aidungeon.io/)：15亿参数的终极版GPT-2，就是OpenAI那只编故事成瘾的AI，都能拿来做些什么？有人用它做了个文字冒险游戏，并赐以优美的名字，叫“AI地牢 (AI Dungeon) ”。大概是在说，你一旦进去就出不来了，里面的故事太迷人。现在，这座地牢进化出了2.0版本。有网友盛情安利，表示不可错过，推特11小时已有1600赞！[游戏传送门](https://colab.research.google.com/github/nickwalton/AIDungeon/blob/master/AIDungeon_2.ipynb)，[博客传送门](https://pcc.cs.byu.edu/2019/11/21/ai-dungeon-2-creating-infinitely-generated-text-adventures-with-deep-learning-language-models/)
+
 + [Sorry](https://github.com/xtyxtyx/sorry)：sorry 是一个很有意思的表情包斗图项目，源自"sorry，有钱事真的能为所欲为"这梗...
+
 + [Chinese Poetry](https://github.com/chinese-poetry/chinese-poetry)：最全中华古诗词数据库, 唐宋两朝近一万四千古诗人, 接近5.5万首唐诗加26万宋诗. 两宋时期1564位词人，21050首词。GitHub :star:26.7k。
+
 + [WechatMomentScreenshot](https://github.com/TransparentLC/WechatMomentScreenshot)：朋友圈转发截图生成工具 已获得微信“绿色网站”认证（滑稽）
+
 + [Demucs](https://github.com/facebookresearch/demucs)：[《Music Source Separation in the Waveform Domain》](https://arxiv.org/abs/1909.01174)论文代码，Facebook人工智能研究院提出的弱监督训练模型，基于受Wave-U-Net和SING启发的U-Net卷积架构。GitHub:star:1.1k。
+
 + [CatDCGAN ](https://github.com/simoninithomas/CatDCGAN)：利用DCGAN生成猫的图片，由tf1.x实现。
+
 + [Nativefier](https://github.com/jiahaog/nativefier)：一条命令将网页转成电脑 App，GitHub:star:22.3k。
+
 + [PySimpleGUI](https://github.com/PySimpleGUI/PySimpleGUI)：PySimpleGUI，它完全基于Python语言，能非常方便地开发GUI界面，代码量相比现有框架减少50%到90%。并且，它提供了极为友好的Python风格的接口，大大提升开发效率。GitHub:star:3.3k。
+
 + [DeepFaceLab](https://github.com/iperov/DeepFaceLab)：DeepFaceLab是一种利用机器学习来替换视频中的面部的工具。包括预先准备好的独立Windows 7,8,10二进制文件。GitHub:star:12.4k。
+
 + [Facewap](https://github.com/deepfakes/faceswap)：deepfake 的深度学习技术，这款工具本来的用途是用来识别和交换图片、视频中人物脸部图像的工具。GitHub:star:1.4k。
+
 + [Httpie](https://github.com/jakubroztocil/httpie)：命令行调试接口的工具，相比 curl 来说，更加直观一点，对新手友好。GitHub:star:45.7k。
+
 + [thefuck](https://github.com/nvbn/thefuck)：这个工具很有意思，当你在命令行敲错命令的时候，一定会心里默念一句: fuck. 现在你可以直 接再敲一遍 fuck，他会帮你猜出来你刚刚应该输入的正确命令。GitHub:star:52k。
+
 + [hacker-scripts](https://github.com/NARKOZ/hacker-scripts)：一个黑客的一些脚本，比如说如果九点之后还在开发机上登录的话就给老婆发个短信解释一下。GitHub:star:37.4k。
+
 + [Discourse](https://github.com/discourse/discourse)：一个开源的论坛，GitHub:star:30k。
+
 + [EverydayWechat](https://github.com/sfyc23/EverydayWechat)：微信助手：1.每日定时给好友（女友）发送定制消息。2.机器人自动回复好友。3.群助手功能（例如：查询垃圾分类、天气、日历、电影实时票房、快递物流、PM2.5等）。GitHub:star:7k。
+
 + [Google Cloud Vision](https://github.com/GoogleCloudPlatform/cloud-vision):Google的VisionAPI，可以用来自己构建一个搜索引擎。
+
 + [Markdeep](https://casual-effects.com/markdeep/)：Markdeep 是一个用来写纯文本的插件，它能以 Markdown 的语法与渲染方式纯文本，并在网页上展示。同时，除了 Markdown 语法，Markdeep 还额外支持图表、数学方程等扩展能力。只要你有纯文本编辑器，加上一条语句，瞬间它就可以成为 Markdown 编辑器。
+
 + [Real Time Person Removal](https://github.com/jasonmayes/Real-Time-Person-Removal)：实时人物去除项目，这个项目的神奇之处在于，只需要在网络浏览器中使用 JavaScript，用 200 多行 TensorFlow.js 代码，就可以实时让视频画面中的人物对象从复杂的背景中凭空消失！GitHub:star:2.5k。[Demo地址](https://codepen.io/jasonmayes/pen/GRJqgma)，只需要一台能上网的电脑和一个网络摄像头就能体验它。
+
 + [Generative Inpainting](https://github.com/JiahuiYu/generative_inpainting)：自己的照片有路人甲入镜是常有的事，但有些未免太过抢镜，甚至盖过了主角的风头。P 图高手往往选择自己手动去掉背景里不相干的人，但开发者不想那么麻烦，于是开发了该项目来一键消掉路人甲。GitHub:star:1.6k。​
+
 + [MNIST Clock](https://github.com/dheera/mnist-clock)：MNIST 是计算机视觉中不老的经典，GitHub 作者 Dheera Venkatraman 做了一面钟，里面的数字都是从 MNIST 数据集中采样的。24 小时随机抽万张不同的手写数字，每天都不带重样。
+
 + [streamlit](https://streamlit.io/)：这是一款专为机器学习工程师创建的免费、开源 app 构建框架。这款工具可以在你写 Python 代码的时候，实时更新你的应用。[GitHub](https://github.com/streamlit/streamlit/):star:7.2k。
+
 + [The book of secret knowledge](https://github.com/trimstray/the-book-of-secret-knowledge)：该存储库是程序开发工作中用得到的材料和工具的集合，它包含了许多有用的信息，每个人都可以在这份清单里找到适合你的工具，它面向系统和网络管理员、DevOps、渗透测试人员和安全研究人员。GitHub:star:31.4k，推荐等级：:heart::heart::heart:！
+
 + [Joplin](https://github.com/laurent22/joplin)：一个免费的，开源的笔记和待办事项的应用程序，可以处理笔记本组织成的大量笔记。笔记是可搜索的，可以直接从应用程序复制，标记和修改，也可以从自己的文本编辑器进行修改。笔记采用Markdown格式。通过.enex文件从Evernote导出的Notes 可以导入到 Joplin 中，包括格式化内容（转换为Markdown），资源（图像，附件等）和完整的元数据（地理位置，更新时间，创建时间等）。GitHub:star:14.1k
+
 + [System Design Primer](https://github.com/donnemartin/system-design-primer)：该项目是关于如何设计大型系统，以及如何应对系统设计面试。系统设计是一个很宽泛的话题。在互联网上，关于系统设计原则的资源也是多如牛毛。这个仓库就是这些资源的组织收集，它可以帮助你学习如何构建可扩展的系统。GitHub:star:85.2k，推荐等级：❤️❤️❤️❤️！
+
 + [Realworld](https://github.com/gothinkster/realworld)：RealWorld应用程序是对Medium.com的完整克隆，已经通过各种各样的前端和后端技术实现。它可以对13个框架进行比较，并且比较的是比其他基准测试更大、更复杂的应用程序的实现。GitHub:star:38.3k
+
 + [Google research](https://github.com/google-research/google-research)：Google Research是谷歌内部进行各种研究的部门，不过随着AI技术的广泛应用和高重要性，他们决定把两个主要部门结合，致力于解决当今和未来技术的计算机科学问题，该存储库包含Google AI Research发布的代码。GitHub:star:8.5k​
+
 + [FALdetector](https://github.com/peterwang512/FALdetector)：Adobe发布的“反向PS”利器，知道你修过哪里，还帮你修回去，让你一秒回到P图前。GitHub:star:788
+
 + [Godot](https://github.com/godotengine/godot)：Godot是一个全新开发的游戏引擎,其功能集类似知名的跨平台游戏引擎Unity，可用于开发PC、主机、移动和Web游戏。GitHub:star:28.6k​
+
 + [Cxxmatrix](https://github.com/akinomyoga/cxxmatrix)：4行代码在终端再现《黑客帝国》数字雨，还有众多其他语言实现的版本，例如[Python实现](https://github.com/will8211/unimatrix)
+
 + [COVID-19](https://github.com/CSSEGISandData/COVID-19)：在约翰霍普金斯大学，两位中国博士生和他们的导师一起，开发了一个可视化、可交互的全球疫情地图。这个项目已经发在了《柳叶刀》上，GitHub:star:8.3k​
+
 + [Primg](https://github.com/geonnave/primg)：用质数生成任意ASCII艺术
+
 + [Self-Driving-Car-in-Video-Games](https://github.com/ikergarcia1996/Self-Driving-Car-in-Video-Games)：一个使用深层神经网络并运用监督学习实现在 Grand Theft Auto V 中自动驾驶的开源项目。项目使用 PyTorch 编写，并使用了 Nvidia 的 Apex 扩展库，支持混合精度训练与推断，最多大约有两倍的速度提升。
+
 + [Pelican](https://github.com/getpelican/pelican)：基于Python，支持Markdown和reST语法的静态站点生成器。GitHub:star:9.7k​
+
 + [Faker](https://github.com/joke2k/faker)：快速生成虚假数据，GitHub:star:9.7k。 ​
+
 + [Text to Handwriting](https://github.com/saurabhdaware/text-to-handwriting)：一个名叫 Saurabh Daware 的印度大学生只花了 3 个小时就编写了一款自动化工具，能够将文本转换成手写文字，并用这个工具来应付需要手写的大学作业。
+
 + [Handwriting Synthesis](https://github.com/sjvasquez/handwriting-synthesis)：基于 RNN 手写笔迹合成项目，该模型主要基于 2013 年一篇关于手写笔迹合成的论文。从项目作者的 Github 进程来看，该项目实现已于 2018 年就完成，近日新推出的 Demo 所演示的交互模式下的网页版本为最新版，基于 TensorFlow.js 实现。[网页版 Demo](https://seanvasquez.com/handwriting-generation/)
+
 + [Pose Animator](https://github.com/yemount/pose-animator/)：Pose Animator 会使用拍摄的 2D 矢量图，并基于 PoseNet 和 FaceMesh 的识别结果，实时对结果及包含的曲线进行动画处理。Pose Animator 从计算机图形学中借鉴了「基于骨骼」的动画思想，并将其应用于矢量字符。GitHub:star:4.5k​
+
 + [AR Cut & Paste](https://github.com/cyrildiagne/ar-cutpaste)：AR Cut & Paste 工具是一个 AR+ML 原型（prototype），借助它你可以从周围环境中拷贝固定对象，并粘贴在图像编辑软件中（Photoshop）。需要特别注意的是，这款工具只适用于 Adobe Photoshop 软件，未来可能支持处理不同的输出。GitHub:star:8.7k​
+
 + [Scarpet nn](https://ashutoshbsathe.github.io/scarpet-nn/scarpet-apps/twoclassmnist/)：来自印度小哥开发的新玩法，在《我的世界》里搭建神经网络，运行过程清晰可见。[源代码](https://github.com/ashutoshbsathe/scarpet-nn)
+
 + [Photo2cartoon](https://github.com/minivision-ai/photo2cartoon)：人像卡通化探索项目，GitHub:star:1k​
+
 + [QRcp](https://github.com/claudiodangelis/qrcp)：在不离开终端的情况下，通过Wi-Fi扫描二维码，将文件从电脑传输到移动设备。GitHub:star:7k​
+
 + [Ventoy](https://github.com/ventoy/Ventoy)：Ventoy是一个制作可启动U盘的开源工具。有了Ventoy你就无需反复地格式化U盘，你只需要把ISO文件拷贝到U盘里面就可以启动了，无需其他操作。你可以一次性拷贝很多个不同类型的ISO文件，在启动时Ventoy会显示一个菜单来选择。无差异支持Legacy BIOS和UEFI模式。目前已经测试了各类超过260+ 个ISO文件。GitHub:star:5.7k​
+
 + [PowerToys](https://github.com/microsoft/PowerToys)：PowerToys是微软开发者开发的免费实用工具集，可以用于高级用户调整和简化Windows操作，以提高效率。其最早出现在Windows 95中，但并不受微软官方支持，对其测试也不够彻底。到了Windows XP时代，所有进入Windows的应用都需要进行安全审查，于是PowerToys便消失了。最近，微软宣布以官方名义重启该项目。GitHub:star:28.3k​
+
 + [Eyepetizer](https://github.com/VIPyinzhiwei/Eyepetizer)：一个高颜值的APP项目，基于 Kotlin 语言 开发，采用 Jetpack + Coroutines + Retrofit  实现的 MVVM 架构。项目的源码恰到好处，特别适合复用和学习，源码简单易懂容易上手，而且最大程度遵守了官方的一些开发规范建议，并吸取了第三方开发规范经验。
+
 + [tsunami-security-scanner](https://github.com/google/tsunami-security-scanner)：谷歌专门为大型企业网络开源的一个漏洞扫描神器，主要用于数千个甚至数百万个物联网组成的企业系统。GitHub:star:5.3k​
+
 + [Bigheads](https://bigheads.io/)：BigHeads是一个头像生成工具，通过设置将表情，服装，发型和颜色，可以组合成成千上万个角色头像。
+
 + [MS-Lumos](https://github.com/microsoft/MS-Lumos)：Lumos是一个Python库，用于网络应用程序中的度量回归的自动检测与诊断。
+
 + [AgoraLive](https://github.com/AgoraIO-Usecase/AgoraLive)：一个新的开源项目，它实现了单主播直播、多人连麦直播、PK 直播、虚拟主播，四种现在社交直播领域最成熟的场景。
+
 + [codequestion](https://github.com/neuml/codequestion)：一个便捷编程Q&A工具codequestion，直接在终端输入「你要问的问题」，用普通的自然语言就行，和你去谷歌搜索没什么两样。
+
 + [transformers](https://github.com/huggingface/transformers)：最新NLP transformers模型，基于 TF2 和 PyTorch，GitHub:star:34.7k​
+
 + [easy163](https://github.com/ndroi/easy163)：安卓端一键解锁网易云音乐，无须 ROOT，GitHub:star:1.1k​
+
 + [data-augmentation-review](https://github.com/AgaMiko/data-augmentation-review)：数据增广最全资料集锦
 
++ [Real-Time-Voice-Cloning](https://github.com/CorentinJ/Real-Time-Voice-Cloning)：一个黑科技开源项目，只需要你 5 秒钟的声音对话，就能克隆出你的声音，而且能够实时的生成你任意语音。GitHub:star:27.8k
 
+  
 
 <a class="toc" id ="3"></a>
 
@@ -612,6 +703,8 @@
 + [netron](https://github.com/lutzroeder/netron)：网络结构可视化工具
 + [dodrio](https://github.com/poloclub/dodrio)：乔治亚理工提出的DODRIO，一种可交互的Attention可视化工具，从句法和寓意层面总结了不同注意力头的信息。
 + [lets-plot](https://github.com/JetBrains/lets-plot)：统计数据可视化库，GitHub:star:605​
++ [altair](https://github.com/altair-viz/altair)：可声明性统计可视化库，GitHub:star:6.7k​
++ [pygal](https://github.com/Kozea/pygal)：pygal比较小众，专注于SVG图，擅长交互，最主要的是它能用非常少的代码就可画出非常漂亮的图形，GitHub:star:2.4k
 
 <a class="toc" id ="12"></a>
 
@@ -1427,6 +1520,7 @@
 + [albumentations](https://github.com/albumentations-team/albumentations)：数据增强库，GitHub:star:7.1k
 + [libfacedetection](https://github.com/ShiqiYu/libfacedetection)：人脸检测+关键点检测算法库，GitHub:star:10.3k​
 + [computer-vision-in-action](https://github.com/Charmve/computer-vision-in-action)：《计算机视觉实战演练：算法与应用》中文电子书、源码、读者交流社区
++ [External-Attention-pytorch](https://github.com/xmu-xiaoma666/External-Attention-pytorch)：深度学习中的Attention总结
 
 
 
@@ -1474,6 +1568,7 @@
 + [Super-mario-bros-PPO-pytorch](https://github.com/uvipen/Super-mario-bros-PPO-pytorch)：最近，有人用 PPO 强化学习算法训练了一个超级马里奥智能体，已经打通了 29 关（总共 32 关）。
 + [Deep_reinforcement_learning_Course](https://github.com/simoninithomas/Deep_reinforcement_learning_Course)：一门免费强化学习课程在两年前上线，将初学者到专家所需要的所有学习文档（自动调整medium专栏）、学习视频（自动嵌入）、实操游戏（自动嵌入）都打包在了一起，可以很方便的配套学习，GitHub:star:2.6k，推荐等级：:heart::heart::heart:！。[课程链接](https://simoninithomas.github.io/deep-rl-course/#syllabus)
 + [r/MachineLearning](https://www.reddit.com/r/MachineLearning/comments/lqrek7/n_20_hours_of_new_lectures_on_deep_learning_and/)：reddit上20个小时的深度学习和强化学习新讲座，其中包含许多示例，推荐等级：:heart::heart::heart::heart:!
++ [DouZero](https://github.com/kwai/DouZero)：ICML2021，快手开发的基于强化学习的斗地主AI
 
 <a class="toc" id ="25"></a>
 
@@ -1528,6 +1623,7 @@
 + [PGL](https://github.com/PaddlePaddle/PGL)：Paddle Graph Learning，百度开源的图学习框架。
 + [KDD-2019-Hands-on](https://github.com/dglai/KDD-2019-Hands-on)：KDD 2019 DGL 库教程
 + [Pytorch Geometric (PYG)](https://github.com/rusty1s/pytorch_geometric)：近几年来，图神经网络（GNN）在推荐系统、搜索引擎、计算机视觉等领域中都引起了较大的关注。Github有大量开源GNN实现，其中pytorch geometric是最优秀的实现之一，曾被 Yann LeCun 推荐，GitHub上获:star:6k+，论文：[《Fast Graph Representation Learning with PyTorch Geometric》](https://arxiv.org/abs/1903.02428)，推荐等级：:heart::heart::heart::heart:！
++ [PytorchGeometricTutorial](https://github.com/AntonioLonga/PytorchGeometricTutorial)：pyg教程
 + [TensorFlow Geometric (TFG)](https://github.com/CrawlScript/tf_geometric)：基于 Tensorflow 的高效友好的图神经网络库，受 [Pytorch Geometric](https://github.com/rusty1s/pytorch_geometric) 启发。一个新开始的项目。​推荐等级：:heart:!
 + [GNN-algorithms](https://github.com/wangyouze/GNN-algorithms)：[tf_geometric](https://github.com/CrawlScript/tf_geometric)的作者出品的图神经网络相关算法详述及实现
 + [GraphEmbedding](https://github.com/shenweichen/GraphEmbedding)：GraphEmbedding 算法的实现库。
@@ -1648,6 +1744,11 @@
 + [Adversarial-Machine-Learning](https://github.com/tanjuntao/Adversarial-Machine-Learning)：对抗样本（Adversarial Examples）和投毒攻击（Poisoning Attacks）相关资料
 + [awesome-adversarial-machine-learning](https://github.com/yenchenlin/awesome-adversarial-machine-learning)：对抗学习相关资源，GitHub:star:1.5k，目前已停止维护​
 + [attack-and-defense-methods](https://github.com/tao-bai/attack-and-defense-methods)：对抗攻防论文合集
++ [TIGER](https://github.com/safreita1/TIGER)：图鲁棒性研究工具
+
+
+
+
 
 <a class="toc" id ="29"></a>
 
@@ -2414,6 +2515,6 @@
 
 <a class="toc" id ="44"></a>
 
-# Update (更新时间) 🕰 ：2021/06/12
+# Update (更新时间) 🕰 ：2021/07/09
 [💨 Back to Top](#table-of-contents)
 
