@@ -972,6 +972,8 @@
 
 
 
++ [资料星球](https://resources.packscena.com/)：中文学习与创作资料目录，按大类、主题和关键词查找资料，提供目录预览与浏览器本地收藏，并通过夸克网盘领取。当前浏览与领取免费，未来可能推出付费资料。运营者自荐，介绍由 AI 协助整理。
+
 <a class="toc" id ="14"></a>
 # Learn by Game (寓教于乐) 👾
 [💨 Back to Top](#table-of-contents)
